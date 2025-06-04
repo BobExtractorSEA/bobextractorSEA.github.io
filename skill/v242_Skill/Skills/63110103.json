@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.1279472-03:00",
+  "ChangeType": "Changed",
+  "Id": "63110103",
+  "Name": "[Revelation] Shaft Break",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revelation Skill]</span><br />Arrows explode and Malice remains as a tornado tormenting enemies. Only in the explosion, Death Blessing grants the Blessing of Death, and the explosion and tornado do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 67 MP and penetrates up to 3 enemies at 216% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 270% Damage 10 times.<br />The tornado attacks up to 10 enemies at 55% Damage 3 times in a row.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 11 sec</span>",
+      "New": "MP Cost: 67. Penetrates up to 3 enemies at 216% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 270% Damage 10 times.<br />The tornado attacks up to 10 enemies at 55% Damage 3 times in a row.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 11 sec.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 67 MP and penetrates up to 3 enemies at 216% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 270% Damage 10 times.<br />The tornado attacks up to 10 enemies at 55% Damage 3 times in a row.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 11 sec</span>",
+      "New": "MP Cost: 67. Penetrates up to 3 enemies at 216% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 270% Damage 10 times.<br />The tornado attacks up to 10 enemies at 55% Damage 3 times in a row.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 11 sec.</span>"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 67. Penetrates up to 3 enemies at 216% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 270% Damage 10 times.<br />The tornado attacks up to 10 enemies at 55% Damage 3 times in a row.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 11 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63110103_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

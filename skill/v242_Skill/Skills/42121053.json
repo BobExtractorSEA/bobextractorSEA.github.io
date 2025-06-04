@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6802689-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121053",
+  "Name": "Princess's Vow",
+  "Job": "Kanna",
+  "Desc": "Renews her vow to Princess Sakuno, gaining strength from it.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kanna/M/2",
+      "New": "kanna/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/2",
+      "New": "kanna/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

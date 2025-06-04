@@ -1,0 +1,77 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.3133301-03:00",
+  "ChangeType": "Changed",
+  "Id": "22140022",
+  "Name": "Dragon Dive",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Mir Skill]</span> Mir body-slams into enemies in front of Evan, and then flaps his wings, sending forth a shock wave. Dragon Dive does not affect enemies with the Damage Reflection effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "18+4*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "25+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "59+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/24",
+      "New": "evan/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/24",
+      "New": "evan/F/24"
+    },
+    "mixSkill/22201006/0": {
+      "Old": null,
+      "New": "22170067"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22140022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140022_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140022_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

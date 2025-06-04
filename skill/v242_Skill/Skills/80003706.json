@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1704689-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003706",
+  "Name": "Dawnlight Illusion: EXP Obtained",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">EXP</span> Gain when hunting monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Obtained EXP",
+      "New": "Dawnlight Illusion: EXP Obtained"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003706_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

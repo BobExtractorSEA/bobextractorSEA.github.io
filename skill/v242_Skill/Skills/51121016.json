@@ -1,0 +1,114 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1924375-03:00",
+  "ChangeType": "Changed",
+  "Id": "51121016",
+  "Name": "Shield Installation",
+  "Job": "Mihile",
+  "Desc": "Summons a Soul Shield imbued with the power of light. The Soul Shield can be installed in the air as well and will periodically emit light to attack enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+4*u(x/2)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "10+3*x",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "15-x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "60-2*x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "600-4*x",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mikhail/M/85",
+      "New": "mikhail/M/85"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/86",
+      "New": "mikhail/M/86"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/24",
+      "New": "mikhail/M/24"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/30",
+      "New": "mikhail/M/30"
+    },
+    "voice/male/path/4": {
+      "Old": "mikhail/M/46",
+      "New": "mikhail/M/46"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "51141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_51121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121016_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

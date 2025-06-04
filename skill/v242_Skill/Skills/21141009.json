@@ -1,0 +1,181 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.3732491-03:00",
+  "ChangeType": "Added",
+  "Id": "21141009",
+  "Name": "Hyper Boost End - Last Stand VI",
+  "Job": "Aran",
+  "Desc": "Unleash a devastating blow that harnesses the power of Maha with the unbreakable will of a hero.<br />Can only be used once during Super Awakening.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hyper Boost End - Last Stand Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -620,
+      "y": -400
+    },
+    "rb": {
+      "x": 100,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/21121054": "1",
+    "action/0": "6thLastStand",
+    "common/maxLevel": "30",
+    "common/mpCon": "500+2*x",
+    "common/damage": "1710+55*x",
+    "common/attackCount": "10",
+    "common/mobCount": "12",
+    "common/lt/x": -620,
+    "common/lt/y": -400,
+    "common/rb/x": 100,
+    "common/rb/y": 150,
+    "common/updatableTime": "500",
+    "common/x": "5",
+    "common/u": "12",
+    "common/u2": "1710+55*x",
+    "common/u3": "10",
+    "common/u4": "5",
+    "common/w": "15",
+    "common/w2": "2970+97*x",
+    "common/w3": "13",
+    "common/w4": "7",
+    "common/y": "3",
+    "common/cooltime": "30",
+    "skillList/0": "400011000",
+    "finalAttack/21100010/0": "44",
+    "addAttack/skill": "21141010",
+    "addAttack/type": "0",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFrame": "4",
+    "multiAttackInfo/0/attackTime": "60",
+    "multiAttackInfo/1/attackTime": "90",
+    "multiAttackInfo/2/attackTime": "90",
+    "multiAttackInfo/3/attackTime": "90",
+    "multiAttackInfo/4/attackTime": "90",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "trembleEffectList/0/delay": "180",
+    "trembleEffectList/0/force": "9",
+    "trembleEffectList/0/time": "180",
+    "trembleEffectList/0/reduction": "1",
+    "trembleEffectList/0/remote": "0",
+    "trembleEffectList/1/delay": "0",
+    "trembleEffectList/1/force": "6",
+    "trembleEffectList/1/time": "60",
+    "trembleEffectList/1/reduction": "1",
+    "trembleEffectList/1/remote": "0",
+    "trembleEffectList/2/delay": "0",
+    "trembleEffectList/2/force": "3",
+    "trembleEffectList/2/time": "60",
+    "trembleEffectList/2/reduction": "1",
+    "trembleEffectList/2/remote": "0",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "22",
+    "additional_process/3": "30",
+    "additional_process/4": "35",
+    "additional_process/5": "55",
+    "additional_process/6": "69",
+    "additional_process/7": "77",
+    "additional_process/8": "86",
+    "additional_process/9": "98",
+    "weapon": "44",
+    "processtype": "-1",
+    "notCooltimeReset": "1",
+    "applyHyper": "1",
+    "id": "21141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = aran/M/44 }",
+    "voice/male/path/1": "{ Old = , New = aran/M/47 }",
+    "voice/male/path/2": "{ Old = , New = aran/M/50 }",
+    "voice/male/path/3": "{ Old = , New = aran/M/53 }",
+    "voice/female/path/0": "{ Old = , New = aran/F/43 }",
+    "voice/female/path/1": "{ Old = , New = aran/F/46 }",
+    "voice/female/path/2": "{ Old = , New = aran/F/49 }",
+    "voice/female/path/3": "{ Old = , New = aran/F/52 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 560. Hit the skill key repeatedly to attack up to 3 times.<br />1st Attack: Delivers 5 slashes that attack up to 12 enemies at 3360% Damage 10 times.<br />2nd Attack: Delivers 5 slashes that attack up to 12 enemies at 3360% Damage 10 times.<br />3rd Attack: Delivers 7 slashes that attack up to 15 enemies at 5880% Damage 13 times.<br />Cooldown: 30 sec"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/21141009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21141009_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1060447-03:00",
+  "ChangeType": "Added",
+  "Id": "152141012",
+  "Name": "Crystal Skill: Deus VI",
+  "Job": "Illium",
+  "Desc": "Combines the powers of Liyo and Makina and summons Deus. Deus summons satellites that track and attack nearby enemies.<br />Deus does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 90 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">* Can be cast again after Crystal Charge is reset.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Crystal Skill: Deus Lv. 30 or higher</span>  \t\t",
+  "Coordinates": {
+    "lt": {
+      "x": -1000,
+      "y": -1000
+    },
+    "rb": {
+      "x": 1000,
+      "y": 1000
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/152121005": "30",
+    "action/0": "6thRioMachina",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+3*d(x/2)",
+    "common/time": "30",
+    "common/mobCount": "10",
+    "common/damage": "530+31*x",
+    "common/attackCount": "5",
+    "common/x": "5",
+    "common/z": "3",
+    "common/speed": "12",
+    "common/subTime": "3",
+    "common/lt/x": -1000,
+    "common/lt/y": -1000,
+    "common/rb/x": 1000,
+    "common/rb/y": 1000,
+    "common/q": "3",
+    "common/q2": "82+5*x",
+    "common/q3": "40",
+    "summon/attack1/info/range/lt/x": -336,
+    "summon/attack1/info/range/lt/y": -216,
+    "summon/attack1/info/range/rb/x": 296,
+    "summon/attack1/info/range/rb/y": 55,
+    "summon/attack1/info/attackAfter": "540",
+    "summon/attack1/info/mobCount": "10",
+    "summon/attack1/info/attackCount": "5",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/magicAttack": "1",
+    "summon/activeDelay": "3300",
+    "hit/0/onlyOnce": "1",
+    "skillList/0": "400021000",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "showSummonedBuffIcon": "2",
+    "weapon": "28",
+    "subWeapon": "35",
+    "footholdAffectedArea": "1",
+    "isSequenceOn": "1",
+    "id": "152141012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = illium/M/7 }",
+    "voice/female/path/0": "{ Old = , New = illium/F/7 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 345. Summoned for 30 sec.<br />Deus attacks up to 10 enemies at 1460% Damage 5 times.<br /><span style=\"font-weight:bold; color:orange;\">Satellite</span>: Up to 5 summoned. Up to 3 satellites can be summoned on a single enemy and continuously attack at 232% Damage. Each satellite can attack up to 40 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/152141012_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152141012_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

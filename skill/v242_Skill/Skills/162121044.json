@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.5264037-03:00",
+  "ChangeType": "Changed",
+  "Id": "162121044",
+  "Name": "Spirits' Paradise",
+  "Job": "Lara",
+  "Desc": "A Spirits' Paradise has grown. If you're under the Spirits' Paradise, you can draw upon even stronger power since it's filled with nature's energy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162121044_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

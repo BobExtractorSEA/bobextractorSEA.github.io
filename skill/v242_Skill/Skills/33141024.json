@@ -1,0 +1,149 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4422474-03:00",
+  "ChangeType": "Added",
+  "Id": "33141024",
+  "Name": "Drill Container Unit VI",
+  "Job": "Wild Hunter",
+  "Desc": "Installs a unit that is created with the Resistance's technology to shoot giant drill bits.<br />Drill Container Unit does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Drill Container Unit Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -620,
+      "y": -245
+    },
+    "rb": {
+      "x": 0,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/33121016": "30",
+    "action/0": "6thDrillContainer",
+    "common/maxLevel": "30",
+    "common/mpCon": "55+d(x/6)",
+    "common/cooltime": "30",
+    "common/lt/x": -620,
+    "common/lt/y": -245,
+    "common/rb/x": 0,
+    "common/rb/y": 90,
+    "common/damage": "469+9*x",
+    "common/attackCount": "1",
+    "common/mobCount": "10",
+    "common/time": "60",
+    "common/subTime": "250",
+    "common/attackDelay": "840",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "46",
+    "footholdAffectedArea": "1",
+    "excl": "500",
+    "ignoreSpecialCore": "1",
+    "secondaryStatFreezeExcept": "1",
+    "isExceptSetLastAttack": "1",
+    "resetByUnionCharTag": "1",
+    "id": "33141024",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = wildhunter/M/20 }",
+    "voice/male/path/1": "{ Old = , New = wildhunter/M/21 }",
+    "voice/male/path/2": "{ Old = , New = wildhunter/M/22 }",
+    "voice/male/path/3": "{ Old = , New = wildhunter/M/55 }",
+    "voice/female/path/0": "{ Old = , New = wildhunter/F/20 }",
+    "voice/female/path/1": "{ Old = , New = wildhunter/F/21 }",
+    "voice/female/path/2": "{ Old = , New = wildhunter/F/22 }",
+    "voice/female/path/3": "{ Old = , New = wildhunter/F/54 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 60. Installs a Drill Container Unit for 60 sec.<br />The Drill Container periodically attacks up to 10 enemies at 739% Damage.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33141024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/33141024_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/33141024_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/33141024_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/33141024_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

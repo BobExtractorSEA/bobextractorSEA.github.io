@@ -1,0 +1,73 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4756126-03:00",
+  "ChangeType": "Added",
+  "Id": "2140008",
+  "Name": "Ignite VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -70,
+      "y": -50
+    },
+    "rb": {
+      "x": 70,
+      "y": 20
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/2101010": "10",
+    "common/maxLevel": "30",
+    "common/damage": "45+x",
+    "common/subTime": "660",
+    "common/time": "4",
+    "common/prop": "50",
+    "common/mobCount": "8",
+    "common/lt/x": -70,
+    "common/lt/y": -50,
+    "common/rb/x": 70,
+    "common/rb/y": 20,
+    "common/areaDotCount": "20",
+    "common/attackCount": "3",
+    "common/x": "200",
+    "common/y": "3",
+    "common/u": "180",
+    "hit/0/randomHitOrigin": "15",
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/pos": "10",
+    "elemAttr": "f",
+    "invisible": "1",
+    "footholdAffectedArea": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "2140008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2140008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2140008_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/2140008_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/2140008_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1286163-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141005",
+  "Name": "Scarlet Charge Drive VI",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/2",
+      "New": "ark/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/22",
+      "New": "ark/M/22"
+    },
+    "voice/male/path/2": {
+      "Old": "ark/M/34",
+      "New": "ark/M/34"
+    },
+    "voice/male/path/3": {
+      "Old": "ark/M/35",
+      "New": "ark/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/2",
+      "New": "ark/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/21",
+      "New": "ark/F/21"
+    },
+    "voice/female/path/2": {
+      "Old": "ark/F/39",
+      "New": "ark/F/39"
+    },
+    "voice/female/path/3": {
+      "Old": "ark/F/37",
+      "New": "ark/F/37"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

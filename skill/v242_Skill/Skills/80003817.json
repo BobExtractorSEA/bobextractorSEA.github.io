@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2980651-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003817",
+  "Name": "NEXT Warm-up: Arcane Force",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Arcane Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Arcane Force</span> quest after the 5th Job Advancement.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up : Arcane Force",
+      "New": "NEXT Warm-up: Arcane Force"
+    },
+    "Desc": {
+      "Old": "Inceases <span style=\"font-weight:bold; color:orange;\">Arcane Force</span>.<br /><br />You must perform 5th Job Change and complete <span style=\"font-weight:bold; color:orange;\">'Another Power, Arcane Force' </span>quest to benefit from the effects.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">Arcane Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Arcane Force</span> quest after the 5th Job Advancement."
+    },
+    "H": {
+      "Old": "Arcane Force + 60",
+      "New": "Arcane Force +60"
+    },
+    "h1": {
+      "Old": "Arcane Force + 60",
+      "New": "Arcane Force +60"
+    }
+  },
+  "HFields": {
+    "h1": "Arcane Force +60"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003817_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

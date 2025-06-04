@@ -1,0 +1,136 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4824265-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221015",
+  "Name": "Parrotargetting",
+  "Job": "Corsair",
+  "Desc": "Throws special bullets leaving a mark for concentrated fire. Attacks Boss monsters in range first. Henceforth, all attacks are concentrated on the enemy that the parrot follows. In addition, FINAL DAMAGE is increased when attacking the monster in homing, and critical damage is permanently increased.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "mob/pos": {
+      "Old": "2",
+      "New": null
+    },
+    "mob/repeat": {
+      "Old": "1",
+      "New": null
+    },
+    "common/range": {
+      "Old": "400",
+      "New": "500"
+    },
+    "common/u": {
+      "Old": "100",
+      "New": "0"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "25+6*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "450+16*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "2*x",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "400",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/3",
+      "New": "captain/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/5",
+      "New": "captain/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/4",
+      "New": "captain/F/4"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/2",
+      "New": "captain/F/2"
+    },
+    "hit/0/delayedTime": {
+      "Old": null,
+      "New": "360"
+    },
+    "mob/pre/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "mob/pre/pos": {
+      "Old": null,
+      "New": "2"
+    },
+    "mob/loop/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "mob/loop/pos": {
+      "Old": null,
+      "New": "2"
+    },
+    "mob/end/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "mob/end/pos": {
+      "Old": null,
+      "New": "2"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": "Animations/Old/5221015_mob_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

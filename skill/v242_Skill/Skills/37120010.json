@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5638028-03:00",
+  "ChangeType": "Changed",
+  "Id": "37120010",
+  "Name": "Expert Gauntlet Mastery",
+  "Job": "Blaster",
+  "Desc": "Increases Gauntlet Revolver Mastery, Critical Damage, and Damage on Boss monsters.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Gauntlet Mastery level 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/criticaldamage": {
+      "Old": "u(x/3)+5",
+      "New": "u(x/2)+5"
+    },
+    "common/bdR": {
+      "Old": "u(x/3)+5",
+      "New": "u(x/2)+5"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37120010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

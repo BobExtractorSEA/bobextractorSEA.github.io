@@ -1,0 +1,81 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.25944-03:00",
+  "ChangeType": "Changed",
+  "Id": "63121044",
+  "Name": "Incarnation",
+  "Job": "Kain",
+  "Desc": "Become an evil incarnation, granting you the ability to use Death Blessing on others. Not affected by Cooldown Reset effects. Death Blessing triggered by party members' attacks do not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 Effect: Can learn the 5th Job skill, Thanatos's Descent</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 500 MP, +15% Damage for 40 sec., ATT +15%<br />Death Blessing Attack count +13<br />When attacks from party members around Kaine hit, it creates Aura that deals 150% damage 6 times. Death Blessing Cooldown 3 sec.<br /><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 500. Damage +15% and ATT +15% for 40 sec.<br />Death Blessing Attack count +13<br />When attacks from party members around Kaine hit, it creates Aura that attacks at 150 Damage 6 times. Death Blessing Cooldown: 3 sec.<br /><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 500 MP, +15% Damage for 40 sec., ATT +15%<br />Death Blessing Attack count +13<br />When attacks from party members around Kaine hit, it creates Aura that deals 150% damage 6 times. Death Blessing Cooldown 3 sec.<br /><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 500. Damage +15% and ATT +15% for 40 sec.<br />Death Blessing Attack count +13<br />When attacks from party members around Kaine hit, it creates Aura that attacks at 150 Damage 6 times. Death Blessing Cooldown: 3 sec.<br /><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/46",
+      "New": "kain/M/46"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/47",
+      "New": "kain/M/47"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/54",
+      "New": "kain/F/54"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/55",
+      "New": "kain/F/55"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 500. Damage +15% and ATT +15% for 40 sec.<br />Death Blessing Attack count +13<br />When attacks from party members around Kaine hit, it creates Aura that attacks at 150 Damage 6 times. Death Blessing Cooldown: 3 sec.<br /><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63121044_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121044_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121044_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121044_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121044_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

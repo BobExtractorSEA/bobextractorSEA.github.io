@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5010358-03:00",
+  "ChangeType": "Changed",
+  "Id": "31221016",
+  "Name": "Surpass Limit",
+  "Job": "Demon Avenger",
+  "Desc": "Transcends limits and stops consuming HP when using skills for a while. Surpass Limit is not affected by COOLDOWN REDUCTION.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Transcends limits and stops consuming HP when using skills for a while.",
+      "New": "Transcends limits and stops consuming HP when using skills for a while. Surpass Limit is not affected by COOLDOWN REDUCTION."
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31221016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

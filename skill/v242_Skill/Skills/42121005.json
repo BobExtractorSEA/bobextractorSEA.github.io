@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5515701-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121005",
+  "Name": "Bellflower Barrier",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Barrier]</span><br />Creates a bellflower barrier with the power of yin and yang to strengthen her and her party. Inside this Bellflower Barrier, Damage increases by 20% and Boss ATT by 5%.<br />Use on an Ether spot and absorb the Ether to improve the barrier and additionally recover your Spiritual Energy inside the barrier.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "180",
+      "New": "60"
+    },
+    "common/time": {
+      "Old": "100",
+      "New": "30"
+    },
+    "voice/male/path/0": {
+      "Old": "kanna/M/15",
+      "New": "kanna/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/15",
+      "New": "kanna/F/15"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

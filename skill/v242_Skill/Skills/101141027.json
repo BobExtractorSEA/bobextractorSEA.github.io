@@ -1,0 +1,132 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5081907-03:00",
+  "ChangeType": "Added",
+  "Id": "101141027",
+  "Name": "Air Raid VI",
+  "Job": "Zero",
+  "Desc": "Attacks enemies in front of you, stomping on them in midair. Generates shock waves with the spirit swords, attacking wider areas. The shock waves do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Air Riot Lv. 20 or higher</span><br />[Command]: Rising Slash followed by <span style=\"font-weight:bold; color:orange;\">Rising Slash</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -280,
+      "y": -250
+    },
+    "rb": {
+      "x": 80,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/type": "1",
+    "info2/mes": "lifting",
+    "req/101000101": "20",
+    "action/0": "6thPowerStomp",
+    "common/maxLevel": "30",
+    "common/forceCon": "5",
+    "common/damage": "342+3*x",
+    "common/attackCount": "9",
+    "common/mobCount": "6",
+    "common/y": "300",
+    "common/subTime": "4",
+    "common/lt/x": -280,
+    "common/lt/y": -250,
+    "common/rb/x": 80,
+    "common/rb/y": 100,
+    "common/z": "342+3*x",
+    "common/x": "6",
+    "common/s": "9",
+    "common/u": "100",
+    "common/q": "3",
+    "assistSkillLink/skill": "101000200",
+    "finalAttack/101141028/delay": "960",
+    "finalAttack/101141028/notOnlyOnAttackSuccess": "1",
+    "finalAttack/101141028/0": "56",
+    "trembleEffect/force": "2",
+    "trembleEffect/time": "240",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "56",
+    "skillList/0": "400011000",
+    "id": "101141027",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "10",
+    "voice/male/count": 0,
+    "voice/female/count": 6,
+    "voice/female/path/0": "{ Old = , New = zero/F/38 }",
+    "voice/female/path/1": "{ Old = , New = zero/F/39 }",
+    "voice/female/path/2": "{ Old = , New = zero/F/2 }",
+    "voice/female/path/3": "{ Old = , New = zero/F/4 }",
+    "voice/female/path/4": "{ Old = , New = zero/F/12 }",
+    "voice/female/path/5": "{ Old = , New = zero/F/17 }"
+  },
+  "HFields": {
+    "h1": "Consumes 5 Time Force to attack up to 6 enemies at 432% Damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">[Shock Wave]</span>: Attacks up to 6 enemies at 432% Damage 9 times, with a 100% chance of Stunning them for 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141027_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141027_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141027_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

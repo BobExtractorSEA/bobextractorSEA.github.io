@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.676583-03:00",
+  "ChangeType": "Changed",
+  "Id": "23121003",
+  "Name": "Lightning Edge",
+  "Job": "Mercedes",
+  "Desc": "Dash forward, attacking multiple enemies in your way. Also permanently increases Gust Dive Damage. Can be chained with Rising Rush, Stunning Strikes, Unicorn Spike, Spikes Royale, and Wrath of Enreal.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damPlus": {
+      "Old": "147+3*x",
+      "New": "155+3*x"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "23141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

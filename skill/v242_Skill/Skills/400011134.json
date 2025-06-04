@@ -1,0 +1,165 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1799421-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011134",
+  "Name": "Ego Weapon",
+  "Job": "5th (Warrior)",
+  "Desc": "Your weapon attacks enemies with free will. Activates when Zero's direct attack skill hits. Alpha and Beta's reactivation are separate and the attacks prioritize enemies with the highest Max HP. Ego Weapon does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/4": {
+      "Old": "101101200",
+      "New": "101100200"
+    },
+    "skillList/5": {
+      "Old": "101100200",
+      "New": "101100201"
+    },
+    "skillList/6": {
+      "Old": "101100201",
+      "New": "101111200"
+    },
+    "skillList/7": {
+      "Old": "101111200",
+      "New": "101110200"
+    },
+    "skillList/8": {
+      "Old": "101110200",
+      "New": "101110202"
+    },
+    "skillList/9": {
+      "Old": "101110202",
+      "New": "101110203"
+    },
+    "skillList/10": {
+      "Old": "101110203",
+      "New": "101121200"
+    },
+    "skillList/11": {
+      "Old": "101121200",
+      "New": "101120201"
+    },
+    "skillList/12": {
+      "Old": "101120201",
+      "New": "101120202"
+    },
+    "skillList/13": {
+      "Old": "101120202",
+      "New": "101120204"
+    },
+    "skillList/14": {
+      "Old": "101120204",
+      "New": "100001283"
+    },
+    "skillList/15": {
+      "Old": "100001283",
+      "New": "400011098"
+    },
+    "skillList/16": {
+      "Old": "400011098",
+      "New": "400011099"
+    },
+    "skillList/17": {
+      "Old": "400011099",
+      "New": "101141006"
+    },
+    "skillList/18": {
+      "Old": "101141006",
+      "New": "101141008"
+    },
+    "skillList/19": {
+      "Old": "101141008",
+      "New": "101141009"
+    },
+    "skillList/20": {
+      "Old": "101141009",
+      "New": "101141500"
+    },
+    "skillList/21": {
+      "Old": "101141500",
+      "New": "101141501"
+    },
+    "skillList/22": {
+      "Old": "101141501",
+      "New": "101141502"
+    },
+    "skillList/23": {
+      "Old": "101141502",
+      "New": "101141017"
+    },
+    "skillList/24": {
+      "Old": "101141017",
+      "New": "101141019"
+    },
+    "skillList/25": {
+      "Old": "101141019",
+      "New": "400011040"
+    },
+    "skillList/26": {
+      "Old": "400011040",
+      "New": "400011041"
+    },
+    "skillList/27": {
+      "Old": "400011041",
+      "New": "400011042"
+    },
+    "skillList/28": {
+      "Old": "400011042",
+      "New": "400011046"
+    },
+    "skillList/29": {
+      "Old": "400011046",
+      "New": "101141023"
+    },
+    "voice/male/path/0": {
+      "Old": "zero/M/32",
+      "New": "zero/M/32"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/33",
+      "New": "zero/M/33"
+    },
+    "skillList/30": {
+      "Old": null,
+      "New": "101141024"
+    },
+    "skillList/31": {
+      "Old": null,
+      "New": "101141029"
+    },
+    "skillList/32": {
+      "Old": null,
+      "New": "101141030"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "101141033"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011134_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011134_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011134_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

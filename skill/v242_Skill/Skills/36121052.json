@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3419824-03:00",
+  "ChangeType": "Changed",
+  "Id": "36121052",
+  "Name": "Meltdown Explosion",
+  "Job": "Xenon",
+  "Desc": "Shoots a powerful laser beam from space, scorching everything on the ground. Temporarily increases damage after use. Cannot receive a Cooldown Reduction effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 200. Attacks up to 15 enemies at 1500% Damage 6 times. Attacked targets have DEF -30% for 10 sec. Makes you Invincible while being cast.<br />Damage +10% for 25 sec. after cast.<br />Cooldown: 50 sec.",
+      "New": "MP 200. Attacks up to 15 enemies at 1500% Damage 6 times.<br />Attacked enemies lose 30% of MONSTER DEF for 10 sec.<br />Damage +10% for 25 sec. after use. Makes you Invincible while it's cast.<br />Cooldown: 50 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 200. Attacks up to 15 enemies at 1500% Damage 6 times. Attacked targets have DEF -30% for 10 sec. Makes you Invincible while being cast.<br />Damage +10% for 25 sec. after cast.<br />Cooldown: 50 sec.",
+      "New": "MP 200. Attacks up to 15 enemies at 1500% Damage 6 times.<br />Attacked enemies lose 30% of MONSTER DEF for 10 sec.<br />Damage +10% for 25 sec. after use. Makes you Invincible while it's cast.<br />Cooldown: 50 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "xenon/M/70",
+      "New": "xenon/M/70"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/71",
+      "New": "xenon/M/71"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/72",
+      "New": "xenon/M/72"
+    },
+    "voice/male/path/3": {
+      "Old": "xenon/M/73",
+      "New": "xenon/M/73"
+    },
+    "voice/male/path/4": {
+      "Old": "xenon/M/74",
+      "New": "xenon/M/74"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/69",
+      "New": "xenon/F/69"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/71",
+      "New": "xenon/F/71"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/72",
+      "New": "xenon/F/72"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "36141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP 200. Attacks up to 15 enemies at 1500% Damage 6 times.<br />Attacked enemies lose 30% of MONSTER DEF for 10 sec.<br />Damage +10% for 25 sec. after use. Makes you Invincible while it's cast.<br />Cooldown: 50 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

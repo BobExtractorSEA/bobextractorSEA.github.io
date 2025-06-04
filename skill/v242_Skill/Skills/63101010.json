@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0742321-03:00",
+  "ChangeType": "Changed",
+  "Id": "63101010",
+  "Name": "Breath Shooter Booster",
+  "Job": "Kain",
+  "Desc": "Temporarily increases Breath Shooter ASPD by 2 levels at the cost of MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Breath Shooter Mastery or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63101010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

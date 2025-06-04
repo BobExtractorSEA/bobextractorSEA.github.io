@@ -1,0 +1,102 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0477821-03:00",
+  "ChangeType": "Added",
+  "Id": "151141017",
+  "Name": "Marker VI",
+  "Job": "Adele",
+  "Desc": "Injects magic into small fragments in the air to make them grow and crushes them.<br />An Ether Crystal forms at the crushed location and ignores re-creation cooldown.<br />Required Skill. <span style=\"font-weight:bold; color:orange;\">Marker Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -475
+    },
+    "rb": {
+      "x": 550,
+      "y": 225
+    }
+  },
+  "Fields": {
+    "type": "36",
+    "req/151121041": "1",
+    "action/0": "6thMarker",
+    "common/maxLevel": "30",
+    "common/mpCon": "250+x",
+    "common/damage": "2180+24*x",
+    "common/attackCount": "6",
+    "common/mobCount": "7",
+    "common/u": "2725+30*x",
+    "common/cooltime": "60",
+    "common/s": "7",
+    "common/x": "7",
+    "common/q": "7",
+    "common/u2": "7",
+    "common/s2": "6",
+    "common/w": "120",
+    "common/z": "1060",
+    "common/lt/x": -550,
+    "common/lt/y": -475,
+    "common/rb/x": 550,
+    "common/rb/y": 225,
+    "common/lt2/x": -200,
+    "common/lt2/y": -385,
+    "common/rb2/x": 200,
+    "common/rb2/y": 65,
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/delayedTimeActionSpeed": "480",
+    "additional_process/0": "22",
+    "processtype": "-1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "id": "151141017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = adele/M/15 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/45 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 280. Creates fragments at the locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it attacks up to 7 enemies at 2900% Damage 6 times.<br />If fewer than the maximum number of attackable enemies exist, creates up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 3625% Damage 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/151141017_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141017_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/151141017_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

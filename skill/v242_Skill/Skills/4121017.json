@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2801808-03:00",
+  "ChangeType": "Changed",
+  "Id": "4121017",
+  "Name": "Showdown Challenge",
+  "Job": "Night Lord",
+  "Desc": "Attacks and taunts up to 6 enemies, and prevents them from <span style=\"font-weight:bold; color:orange;\">colliding into you</span>.<br />Increases EXP Obtained and Item Drop Rate from the taunted enemies. This effect is halved for Boss monsters.<br />When the talisman explodes, a Shuriken of Darkness is created to attack nearby enemies. Shuriken of Darkness attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Attacks and taunts up to 6 enemies, and prevents them from <span style=\"font-weight:bold; color:orange;\">colliding into you</span>. Increases EXP and item rewards from the taunted enemies. This effect is halved for Boss monsters.<br />When the talisman explodes, a Shuriken of Darkness is created to attack nearby enemies. Shuriken of Darkness attacks do not affect enemies in the Damage Reflection status.",
+      "New": "Attacks and taunts up to 6 enemies, and prevents them from <span style=\"font-weight:bold; color:orange;\">colliding into you</span>.<br />Increases EXP Obtained and Item Drop Rate from the taunted enemies. This effect is halved for Boss monsters.<br />When the talisman explodes, a Shuriken of Darkness is created to attack nearby enemies. Shuriken of Darkness attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "H": {
+      "Old": "MP Cost: 50 and consumes 3 throwing stars<br />Attacks up to 6 enemies at 708% damage 2 times. Creates 6 Shurikens and taunts them<br />Taunted enemies <span style=\"font-weight:bold; color:orange;\">cannot be collided with</span>. EXP and item rewards +5% for 140 sec. (Halved for Boss monsters)<br />Shuriken attacks 6 times at 24% damage. Final Damage is reduced by 50% when one enemy is hit by multiple Shurikens. Damage +200% when attacking normal monsters.<br />Regeneration Cooldown after generating Shuriken: 5 sec.",
+      "New": "Cost: 50 MP and 3 throwing stars.<br />Taunts and attacks up to 6 enemies at 708% Damage 2 times.<br />For 140 sec., taunted enemies <span style=\"font-weight:bold; color:orange;\">don't collide</span> and increase EXP Obtained and Item Drop Rate +5%. (Effect halved for Boss monsters)<br />Afterward, creates 6 shurikens that attack at 24% Damage 6 times.<br />If a single enemy is hit by multiple shurikens, Final Damage -50% for each subsequent shuriken after the first one. Normal Monster Damage +200%.<br />Shuriken Cooldown: 5 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 50 and consumes 3 throwing stars<br />Attacks up to 6 enemies at 708% damage 2 times. Creates 6 Shurikens and taunts them<br />Taunted enemies <span style=\"font-weight:bold; color:orange;\">cannot be collided with</span>. EXP and item rewards +5% for 140 sec. (Halved for Boss monsters)<br />Shuriken attacks 6 times at 24% damage. Final Damage is reduced by 50% when one enemy is hit by multiple Shurikens. Damage +200% when attacking normal monsters.<br />Regeneration Cooldown after generating Shuriken: 5 sec.",
+      "New": "Cost: 50 MP and 3 throwing stars.<br />Taunts and attacks up to 6 enemies at 708% Damage 2 times.<br />For 140 sec., taunted enemies <span style=\"font-weight:bold; color:orange;\">don't collide</span> and increase EXP Obtained and Item Drop Rate +5%. (Effect halved for Boss monsters)<br />Afterward, creates 6 shurikens that attack at 24% Damage 6 times.<br />If a single enemy is hit by multiple shurikens, Final Damage -50% for each subsequent shuriken after the first one. Normal Monster Damage +200%.<br />Shuriken Cooldown: 5 sec."
+    },
+    "mes": {
+      "Old": "incTargetPDP&&incTargetMDP&&incTargetEXP&&incTargetReward",
+      "New": null
+    },
+    "pvp": {
+      "Old": "0",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "nightLord/M/27",
+      "New": "nightLord/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/28",
+      "New": "nightLord/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "nightLord/M/7",
+      "New": "nightLord/M/7"
+    },
+    "voice/male/path/3": {
+      "Old": "nightLord/M/11",
+      "New": "nightLord/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/36",
+      "New": "nightLord/F/36"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/37",
+      "New": "nightLord/F/37"
+    },
+    "voice/female/path/2": {
+      "Old": "nightLord/F/15",
+      "New": "nightLord/F/15"
+    },
+    "voice/female/path/3": {
+      "Old": "nightLord/F/16",
+      "New": "nightLord/F/16"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 50 MP and 3 throwing stars.<br />Taunts and attacks up to 6 enemies at 708% Damage 2 times.<br />For 140 sec., taunted enemies <span style=\"font-weight:bold; color:orange;\">don't collide</span> and increase EXP Obtained and Item Drop Rate +5%. (Effect halved for Boss monsters)<br />Afterward, creates 6 shurikens that attack at 24% Damage 6 times.<br />If a single enemy is hit by multiple shurikens, Final Damage -50% for each subsequent shuriken after the first one. Normal Monster Damage +200%.<br />Shuriken Cooldown: 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4121017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2652118-03:00",
+  "ChangeType": "Changed",
+  "Id": "5121009",
+  "Name": "Speed Infusion",
+  "Job": "Buccaneer",
+  "Desc": "Temporarily increases your entire party's ASPD by 2 levels at the cost of HP and MP. Can be used in conjunction with other Accelerations.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Knuckle Acceleration Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5121009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

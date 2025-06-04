@@ -1,0 +1,151 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.5263536-03:00",
+  "ChangeType": "Added",
+  "Id": "3341013",
+  "Name": "Ancient Astra VI (Blast)",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Materializes an arrow of the legends to bombard enemies with a powerful attack.<br />You can control the angle of fire by using the Up and Down keys. The arrow explodes when it hits the enemy or at the end of its maximum range.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ancient Astra Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "knockbackLimit": "100",
+    "req/3321035": "1",
+    "action/0": "6thAncientAstraBlastLoop",
+    "common/maxLevel": "30",
+    "common/forceCon": "65",
+    "common/updatableTime": "16500",
+    "common/cooltime": "60",
+    "common/x": "40",
+    "common/y": "0",
+    "common/v": "666",
+    "common/u": "20",
+    "common/subTime": "840",
+    "common/attackDelay": "840",
+    "common/s2": "12",
+    "common/u2": "1590+19*x",
+    "common/v2": "10",
+    "common/indieDamReduceR": "60",
+    "common/s": "1",
+    "prepare/action": "6thAncientAstraBlastPre",
+    "prepare/time": "780",
+    "keydown/action": "6thAncientAstraBlastLoop",
+    "keydown/time": "1680",
+    "keydownend/action": "6thAncientAstraBlastEnd",
+    "keydownend/time": "780",
+    "shootobj/moveList/p1/0/pos/x": -1000,
+    "shootobj/moveList/p1/0/pos/y": 0,
+    "shootobj/moveList/p1/0/v": "60",
+    "shootobj/moveList/p2/0/pos/x": -939,
+    "shootobj/moveList/p2/0/pos/y": -342,
+    "shootobj/moveList/p2/0/v": "60",
+    "shootobj/moveList/p3/0/pos/x": -766,
+    "shootobj/moveList/p3/0/pos/y": -643,
+    "shootobj/moveList/p3/0/v": "60",
+    "shootobj/info/startDelay": "30",
+    "shootobj/info/start/x": -24,
+    "shootobj/info/start/y": -26,
+    "shootobj/info/useUpWhenMaxMobCount": "1",
+    "shootobj/info/bodyWH/x": 400,
+    "shootobj/info/bodyWH/y": 150,
+    "additional_process/0": "4",
+    "additional_process/1": "11",
+    "additional_process/2": "18",
+    "additional_process/3": "21",
+    "additional_process/4": "37",
+    "additional_process/5": "26",
+    "additional_process/6": "30",
+    "additional_process/7": "31",
+    "additional_process/8": "40",
+    "invisible": "1",
+    "processtype": "-1",
+    "isCancelableBuff": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "id": "3341013",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/18 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/34 }",
+    "voice/male/path/2": "{ Old = , New = pathfinder/M/35 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/18 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/34 }",
+    "voice/female/path/2": "{ Old = , New = pathfinder/F/35 }"
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 65 per 1 sec. Hold the key to periodically fire arrows at a set angle.<br />The arrow explosion attacks up to 12 enemies at 2160% Damage 10 times.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341013_effect_new.webp"
+    },
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/3341013_keydown_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/3341013_prepare_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/3341013_keydownend_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

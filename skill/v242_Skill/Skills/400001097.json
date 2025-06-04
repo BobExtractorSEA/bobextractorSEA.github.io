@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7641433-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001097",
+  "Name": "Decent Holy Fountain",
+  "Job": "5th",
+  "Desc": "Summons a holy fountain that heals HP for party members, including those in Undead state. <span style=\"font-weight:bold; color:orange;\">To recover HP, approach the fountain and press [Up]</span>.<br />Only 1 Holy Fountain and 1 Decent Holy Fountain used by you and your party can exist in the same map.<br />If Decent Holy Fountain disappears before its duration, it leaves <span style=\"font-weight:bold; color:orange;\">Holy Traces</span>. <span style=\"font-weight:bold; color:orange;\">Can't be used on maps with party members' Holy Fountain, Decent Holy Fountain, and Holy Traces.</span><br />Not affected by Cooldown Reset, Recovery Skill Efficiency Increase, or SUMMONS DURATION INCREASE effects. Can't be summoned near portals.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001097_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

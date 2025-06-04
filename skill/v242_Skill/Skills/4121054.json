@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.3251299-03:00",
+  "ChangeType": "Changed",
+  "Id": "4121054",
+  "Name": "Bleeding Toxin",
+  "Job": "Night Lord",
+  "Desc": "Coats Throwing Stars with deadly poison that causes Bleeding. Throwing Stars temporarily achieve enhanced ATT and cause continuous DAMAGE on their targets.<br /><span style=\"font-weight:bold; color:orange;\">Lock Activation Effect: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

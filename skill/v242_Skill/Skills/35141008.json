@@ -1,0 +1,114 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6649142-03:00",
+  "ChangeType": "Added",
+  "Id": "35141008",
+  "Name": "Robo Factory: RM1 VI",
+  "Job": "Mechanic",
+  "Desc": "Installs a Robot Factory <RM1> that periodically summons Toy Robots. Summoned Toy Robots detect nearby enemies and triggers a self-destruct function or at the end of its duration. The factory itself also self-destructs at the end of its duration to deal damage.<br />Affected by SUMMONS DURATION INCREASE.<br /><Robot Factory: RM1> does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Robo Factory: RM1 Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "selfDestructMinion": "1",
+    "info2/ignoreCounter": "1",
+    "req/35121009": "30",
+    "action/0": "6thRobotFactory",
+    "common/maxLevel": "30",
+    "common/mpCon": "110+d(x/2)",
+    "common/selfDestruction": "600+11*x",
+    "common/attackCount": "5",
+    "common/u": "525+10*x",
+    "common/time": "98",
+    "common/x": "3",
+    "common/y": "3",
+    "common/z": "6",
+    "common/u2": "4",
+    "common/u3": "3",
+    "skillList/0": "35141009",
+    "summon/die/info/range/lt/x": -160,
+    "summon/die/info/range/lt/y": -140,
+    "summon/die/info/range/rb/x": 160,
+    "summon/die/info/range/rb/y": 50,
+    "summon/die/info/mobCount": "6",
+    "summon/die/info/attackAfter": "600",
+    "summon/die/info/attackCount": "5",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "showSummonedBuffIcon": "2",
+    "footholdInstallSummoned": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "35141008",
+    "has_req": true,
+    "voice/prop": "60",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = mechanic/M/27 }",
+    "voice/male/path/1": "{ Old = , New = mechanic/M/28 }",
+    "voice/male/path/2": "{ Old = , New = mechanic/M/29 }",
+    "voice/female/path/0": "{ Old = , New = mechanic/F/27 }",
+    "voice/female/path/1": "{ Old = , New = mechanic/F/28 }",
+    "voice/female/path/2": "{ Old = , New = mechanic/F/29 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 125. Installs a Robot Factory for 98 sec.<br />Summons 3 Toy Robots every 3 sec. that explode and attack up to 4 enemies at 825% Damage 3 times. The Robot Factory explodes upon expiration, attacking up to 6 enemies at 930% Damage 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

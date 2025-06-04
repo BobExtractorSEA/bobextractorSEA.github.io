@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.3717182-03:00",
+  "ChangeType": "Changed",
+  "Id": "4211008",
+  "Name": "Shadow Partner",
+  "Job": "Shadower",
+  "Desc": "Summons a shadow that mimics your actions for a set period. It does not have a separate HP, but it disappears when hit with an attack that alters its shape or limits its movement. The Shadow can't mimic Meso Explosion, Summons, 5th Job Skill for all jobs and certain skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "shadower/M/0",
+      "New": "shadower/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "shadower/M/1",
+      "New": "shadower/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "shadower/M/2",
+      "New": "shadower/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "shadower/F/5",
+      "New": "shadower/F/5"
+    },
+    "voice/female/path/1": {
+      "Old": "shadower/F/6",
+      "New": "shadower/F/6"
+    },
+    "voice/female/path/2": {
+      "Old": "shadower/F/7",
+      "New": "shadower/F/7"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4211008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4211008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

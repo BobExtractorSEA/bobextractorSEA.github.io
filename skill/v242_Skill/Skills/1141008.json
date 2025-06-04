@@ -1,0 +1,181 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.642462-03:00",
+  "ChangeType": "Added",
+  "Id": "1141008",
+  "Name": "Incising VI",
+  "Job": "Hero",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Swordsmanship]</span> Lets you focus your mind and slash the enemy with your sword. This is the ultimate swordsmanship, which looks as if the sword engraved on the soul comes to life and attacks the enemies. The attacked enemy becomes injured and sustains DoT damage for a certain period of time, and <span style=\"font-weight:bold; color:orange;\">the amount of damage from the critical hit increases</span> while receiving DoT damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Incising Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -380,
+      "y": -320
+    },
+    "rb": {
+      "x": 120,
+      "y": 70
+    }
+  },
+  "Fields": {
+    "type": "10",
+    "areaAttack": "1",
+    "req/1121015": "30",
+    "action/0": "6thIncising",
+    "common/maxLevel": "30",
+    "common/mpCon": "36+d(x/5)",
+    "common/x": "26",
+    "common/u": "11",
+    "common/damage": "430+7*x",
+    "common/mobCount": "8",
+    "common/attackCount": "4",
+    "common/dot": "176+3*x",
+    "common/time": "60",
+    "common/prop": "100",
+    "common/dotInterval": "2",
+    "common/dotTime": "60",
+    "common/lt/x": -380,
+    "common/lt/y": -320,
+    "common/rb/x": 120,
+    "common/rb/y": 70,
+    "common/nbdR": "50",
+    "skillList/0": "400011000",
+    "finalAttack/1100002/0": "30",
+    "finalAttack/1100002/1": "31",
+    "finalAttack/1100002/2": "40",
+    "finalAttack/1100002/3": "41",
+    "effect/fix": "1",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "mob/0/pos": "2",
+    "mob/0/repeat": "1",
+    "mob/0/loop": "0",
+    "trembleEffect/delay": "360",
+    "trembleEffect/force": "7",
+    "trembleEffect/time": "600",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "weapon": "30",
+    "weapon2": "31",
+    "weapon3": "40",
+    "weapon4": "41",
+    "psd": "1",
+    "id": "1141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = hero/M/8 }",
+    "voice/male/path/1": "{ Old = , New = hero/M/9 }",
+    "voice/male/path/2": "{ Old = , New = hero/M/24 }",
+    "voice/male/path/3": "{ Old = , New = hero/M/25 }",
+    "voice/male/path/4": "{ Old = , New = hero/M/26 }",
+    "voice/female/path/0": "{ Old = , New = hero/F/8 }",
+    "voice/female/path/1": "{ Old = , New = hero/F/9 }",
+    "voice/female/path/2": "{ Old = , New = hero/F/25 }",
+    "voice/female/path/3": "{ Old = , New = hero/F/26 }",
+    "voice/female/path/4": "{ Old = , New = hero/F/27 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 42. Attacks up to 8 enemies at 640% Damage 4 times. Normal Monster Damage +50%.<br />Attacked enemies have a 100% chance of receiving 266% Damage every 2 sec for 60 sec, and receive <span style=\"font-weight:bold; color:orange;\">26% more Critical Damage</span> and 11% more Damage from your party members."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1141008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/1141008_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1141008_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/1141008_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

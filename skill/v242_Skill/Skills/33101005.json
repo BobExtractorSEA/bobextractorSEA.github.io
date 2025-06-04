@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.8620368-03:00",
+  "ChangeType": "Changed",
+  "Id": "33101005",
+  "Name": "Call of the Wild",
+  "Job": "Wild Hunter",
+  "Desc": "You jaguar roars to enhance party ATT for a short time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_33101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

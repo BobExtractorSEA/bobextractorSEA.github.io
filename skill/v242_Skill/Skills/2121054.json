@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1754326-03:00",
+  "ChangeType": "Changed",
+  "Id": "2121054",
+  "Name": "Fire Aura",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Activates an aura that burns the surrounding. The aura doesn't affect enemies in the Ignore Attacks and Damage Reflection status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "2000",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

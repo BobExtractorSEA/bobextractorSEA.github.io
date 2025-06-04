@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3658005-03:00",
+  "ChangeType": "Added",
+  "Id": "5341014",
+  "Name": "Rolling Cannon Rainbow VI",
+  "Job": "Cannon Master",
+  "Desc": "Commands the Cannon Shooter's supporters to summon multiple cannons and concentrate fire on enemies in front.<br />Summoning costs 1 Network, and <span style=\"font-weight:bold; color:orange;\">using the skill with the Down key</span> consumes 2 to summon a stronger Max Cannon Rainbow. Use a custom command to use Max Cannon Rainbow with just the skill key without the direction keys.<br />Up to 1 cannon can be summoned, and it does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Permanently enhances Cannon Barrage VI.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Rolling Cannon Rainbow Lv. 1</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "req/5321052": "1",
+    "common/maxLevel": "30",
+    "common/y": "90",
+    "common/v": "2",
+    "common/v2": "2",
+    "common/mpCon": "330",
+    "common/damage": "660+38*x",
+    "common/mobCount": "10",
+    "common/attackCount": "5",
+    "common/time": "10",
+    "common/z": "680+44*x",
+    "common/u": "5",
+    "common/u2": "10",
+    "common/w": "10",
+    "common/w2": "330",
+    "common/damPlus": "4*x",
+    "weapon": "53",
+    "applyHyper": "1",
+    "psd": "1",
+    "showStackCooltimeNum": "1",
+    "id": "5341014",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Summons a cannon for 10 sec.<br />The cannon periodically attacks up to 10 enemies at 1800% Damage 5 times.<br /><span style=\"font-weight:bold; color:orange;\">Max Cannon Rainbow</span>: MP Cost: 330. Summons a cannon for 10 sec.<br />The cannon periodically attacks up to 10 enemies at 2000% Damage 5 times.<br />1 Network is added every 90 sec., and up to 2 can be carried.<br />[Passive Effects: Cannon Barrage VI Damage +120%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5341014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

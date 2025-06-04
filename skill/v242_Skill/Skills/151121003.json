@@ -1,0 +1,100 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3015537-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121003",
+  "Name": "Blossom",
+  "Job": "Adele",
+  "Desc": "Orders all Ether Swords to spin and blossom magic. Can only be used when <span style=\"font-weight:bold; color:orange;\">there is an Ether Sword tracking an enemy with Order</span>.<br />During Blossom, Ether Swords that return from Gathering without expiring can't be blossomed.<br />This skill doesn't affect enemies in the Damage Reflection status and isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Order Lv. 20 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn Squall.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 80. Each Ether Sword attacks up to 8 enemies at 650% damage 8 times.<br />When a single enemy is attacked with Blossom, the Final Damage -25% on that enemy.<br />50% chance to create an Ether Crystal when the attack hits.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 20 sec.</span>",
+      "New": "MP Cost: 80. Each Ether Sword attacks up to 8 enemies at 650% Damage 8 times.<br />If a single enemy is attacked by multiple blossoms, the blossom's Final Damage -25% on that enemy.<br />Successful attacks create a 50% chance of creating an Ether Crystal.<br />Cooldown: 20 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 80. Each Ether Sword attacks up to 8 enemies at 650% damage 8 times.<br />When a single enemy is attacked with Blossom, the Final Damage -25% on that enemy.<br />50% chance to create an Ether Crystal when the attack hits.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 20 sec.</span>",
+      "New": "MP Cost: 80. Each Ether Sword attacks up to 8 enemies at 650% Damage 8 times.<br />If a single enemy is attacked by multiple blossoms, the blossom's Final Damage -25% on that enemy.<br />Successful attacks create a 50% chance of creating an Ether Crystal.<br />Cooldown: 20 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/30",
+      "New": "adele/M/30"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/31",
+      "New": "adele/M/31"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/26",
+      "New": "adele/F/26"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/27",
+      "New": "adele/F/27"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/28",
+      "New": "adele/F/28"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. Each Ether Sword attacks up to 8 enemies at 650% Damage 8 times.<br />If a single enemy is attacked by multiple blossoms, the blossom's Final Damage -25% on that enemy.<br />Successful attacks create a 50% chance of creating an Ether Crystal.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.8003426-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002231",
+  "Name": "Master of Nightmares",
+  "Job": "Etc",
+  "Desc": "Lucid's soul stays with you. A Lucid who has fully recovered his strength. The Soul Weapon's power temporarily summons Lucid to attack nearby enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002231_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

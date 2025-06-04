@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4465474-03:00",
+  "ChangeType": "Changed",
+  "Id": "42111004",
+  "Name": "Cherry Blossom Barrier",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Barrier]</span><br />Creates a cherry blossom barrier with the power of yin and yang to protect her and her party. This barrier decreases incoming damage by 20%, increases Status Resistance by 30, and recovers HP by 5% every second.<br />Use on Ether spots and absorb the Ether to reinforce the barrier and additionally recover your Spiritual Energy within the barrier.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "100",
+      "New": "120"
+    },
+    "common/time": {
+      "Old": "20",
+      "New": "30"
+    },
+    "voice/male/path/0": {
+      "Old": "kanna/M/10",
+      "New": "kanna/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/10",
+      "New": "kanna/F/10"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42111004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

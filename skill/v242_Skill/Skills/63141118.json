@@ -1,0 +1,144 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5724005-03:00",
+  "ChangeType": "Added",
+  "Id": "63141118",
+  "Name": "[Revelation] Shaft Break VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "req/63111003": "20",
+    "action/0": "6thNAshaftBreakEnchant",
+    "common/maxLevel": "30",
+    "common/mpCon": "67+d(x/3)",
+    "common/damage": "452+11*x",
+    "common/attackCount": "3",
+    "common/mobCount": "3",
+    "common/cooltime": "11",
+    "common/cancelableTime": "390",
+    "cancelableSkillID/0": "63001002",
+    "cancelableSkillID/1": "63001003",
+    "cancelableSkillID/2": "63001005",
+    "shootobj/info/start/x": -130,
+    "shootobj/info/start/y": -28,
+    "shootobj/info/bodyWH/x": 300,
+    "shootobj/info/bodyWH/y": 110,
+    "shootobj/info/startDelay": "360",
+    "shootobj/info/useUpWhenMaxMobCount": "1",
+    "shootobj/info/hitWhenBossMob": "1",
+    "shootobj/moveList/p1/0/pos/x": 0,
+    "shootobj/moveList/p1/0/pos/y": 0,
+    "shootobj/moveList/p1/0/v": "0",
+    "shootobj/moveList/p1/0/delay": "0",
+    "shootobj/moveList/p1/1/pos/x": -400,
+    "shootobj/moveList/p1/1/pos/y": 0,
+    "shootobj/moveList/p1/1/v": "40",
+    "shootobj/moveList/p1/1/delay": "0",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "45",
+    "additional_process/0": "22",
+    "invisible": "1",
+    "processtype": "4",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "id": "63141118",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = kain/M/28 }",
+    "voice/male/path/1": "{ Old = , New = kain/M/29 }",
+    "voice/male/path/2": "{ Old = , New = kain/M/30 }",
+    "voice/female/path/0": "{ Old = , New = kain/F/31 }",
+    "voice/female/path/1": "{ Old = , New = kain/F/32 }",
+    "voice/female/path/2": "{ Old = , New = kain/F/33 }",
+    "voice/female/path/3": "{ Old = , New = kain/F/34 }",
+    "voice/female/path/4": "{ Old = , New = kain/F/35 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141118_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141118_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/63141118_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141118_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141118_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

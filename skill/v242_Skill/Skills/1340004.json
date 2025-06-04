@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.8102753-03:00",
+  "ChangeType": "Added",
+  "Id": "1340004",
+  "Name": "Beholder's Revenge VI",
+  "Job": "Dark Knight",
+  "Desc": "The Beholder counterattacks the enemy. The Beholder deals damage to enemies directly attacked by the Dark Knight.<br />After a certain number of Beholder attacks, a Revenge Stigma is placed on the target, and when all the Revenge Stigmas are placed, Beholder's Revenge is activated.<br />The Beholder's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Beholder's Revenge Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "54",
+    "minionAttack": "normal",
+    "condition": "damaged",
+    "info2/ignoreCounter": "1",
+    "req/1320011": "30",
+    "common/maxLevel": "30",
+    "common/attackCount": "5",
+    "common/mobCount": "10",
+    "common/damage": "88+2*x",
+    "common/u": "3",
+    "common/u2": "2",
+    "common/time": "60",
+    "common/prop": "60",
+    "common/s": "133+3*x",
+    "common/s2": "5",
+    "skillList/0": "1311011",
+    "skillList/1": "1311019",
+    "skillList/2": "1301012",
+    "skillList/3": "1301013",
+    "skillList/4": "1301014",
+    "skillList/5": "1321012",
+    "skillList/6": "1321013",
+    "skillList/7": "1321052",
+    "skillList/8": "400011068",
+    "skillList/9": "400011069",
+    "skillList/10": "400011004",
+    "skillList/11": "1341000",
+    "skillList/12": "1341500",
+    "skillList/13": "1341501",
+    "skillList/14": "1341001",
+    "skillList/15": "1341002",
+    "skillList/16": "1341003",
+    "id": "1340004",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "The Dark Knight's direct Attack skill hits have a 60% chance of attacking up to 10 enemies at 148% Damage 5 times. 2 hits place a Revenge Stigma.<br />If x3 Revenge Stigmas are reached, consumes all of them and activates <span style=\"font-weight:bold; color:orange;\">Beholder Punishment</span>.<br /> <span style=\"font-weight:bold; color:orange;\">Beholder Punishment</span>: Attacks at 223% Damage 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1340004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

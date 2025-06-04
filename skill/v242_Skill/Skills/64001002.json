@@ -1,0 +1,217 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.4839476-03:00",
+  "ChangeType": "Changed",
+  "Id": "64001002",
+  "Name": "Weapon Arts: Blade Cut",
+  "Job": "Cadena",
+  "Desc": "Summons a scimitar that you can hold upside down and cut through enemies horizontally. Prevents being knocked back by any attack while casting a skill. Can be used in miair and <span style=\"font-weight:bold; color:orange;\">while using other skills.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 15. Attacks up to 6 enemies at 125% damage 5 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 4 sec.</span>",
+      "New": "MP Cost: 15. Attacks up to 6 enemies at 125% damage 5 time(s).<br />Cooldown: 4 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 15. Attacks up to 6 enemies at 125% damage 5 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 4 sec.</span>",
+      "New": "MP Cost: 15. Attacks up to 6 enemies at 125% damage 5 time(s).<br />Cooldown: 4 sec."
+    },
+    "common/x": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "10+u(x/4)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "45+4*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3+d(x/10)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "casterMove": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/male/path/5": {
+      "Old": "cadena/M/8",
+      "New": "cadena/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "voice/female/path/5": {
+      "Old": "cadena/F/8",
+      "New": "cadena/F/8"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141030"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 15. Attacks up to 6 enemies at 125% damage 5 time(s).<br />Cooldown: 4 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64001002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1020933-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121043",
+  "Name": "Charge Spell Amplification",
+  "Job": "Ark",
+  "Desc": "Amplifies a Charge Spell to apply the Charge Spell Buff effect to party members, and doubles the effect for yourself. Also, immediately applied to the Charge Spell buff cast on you at the time you use Charge Spell Amplification.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/38",
+      "New": "ark/M/38"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/45",
+      "New": "ark/M/45"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/42",
+      "New": "ark/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/5",
+      "New": "ark/F/5"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121043_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121043_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121043_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121043_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121043_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

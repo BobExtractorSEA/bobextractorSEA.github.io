@@ -1,0 +1,88 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7610124-03:00",
+  "ChangeType": "Changed",
+  "Id": "4221006",
+  "Name": "Smoke Bomb",
+  "Job": "Shadower",
+  "Desc": "Creates a smokescreen around you, All party members in range are protected against all enemy attacks. For attacks that deal damage based on Max HP, this skill decreases their damage. Increases the chance of Advanced Dark Sight within your smokescreen range.<br />Increases Critical Damage to enemies that come under the effect of the smokescreen.<br />Protects you against the Knockback effect, and Dark Sight cannot be canceled while casting the smokescreen.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "effect/fix": {
+      "Old": "1",
+      "New": null
+    },
+    "tile/0/repeat": {
+      "Old": "1",
+      "New": "15"
+    },
+    "voice/male/path/0": {
+      "Old": "shadower/M/24",
+      "New": "shadower/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "shadower/M/25",
+      "New": "shadower/M/25"
+    },
+    "voice/female/path/0": {
+      "Old": "shadower/F/26",
+      "New": "shadower/F/26"
+    },
+    "voice/female/path/1": {
+      "Old": "shadower/F/27",
+      "New": "shadower/F/27"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4221006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": "Animations/Old/4221006_effect_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

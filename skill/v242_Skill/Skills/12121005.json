@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1992383-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121005",
+  "Name": "Burning Conduit",
+  "Job": "Blaze Wizard",
+  "Desc": "A flaming pentacle is drawn on the ground, which <span style=\"font-weight:bold; color:orange;\">increases the damage and attack speed of the party members, including yourself (as caster), standing on the pentacle.</span> You can get the effects of pentacle even if you are outside the pentacle. This effect is not updated by the Burning Conduit that first got the effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/114",
+      "New": "flameWizard/M/114"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/115",
+      "New": "flameWizard/M/115"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/6",
+      "New": "flameWizard/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/85",
+      "New": "flameWizard/F/85"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/86",
+      "New": "flameWizard/F/86"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/32",
+      "New": "flameWizard/F/32"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/35",
+      "New": "flameWizard/F/35"
+    },
+    "voice/female/path/4": {
+      "Old": "flameWizard/F/44",
+      "New": "flameWizard/F/44"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

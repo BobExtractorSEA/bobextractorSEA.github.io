@@ -1,0 +1,66 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2767971-03:00",
+  "ChangeType": "Changed",
+  "Id": "151111004",
+  "Name": "Feather",
+  "Job": "Adele",
+  "Desc": "Disengage backwards like a feather to briefly levitate in midair.<br /><span style=\"font-weight:bold; color:orange;\">Can be used while using Trigger Skills beside Tread.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 46. Ether Cost: 30.<br />Move a certain distance backward.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span><br /><span style=\"font-weight:bold; color:orange;\">Passive Effect: MSPD +5, Jump +10, Max MSPD +10</span>",
+      "New": "MP Cost: 46. Ether Cost: 30.<br />Moves a certain distance backward.<br />Cooldown: 8 sec.<br />[Passive Effects: MSPD 5, Jump 10, Max MSPD 10"
+    },
+    "h1": {
+      "Old": "MP Cost: 46. Ether Cost: 30.<br />Move a certain distance backward.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span><br /><span style=\"font-weight:bold; color:orange;\">Passive Effect: MSPD +5, Jump +10, Max MSPD +10</span>",
+      "New": "MP Cost: 46. Ether Cost: 30.<br />Moves a certain distance backward.<br />Cooldown: 8 sec.<br />[Passive Effects: MSPD 5, Jump 10, Max MSPD 10"
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/14",
+      "New": "adele/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/13",
+      "New": "adele/M/13"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/2",
+      "New": "adele/F/2"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 46. Ether Cost: 30.<br />Moves a certain distance backward.<br />Cooldown: 8 sec.<br />[Passive Effects: MSPD 5, Jump 10, Max MSPD 10"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151111004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.3401961-03:00",
+  "ChangeType": "Changed",
+  "Id": "22171062",
+  "Name": "Circle of Earth",
+  "Job": "Evan",
+  "Desc": "Generates an irregular pentacle that pushes up the ground in front, shooting chunks of earth at enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "900+14*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/0",
+      "New": "evan/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/1",
+      "New": "evan/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/2",
+      "New": "evan/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "evan/M/3",
+      "New": "evan/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "evan/M/4",
+      "New": "evan/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/0",
+      "New": "evan/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/1",
+      "New": "evan/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/2",
+      "New": "evan/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "evan/F/3",
+      "New": "evan/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "evan/F/4",
+      "New": "evan/F/4"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22201006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22171062_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171062_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1817664-03:00",
+  "ChangeType": "Changed",
+  "Id": "2141005",
+  "Name": "Mist Eruption VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Detonates nearby Poison Mists, inflicting deadly Poison damage on enemies. The more DoT inflicted on the target, the more damage will be dealt, and you cannot detonate mists installed by others.<br />Not affected by cooldown reset effects. Successful mist explosion resets cooldown of Flame Haze.<br />Required skill: <span style=\"font-weight:bold; color:orange;\">Mist Eruption Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "canNotStealableSkill": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/11",
+      "New": "archMageFP/M/11"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/12",
+      "New": "archMageFP/M/12"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageFP/M/30",
+      "New": "archMageFP/M/30"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageFP/M/35",
+      "New": "archMageFP/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/11",
+      "New": "archMageFP/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/12",
+      "New": "archMageFP/F/12"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageFP/F/26",
+      "New": "archMageFP/F/26"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageFP/F/43",
+      "New": "archMageFP/F/43"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

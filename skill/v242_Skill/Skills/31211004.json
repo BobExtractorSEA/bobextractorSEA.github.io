@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.4573497-03:00",
+  "ChangeType": "Changed",
+  "Id": "31211004",
+  "Name": "Diabolic Recovery",
+  "Job": "Demon Avenger",
+  "Desc": "Significantly increases HP and recovers HP at regular intervals for a set period.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/39",
+      "New": "demonAvenger/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/40",
+      "New": "demonAvenger/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/41",
+      "New": "demonAvenger/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/42",
+      "New": "demonAvenger/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/43",
+      "New": "demonAvenger/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/44",
+      "New": "demonAvenger/F/44"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31211004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

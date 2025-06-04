@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7723102-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001098",
+  "Name": "Holy Traces",
+  "Job": "5th",
+  "Desc": "The holy fountain disappears, leaving its holy traces. Holy Fountain or Decent Holy Fountain can be used in maps with Holy Traces.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001098_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

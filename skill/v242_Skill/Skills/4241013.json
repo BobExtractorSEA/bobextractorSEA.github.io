@@ -1,0 +1,122 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0663113-03:00",
+  "ChangeType": "Added",
+  "Id": "4241013",
+  "Name": "Shadow Veil VI",
+  "Job": "Shadower",
+  "Desc": "Summons a dark ally to deal damage over time. Increases the chance of Advanced Dark Sight within the attack range of Dark Sight. Dark Sight does not end even after use. Also, hitting enemies with Assassinate creates a chance of charging the number of times Heartbreaker can be used.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shadow Veil Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -440,
+      "y": -620
+    },
+    "rb": {
+      "x": 440,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/4221052": "1",
+    "action/0": "6thVeilOfShadow",
+    "common/maxLevel": "30",
+    "common/mpCon": "320+8*d(x/6)",
+    "common/damage": "860+14*x",
+    "common/attackCount": "1",
+    "common/mobCount": "15",
+    "common/x": "12300",
+    "common/subTime": "900",
+    "common/cooltime": "60",
+    "common/lt/x": -440,
+    "common/lt/y": -620,
+    "common/rb/x": 440,
+    "common/rb/y": 120,
+    "common/y": "12",
+    "common/w": "180",
+    "common/q": "1",
+    "common/v": "20",
+    "weapon": "33",
+    "applyHyper": "1",
+    "footholdAffectedArea": "1",
+    "excl": "500",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "id": "4241013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = shadower/M/26 }",
+    "voice/male/path/1": "{ Old = , New = shadower/M/27 }",
+    "voice/female/path/0": "{ Old = , New = shadower/F/28 }",
+    "voice/female/path/1": "{ Old = , New = shadower/F/29 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 360. Periodically attacks up to 15 enemies at 1280% Damage for 12 sec.<br />Cooldown: 60 sec.<br />[Passive Effects: Hitting Assassinate VI creates a 20% chance of charging Heartbreaker VI use count +1.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4241013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4241013_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/4241013_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4241013_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/4241013_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/4241013_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

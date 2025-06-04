@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.8809131-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003445",
+  "Name": "Tangyoon's Cooking: HP/MP",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Max HP/MP</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Chew Chew Special Slushie: HP/MP",
+      "New": "Tangyoon's Cooking: HP/MP"
+    },
+    "common/mhpX": {
+      "Old": "500*x",
+      "New": null
+    },
+    "common/mmpX": {
+      "Old": "500*x",
+      "New": null
+    },
+    "level/1/mhpX": {
+      "Old": null,
+      "New": "500"
+    },
+    "level/1/mmpX": {
+      "Old": null,
+      "New": "500"
+    },
+    "level/2/mhpX": {
+      "Old": null,
+      "New": "1000"
+    },
+    "level/2/mmpX": {
+      "Old": null,
+      "New": "1000"
+    },
+    "level/3/mhpX": {
+      "Old": null,
+      "New": "1500"
+    },
+    "level/3/mmpX": {
+      "Old": null,
+      "New": "1500"
+    },
+    "level/4/mhpX": {
+      "Old": null,
+      "New": "2000"
+    },
+    "level/4/mmpX": {
+      "Old": null,
+      "New": "2000"
+    },
+    "level/5/mhpX": {
+      "Old": null,
+      "New": "3000"
+    },
+    "level/5/mmpX": {
+      "Old": null,
+      "New": "3000"
+    },
+    "level/6/mhpX": {
+      "Old": null,
+      "New": "4000"
+    },
+    "level/6/mmpX": {
+      "Old": null,
+      "New": "4000"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003445_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003445_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

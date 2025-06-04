@@ -1,0 +1,124 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9190693-03:00",
+  "ChangeType": "Added",
+  "Id": "4141009",
+  "Name": "Four Seasons VI",
+  "Job": "Night Lord",
+  "Desc": "Summons four throwing stars that combine into a huge, destructive throwing star. Hitting a certain number of skills imbues it with thick dark energy, enhancing it to <span style=\"font-weight:bold; color:orange;\">Four Seasons VI: Rampant</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Four Seasons Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -330,
+      "y": -340
+    },
+    "rb": {
+      "x": 330,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/4121052": "1",
+    "action/0": "6thFourSeasons",
+    "common/maxLevel": "30",
+    "common/mpCon": "330",
+    "common/mobCount": "8",
+    "common/damage": "430+22*x",
+    "common/attackCount": "7",
+    "common/cooltime": "14",
+    "common/x": "1",
+    "common/cancelableTime": "210",
+    "common/lt/x": -330,
+    "common/lt/y": -340,
+    "common/rb/x": 330,
+    "common/rb/y": 100,
+    "common/w": "8",
+    "common/w2": "100+2*x",
+    "common/w3": "7",
+    "common/q": "250+18*x",
+    "common/q2": "7",
+    "common/q3": "6",
+    "cancelableSkillID/0": "4101015",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "20",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "applyHyper": "1",
+    "id": "4141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = nightLord/M/31 }",
+    "voice/male/path/1": "{ Old = , New = nightLord/M/32 }",
+    "voice/male/path/2": "{ Old = , New = nightLord/M/11 }",
+    "voice/female/path/0": "{ Old = , New = nightLord/F/40 }",
+    "voice/female/path/1": "{ Old = , New = nightLord/F/41 }",
+    "voice/female/path/2": "{ Old = , New = nightLord/F/17 }"
+  },
+  "HFields": {
+    "h1": "Cost: 330 MP and 1 throwing star. Attacks up to 8 enemies at 1090% Damage 7 times.<br />Hitting 1 skills enhances the next attack to <span style=\"font-weight:bold; color:orange;\">Four Seasons VI: Rampant</span>.<br /><span style=\"font-weight:bold; color:orange;\">Four Seasons VI: Rampant</span>: Activates Annihilate 6 times that attacks up to 8 enemies at 160% Damage 7 times,<br />and then attacks at 790% Damage 7 times.<br />Cooldown: 14 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4141009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4141009_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

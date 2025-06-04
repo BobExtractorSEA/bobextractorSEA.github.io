@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.39724-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001802",
+  "Name": "Martial Arts: Claw Basic",
+  "Job": "Etc",
+  "Desc": "Kitty Martial Arts can be performed by lions which is the vertex of a cat class. The power of Soul Weapon summons Von Leon who performs Claw Basic specific to one to one match in Kitty Martial Arts.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001802_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

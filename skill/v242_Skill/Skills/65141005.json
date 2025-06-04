@@ -1,0 +1,102 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.9439309-03:00",
+  "ChangeType": "Added",
+  "Id": "65141005",
+  "Name": "Supreme Supernova VI",
+  "Job": "Angelic Buster",
+  "Desc": "Sets up an energy ball that radiates Eskalade's power in all directions. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Also, increases Trinity VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Supreme Supernova Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -420,
+      "y": -500
+    },
+    "rb": {
+      "x": 420,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/65121052": "1",
+    "action/0": "6thSuperNova",
+    "common/maxLevel": "30",
+    "common/mpCon": "100+d(x/2)",
+    "common/damage": "334+26*x",
+    "common/attackCount": "4",
+    "common/mobCount": "15",
+    "common/time": "30",
+    "common/subTime": "660",
+    "common/cooltime": "60",
+    "common/lt/x": -420,
+    "common/lt/y": -500,
+    "common/rb/x": 420,
+    "common/rb/y": 100,
+    "common/x": "18",
+    "common/damPlus": "26+4*x",
+    "tile/repeat": "13",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "50",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "22",
+    "subWeapon": "35",
+    "excl": "500",
+    "applyHyper": "1",
+    "secondaryStatFreezeExcept": "1",
+    "psd": "1",
+    "id": "65141005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 0,
+    "voice/female/count": 2,
+    "voice/female/path/0": "{ Old = , New = angelicBurster/F/26 }",
+    "voice/female/path/1": "{ Old = , New = angelicBurster/F/27 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 115. Summons an energy ball for 30 sec.<br />This energy ball periodically attacks up to 15 enemies at 1114% Damage 4 times. Disappears if attacking a single enemy 18 times.<br />Cooldown: 60 sec.<br />[Passive Effects: Trinity VI Damage +146%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_65141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/65141005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/65141005_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/65141005_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/65141005_special_new.webp"
+    }
+  },
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

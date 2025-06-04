@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7766415-03:00",
+  "ChangeType": "Changed",
+  "Id": "65120006",
+  "Name": "Affinity Heart IV",
+  "Job": "Angelic Buster",
+  "Desc": "Improves your affinity to the ancient dragons, allowing you to freely manipulate their relics.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the Hyper Skill, Pretty Exaltation.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/24": {
+      "Old": null,
+      "New": "65141005"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "65141006"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_65120006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

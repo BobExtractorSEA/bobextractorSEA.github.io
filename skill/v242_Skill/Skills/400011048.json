@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.167483-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011048",
+  "Name": "Solar Slash",
+  "Job": "5th (Warrior)",
+  "Desc": "Erupts an explosive energy from an abandoned soul. Cooldown is reduced when your <span style=\"font-weight:bold; color:orange;\">stance changes</span> to Soluna's Harmony when an attack hits during Lunar or Sol Stance, or when <span style=\"font-weight:bold; color:orange;\">Soul Cleaving hits</span>. Solar Slash does not affect enemies in the Damage Reflection status and Cooldown Reduction.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/21": {
+      "Old": null,
+      "New": "11141004"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "11141005"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011048_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

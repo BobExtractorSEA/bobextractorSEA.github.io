@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6176282-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121053",
+  "Name": "Glory of Guardians",
+  "Job": "Wind Archer",
+  "Desc": "Hold a sacred ceremony to uphold the honor of the Cygnus Knights and affirm their devotion to the Empress.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/58",
+      "New": "windBreaker/M/58"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/60",
+      "New": "windBreaker/M/60"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/61",
+      "New": "windBreaker/M/61"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/71",
+      "New": "windBreaker/M/71"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/59",
+      "New": "windBreaker/F/59"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/60",
+      "New": "windBreaker/F/60"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

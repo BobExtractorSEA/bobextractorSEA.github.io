@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.8384018-03:00",
+  "ChangeType": "Added",
+  "Id": "1341006",
+  "Name": "Beholder's Punishment",
+  "Job": "Dark Knight",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/1320011": "30",
+    "common/maxLevel": "30",
+    "common/damage": "133+3*x",
+    "common/attackCount": "5",
+    "common/x": "60",
+    "special/0/useZ": "1",
+    "special/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/onlyOnce": "1",
+    "skillType": "3",
+    "invisible": "1",
+    "id": "1341006",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1341006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1341006_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/1341006_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

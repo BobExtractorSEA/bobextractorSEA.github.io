@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.5892838-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031049",
+  "Name": "Relic Unbound (Blast)",
+  "Job": "5th (Bowman)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Completely unlock the relic's power to place an offensive relic that fire arrows and causes a strong explosion upon hitting an enemy. When Pathfinder's attack hits, the placed relic resonates and starts attacking. It does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/32",
+      "New": "pathfinder/M/32"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/32",
+      "New": "pathfinder/F/32"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031049_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031049_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031049_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

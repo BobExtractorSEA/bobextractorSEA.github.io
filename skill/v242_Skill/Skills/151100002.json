@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1889924-03:00",
+  "ChangeType": "Changed",
+  "Id": "151100002",
+  "Name": "Ether Crystal",
+  "Job": "Adele",
+  "Desc": "When Ether Sword attacks enemies, it sometimes gathers the scattered Ether to create a crystal. Using Resonance allows you to charge towards the crystal.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Lasts for 30 sec. and up to 7 can exist in a map.<br />When a new crystal forms past the max amount, the next expiring crystal disappears.<br />Crystals can't be created on top of each other or near specific platforms that aren't reachable.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 4 sec.</span>",
+      "New": "Lasts for 30 sec. and up to 7 can exist within the same map.<br />When a new crystal forms past the max amount, the next expiring crystal disappears.<br />Crystals can't be created on top of each other or near specific platforms that aren't reachable.<br />Cooldown: 4 sec."
+    },
+    "h1": {
+      "Old": "Lasts for 30 sec. and up to 7 can exist in a map.<br />When a new crystal forms past the max amount, the next expiring crystal disappears.<br />Crystals can't be created on top of each other or near specific platforms that aren't reachable.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 4 sec.</span>",
+      "New": "Lasts for 30 sec. and up to 7 can exist within the same map.<br />When a new crystal forms past the max amount, the next expiring crystal disappears.<br />Crystals can't be created on top of each other or near specific platforms that aren't reachable.<br />Cooldown: 4 sec."
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Lasts for 30 sec. and up to 7 can exist within the same map.<br />When a new crystal forms past the max amount, the next expiring crystal disappears.<br />Crystals can't be created on top of each other or near specific platforms that aren't reachable.<br />Cooldown: 4 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151100002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

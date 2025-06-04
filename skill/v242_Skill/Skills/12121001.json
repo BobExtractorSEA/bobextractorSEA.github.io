@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1366079-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121001",
+  "Name": "Blazing Extinction",
+  "Job": "Blaze Wizard",
+  "Desc": "Launches a compressed orb of superheated flame. The flaming orb of the Fire element travels forward, striking enemies within range with flaming corona.<br />Use with the Down key to activate Blazing Extinction - Fox mode. Lock the command to disable the Blazing Extinction - Fox mode when using this skill with the Down key.<br /><span style=\"font-weight:bold; color:orange;\">Requires a Fire Lion.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Launches a compressed orb of superheated flame. The flaming orb of the Fire element travels forward, striking enemies within range with flaming corona.<br />Use with the Down key to activate Blazing Extinction - Fox mode. <span style=\"font-weight:bold; color:orange;\">Requires a Fire Lion.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span>",
+      "New": "Launches a compressed orb of superheated flame. The flaming orb of the Fire element travels forward, striking enemies within range with flaming corona.<br />Use with the Down key to activate Blazing Extinction - Fox mode. Lock the command to disable the Blazing Extinction - Fox mode when using this skill with the Down key.<br /><span style=\"font-weight:bold; color:orange;\">Requires a Fire Lion.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/46",
+      "New": "flameWizard/M/46"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/61",
+      "New": "flameWizard/M/61"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/56",
+      "New": "flameWizard/F/56"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/52",
+      "New": "flameWizard/F/52"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/49",
+      "New": "flameWizard/F/49"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

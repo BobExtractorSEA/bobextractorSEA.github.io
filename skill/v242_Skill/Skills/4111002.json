@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1781789-03:00",
+  "ChangeType": "Changed",
+  "Id": "4111002",
+  "Name": "Shadow Partner",
+  "Job": "Night Lord",
+  "Desc": "Summons a shadow that mimics your actions for a set period. It does not have a separate HP, but it disappears when hit with an attack that alters its shape or limits its movement. Does not apply to Summons, 5th Job Skills for all jobs and other specific skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightLord/M/9",
+      "New": "nightLord/M/9"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/8",
+      "New": "nightLord/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/10",
+      "New": "nightLord/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/9",
+      "New": "nightLord/F/9"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

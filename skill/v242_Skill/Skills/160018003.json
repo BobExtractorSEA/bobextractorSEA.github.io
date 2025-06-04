@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.3038482-03:00",
+  "ChangeType": "Changed",
+  "Id": "160018003",
+  "Name": "Decent Hyper Body",
+  "Job": "Lara",
+  "Desc": "[Potential Skill]<br />Increases Max HP/MP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_160018003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,69 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0880767-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121041",
+  "Name": "Endless Torment",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "ark/M/4",
+      "New": "ark/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/4",
+      "New": "ark/F/4"
+    },
+    "cancelableSkillID/23": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/24": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/25": {
+      "Old": null,
+      "New": "155141036"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "155141030"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121041_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121041_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

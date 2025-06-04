@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7124644-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121052",
+  "Name": "Chain Arts: Crush",
+  "Job": "Cadena",
+  "Desc": "Throws out multiple chains at the enemy from the air to the ground at once to crush them. When hitting, Weapon Variation can be stacked at max.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 510% damage 15 times.<br />When hitting, Weapon Variation can be stacked at max.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 30 sec.</span>",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 510% Damage 15 times.<br />Max-stacks Weapon Variation on hit and sets the duration to 15 sec.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 510% damage 15 times.<br />When hitting, Weapon Variation can be stacked at max.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 30 sec.</span>",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 510% Damage 15 times.<br />Max-stacks Weapon Variation on hit and sets the duration to 15 sec.<br />Cooldown: 30 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "950",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "30",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "trembling": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/6",
+      "New": "cadena/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/7",
+      "New": "cadena/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/9",
+      "New": "cadena/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/6",
+      "New": "cadena/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/7",
+      "New": "cadena/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/9",
+      "New": "cadena/F/9"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141021"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Attacks up to 15 enemies at 510% Damage 15 times.<br />Max-stacks Weapon Variation on hit and sets the duration to 15 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7685427-03:00",
+  "ChangeType": "Changed",
+  "Id": "4221052",
+  "Name": "Shadow Veil",
+  "Job": "Shadower",
+  "Desc": "Summons a dark ally to deal damage over time. Increases the chance of Advanced Dark Sight within the attack range of Dark Sight. Dark Sight does not end even after use.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. Attacks 15 enemies within range at 800% damage for 12 sec.<br />Cooldown: 60",
+      "New": "MP Cost: 300. Periodically attacks up to 15 enemies at 800% Damage for 12 sec.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Attacks 15 enemies within range at 800% damage for 12 sec.<br />Cooldown: 60",
+      "New": "MP Cost: 300. Periodically attacks up to 15 enemies at 800% Damage for 12 sec.<br />Cooldown: 60 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "800",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "12",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "900",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "shadower/M/26",
+      "New": "shadower/M/26"
+    },
+    "voice/male/path/1": {
+      "Old": "shadower/M/27",
+      "New": "shadower/M/27"
+    },
+    "voice/female/path/0": {
+      "Old": "shadower/F/28",
+      "New": "shadower/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "shadower/F/29",
+      "New": "shadower/F/29"
+    },
+    "common/w": {
+      "Old": null,
+      "New": "180"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4241013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Periodically attacks up to 15 enemies at 800% Damage for 12 sec.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4221052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

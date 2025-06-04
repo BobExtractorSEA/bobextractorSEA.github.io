@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2220349-03:00",
+  "ChangeType": "Changed",
+  "Id": "36001002",
+  "Name": "Incline Power",
+  "Job": "Xenon",
+  "Desc": "Improves your power, so you can inflict greater damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/2",
+      "New": "xenon/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/3",
+      "New": "xenon/M/3"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/4",
+      "New": "xenon/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/2",
+      "New": "xenon/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/3",
+      "New": "xenon/F/3"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/4",
+      "New": "xenon/F/4"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36001002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36001002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

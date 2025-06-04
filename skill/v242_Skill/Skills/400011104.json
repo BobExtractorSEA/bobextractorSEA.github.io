@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2089444-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011104",
+  "Name": "Sword Celestial - Susanoo",
+  "Job": "5th (Warrior)",
+  "Desc": "Focuses the Blade Force to evoke the Sword Celestial, Susanoo.<br /> While active, Susanoo will collect the Blade Force from enemies and restore the Blade Force <span style=\"font-weight:bold; color:orange;\">at the end of its summon duration or when reusing the skill once more</span>.<br />Susanoo won’t restore the Blade Force when attacking multiple enemies with a Final Strike while in Battoujutsu stance.<br />Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011104_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

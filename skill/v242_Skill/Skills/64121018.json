@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.6934515-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121018",
+  "Name": "Chain Arts: Takedown",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141018"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

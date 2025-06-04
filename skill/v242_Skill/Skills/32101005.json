@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.574115-03:00",
+  "ChangeType": "Changed",
+  "Id": "32101005",
+  "Name": "Staff Boost",
+  "Job": "Battle Mage",
+  "Desc": "Temporarily increases Staff ASPD by 2 levels at the cost of MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Staff Mastery or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

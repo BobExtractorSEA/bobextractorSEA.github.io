@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5175788-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221052",
+  "Name": "Strange Bomb",
+  "Job": "Corsair",
+  "Desc": "Throw a huge bomb, made with unknown technology, to enemies in front of you.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

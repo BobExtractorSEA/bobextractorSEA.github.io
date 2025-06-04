@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4648225-03:00",
+  "ChangeType": "Changed",
+  "Id": "42111110",
+  "Name": "Shikigami Haunting III (Hit 1)",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Uses the power of the yin-yang to attack the enemies in front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42111110_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.5034214-03:00",
+  "ChangeType": "Changed",
+  "Id": "0008000",
+  "Name": "Decent Haste",
+  "Job": "Beginner",
+  "Desc": "Potential Skill<br />Temporarily increases your MSPD and Jump.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_0008000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

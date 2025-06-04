@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.5486099-03:00",
+  "ChangeType": "Changed",
+  "Id": "13111024",
+  "Name": "Emerald Flower",
+  "Job": "Wind Archer",
+  "Desc": "Summons the green crystal flowers that emit a scent to attract enemies' attention. Enemies lost in the scent move slower.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job Skill, 'Emerald Dust'</span> ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/99",
+      "New": "windBreaker/M/99"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/44",
+      "New": "windBreaker/M/44"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/104",
+      "New": "windBreaker/F/104"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/50",
+      "New": "windBreaker/F/50"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13111024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13111024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13111024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13111024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13111024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

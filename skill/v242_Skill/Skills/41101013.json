@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2059336-03:00",
+  "ChangeType": "Changed",
+  "Id": "41101013",
+  "Name": "Falcon Dive",
+  "Job": "Hayato",
+  "Desc": "Jumps high and forcefully strikes the ground with his katana. The <span style=\"font-weight:bold; color:orange;\">4th step in the 8-step Battoujutsu Combo sequence.</span><br /><span style=\"font-weight:bold; color:orange;\">Chainable Skills: Shouryuusen, Whirlwind Cut, Sanrenzan, Dankuusen, Hitokiri Strike, Iaigiri and Rising Slash</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hayato/M/17",
+      "New": "hayato/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": "hayato/F/17",
+      "New": "hayato/F/17"
+    },
+    "addAttack/skillPlus/16": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41101013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41101013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41101013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

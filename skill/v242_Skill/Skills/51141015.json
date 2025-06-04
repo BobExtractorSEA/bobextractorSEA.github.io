@@ -1,0 +1,112 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1494587-03:00",
+  "ChangeType": "Added",
+  "Id": "51141015",
+  "Name": "Shield Installation VI",
+  "Job": "Mihile",
+  "Desc": "Summons a Soul shield imbued with the power of light. Soul Shield can also be placed in the air and is affected by SUMMONS DURATION INCREASE.<br />Periodically emits light to attack enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shield Installation Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "31",
+    "req/51121016": "30",
+    "action/0": "6thInstallShield",
+    "common/maxLevel": "30",
+    "common/mpCon": "84+d(x/2)",
+    "common/damage": "243+8*x",
+    "common/attackCount": "4",
+    "common/mobCount": "6",
+    "common/time": "61",
+    "common/cooltime": "10",
+    "common/attackDelay": "2000",
+    "common/nbdR": "60",
+    "summon/attack1/info/range/lt/x": -295,
+    "summon/attack1/info/range/lt/y": -350,
+    "summon/attack1/info/range/rb/x": 295,
+    "summon/attack1/info/range/rb/y": 70,
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/createDelay": "360",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "30",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "showSummonedBuffIcon": "2",
+    "psd": "1",
+    "jobShield": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "51141015",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = mikhail/M/85 }",
+    "voice/male/path/1": "{ Old = , New = mikhail/M/86 }",
+    "voice/male/path/2": "{ Old = , New = mikhail/M/24 }",
+    "voice/male/path/3": "{ Old = , New = mikhail/M/30 }",
+    "voice/male/path/4": "{ Old = , New = mikhail/M/46 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 99. Lasts for 61 sec.<br />Periodically attacks up to 6 enemies at 483% Damage 4 times.<br />Normal Monster Damage +60%<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/51141015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/51141015_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141015_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

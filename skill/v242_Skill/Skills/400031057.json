@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.575747-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031057",
+  "Name": "Relic Unbound",
+  "Job": "5th (Bowman)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Completely unlock the relic's power to place an offensive relic. When Pathfinder's attack hits an enemy, the relic resonates to activate an attack that matches the pattern. Cannot be used if there is no relic pattern.<br /><span style=\"font-weight:bold; color:orange;\">Discharge Enhancement</span><br />Places a relic that unleashes a flurry of arrows forward.<br /><span style=\"font-weight:bold; color:orange;\">Blast Enhancement</span><br />Places a relic that fires arrows that explode on impact.<br /><span style=\"font-weight:bold; color:orange;\">Transition Enhancement</span><br />Places multiple relics that attack all enemies within a set range.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031057_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

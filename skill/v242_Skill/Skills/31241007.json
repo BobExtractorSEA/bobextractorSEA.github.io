@@ -1,0 +1,177 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1031526-03:00",
+  "ChangeType": "Added",
+  "Id": "31241007",
+  "Name": "Exceed : Moonlight Slash VI",
+  "Job": "Demon Avenger",
+  "Desc": "Circles around, cutting enemies in front and back.<br /><span style=\"font-weight:bold; color:orange;\">Exceed</span>: Gradually increases Attack Speed as it consumes more HP.<br />Exceed: Moonlight Slash VI's Exceed Overload can't be canceled until Release Overload is used.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Final Damage of Moonlight Slash Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -310,
+      "y": -210
+    },
+    "rb": {
+      "x": 310,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/31211000": "20",
+    "action/0": "6thMoonLightSlach0",
+    "common/maxLevel": "30",
+    "common/hpRCon": "3",
+    "common/mobCount": "10",
+    "common/damage": "693+15*x",
+    "common/attackCount": "3",
+    "common/lt/x": -310,
+    "common/lt/y": -210,
+    "common/rb/x": 310,
+    "common/rb/y": 90,
+    "exceedInfo/list/0/time": "20000",
+    "exceedInfo/list/1/skill": "31241008",
+    "exceedInfo/list/1/time": "20000",
+    "exceedInfo/list/2/skill": "31241009",
+    "exceedInfo/list/2/time": "20000",
+    "exceedInfo/list/3/skill": "31241010",
+    "exceedInfo/list/3/time": "20000",
+    "exceedInfo/list/4/skill": "31241011",
+    "exceedInfo/list/4/time": "20000",
+    "exceedInfo/list/defaultTime": "8000",
+    "finalAttack/31220007/0": "23",
+    "skillList/0": "400011000",
+    "effect0/z": "-2",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "25",
+    "weapon": "23",
+    "id": "31241007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 5,
+    "voice/female/count": 7,
+    "voice/male/path/0": "{ Old = , New = demonAvenger/M/27 }",
+    "voice/male/path/1": "{ Old = , New = demonAvenger/M/28 }",
+    "voice/male/path/2": "{ Old = , New = demonAvenger/M/29 }",
+    "voice/male/path/3": "{ Old = , New = demonAvenger/M/9 }",
+    "voice/male/path/4": "{ Old = , New = demonAvenger/M/6 }",
+    "voice/female/path/0": "{ Old = , New = demonAvenger/F/30 }",
+    "voice/female/path/1": "{ Old = , New = demonAvenger/F/31 }",
+    "voice/female/path/2": "{ Old = , New = demonAvenger/F/32 }",
+    "voice/female/path/3": "{ Old = , New = demonAvenger/F/5 }",
+    "voice/female/path/4": "{ Old = , New = demonAvenger/F/1 }",
+    "voice/female/path/5": "{ Old = , New = demonAvenger/F/6 }",
+    "voice/female/path/6": "{ Old = , New = demonAvenger/F/9 }"
+  },
+  "HFields": {
+    "h1": "Cost: 3% of Max HP. Attacks up to 10 enemies at 1143% Damage 3 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31241007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31241007_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/31241007_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31241007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

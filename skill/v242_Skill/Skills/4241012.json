@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.043985-03:00",
+  "ChangeType": "Added",
+  "Id": "4241012",
+  "Name": "Dark Flare VI",
+  "Job": "Shadower",
+  "Desc": "Summons a giant shuriken that attacks nearby enemies releasing dark energy for a certain amount of time. Dark Flare does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Flare Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/4211007": "20",
+    "action/0": "6thDarkFlareShadower",
+    "common/maxLevel": "30",
+    "common/mpCon": "105+d(x/2)",
+    "common/time": "60",
+    "common/cooltime": "60",
+    "common/damage": "400+6*x",
+    "common/subTime": "930",
+    "common/mobCount": "5",
+    "weapon": "33",
+    "canSummonedAttackOnDarkSight": "1",
+    "secondaryStatFreezeExcept": "1",
+    "showSummonedBuffIcon": "1",
+    "summon/attack1/info/mobCount": "5",
+    "summon/attack1/info/range/lt/x": -405,
+    "summon/attack1/info/range/lt/y": -290,
+    "summon/attack1/info/range/rb/x": 405,
+    "summon/attack1/info/range/rb/y": 145,
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "id": "4241012",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 120. Summons a giant dagger for 60 sec.<br />Periodically attacks up to 5 enemies at 580% Damage.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4241012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4241012_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

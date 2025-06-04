@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2398773-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003776",
+  "Name": "Burn Immunity",
+  "Job": "Etc",
+  "Desc": "The power of the Anti-Demon Pendant blocks the scorching heat and fiery curses sent out by the Destructive Infernus for a certain period of time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/time": {
+      "Old": "30",
+      "New": "60"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003776_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

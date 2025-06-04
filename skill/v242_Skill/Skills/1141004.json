@@ -1,0 +1,161 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6062027-03:00",
+  "ChangeType": "Added",
+  "Id": "1141004",
+  "Name": "Final Blade",
+  "Job": "Hero",
+  "Desc": "Throws more powerful blades to rip the enemy to shreds in desired directions. Swords can be sent flying in <span style=\"font-weight:bold; color:orange;\">8 directions</span> by using the skill with the directional keys.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Aura Blade Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/1111016": "20",
+    "action/0": "6thAuraBladeNew",
+    "common/maxLevel": "30",
+    "common/mpCon": "27+u(x/6)",
+    "common/damage": "513+6*x",
+    "common/mobCount": "8",
+    "common/attackCount": "5",
+    "common/u": "200+3*x",
+    "finalAttack/1100002/0": "30",
+    "finalAttack/1100002/1": "31",
+    "finalAttack/1100002/2": "40",
+    "finalAttack/1100002/3": "41",
+    "skillList/0": "400011000",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "35",
+    "shootobj/info/start/x": -80,
+    "shootobj/info/start/y": -60,
+    "shootobj/info/bodyWH/x": 320,
+    "shootobj/info/bodyWH/y": 340,
+    "shootobj/info/useUpWhenMaxMobCount": "1",
+    "shootobj/info/startDelay": "240",
+    "shootobj/info/pickDir5Way": "1",
+    "shootobj/info/multiStartPos": "1",
+    "shootobj/info/noHitWhenMaxCount": "1",
+    "shootobj/info/deleteAlpha": "1",
+    "shootobj/info/deleteAlphaDelay": "-840",
+    "shootobj/moveList/p1/0/v": "50",
+    "shootobj/moveList/p1/0/delay": "0",
+    "shootobj/moveList/p1/0/pos/x": 0,
+    "shootobj/moveList/p1/0/pos/y": 600,
+    "shootobj/moveList/p2/0/v": "50",
+    "shootobj/moveList/p2/0/delay": "0",
+    "shootobj/moveList/p2/0/pos/x": -600,
+    "shootobj/moveList/p2/0/pos/y": 0,
+    "shootobj/moveList/p3/0/v": "50",
+    "shootobj/moveList/p3/0/delay": "0",
+    "shootobj/moveList/p3/0/pos/x": 0,
+    "shootobj/moveList/p3/0/pos/y": -600,
+    "shootobj/moveList/p4/0/v": "50",
+    "shootobj/moveList/p4/0/delay": "0",
+    "shootobj/moveList/p4/0/pos/x": -425,
+    "shootobj/moveList/p4/0/pos/y": 425,
+    "shootobj/moveList/p5/0/v": "50",
+    "shootobj/moveList/p5/0/delay": "0",
+    "shootobj/moveList/p5/0/pos/x": -425,
+    "shootobj/moveList/p5/0/pos/y": -425,
+    "additional_process/1": "4",
+    "additional_process/2": "22",
+    "showStackCooltimeNum": "1",
+    "invisible": "1",
+    "id": "1141004",
+    "has_req": true,
+    "voice/prop": "40",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = hero/M/5 }",
+    "voice/male/path/1": "{ Old = , New = hero/M/25 }",
+    "voice/male/path/2": "{ Old = , New = hero/M/26 }",
+    "voice/male/path/3": "{ Old = , New = hero/M/30 }",
+    "voice/female/path/0": "{ Old = , New = hero/F/5 }",
+    "voice/female/path/1": "{ Old = , New = hero/F/24 }",
+    "voice/female/path/2": "{ Old = , New = hero/F/26 }",
+    "voice/female/path/3": "{ Old = , New = hero/F/31 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 32. Throws blades that attack up to 8 enemies at 693% Damage 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1141004_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/1141004_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1141004_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

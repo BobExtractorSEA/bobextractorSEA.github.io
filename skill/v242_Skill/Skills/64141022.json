@@ -1,0 +1,224 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7683854-03:00",
+  "ChangeType": "Added",
+  "Id": "64141022",
+  "Name": "Weapon Arts: Shotgun Blaster VI",
+  "Job": "Cadena",
+  "Desc": "Summons a shotgun to fire off a buckshot towards the front in a fan-shape. Closer enemies receive more damage. Jumps backward by using the recoil when firing. Prevents being knocked back by any attack while casting.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Arts: Shotgun Blaster Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -190,
+      "y": -120
+    },
+    "rb": {
+      "x": 0,
+      "y": 20
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "casterMove": "1",
+    "areaAttack": "1",
+    "avaliableInJumpingState": "1",
+    "req/64111002": "20",
+    "action/0": "6thNTshotgun",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+d(x/6)",
+    "common/damage": "610+11*x",
+    "common/attackCount": "7",
+    "common/mobCount": "6",
+    "common/w2": "537+10*x",
+    "common/u3": "7",
+    "common/u2": "6",
+    "common/q2": "488+9*x",
+    "common/w4": "7",
+    "common/w3": "6",
+    "common/cooltime": "5",
+    "common/lt/x": -190,
+    "common/lt/y": -120,
+    "common/rb/x": 0,
+    "common/rb/y": 20,
+    "common/lt2/x": -290,
+    "common/lt2/y": -180,
+    "common/rb2/x": -190,
+    "common/rb2/y": 70,
+    "common/lt3/x": -390,
+    "common/lt3/y": -240,
+    "common/rb3/x": -290,
+    "common/rb3/y": 120,
+    "common/updatableTime": "300",
+    "common/cancelableTime": "150",
+    "common/x": "500",
+    "common/y": "500",
+    "common/u": "400",
+    "common/w": "650",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001001",
+    "cancelableSkillID/2": "64001002",
+    "cancelableSkillID/3": "64001007",
+    "cancelableSkillID/4": "64001008",
+    "cancelableSkillID/5": "64001013",
+    "cancelableSkillID/6": "64101001",
+    "cancelableSkillID/7": "64141000",
+    "cancelableSkillID/8": "64141030",
+    "cancelableSkillID/9": "64141031",
+    "cancelableSkillID/10": "64141034",
+    "rush/elem/0/style": "5",
+    "rush/elem/0/time": "300",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "effect0/z": "-2",
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngleRange/x": -25,
+    "hit/0/randomHitAngleRange/y": 35,
+    "hit/0/randomHitOrigin": "30",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "21",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141022",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt3": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb3": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/male/path/5": "{ Old = , New = cadena/M/9 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }",
+    "voice/female/path/5": "{ Old = , New = cadena/F/9 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 35.<br />Close Distance: Attacks up to 6 enemies at 940% Damage 7 times.<br />Middle Distance: Attacks up to 6 enemies at 837% Damage 7 times.<br />Long Distance: Attacks up to 6 enemies at 758% damage 7 times.<br />Cooldown 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141022_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141022_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/64141022_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141022_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141022_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

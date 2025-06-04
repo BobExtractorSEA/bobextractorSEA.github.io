@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5584244-03:00",
+  "ChangeType": "Changed",
+  "Id": "64101008",
+  "Name": "Weapon Arts: Shuriken Bomb",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "19",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "5+3*u(x/4)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "260+10*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "u(x/7)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4+d(x/4)",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141033"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64101008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

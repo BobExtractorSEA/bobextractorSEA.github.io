@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1453391-03:00",
+  "ChangeType": "Changed",
+  "Id": "2121004",
+  "Name": "Infinity",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Draws infinite Mana with your concentrated mind, so you can use this skill without consuming MP for a certain period of time. Also restores your HP and MP continuously and increases all offensive magic damage. <br />Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/33",
+      "New": "archMageFP/M/33"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/37",
+      "New": "archMageFP/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/40",
+      "New": "archMageFP/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/41",
+      "New": "archMageFP/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

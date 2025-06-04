@@ -1,0 +1,74 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.565365-03:00",
+  "ChangeType": "Changed",
+  "Id": "152110004",
+  "Name": "Glory Wing: Javelin",
+  "Job": "Illium",
+  "Desc": "Javelin enhanced with the power of Glory Wing. Automatically tracks enemies and explodes to deal massive damage. Javelin prioritizes tracking Boss Monsters with the highest Max HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skill": {
+      "Old": null,
+      "New": "152141014"
+    },
+    "addAttack/type": {
+      "Old": null,
+      "New": "0"
+    },
+    "addAttack/reqCount": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/pattern": {
+      "Old": null,
+      "New": "151"
+    },
+    "addAttack/skipActionFrame": {
+      "Old": null,
+      "New": "3"
+    },
+    "addAttack/patternType": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/permitTime": {
+      "Old": null,
+      "New": "450"
+    },
+    "addAttack/isCancelable": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/0": {
+      "Old": null,
+      "New": "80001155"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/1": {
+      "Old": null,
+      "New": "80002633"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/2": {
+      "Old": null,
+      "New": "152121010"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/3": {
+      "Old": null,
+      "New": "152121043"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/4": {
+      "Old": null,
+      "New": "400001009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152110004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

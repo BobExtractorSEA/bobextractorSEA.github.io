@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.7061988-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003150",
+  "Name": "World Map Teleport (Thunder Unicorn)",
+  "Job": "Etc",
+  "Desc": "World Map Teleport skill can be used while riding the Thunder Unicorn Mount.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "ableTeleportWorldmap": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003150_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

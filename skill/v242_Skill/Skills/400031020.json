@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4948424-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031020",
+  "Name": "Illusionary Shot",
+  "Job": "5th (Bowman)",
+  "Desc": "Attacks at a blinding speed to create the illusion of shooting a bow. Not affected when attacking enemies in Damage Reflection state, and attacking a certain number of times outside Illusionary Shot's Active effect quickly activates the illusion of an attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bowMaster/M/19",
+      "New": "bowMaster/M/19"
+    },
+    "voice/male/path/1": {
+      "Old": "bowMaster/M/20",
+      "New": "bowMaster/M/20"
+    },
+    "voice/female/path/0": {
+      "Old": "bowMaster/F/19",
+      "New": "bowMaster/F/19"
+    },
+    "voice/female/path/1": {
+      "Old": "bowMaster/F/20",
+      "New": "bowMaster/F/20"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031020_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031020_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031020_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031020_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

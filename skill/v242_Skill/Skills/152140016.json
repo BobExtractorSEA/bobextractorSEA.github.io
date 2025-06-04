@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.126725-03:00",
+  "ChangeType": "Added",
+  "Id": "152140016",
+  "Name": "Perfect Curse Mark VI",
+  "Job": "Illium",
+  "Desc": "Deals a powerful additional blow to enemies marked with the Curse Mark. Also, permanently enhances Invoke: Javelin VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Perfect Curse Mark Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "51",
+    "condition": "attack",
+    "mes": "elementalWeaken",
+    "showFromTheHead": "1",
+    "info2/ignoreCounter": "1",
+    "req/152120013": "10",
+    "common/maxLevel": "30",
+    "common/damage": "200+20*x",
+    "common/x": "5",
+    "common/damPlus": "x",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/1/useZ": "1",
+    "hit/1/z": "2",
+    "hit/1/randomHitOrigin": "35",
+    "hit/1/randomHitAngle": "1",
+    "hit/2/useZ": "1",
+    "hit/2/z": "2",
+    "hit/2/randomHitOrigin": "35",
+    "hit/2/randomHitAngle": "1",
+    "hit/randomHit": "1",
+    "weapon": "28",
+    "subWeapon": "35",
+    "psd": "1",
+    "id": "152140016",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Attacking a Curse Mark target activates an additional attack at 800% Damage regardless of the Cursed Mark stacks.<br />[Passive Effects: Invoke: Javelin VI and Invoke: Javelin Damage +30%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152140016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152140016_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

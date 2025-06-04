@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.0938038-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001694",
+  "Name": "Vellum Giga Laser",
+  "Job": "Etc",
+  "Desc": "Vellum roars with sky-shattering force. It's like he is breathing out lasers. The Soul Weapon's power summons Vellum and Vellum attacks monsters in front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001694_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

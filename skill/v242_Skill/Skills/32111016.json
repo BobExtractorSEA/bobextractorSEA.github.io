@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5871302-03:00",
+  "ChangeType": "Changed",
+  "Id": "32111016",
+  "Name": "Dark Shock",
+  "Job": "Battle Mage",
+  "Desc": "Using Teleport creates a Dark Lightning from the departure and arrival points and brands all enemies hit with Darkness Emblem.<br />Learning Dark Shock enables the Darkness Emblem to be branded when using Dark Chain and Battle Burst. Darkness Emblem can't be activated with skills or minions that brand them. Also, Teleport Ver. 2's travel distance increases when using Yellow Aura. Yellow Aura can be toggled On/Off by right-clicking in the Skill UI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Teleport Ver. 2 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 5th Job Skill, Abyssal Lightning.</span><br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/time": {
+      "Old": "15",
+      "New": "30"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+5*u(x/3)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "507+20*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "15-2*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "5*3*u(x/3)",
+      "New": null
+    },
+    "magicDamage": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "notRemoved": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "battlemage/M/18",
+      "New": "battlemage/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/67",
+      "New": "battlemage/M/67"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/11",
+      "New": "battlemage/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/63",
+      "New": "battlemage/F/63"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "32141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32111016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32111016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32111016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32111016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32111016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

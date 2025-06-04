@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4173132-03:00",
+  "ChangeType": "Changed",
+  "Id": "37001001",
+  "Name": "Revolving Gauntlet",
+  "Job": "Blaster",
+  "Desc": "Uses Gauntlet Revolver's built-in cannon to cause an additional explosion. Not a stand-alone skill. Can only be auto-cast or manually cast during certain Attack skills.<br />Charge via key-down to manually reload bullets. Charge can be used while using another skill, and up to 2 skills can be charged at once.<br /><span style=\"font-weight:bold; color:orange;\">Revolving Gauntlet Auto-casting Skills: Magnum Drive, Double Drive</span><br /><span style=\"font-weight:bold; color:orange;\">Revolving Gauntlet Manual-casting Skills: Revolving Bunker</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "action/0": {
+      "Old": "RWgauntletPunch",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/w2": {
+      "Old": "500",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37001001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

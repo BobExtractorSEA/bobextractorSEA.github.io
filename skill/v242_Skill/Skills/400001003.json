@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6103461-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001003",
+  "Name": "Decent Hyper Body",
+  "Job": "5th",
+  "Desc": "Increases Maximum HP and Maximum MP. Cannot be used with Hyper Body.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

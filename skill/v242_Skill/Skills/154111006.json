@@ -1,0 +1,215 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6916517-03:00",
+  "ChangeType": "Changed",
+  "Id": "154111006",
+  "Name": "Hex: Chakram Sweep",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Hex]</span><br />Throw a giant chakram forward and leap backward with the momentum.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45. Throw a giant chakram that attacks up to 8 enemies at 300% Damage 7 times.<br />Cooldown: 6 sec.",
+      "New": "MP Cost: 45. Throws a giant chakram that attacks up to 8 enemies at 300% Damage 7 times.<br />Cooldown: 6 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 45. Throw a giant chakram that attacks up to 8 enemies at 300% Damage 7 times.<br />Cooldown: 6 sec.",
+      "New": "MP Cost: 45. Throws a giant chakram that attacks up to 8 enemies at 300% Damage 7 times.<br />Cooldown: 6 sec."
+    },
+    "additional_process/1": {
+      "Old": "22",
+      "New": "9"
+    },
+    "additional_process/2": {
+      "Old": "9",
+      "New": "21"
+    },
+    "additional_process/3": {
+      "Old": "30",
+      "New": "22"
+    },
+    "additional_process/4": {
+      "Old": "21",
+      "New": "30"
+    },
+    "cancelableSkillID/9": {
+      "Old": "154141008",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "khali/M/0",
+      "New": "khali/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/1",
+      "New": "khali/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "khali/M/2",
+      "New": "khali/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "khali/M/3",
+      "New": "khali/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "khali/M/34",
+      "New": "khali/M/34"
+    },
+    "voice/male/path/5": {
+      "Old": "khali/M/42",
+      "New": "khali/M/42"
+    },
+    "voice/male/path/6": {
+      "Old": "khali/M/88",
+      "New": "khali/M/88"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/0",
+      "New": "khali/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/1",
+      "New": "khali/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "khali/F/2",
+      "New": "khali/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "khali/F/3",
+      "New": "khali/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "khali/F/34",
+      "New": "khali/F/34"
+    },
+    "voice/female/path/5": {
+      "Old": "khali/F/60",
+      "New": "khali/F/60"
+    },
+    "voice/female/path/6": {
+      "Old": "khali/F/61",
+      "New": "khali/F/61"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Throws a giant chakram that attacks up to 8 enemies at 300% Damage 7 times.<br />Cooldown: 6 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_154111006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

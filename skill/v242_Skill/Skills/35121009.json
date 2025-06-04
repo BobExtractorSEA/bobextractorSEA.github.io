@@ -1,0 +1,155 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1849891-03:00",
+  "ChangeType": "Changed",
+  "Id": "35121009",
+  "Name": "Bots 'n Tots",
+  "Job": "Mechanic",
+  "Desc": "Installs a Bots 'n Tots that periodically summons Toy Robots. Summoned Toy Robots detect nearby enemies and triggers a self-destruct function or at the end of its duration. The factory itself also self-destructs at the end of its duration to deal damage.<br /><Bots 'n Tots>This skill does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 100. Installs a Robo Factory for 70 sec. Summons 3 Toy Robots every 3 sec. At the end of the duration, the factory self-destructs at 1000% Damage.<br />Toy Robots self-destruct at 500% Damage.",
+      "New": "MP Cost: 100. Installs a Robot Factory for 70 sec.<br />Summons 3 Toy Robots every 3 sec. that explode and attack up to 4 enemies at 500% Damage. The Robot Factory explodes upon expiration, attacking up to 6 enemies at 1000% Damage."
+    },
+    "h1": {
+      "Old": "MP Cost: 100. Installs a Robo Factory for 70 sec. Summons 3 Toy Robots every 3 sec. At the end of the duration, the factory self-destructs at 1000% Damage.<br />Toy Robots self-destruct at 500% Damage.",
+      "New": "MP Cost: 100. Installs a Robot Factory for 70 sec.<br />Summons 3 Toy Robots every 3 sec. that explode and attack up to 4 enemies at 500% Damage. The Robot Factory explodes upon expiration, attacking up to 6 enemies at 1000% Damage."
+    },
+    "minionAbility": {
+      "Old": "summon",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "70+5*u(x/5)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "10+5*d(x/15)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90-3*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/selfDestruction": {
+      "Old": "400+10*x",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "200+5*x",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mechanic/M/27",
+      "New": "mechanic/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/28",
+      "New": "mechanic/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "mechanic/M/29",
+      "New": "mechanic/M/29"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/27",
+      "New": "mechanic/F/27"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/28",
+      "New": "mechanic/F/28"
+    },
+    "voice/female/path/2": {
+      "Old": "mechanic/F/29",
+      "New": "mechanic/F/29"
+    },
+    "common/w": {
+      "Old": null,
+      "New": "4"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "35141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 100. Installs a Robot Factory for 70 sec.<br />Summons 3 Toy Robots every 3 sec. that explode and attack up to 4 enemies at 500% Damage. The Robot Factory explodes upon expiration, attacking up to 6 enemies at 1000% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35121009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

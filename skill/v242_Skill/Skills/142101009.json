@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8736669-03:00",
+  "ChangeType": "Changed",
+  "Id": "142101009",
+  "Name": "Psychic Drain",
+  "Job": "Kinesis",
+  "Desc": "Creates Kinesis's PK power zone, and absorbs Psychic Points from Normal monsters. Psychic Drain attacks are not affected by enemies in the Damage Reflection state. Additionally, attacks on boss monsters have a chance of adding Psychic Points. The Psychic Point Restoration effect is not applied to some Minion attacks, including Psychic Drain, and Ultimate-Train, Ultimate-Shoot, and Ultimate-Shoot Bullet only have a chance on first hit.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kinesis/M/10",
+      "New": "kinesis/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/11",
+      "New": "kinesis/M/11"
+    },
+    "voice/male/path/2": {
+      "Old": "kinesis/M/70",
+      "New": "kinesis/M/70"
+    },
+    "voice/male/path/3": {
+      "Old": "kinesis/M/71",
+      "New": "kinesis/M/71"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/10",
+      "New": "kinesis/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/11",
+      "New": "kinesis/F/11"
+    },
+    "voice/female/path/2": {
+      "Old": "kinesis/F/70",
+      "New": "kinesis/F/70"
+    },
+    "voice/female/path/3": {
+      "Old": "kinesis/F/71",
+      "New": "kinesis/F/71"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_142101009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142101009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

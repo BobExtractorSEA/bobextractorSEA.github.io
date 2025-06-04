@@ -1,0 +1,299 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0682054-03:00",
+  "ChangeType": "Removed",
+  "Id": "27121201",
+  "Name": "Morning Star",
+  "Job": "Luminous",
+  "Desc": "[Dark Magic]<br />Drops a meteor that created by the power of Darkness to attack enemies. Drops meteors on enemies that grind across the ground and explodes. Cooldown reduced while Equillibrium is in effect. Morning Starfall doesn't affect enemies in the Damage Reflection status and certain monsters cannot be pushed. Also, permanently increases Final Damage and Boss Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": "2",
+      "New": null
+    },
+    "pushTarget": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/ignoreCounter": {
+      "Old": "1",
+      "New": null
+    },
+    "action/0": {
+      "Old": "LMmornigStarfall",
+      "New": null
+    },
+    "common/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "common/mpCon": {
+      "Old": "40+d(x/3)",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "90+3*x",
+      "New": null
+    },
+    "common/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "common/attackCount": {
+      "Old": "2",
+      "New": null
+    },
+    "common/w": {
+      "Old": "280+3*x",
+      "New": null
+    },
+    "common/x": {
+      "Old": "1800",
+      "New": null
+    },
+    "common/gauge": {
+      "Old": "10",
+      "New": null
+    },
+    "common/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "common/attackDelay": {
+      "Old": "210",
+      "New": null
+    },
+    "common/mdR": {
+      "Old": "10+x",
+      "New": null
+    },
+    "common/bdR": {
+      "Old": "d(x/2)",
+      "New": null
+    },
+    "common/s": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "40+d(x/3)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "90+3*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "4000",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "280+3*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1800",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/lt/x": {
+      "Old": "-14",
+      "New": null
+    },
+    "PVPcommon/lt/y": {
+      "Old": "-121",
+      "New": null
+    },
+    "PVPcommon/rb/x": {
+      "Old": "148",
+      "New": null
+    },
+    "PVPcommon/rb/y": {
+      "Old": "-3",
+      "New": null
+    },
+    "PVPcommon/gauge": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "210",
+      "New": null
+    },
+    "effect0/z": {
+      "Old": "-1",
+      "New": null
+    },
+    "shootobj/info/start/x": {
+      "Old": "-210",
+      "New": null
+    },
+    "shootobj/info/start/y": {
+      "Old": "-75",
+      "New": null
+    },
+    "shootobj/info/bodyWH/x": {
+      "Old": "350",
+      "New": null
+    },
+    "shootobj/info/bodyWH/y": {
+      "Old": "280",
+      "New": null
+    },
+    "shootobj/info/startDelay": {
+      "Old": "630",
+      "New": null
+    },
+    "shootobj/info/hitLimitEachMob": {
+      "Old": "20",
+      "New": null
+    },
+    "shootobj/moveList/p1/0/pos/x": {
+      "Old": "0",
+      "New": null
+    },
+    "shootobj/moveList/p1/0/pos/y": {
+      "Old": "0",
+      "New": null
+    },
+    "shootobj/moveList/p1/0/v": {
+      "Old": "0",
+      "New": null
+    },
+    "shootobj/moveList/p1/0/delay": {
+      "Old": "60",
+      "New": null
+    },
+    "shootobj/moveList/p1/1/pos/x": {
+      "Old": "-480",
+      "New": null
+    },
+    "shootobj/moveList/p1/1/pos/y": {
+      "Old": "0",
+      "New": null
+    },
+    "shootobj/moveList/p1/1/v": {
+      "Old": "3",
+      "New": null
+    },
+    "shootobj/moveList/p1/1/delay": {
+      "Old": "0",
+      "New": null
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": "40",
+      "New": null
+    },
+    "hit/0/randomHitAngle": {
+      "Old": "1",
+      "New": null
+    },
+    "skillList/0": {
+      "Old": "400021000",
+      "New": null
+    },
+    "masterLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "weapon": {
+      "Old": "21",
+      "New": null
+    },
+    "subWeapon": {
+      "Old": "35",
+      "New": null
+    },
+    "combatOrders": {
+      "Old": "1",
+      "New": null
+    },
+    "psd": {
+      "Old": "1",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "footholdInstallSummoned": {
+      "Old": "1",
+      "New": null
+    },
+    "id": {
+      "Old": "27121201",
+      "New": null
+    },
+    "has_weapon": {
+      "Old": "True",
+      "New": null
+    },
+    "voice/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/count": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/female/count": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": "{ Old = luminous/M/27, New =  }",
+    "voice/female/path/0": "{ Old = luminous/F/29, New =  }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. Pushes up to 8 enemies, attacking them at 180% damage 2 times, and then explodes to inflict 370% damage. Only up to 370 collisions can target one enemy.<br />Cooldown: 5 sec.<br />[Passive Effecst: Final Damage +40%, Boss Damage +15%]"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": null
+    },
+    "effect0": {
+      "Old": null,
+      "New": null
+    },
+    "ball": {
+      "Old": null,
+      "New": null
+    },
+    "hit": {
+      "Old": null,
+      "New": null
+    }
+  },
+  "Voices": {}
+}

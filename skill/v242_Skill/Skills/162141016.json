@@ -1,0 +1,131 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2691563-03:00",
+  "ChangeType": "Added",
+  "Id": "162141016",
+  "Name": "Absorption: Sound of Wind VI",
+  "Job": "Lara",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -250,
+      "y": -220
+    },
+    "rb": {
+      "x": 250,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "10",
+    "info2/ignoreCounter": "1",
+    "req/162120005": "30",
+    "common/maxLevel": "30",
+    "common/mobCount": "6",
+    "common/damage": "270+3*x",
+    "common/attackCount": "3",
+    "common/u": "7",
+    "common/w": "180",
+    "common/w2": "360",
+    "common/updatableTime": "20000",
+    "common/lt/x": -250,
+    "common/lt/y": -220,
+    "common/rb/x": 250,
+    "common/rb/y": 120,
+    "extraSkillInfo/0/skill": "162141016",
+    "skillList/0": "400021000",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "additional_process/0": "2",
+    "additional_process/1": "21",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "55",
+    "additional_process/5": "69",
+    "additional_process/6": "18",
+    "additional_process/7": "30",
+    "additional_process/8": "35",
+    "additional_process/9": "67",
+    "additional_process/10": "101",
+    "additional_process/11": "108",
+    "processtype": "-1",
+    "weapon": "37",
+    "subWeapon": "35",
+    "invisible": "1",
+    "id": "162141016",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = lara/M/48 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/49 }",
+    "voice/male/path/2": "{ Old = , New = lara/M/50 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/59 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/61 }",
+    "voice/female/path/2": "{ Old = , New = lara/F/62 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/162141016_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/162141016_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9145816-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011006",
+  "Name": "Demon Awakening",
+  "Job": "5th (Warrior)",
+  "Desc": "Awakens true demonic power. Cerberus doesn't affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Demon Thrash Lv. 1 or above</span>, <span style=\"font-weight:bold; color:orange;\">Cerberus Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/10",
+      "New": "demonSlayer/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/61",
+      "New": "demonSlayer/M/61"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/62",
+      "New": "demonSlayer/M/62"
+    },
+    "voice/male/path/3": {
+      "Old": "demonSlayer/M/63",
+      "New": "demonSlayer/M/63"
+    },
+    "voice/male/path/4": {
+      "Old": "demonSlayer/M/64",
+      "New": "demonSlayer/M/64"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/63",
+      "New": "demonSlayer/F/63"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/64",
+      "New": "demonSlayer/F/64"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/65",
+      "New": "demonSlayer/F/65"
+    },
+    "voice/female/path/3": {
+      "Old": "demonSlayer/F/66",
+      "New": "demonSlayer/F/66"
+    },
+    "voice/female/path/4": {
+      "Old": "demonSlayer/F/6",
+      "New": "demonSlayer/F/6"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

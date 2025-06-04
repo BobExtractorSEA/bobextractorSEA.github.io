@@ -1,0 +1,121 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5074166-03:00",
+  "ChangeType": "Added",
+  "Id": "61141013",
+  "Name": "Stone Dragon VI",
+  "Job": "Kaiser",
+  "Desc": "Summon a dragon statue that pulls in enemies and attacks with a chance to Slow. Stone Dragon does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Stone Dragon Lv. 15 or higher</span> ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "mes": "slow",
+    "info2/mes": "slow",
+    "info2/ignoreCounter": "1",
+    "req/61111002": "15",
+    "action/0": "6thMedusa",
+    "common/maxLevel": "30",
+    "common/mpCon": "35+d(x/4)",
+    "common/damage": "430+10*x",
+    "common/attackCount": "3",
+    "common/mobCount": "8",
+    "common/time": "60",
+    "common/subTime": "3",
+    "common/prop": "75",
+    "common/x": "-30",
+    "common/attackDelay": "1980",
+    "common/nbdR": "50",
+    "cancleType/0": "1",
+    "summon/attack1/info/range/lt/x": -280,
+    "summon/attack1/info/range/lt/y": -240,
+    "summon/attack1/info/range/rb/x": 280,
+    "summon/attack1/info/range/rb/y": 95,
+    "summon/attack1/info/mobCount": "8",
+    "summon/attack1/info/attackAfter": "360",
+    "summon/attack1/info/attackCount": "3",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/z": "1",
+    "hit/1/useZ": "1",
+    "hit/1/onlyOnce": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/z": "1",
+    "hit/2/useZ": "1",
+    "hit/2/onlyOnce": "1",
+    "hit/randomHit": "1",
+    "weapon": "40",
+    "subWeapon": "35",
+    "showSummonedBuffIcon": "2",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "psd": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "61141013",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "0",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = kaiser/M/67 }",
+    "voice/male/path/1": "{ Old = , New = kaiser/M/12 }",
+    "voice/female/path/0": "{ Old = , New = kaiser/F/92 }",
+    "voice/female/path/1": "{ Old = , New = kaiser/F/52 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 42. Summons a dragon incarnate for 60 sec. that periodically attacks up to 8 enemies at 730% Damage <br />3 times.<br />A 75% chance of Slowing monsters except Bosses for 3 sec.<br />Normal Monster Damage +50%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/61141013_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/61141013_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

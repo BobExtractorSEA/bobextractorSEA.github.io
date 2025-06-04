@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.1088754-03:00",
+  "ChangeType": "Changed",
+  "Id": "27140002",
+  "Name": "Endless Darkness",
+  "Job": "Luminous",
+  "Desc": "[Dark Magic]<br />Endless darkness rises from within enemies to consume them. Activated when you use Dark or Equilibrium skills during Eclipse or Equilibrium. Shares cooldown with Eternal Lightness.<br />Also, permanently enhances Ender VI.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Dark Magic]<br />Endless darkness rises from within enemies to consume them. Activated when you use Dark or Equilibrium skills during Eclipse or Equilibrium.<br />Also, permanently enhances Ender VI.",
+      "New": "[Dark Magic]<br />Endless darkness rises from within enemies to consume them. Activated when you use Dark or Equilibrium skills during Eclipse or Equilibrium. Shares cooldown with Eternal Lightness.<br />Also, permanently enhances Ender VI."
+    },
+    "skillList2/12": {
+      "Old": null,
+      "New": "27141004"
+    },
+    "skillList2/13": {
+      "Old": null,
+      "New": "27121214"
+    },
+    "skillList2/14": {
+      "Old": null,
+      "New": "27121315"
+    },
+    "skillList2/15": {
+      "Old": null,
+      "New": "27141008"
+    },
+    "skillList2/16": {
+      "Old": null,
+      "New": "27141009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27140002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

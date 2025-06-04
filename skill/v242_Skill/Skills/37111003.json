@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5275877-03:00",
+  "ChangeType": "Changed",
+  "Id": "37111003",
+  "Name": "Charging Arm: Weaving",
+  "Job": "Blaster",
+  "Desc": "Evades enemy attacks as you move to the rear. You can stop immediately by using the Jump key. Using a custom command allows you to reuse the skill to stop it immediately.<br />You can chain it with Magnum Rush, Magnum Flash, or Burning Breaker.<br />It can be charged by holding the key down, <span style=\"font-weight:bold; color:orange;\">and when activated after charging, using your other skill cancels the skill and activates Charging Arm: Wearving.</span> Charging is possible while using other skills other than Charging Arm, and up to 2 skills can be charged at once. Also permanently increases damage dealt by Magnum Drive.<br /><span style=\"font-weight:bold; color:orange;\">Custom command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Charging Arm: Bobbing Lv. 15 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 15 Effect: Can learn 4th Job Skill \"\"Magnum Flash\".</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "blaster/M/48",
+      "New": "blaster/M/48"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/49",
+      "New": "blaster/M/49"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/54",
+      "New": "blaster/F/54"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

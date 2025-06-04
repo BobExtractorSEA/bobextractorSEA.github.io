@@ -1,0 +1,70 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0893621-03:00",
+  "ChangeType": "Changed",
+  "Id": "12101030",
+  "Name": "Orbital Explosion",
+  "Job": "Blaze Wizard",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/15": {
+      "Old": "400021072",
+      "New": null
+    },
+    "skillList/16": {
+      "Old": "12141500",
+      "New": null
+    },
+    "skillList/17": {
+      "Old": "12141501",
+      "New": null
+    },
+    "skillList2/15": {
+      "Old": "12141500",
+      "New": null
+    },
+    "skillList2/16": {
+      "Old": "12141501",
+      "New": null
+    },
+    "skillList2/17": {
+      "Old": "400021072",
+      "New": null
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "12141500"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "12141501"
+    },
+    "skillList2/18": {
+      "Old": null,
+      "New": "12141501"
+    },
+    "skillList2/19": {
+      "Old": null,
+      "New": "400021072"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12101030_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

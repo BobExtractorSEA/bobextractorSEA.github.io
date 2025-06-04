@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0202905-03:00",
+  "ChangeType": "Changed",
+  "Id": "25121007",
+  "Name": "Soul Splitter",
+  "Job": "Shade",
+  "Desc": "Summons a fire spirit to separate the souls of enemies and drain their power. Attacking multiple enemies will prioritize the Boss monster with the highest Max HP, creating a soul-burning fire at its location.<br />Even if Soul Splitter fails to hit an enemy, it will still create a fire if an enemy marked with Blade Imp (Half) is nearby. <br />Enemies hit by Soul Splitter are drained of power and inflicted with a debuff, and Eunwol immediately gains Fire Spirit's Protection. Party members gain Fire Spirit's Protection while in the flames.<br />While Fire Spirit's Protection is present, attacks against enemies with the Soul Splitter debuff increase Final Damage. Party members who receive the Soul Splitter effect can't receive the effect again for a while.<br />Stationary monsters will not have their souls split, but will immediately grant Fire Spirit's Protection to Eunwol and party members on the same map. Even if a party member fails to gain the protection, they can gain it again within the flames, and party members' protection doesn't extend beyond the duration of the flames.<br />The attacked enemies will resist Soul Splitter, ignoring its effects for 40 sec. Soul Splitter is not affected by COOLDOWN REDUCTION.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a fire spirit to separate the souls of enemies and drain their power. Attacking multiple enemies will prioritize the Boss monster with the highest HP, creating a soul-burning fire at its location.<br />Even if  failed to hit enemies by Soul Splitter, it still creates a soul-burning fire if there's an enemy marked by Blade Imp (Half) nearby.<br />Enemies hit by Soul Splitter are drained of power and inflicted with a debuff, and Eunwol immediately gains Fire Spirit's Protection. Party members gain Fire Spirit's Protection while in the flames.<br />While Fire Spirit's Protection is present, attacks against enemies with the Soul Splitter debuff increase FINAL DAMAGE. Party members who receive the Soul Splitter effect can't receive the effect again for a while.<br />Stationary monsters will not have their souls split, but will immediately grant Fire Spirit's Protection to Eunwol and party members on the same map. Even if a party member fails to gain the protection, they can gain it again within the flames, and party members' protection doesn't extend beyond the duration of the flames.<br />The attacked enemies will resist Soul Splitter, ignoring its effects for 40 sec.",
+      "New": "Summons a fire spirit to separate the souls of enemies and drain their power. Attacking multiple enemies will prioritize the Boss monster with the highest Max HP, creating a soul-burning fire at its location.<br />Even if Soul Splitter fails to hit an enemy, it will still create a fire if an enemy marked with Blade Imp (Half) is nearby. <br />Enemies hit by Soul Splitter are drained of power and inflicted with a debuff, and Eunwol immediately gains Fire Spirit's Protection. Party members gain Fire Spirit's Protection while in the flames.<br />While Fire Spirit's Protection is present, attacks against enemies with the Soul Splitter debuff increase Final Damage. Party members who receive the Soul Splitter effect can't receive the effect again for a while.<br />Stationary monsters will not have their souls split, but will immediately grant Fire Spirit's Protection to Eunwol and party members on the same map. Even if a party member fails to gain the protection, they can gain it again within the flames, and party members' protection doesn't extend beyond the duration of the flames.<br />The attacked enemies will resist Soul Splitter, ignoring its effects for 40 sec. Soul Splitter is not affected by COOLDOWN REDUCTION."
+    },
+    "voice/male/path/0": {
+      "Old": "eunwol/M/3",
+      "New": "eunwol/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/4",
+      "New": "eunwol/M/4"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/63",
+      "New": "eunwol/M/63"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/64",
+      "New": "eunwol/M/64"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/2",
+      "New": "eunwol/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/16",
+      "New": "eunwol/F/16"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/63",
+      "New": "eunwol/F/63"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/64",
+      "New": "eunwol/F/64"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25121007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

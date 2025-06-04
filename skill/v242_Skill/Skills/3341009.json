@@ -1,0 +1,191 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4912967-03:00",
+  "ChangeType": "Added",
+  "Id": "3341009",
+  "Name": "Cardinal Transition VI",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -300,
+      "y": -140
+    },
+    "rb": {
+      "x": 300,
+      "y": 70
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "pullTarget": "1",
+    "knockbackLimit": "100",
+    "req/3320002": "20",
+    "action/0": "6thCardinalTransitionAttack",
+    "common/maxLevel": "30",
+    "common/damage": "599+11*x",
+    "common/attackCount": "5",
+    "common/mobCount": "7",
+    "common/lt/x": -300,
+    "common/lt/y": -140,
+    "common/rb/x": 300,
+    "common/rb/y": 70,
+    "common/x": "1",
+    "common/cancelableTime": "210",
+    "cancelableSkillID/0": "3011004",
+    "cancelableSkillID/1": "3300002",
+    "cancelableSkillID/2": "3321003",
+    "cancelableSkillID/3": "3301003",
+    "cancelableSkillID/4": "3310001",
+    "cancelableSkillID/5": "3321004",
+    "cancelableSkillID/6": "3301008",
+    "cancelableSkillID/7": "3301009",
+    "cancelableSkillID/8": "3311010",
+    "cancelableSkillID/9": "3311011",
+    "cancelableSkillID/10": "3321012",
+    "cancelableSkillID/11": "3321014",
+    "cancelableSkillID/12": "3321015",
+    "cancelableSkillID/13": "3321016",
+    "cancelableSkillID/14": "3311017",
+    "cancelableSkillID/15": "3321018",
+    "cancelableSkillID/16": "3321019",
+    "cancelableSkillID/17": "3321020",
+    "cancelableSkillID/18": "3321021",
+    "cancelableSkillID/19": "3321035",
+    "cancelableSkillID/20": "3311036",
+    "cancelableSkillID/21": "3321037",
+    "cancelableSkillID/22": "3321038",
+    "cancelableSkillID/23": "3321039",
+    "cancelableSkillID/24": "3321040",
+    "cancelableSkillID/25": "400031034",
+    "cancelableSkillID/26": "400031036",
+    "cancelableSkillID/27": "400031037",
+    "cancelableSkillID/28": "400031039",
+    "cancelableSkillID/29": "400031040",
+    "cancelableSkillID/30": "400031067",
+    "cancelableSkillID/31": "3341000",
+    "cancelableSkillID/32": "500061018",
+    "cancelableSkillID/33": "500061020",
+    "cancelableSkillID/34": "500061021",
+    "cancelableSkillID/35": "3341004",
+    "cancelableSkillID/36": "3341006",
+    "cancelableSkillID/37": "3341007",
+    "cancelableSkillID/38": "3341010",
+    "cancelableSkillID/39": "3341011",
+    "cancelableSkillID/40": "3341012",
+    "cancelableSkillID/41": "3341013",
+    "cancelableSkillID/42": "3341014",
+    "cancelableSkillID/43": "3341015",
+    "cancelableSkillID/44": "3341016",
+    "cancelableSkillID/45": "3341017",
+    "cancelableSkillID/46": "3341018",
+    "cancelableSkillID/47": "3341019",
+    "cancelableSkillID/48": "3341020",
+    "cancelableSkillID/49": "3341021",
+    "cancelableSkillID/50": "3341022",
+    "cancelableSkillID/51": "3341023",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "processtype": "-1",
+    "invisible": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "id": "3341009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "40",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/6 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/7 }",
+    "voice/male/path/2": "{ Old = , New = pathfinder/M/38 }",
+    "voice/male/path/3": "{ Old = , New = pathfinder/M/40 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/6 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/7 }",
+    "voice/female/path/2": "{ Old = , New = pathfinder/F/38 }",
+    "voice/female/path/3": "{ Old = , New = pathfinder/F/41 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/3341009_effect0_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341009_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

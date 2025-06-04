@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0881064-03:00",
+  "ChangeType": "Changed",
+  "Id": "27121006",
+  "Name": "Arcane Pitch",
+  "Job": "Luminous",
+  "Desc": "Temporarily ignores the enemy's Elemental Resistances when attacking. Permanently ignores enemy DEF by a certain percentage and increases Stance.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "luminous/M/2",
+      "New": "luminous/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/35",
+      "New": "luminous/M/35"
+    },
+    "voice/male/path/2": {
+      "Old": "luminous/M/32",
+      "New": "luminous/M/32"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/2",
+      "New": "luminous/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/48",
+      "New": "luminous/F/48"
+    },
+    "voice/female/path/2": {
+      "Old": "luminous/F/3",
+      "New": "luminous/F/3"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27121006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

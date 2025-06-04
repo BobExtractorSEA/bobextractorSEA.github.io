@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6069083-03:00",
+  "ChangeType": "Changed",
+  "Id": "42120000",
+  "Name": "Nine-Tailed Fury (Passive)",
+  "Job": "Kanna",
+  "Desc": "Now at full power, Haku inflicts additional damage during the cooldown alongside Kanna's attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42120000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9172049-03:00",
+  "ChangeType": "Changed",
+  "Id": "24121011",
+  "Name": "Carte Noire - Reversal Card",
+  "Job": "Phantom",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/lt2/x": {
+      "Old": null,
+      "New": "-300"
+    },
+    "common/lt2/y": {
+      "Old": null,
+      "New": "-300"
+    },
+    "common/rb2/x": {
+      "Old": null,
+      "New": "300"
+    },
+    "common/rb2/y": {
+      "Old": null,
+      "New": "300"
+    },
+    "skillList/23": {
+      "Old": null,
+      "New": "24141006"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "24141005"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_24121011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,95 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.844224-03:00",
+  "ChangeType": "Changed",
+  "Id": "4341054",
+  "Name": "Hidden Blade",
+  "Job": "Dual Blade",
+  "Desc": "Summons a dagger that exists in the Secret Flower Garden's Book Ghost to add powerful bonus damage to all your attacks. Also, increases DAMAGE.<br /><span style=\"font-weight:bold; color:orange;\">Lock Activation Effect: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 200. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Skills]</span> A 100% chance of adding 240% additional hits to direct attacks for 90 sec.",
+      "New": "MP Cost: 200. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 100% chance of an additional attack at 240% Damage for 90 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 200. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Skills]</span> A 100% chance of adding 240% additional hits to direct attacks for 90 sec.",
+      "New": "MP Cost: 200. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 100% chance of an additional attack at 240% Damage for 90 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "140",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "60",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/32",
+      "New": "dualBlade/M/32"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/33",
+      "New": "dualBlade/F/33"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4361002"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 100% chance of an additional attack at 240% Damage for 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4341054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

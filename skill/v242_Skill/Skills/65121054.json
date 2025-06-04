@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8022323-03:00",
+  "ChangeType": "Changed",
+  "Id": "65121054",
+  "Name": "Pretty Exaltation",
+  "Job": "Angelic Buster",
+  "Desc": "Resonates with Eskalade's soul to amplify power.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Affinity Heart IV Lv. 30 or above.</span><br /><span style=\"font-weight:bold; color:orange;\">Skill BGM On/Off: Right-click.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/30",
+      "New": "angelicBurster/F/30"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/31",
+      "New": "angelicBurster/F/31"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_65121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

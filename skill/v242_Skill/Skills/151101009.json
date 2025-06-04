@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2158024-03:00",
+  "ChangeType": "Changed",
+  "Id": "151101009",
+  "Name": "Creation",
+  "Job": "Adele",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151101009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

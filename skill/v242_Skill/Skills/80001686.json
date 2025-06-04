@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.0174599-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001686",
+  "Name": "Queen's Mood Swing",
+  "Job": "Etc",
+  "Desc": "The stats of Crimson Queen change depending on her mood. The Soul Weapon's power summons the Crimson Queen, and she provides vampiric effects with her bloody blessings.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001686_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

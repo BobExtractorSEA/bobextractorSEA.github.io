@@ -1,0 +1,81 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5809889-03:00",
+  "ChangeType": "Changed",
+  "Id": "2311014",
+  "Name": "Fountain for Angel",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Summons an object that punishes the surrounding enemies with Holy Power. Emits Holy Power from the object at regular intervals to attack the enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+4*u(x/2)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "10+3*x",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "15-x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "60-2*x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "600-4*x",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bishop/M/7",
+      "New": "bishop/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/7",
+      "New": "bishop/F/7"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2341006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2311014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

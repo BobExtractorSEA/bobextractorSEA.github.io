@@ -1,0 +1,105 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7005432-03:00",
+  "ChangeType": "Changed",
+  "Id": "101000100",
+  "Name": "Air Raid",
+  "Job": "Zero",
+  "Desc": "Attacks enemies in front of you, stomping on them in midair.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Rising Slash</span> <br />Command: Use <span style=\"font-weight:bold; color:orange;\">Rising Slash</span> twice in a row.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/38",
+      "New": "zero/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/39",
+      "New": "zero/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/2",
+      "New": "zero/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/4",
+      "New": "zero/F/4"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/12",
+      "New": "zero/F/12"
+    },
+    "voice/female/path/5": {
+      "Old": "zero/F/17",
+      "New": "zero/F/17"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141027"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101000101"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101000100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

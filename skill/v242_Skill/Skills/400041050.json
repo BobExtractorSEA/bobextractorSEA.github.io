@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7390345-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041050",
+  "Name": "Fist Method: Mountain Spirit Summoning",
+  "Job": "5th (Thief)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> The scroll opens to enshrine a giant tiger who reigns as the spirit of Seonyu Mountain. Tiger responds every time you achieve Elemental Chaining Lv. 3 and causes greater damage with a roar that makes the earth and sky tremble.<br /><br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Mountain Spirit Summoning is not affected by enemies in the Damage Reflection status.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/17",
+      "New": "HoYoung/M/17"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/18",
+      "New": "HoYoung/M/18"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/17",
+      "New": "HoYoung/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/18",
+      "New": "HoYoung/F/18"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041050_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041050_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041050_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041050_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041050_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

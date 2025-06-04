@@ -1,0 +1,57 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5512767-03:00",
+  "ChangeType": "Changed",
+  "Id": "152101008",
+  "Name": "Makina",
+  "Job": "Illium",
+  "Desc": "Summons the Mechanical Friend Makina.<br />Makina is <span style=\"font-weight:bold; color:orange;\">summoned near the Crystal and guards it</span> while gathering enemies.<br />Makina moves along with the Crystal and attacks enemies in the way, but reduces attack count by 1.<br />Makina does not affect enemies in the Damage Reflection state.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 4th Skill, Crystal Skill: Deus.</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/4",
+      "New": "illium/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/4",
+      "New": "illium/F/4"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "152141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152101008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

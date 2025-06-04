@@ -1,0 +1,92 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3945684-03:00",
+  "ChangeType": "Added",
+  "Id": "5341009",
+  "Name": "Monkey Militia VI",
+  "Job": "Cannon Master",
+  "Desc": "Summons the Monkey Militia's elite artillery to aid in battle.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Monkey Militia VI is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Monkey Militia Lv. 15</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/5321004": "15",
+    "common/maxLevel": "30",
+    "common/mpCon": "80",
+    "common/damage": "340+25*x",
+    "common/time": "62",
+    "common/cooltime": "10",
+    "summon/attack1/info/range/lt/x": -400,
+    "summon/attack1/info/range/lt/y": -150,
+    "summon/attack1/info/range/rb/x": 0,
+    "summon/attack1/info/range/rb/y": 0,
+    "summon/attack1/info/attackAfter": "120",
+    "summon/attack1/info/attackCount": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "skillList/0": "5340010",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "showSummonedBuffIcon": "2",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "5341009",
+    "has_req": true,
+    "voice/prop": "33",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = cannonShooter/M/2 }",
+    "voice/male/path/1": "{ Old = , New = cannonShooter/M/17 }",
+    "voice/female/path/0": "{ Old = , New = cannonShooter/F/12 }",
+    "voice/female/path/1": "{ Old = , New = cannonShooter/F/9 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. Summons artillery for 62 sec. Each artilleryman attacks at 1090% Damage.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5341009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5341009_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

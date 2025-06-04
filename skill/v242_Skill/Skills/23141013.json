@@ -1,0 +1,92 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.709904-03:00",
+  "ChangeType": "Added",
+  "Id": "23141013",
+  "Name": "Elemental Knights VI",
+  "Job": "Mercedes",
+  "Desc": "Randomly summons an Ice Spirit, Fire Spirit, or Shadow Spirit to aid you in battle. Successful attacks during Elemental Knights summon elemental spirits. Elemental Knights does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Affected by SUMMONS DURATION INCREASE.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Elemental Knights Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "minionAttack": "normal",
+    "req/23111008": "10",
+    "common/maxLevel": "30",
+    "common/mpCon": "60",
+    "common/cooltime": "10",
+    "common/damage": "235+3*x",
+    "common/time": "210",
+    "common/u": "2000",
+    "common/attackCount": "2",
+    "common/x": "2",
+    "showSummonedBuffIcon": "2",
+    "canJobRidingUse": "1",
+    "resummonByUnionCharTag": "1",
+    "id": "23141013",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = mercedes/M/10 }",
+    "voice/male/path/1": "{ Old = , New = mercedes/M/11 }",
+    "voice/female/path/0": "{ Old = , New = mercedes/F/8 }",
+    "voice/female/path/1": "{ Old = , New = mercedes/F/9 }",
+    "voice/female/path/2": "{ Old = , New = mercedes/F/10 }",
+    "voice/female/path/3": "{ Old = , New = mercedes/F/11 }"
+  },
+  "HFields": {
+    "h1": "Successful attacks consume 60 MP and summon 1 spirit for 210 sec. Up to 3 can be summoned.<br />Summoned spirits attack enemies at 325% Damage 2 times every 2 sec.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

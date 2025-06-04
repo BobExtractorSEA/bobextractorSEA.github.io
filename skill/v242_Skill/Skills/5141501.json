@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3208315-03:00",
+  "ChangeType": "Changed",
+  "Id": "5141501",
+  "Name": "Liberate Neptunes",
+  "Job": "Buccaneer",
+  "Desc": "Awakens the first Dragon Neptunes, who was slumbering in the depths of the abyss.<br />When using <span style=\"font-weight:bold; color:orange;\">combat skills</span> and <span style=\"font-weight:bold; color:orange;\">5th job skills excluding Serpent Screw</span>, Neptunes sweeps through the front enemies. Neptunes' attacks are triggered only in the Sea Serpent active state and do not cause harm to enemies in the attack reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/12": {
+      "Old": null,
+      "New": "5141015"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

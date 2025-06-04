@@ -1,0 +1,199 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0545839-03:00",
+  "ChangeType": "Added",
+  "Id": "15141006",
+  "Name": "Advanced Whirlwind VI",
+  "Job": "Thunder Breaker",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Chain Skill]</span><br />Pushes the accumulated attacks in chain attack to convert into the powerful whirlwind that sweeps everything away. Can be chained to Thunder and all skills that don't target yourself. It can also be chained to Crashing Wave more quickly than to other skills. Its casting motion cannot be canceled by chaining it to Crashing Wave in midair.<br />Advanced Whirlwind VI is affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Whirlwind Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -320
+    },
+    "rb": {
+      "x": 80,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/15120003": "30",
+    "action/0": "6thTypoon",
+    "common/maxLevel": "30",
+    "common/mpCon": "49+d(x/3)",
+    "common/damage": "381+15*x",
+    "common/attackCount": "5",
+    "common/mobCount": "8",
+    "common/time": "95",
+    "common/cooltime": "12",
+    "common/x": "2",
+    "common/y": "3",
+    "common/lt/x": -550,
+    "common/lt/y": -320,
+    "common/rb/x": 80,
+    "common/rb/y": 120,
+    "common/u": "100+5*x",
+    "addAttack/skill": "15001020",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skillPlus/0": "15001021",
+    "addAttack/skillPlus/1": "15101020",
+    "addAttack/skillPlus/2": "15101021",
+    "addAttack/skillPlus/3": "15111020",
+    "addAttack/skillPlus/4": "15121001",
+    "addAttack/skillPlus/5": "15121002",
+    "addAttack/skillPlus/6": "400051016",
+    "addAttack/skillPlus/7": "15121052",
+    "addAttack/skillPlus/8": "400051058",
+    "addAttack/skillPlus/9": "400051044",
+    "addAttack/skillPlus/10": "15141000",
+    "addAttack/skillPlus/11": "15141003",
+    "addAttack/skillPlus/12": "15141004",
+    "addAttack/skillPlus/13": "15141007",
+    "addAttack/skipActionFrame": "7",
+    "addAttack/type": "1",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFramePlus/15101021": "5",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitFlip": "1",
+    "weapon": "48",
+    "weapon2": "39",
+    "notRemoved": "1",
+    "applySixthSkillIncBuffDuration": "1",
+    "id": "15141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 7,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = striker/M/62 }",
+    "voice/male/path/1": "{ Old = , New = striker/M/63 }",
+    "voice/male/path/2": "{ Old = , New = striker/M/64 }",
+    "voice/male/path/3": "{ Old = , New = striker/M/14 }",
+    "voice/male/path/4": "{ Old = , New = striker/M/15 }",
+    "voice/male/path/5": "{ Old = , New = striker/M/16 }",
+    "voice/male/path/6": "{ Old = , New = striker/M/17 }",
+    "voice/female/path/0": "{ Old = , New = striker/F/83 }",
+    "voice/female/path/1": "{ Old = , New = striker/F/84 }",
+    "voice/female/path/2": "{ Old = , New = striker/F/85 }",
+    "voice/female/path/3": "{ Old = , New = striker/F/26 }",
+    "voice/female/path/4": "{ Old = , New = striker/F/29 }",
+    "voice/female/path/5": "{ Old = , New = striker/F/37 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 59. Requires 2 or more Lightning Buff stacks.<br />Uses all the Lightning Buff stacks to attack up to 8 enemies at 831% Damage 5 times. Damage +250%p at the max Lightning Buff stacks.<br />The Damage +3% buff lasts for 95 sec. per Lightning Buff stack used.<br />This skill itself doesn't activate the Lightning buff.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_15141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/15141006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/15141006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

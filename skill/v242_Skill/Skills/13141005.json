@@ -1,0 +1,166 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7732504-03:00",
+  "ChangeType": "Added",
+  "Id": "13141005",
+  "Name": "Violent Squall VI",
+  "Job": "Wind Archer",
+  "Desc": "Summons monsoon that flows while wrapping the world.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Violent Squall Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -330
+    },
+    "rb": {
+      "x": 550,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/13121052": "1",
+    "action/0": "6thMonsoon",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "465+8*x",
+    "common/attackCount": "12",
+    "common/mobCount": "15",
+    "common/dot": "216+4*x",
+    "common/dotTime": "30",
+    "common/dotInterval": "1",
+    "common/cooltime": "30",
+    "common/lt/x": -550,
+    "common/lt/y": -330,
+    "common/rb/x": 550,
+    "common/rb/y": 300,
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "applyHyper": "1",
+    "preloadEff": "1",
+    "id": "13141005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = windBreaker/M/116 }",
+    "voice/male/path/1": "{ Old = , New = windBreaker/M/117 }",
+    "voice/male/path/2": "{ Old = , New = windBreaker/M/118 }",
+    "voice/male/path/3": "{ Old = , New = windBreaker/M/119 }",
+    "voice/male/path/4": "{ Old = , New = windBreaker/M/120 }",
+    "voice/female/path/0": "{ Old = , New = windBreaker/F/125 }",
+    "voice/female/path/1": "{ Old = , New = windBreaker/F/126 }",
+    "voice/female/path/2": "{ Old = , New = windBreaker/F/127 }",
+    "voice/female/path/3": "{ Old = , New = windBreaker/F/128 }",
+    "voice/female/path/4": "{ Old = , New = windBreaker/F/129 }",
+    "voice/female/path/5": "{ Old = , New = windBreaker/F/65 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Attacks up to 15 enemies at 705% Damage 12 times. 336% DoT every 1 sec for 30 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/13141005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/13141005_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/13141005_screen_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/13141005_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

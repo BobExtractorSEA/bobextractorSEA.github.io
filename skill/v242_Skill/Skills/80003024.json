@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6383858-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003024",
+  "Name": "Permanent Warm Tangerine Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br /> Ride on a Warm Tangerine that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br /> Ride on a Warm Tangerine that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>. <span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span> and you will automatically fly to the destination by following the navigation. (Auto flight is only available on certain continents, such as Victoria Island. You can expand your Smart Riding Authorization Continents by <span style=\"font-weight:bold; color:orange;\">purchasing Flight Permits from Instructor Irvin</span>.)",
+      "New": "[Master Level: 1]<br /> Ride on a Warm Tangerine that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>."
+    },
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

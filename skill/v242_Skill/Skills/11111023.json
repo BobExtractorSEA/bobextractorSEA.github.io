@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.912926-03:00",
+  "ChangeType": "Changed",
+  "Id": "11111023",
+  "Name": "True Sight",
+  "Job": "Dawn Warrior",
+  "Desc": "Face the counter party with eyes that sees through everything.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/10",
+      "New": "soulMaster/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/11",
+      "New": "soulMaster/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/11",
+      "New": "soulMaster/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/12",
+      "New": "soulMaster/F/12"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11111023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11111023_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11111023_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11111023_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11111023_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

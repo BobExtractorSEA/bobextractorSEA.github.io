@@ -1,0 +1,69 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4328658-03:00",
+  "ChangeType": "Added",
+  "Id": "5341013",
+  "Name": "Monkey's Fury VI",
+  "Job": "Cannon Master",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -275,
+      "y": -250
+    },
+    "rb": {
+      "x": 275,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/5311010": "20",
+    "action/0": "6thMonkeyFurious",
+    "common/maxLevel": "30",
+    "common/damage": "194+4*x",
+    "common/mobCount": "10",
+    "common/attackCount": "3",
+    "common/lt/x": -275,
+    "common/lt/y": -250,
+    "common/rb/x": 275,
+    "common/rb/y": 250,
+    "common/z": "40+d(x/2)",
+    "common/prop": "100",
+    "common/dot": "216+4*x",
+    "common/dotInterval": "1",
+    "common/dotTime": "60",
+    "common/w2": "5",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "invisible": "1",
+    "id": "5341013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5341013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5341013_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/5341013_special_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/5341013_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

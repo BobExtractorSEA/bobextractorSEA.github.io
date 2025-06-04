@@ -1,0 +1,73 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0206311-03:00",
+  "ChangeType": "Added",
+  "Id": "42141013",
+  "Name": "Tengu Twins Ⅵ (Left)",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />This tengu attacks up to 10 enemies at 780% damage 5 times per Kanna's orders. Responsible for the left flank.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "showSummonedBuffIcon": "3",
+    "invisible": "1",
+    "summon/attack1/info/range/lt/x": -195,
+    "summon/attack1/info/range/lt/y": -95,
+    "summon/attack1/info/range/rb/x": 80,
+    "summon/attack1/info/range/rb/y": 10,
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/attackAfter": "60",
+    "summon/attack1/info/attackCount": "5",
+    "summon/attack1/info/mobCount": "15",
+    "summon/attack1/info/magicAttack": "1",
+    "summon/attack1/info/x": "30",
+    "summon/attack1/info/y": "10000",
+    "summon/attack2/info/range/lt/x": -195,
+    "summon/attack2/info/range/lt/y": -95,
+    "summon/attack2/info/range/rb/x": 80,
+    "summon/attack2/info/range/rb/y": 10,
+    "summon/attack2/info/rangeAttack": "1",
+    "summon/attack2/info/attackAfter": "120",
+    "summon/attack2/info/attackCount": "5",
+    "summon/attack2/info/mobCount": "15",
+    "summon/attack2/info/magicAttack": "1",
+    "summon/attack2/info/x": "30",
+    "summon/attack2/info/y": "10000",
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/time": "7",
+    "common/attackRange": "600",
+    "common/damage": "480+(10*x)",
+    "common/v": "1600",
+    "common/x": "2",
+    "common/y": "2",
+    "common/w": "3",
+    "common/attackCount": "5",
+    "common/mobCount": "15",
+    "common/range": "1350",
+    "weapon": "55",
+    "req/42111100": "20",
+    "id": "42141013",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141013_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/42141013_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

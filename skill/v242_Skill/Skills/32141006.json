@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2467269-03:00",
+  "ChangeType": "Added",
+  "Id": "32141006",
+  "Name": "Dark Shock VI",
+  "Job": "Battle Mage",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "common/maxLevel": "30",
+    "common/mobCount": "1",
+    "common/damage": "480+2*x",
+    "common/attackCount": "4",
+    "common/x": "30",
+    "common/w": "15",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/size": "50",
+    "hit/1/randomHitOrigin": "35",
+    "hit/1/randomHitAngle": "1",
+    "hit/1/z": "1",
+    "hit/1/useZ": "1",
+    "hit/1/size": "150",
+    "hit/2/randomHitOrigin": "35",
+    "hit/2/randomHitAngle": "1",
+    "hit/2/z": "1",
+    "hit/2/useZ": "1",
+    "hit/sizeVari": "1",
+    "skillList/0": "400021000",
+    "weapon": "38",
+    "invisible": "1",
+    "elemAttr": "d",
+    "isExceptSetLastAttack": "1",
+    "id": "32141006",
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/32141006_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

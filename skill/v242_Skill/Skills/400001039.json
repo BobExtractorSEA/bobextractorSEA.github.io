@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6869703-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001039",
+  "Name": "Spider in Mirror",
+  "Job": "5th",
+  "Desc": "Collapses the space itself with Will's Erda to connect reality with the Mirror World to briefly summon the Mirror Spider. Mirror Spider attacks do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001039_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4715321-03:00",
+  "ChangeType": "Changed",
+  "Id": "162120008",
+  "Name": "Absorption: Sunlight Bud",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>, <span style=\"font-weight:bold; color:orange;\">Absorption Skill</span><br />When Spirit Sprinkling hits, the Rthul Spirits are gathered to attack by chasing the enemies as the hot sun breathes condensed fireball. The fireball tracks the boss monster in range; and if there are many boss monsters, it tracks the monster with the highest HP first.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When Spirit Sprinkling hits for <span style=\"font-weight:bold; color:orange;\">timesec, Rthul Spirit shows up to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 265% damage 6 times</span><br /><span style=\"font-weight:bold; color:orange;\">If multiple fireballs hit one enemy, the final DMG decreases by 40% from the second fireball</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: </span>tsec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Rthul Spirit appears to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 265% Damage 6 times.<br />If a single enemy is attacked by multiple fireballs, Final Damage -40% for each subsequent fireballs after the first one.<br />Cooldown: 2.5 sec."
+    },
+    "h1": {
+      "Old": "When Spirit Sprinkling hits for <span style=\"font-weight:bold; color:orange;\">timesec, Rthul Spirit shows up to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 265% damage 6 times</span><br /><span style=\"font-weight:bold; color:orange;\">If multiple fireballs hit one enemy, the final DMG decreases by 40% from the second fireball</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: </span>tsec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Rthul Spirit appears to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 265% Damage 6 times.<br />If a single enemy is attacked by multiple fireballs, Final Damage -40% for each subsequent fireballs after the first one.<br />Cooldown: 2.5 sec."
+    }
+  },
+  "HFields": {
+    "h1": "When Spirit Sprinkling hits for 90 sec., the Rthul Spirit appears to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 265% Damage 6 times.<br />If a single enemy is attacked by multiple fireballs, Final Damage -40% for each subsequent fireballs after the first one.<br />Cooldown: 2.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162120008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

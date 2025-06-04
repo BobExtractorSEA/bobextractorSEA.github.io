@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3286769-03:00",
+  "ChangeType": "Changed",
+  "Id": "1241005",
+  "Name": "Falling Justice",
+  "Job": "Paladin",
+  "Desc": "Dispenses justice with divine power.<br />Falling Justice's cooldown is affected by COOLDOWN REDUCTION. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Dispenses justice with divine power.<br />Falling Justice's cooldown is not affected by the COOLDOWN REDUCTION effect. Does not affect enemies in the Damage Reflection status.",
+      "New": "Dispenses justice with divine power.<br />Falling Justice's cooldown is affected by COOLDOWN REDUCTION. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "common/damage": {
+      "Old": "990+19*x",
+      "New": "891+20*x"
+    },
+    "notCooltimeReduce": {
+      "Old": "1",
+      "New": null
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "1241007"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "1241010"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

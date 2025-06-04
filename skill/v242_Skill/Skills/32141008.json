@@ -1,0 +1,203 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2612393-03:00",
+  "ChangeType": "Added",
+  "Id": "32141008",
+  "Name": "Dark Genesis VI",
+  "Job": "Battle Mage",
+  "Desc": "Deathly Lightning attacks numerous enemies with a chance of temporarily Stunning them. Periodically concentrates the power of the Grim Reaper, which enhances it to <span style=\"font-weight:bold; color:orange;\">Dark Genesis VI: Death Whip</span>. Dark Genesis VI: Death Whip is not affected by Dark Genesis - Cooldown Cutter. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. And hitting direct Attack skills create a chance of a lightning attack on a single enemy.<br />Also, permanently enhances Dark Shock VI's Dark Emblem Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Genesis Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -440,
+      "y": -450
+    },
+    "rb": {
+      "x": 440,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/32121004": "30",
+    "action/0": "6thNemesis",
+    "common/maxLevel": "30",
+    "common/mpCon": "220",
+    "common/mobCount": "15",
+    "common/damage": "590+10*x",
+    "common/attackCount": "8",
+    "common/prop": "100",
+    "common/x": "280+5*x",
+    "common/time": "4",
+    "common/cooltime": "30",
+    "common/q": "30",
+    "common/q2": "160+3*x",
+    "common/q3": "10",
+    "common/q4": "6",
+    "common/w": "15",
+    "common/w2": "4",
+    "common/s": "80",
+    "common/lt/x": -440,
+    "common/lt/y": -450,
+    "common/rb/x": 440,
+    "common/rb/y": 120,
+    "common/damPlus": "x",
+    "effect0/z": "-1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "trembleEffect/delay": "-1",
+    "trembleEffect/force": "16",
+    "trembleEffect/time": "2010",
+    "trembleEffect/reduction": "0,92",
+    "trembleEffect/remote": "0",
+    "effectFlash/0/delay": "180",
+    "effectFlash/0/alpha": "20",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "180",
+    "effectFlash/1/alpha": "40",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "180",
+    "effectFlash/2/alpha": "50",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "90",
+    "effectFlash/3/alpha": "60",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "90",
+    "effectFlash/4/alpha": "70",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "90",
+    "effectFlash/5/alpha": "70",
+    "effectFlash/5/color": "ffffff",
+    "effectFlash/6/delay": "90",
+    "effectFlash/6/alpha": "50",
+    "effectFlash/6/color": "ffffff",
+    "effectFlash/7/delay": "90",
+    "effectFlash/7/alpha": "30",
+    "effectFlash/7/color": "ffffff",
+    "effectFlash/8/delay": "90",
+    "effectFlash/8/alpha": "10",
+    "effectFlash/8/color": "ffffff",
+    "effectFlash/9/delay": "450",
+    "effectFlash/9/alpha": "50",
+    "effectFlash/9/color": "0",
+    "effectFlash/10/delay": "270",
+    "effectFlash/10/alpha": "30",
+    "effectFlash/10/color": "0",
+    "effectFlash/11/delay": "90",
+    "effectFlash/11/alpha": "20",
+    "effectFlash/11/color": "0",
+    "effectFlash/12/delay": "90",
+    "effectFlash/12/alpha": "10",
+    "effectFlash/12/color": "0",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "weapon": "38",
+    "elemAttr": "d",
+    "isExceptSetLastAttack": "1",
+    "psd": "1",
+    "id": "32141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = battlemage/M/28 }",
+    "voice/male/path/1": "{ Old = , New = battlemage/M/29 }",
+    "voice/male/path/2": "{ Old = , New = battlemage/M/30 }",
+    "voice/male/path/3": "{ Old = , New = battlemage/M/68 }",
+    "voice/female/path/0": "{ Old = , New = battlemage/F/18 }",
+    "voice/female/path/1": "{ Old = , New = battlemage/F/19 }",
+    "voice/female/path/2": "{ Old = , New = battlemage/F/20 }",
+    "voice/female/path/3": "{ Old = , New = battlemage/F/64 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 220. Attacks up to 15 enemies at 890% Damage 8 times.<br />Stuns Normal monsters for 4 sec.<br />For every 30 sec., enhanced into <span style=\"font-weight:bold; color:orange;\">Dark Genesis VI: Death Whip</span>.<br /><span style=\"font-weight:bold; color:orange;\">Dark Genesis VI: Death Whip</span>: Activates 6 Grim Reaper slashes that attack up to 15 enemies at 250% Damage 10 times. Stuns Normal monsters for 4 sec.<br />Cooldown: 30 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 80% chance of a lightning attack at 430% Damage and increasing Dark Shock VI's Darkness Emblem Damage +30%p.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_32141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/32141008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/32141008_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/32141008_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/32141008_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3458397-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021087",
+  "Name": "Abyssal Lightning",
+  "Job": "5th (Magician)",
+  "Desc": "Use Netherworld lightning by encroaching on surrounding enemies with black magic. The Netherworld lightning attacks the surroundings when an attack due to Darkness Emblem is activated during the activation of Dark Shock.<br />A Netherworld portal is created around the Battle Mage at regular intervals, and using the skill with directional keys removes the nearest portal in that direction as you teleport to it. Abyssal Lightning is created along the path, and all enemies that are hit are marked with Darkness Emblem. Attacks as Dark Shock is created along the path.<br />Darkness Emblem in Abyssal Lightning must be attacked several times to disappear by consumption.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Shock Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Uses Netherworld lightning by encroaching on surrounding enemies with black magic. The Netherworld lightning attacks the surroundings when an attack due to Darkness Emblem is activated during the activation of Dark Shock.<br />A Netherworld portal is created around the Battle Mage at regular intervals, and using the skill with directional keys removes the nearest portal in that direction as you teleport to it. Abyssal Lightning is created along the path, and all enemies that are hit are marked with Darkness Emblem. Attacks as Dark Shock is created along the path.<br />Darkness Emblem in Abyssal Lightning must be attacked several times to disappear by consumption.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Shock Lv. 20 or above</span>",
+      "New": "Use Netherworld lightning by encroaching on surrounding enemies with black magic. The Netherworld lightning attacks the surroundings when an attack due to Darkness Emblem is activated during the activation of Dark Shock.<br />A Netherworld portal is created around the Battle Mage at regular intervals, and using the skill with directional keys removes the nearest portal in that direction as you teleport to it. Abyssal Lightning is created along the path, and all enemies that are hit are marked with Darkness Emblem. Attacks as Dark Shock is created along the path.<br />Darkness Emblem in Abyssal Lightning must be attacked several times to disappear by consumption.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Shock Lv. 20 or higher</span>"
+    },
+    "common/w2": {
+      "Old": "30",
+      "New": "45"
+    },
+    "voice/male/path/0": {
+      "Old": "battlemage/M/58",
+      "New": "battlemage/M/58"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/59",
+      "New": "battlemage/M/59"
+    },
+    "voice/male/path/2": {
+      "Old": "battlemage/M/60",
+      "New": "battlemage/M/60"
+    },
+    "voice/male/path/3": {
+      "Old": "battlemage/M/61",
+      "New": "battlemage/M/61"
+    },
+    "voice/male/path/4": {
+      "Old": "battlemage/M/62",
+      "New": "battlemage/M/62"
+    },
+    "voice/male/path/5": {
+      "Old": "battlemage/M/74",
+      "New": "battlemage/M/74"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/48",
+      "New": "battlemage/F/48"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/49",
+      "New": "battlemage/F/49"
+    },
+    "voice/female/path/2": {
+      "Old": "battlemage/F/50",
+      "New": "battlemage/F/50"
+    },
+    "voice/female/path/3": {
+      "Old": "battlemage/F/51",
+      "New": "battlemage/F/51"
+    },
+    "voice/female/path/4": {
+      "Old": "battlemage/F/52",
+      "New": "battlemage/F/52"
+    },
+    "voice/female/path/5": {
+      "Old": "battlemage/F/70",
+      "New": "battlemage/F/70"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021087_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021087_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9745705-03:00",
+  "ChangeType": "Changed",
+  "Id": "25101205",
+  "Name": "Back Step",
+  "Job": "Shade",
+  "Desc": "Quickly move to the rear.<br />Also, permanently increases Evade. <br /><span style=\"font-weight:bold; color:orange;\">Can be used while using your skills.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/84",
+      "New": "eunwol/M/84"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/85",
+      "New": "eunwol/M/85"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/14",
+      "New": "eunwol/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/84",
+      "New": "eunwol/F/84"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/85",
+      "New": "eunwol/F/85"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/11",
+      "New": "eunwol/F/11"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25101205_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25101205_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

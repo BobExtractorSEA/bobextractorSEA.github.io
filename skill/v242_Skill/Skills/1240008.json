@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7430458-03:00",
+  "ChangeType": "Added",
+  "Id": "1240008",
+  "Name": "Final Attack VI",
+  "Job": "Paladin",
+  "Desc": "Direct Attack Skill hits create a chance of a powerful additional attack.<br />Must have a sword or a blunt weapon equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/1200002": "20",
+    "common/maxLevel": "30",
+    "common/prop": "65",
+    "common/damage": "100+2*x",
+    "common/attackCount": "2",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "skillType": "3",
+    "id": "1240008",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 65% chance of attacking at 160% Damage 2 more times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1240008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1240008_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

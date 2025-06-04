@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.8251775-03:00",
+  "ChangeType": "Changed",
+  "Id": "20031205",
+  "Name": "Shroud Walk",
+  "Job": "Phantom",
+  "Desc": "Swathes you in a curtain of cards to teleport long distances. Shroud Walk is canceled immediately if you use a Basic attack, jump, or another skill.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_20031205_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

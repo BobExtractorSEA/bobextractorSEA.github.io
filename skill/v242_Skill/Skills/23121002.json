@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6695815-03:00",
+  "ChangeType": "Changed",
+  "Id": "23121002",
+  "Name": "Spikes Royale",
+  "Job": "Mercedes",
+  "Desc": "Enables you to jump and throw a legendary spear that attacks multiple enemies in front of you. Decreases the enemies' Defense and inflicts 100% Critical damage. Perfectly resists Knockback for its duration. Also adds the Passive effect that permanently increases Leaf Tornado damage. Can be chained with Leaf Tornado, Gust Dive, Rolling Moonsault, and Wrath of Enreal. Each chained skill decreases this skill's cooldown -1 second. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Leaf Tornado level 10 or above</span> ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/8",
+      "New": "mercedes/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/4",
+      "New": "mercedes/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "addAttack/skillPlus/11": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23121002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23121002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23121002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23121002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

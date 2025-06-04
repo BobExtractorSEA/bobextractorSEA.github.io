@@ -1,0 +1,78 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.988096-03:00",
+  "ChangeType": "Changed",
+  "Id": "11141001",
+  "Name": "Soluna Power",
+  "Job": "Dawn Warrior",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "notCooltimeReduce": {
+      "Old": "1",
+      "New": null
+    },
+    "additional_process/0": {
+      "Old": "19",
+      "New": "1"
+    },
+    "additional_process/1": {
+      "Old": "22",
+      "New": "19"
+    },
+    "additional_process/2": {
+      "Old": "30",
+      "New": "21"
+    },
+    "additional_process/5": {
+      "Old": "1",
+      "New": "30"
+    },
+    "additional_process/7": {
+      "Old": "27",
+      "New": "80"
+    },
+    "additional_process/8": {
+      "Old": "80",
+      "New": null
+    },
+    "additional_process/9": {
+      "Old": "77",
+      "New": null
+    },
+    "common/x": {
+      "Old": null,
+      "New": "600"
+    },
+    "common/updatableTime": {
+      "Old": null,
+      "New": "870"
+    },
+    "additional_process/3": {
+      "Old": null,
+      "New": "22"
+    },
+    "additional_process/4": {
+      "Old": null,
+      "New": "27"
+    },
+    "additional_process/6": {
+      "Old": null,
+      "New": "77"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11141001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1270306-03:00",
+  "ChangeType": "Changed",
+  "Id": "12120022",
+  "Name": "Inferno Rise",
+  "Job": "Blaze Wizard",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/0": {
+      "Old": "12121019",
+      "New": null
+    },
+    "skillList/1": {
+      "Old": "12121020",
+      "New": null
+    },
+    "skillList/2": {
+      "Old": "12121059",
+      "New": null
+    },
+    "skillList/3": {
+      "Old": "12141004",
+      "New": null
+    },
+    "skillList/4": {
+      "Old": "12141005",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12140019"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12120022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

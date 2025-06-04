@@ -1,0 +1,163 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2292559-03:00",
+  "ChangeType": "Changed",
+  "Id": "5121016",
+  "Name": "Hook Bomber",
+  "Job": "Buccaneer",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fight Skill]</span>Attacks the enemy in front with a powerful energy by shooting fists.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/6",
+      "New": "viper/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/7",
+      "New": "viper/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "viper/M/37",
+      "New": "viper/M/37"
+    },
+    "voice/male/path/3": {
+      "Old": "viper/M/34",
+      "New": "viper/M/34"
+    },
+    "voice/male/path/4": {
+      "Old": "viper/M/40",
+      "New": "viper/M/40"
+    },
+    "voice/male/path/5": {
+      "Old": "viper/M/41",
+      "New": "viper/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/6",
+      "New": "viper/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/7",
+      "New": "viper/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "viper/F/30",
+      "New": "viper/F/30"
+    },
+    "voice/female/path/3": {
+      "Old": "viper/F/35",
+      "New": "viper/F/35"
+    },
+    "voice/female/path/4": {
+      "Old": "viper/F/38",
+      "New": "viper/F/38"
+    },
+    "voice/female/path/5": {
+      "Old": "viper/F/41",
+      "New": "viper/F/41"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

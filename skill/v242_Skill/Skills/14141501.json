@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8476322-03:00",
+  "ChangeType": "Changed",
+  "Id": "14141501",
+  "Name": "Silence",
+  "Job": "Night Walker",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/17": {
+      "Old": "500061035",
+      "New": "14141018"
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "500061035"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14141501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

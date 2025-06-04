@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5095427-03:00",
+  "ChangeType": "Changed",
+  "Id": "64001007",
+  "Name": "Chain Arts: Chase",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "cancelableSkillID/4": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "64141034"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64001007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

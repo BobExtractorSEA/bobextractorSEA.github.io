@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.5194604-03:00",
+  "ChangeType": "Changed",
+  "Id": "0008003",
+  "Name": "Decent Hyper Body",
+  "Job": "Beginner",
+  "Desc": "[Potential Skill]<br />Increases Max HP/MP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_0008003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

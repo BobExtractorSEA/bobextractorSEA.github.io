@@ -1,0 +1,43 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1779807-03:00",
+  "ChangeType": "Added",
+  "Id": "80003846",
+  "Name": "Broomy's Thrilling Great Cleanup",
+  "Job": "Etc",
+  "Desc": "Broomy cleans happily.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "6",
+    "common/mpCon": "0",
+    "common/maxLevel": "1",
+    "common/time": "1",
+    "common/x": "80003845",
+    "common/y": "102298",
+    "invisible": "1",
+    "invisibleEvenSkillLevel": "1",
+    "fixSkillAlpha": "255",
+    "timeLimited": "1",
+    "processtype": "106",
+    "disable": "1",
+    "isUsableKaiserDragon": "1",
+    "canJobRidingUse": "1",
+    "disableNextLevelInfo": "1",
+    "notRemoved": "1",
+    "notCooltimeReset": "1",
+    "isUsableSylphdia": "1",
+    "isUsableExpressionRiver": "1",
+    "notCooltimeReduce": "1",
+    "id": "80003846"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003846_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

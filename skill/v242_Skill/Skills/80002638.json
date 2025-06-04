@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.2645215-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002638",
+  "Name": "Soul Rip",
+  "Job": "Etc",
+  "Desc": "Heretic Hilla, summoned by the power of Soul Weapon, targets an enemy in the front and lands a powerful blow.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002638_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

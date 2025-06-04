@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1992153-03:00",
+  "ChangeType": "Added",
+  "Id": "80003849",
+  "Name": "Broomy's Thrilling Great Cleanup",
+  "Job": "Etc",
+  "Desc": "Broomy cleans happily.",
+  "Coordinates": {
+    "lt": {
+      "x": -1000,
+      "y": -1000
+    },
+    "rb": {
+      "x": 1000,
+      "y": 1000
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "areaAttack": "1",
+    "pvp": "0",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "1",
+    "common/mpCon": "0",
+    "common/damage": "3000",
+    "common/mobCount": "15",
+    "common/attackCount": "1",
+    "common/lt/x": -1000,
+    "common/lt/y": -1000,
+    "common/rb/x": 1000,
+    "common/rb/y": 1000,
+    "common/subTime": "400",
+    "common/updatableTime": "100",
+    "common/w": "6",
+    "common/s": "4",
+    "common/s2": "2400",
+    "invisible": "1",
+    "disable": "1",
+    "timeLimited": "1",
+    "isUsableKaiserDragon": "1",
+    "canJobRidingUse": "1",
+    "disableNextLevelInfo": "1",
+    "notRemoved": "1",
+    "notCooltimeReset": "1",
+    "isUsableSylphdia": "1",
+    "isUsableExpressionRiver": "1",
+    "notCooltimeReduce": "1",
+    "screen/z": "5",
+    "screen/fixOriginCenter": "1",
+    "processtype": "93",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "37",
+    "additional_process/3": "27",
+    "additional_process/4": "35",
+    "additional_process/5": "85",
+    "fixLevel": "1",
+    "id": "80003849",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003849_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/80003849_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/80003849_screen_new.webp"
+    }
+  },
+  "Voices": {}
+}

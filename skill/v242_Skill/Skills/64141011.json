@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.924317-03:00",
+  "ChangeType": "Added",
+  "Id": "64141011",
+  "Name": "Professionalism VI",
+  "Job": "Cadena",
+  "Desc": "Shows true professionalism in handling various weapon. Increases Weapon Variation effects and attack skills have a chance of dealing additional damage.<br />This skill isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Professionalism Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/64121053": "1",
+    "action/0": "6thAgentBuff",
+    "common/maxLevel": "30",
+    "common/mpCon": "500+3*x",
+    "common/w": "275+5*x",
+    "common/u": "3",
+    "common/y": "6",
+    "common/time": "30",
+    "common/cooltime": "180",
+    "common/x": "2",
+    "common/w2": "100",
+    "additional_process/0": "6",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "notCooltimeReset": "1",
+    "applyHyper": "1",
+    "isSequenceOn": "1",
+    "id": "64141011",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = cadena/M/16 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/17 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/18 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/19 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/16 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/17 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/18 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/19 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 590. Weapon Variation Final Damage increase x2 times for 30 sec.<br />Successful attacks create an explosion that attacks up to 6 enemies at 425% Damage 3 times.<br />Cooldown: 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141011_effect_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

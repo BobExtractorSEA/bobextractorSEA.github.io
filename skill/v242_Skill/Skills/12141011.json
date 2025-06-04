@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6779384-03:00",
+  "ChangeType": "Added",
+  "Id": "12141011",
+  "Name": "Phoenix Drive VI",
+  "Job": "Blaze Wizard",
+  "Desc": "Burns your enemies by indiscriminately throwing a flame that travels forward for a set distance and then returns to the caster. <span style=\"font-weight:bold; color:orange;\">Use with the Up, Down, Left, and Right keys to direct the flames in any direction.</span> A Fire Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "req/12121054": "1",
+    "action/0": "6thPhoenixDriveOrb",
+    "common/maxLevel": "30",
+    "common/mpCon": "37+d(x/7)",
+    "common/x": "12",
+    "common/z": "30",
+    "common/ballDelay": "120",
+    "common/y": "210",
+    "common/w": "5",
+    "common/range": "300",
+    "common/bulletCount": "3",
+    "common/mobCount": "8",
+    "common/damage": "335+13*x",
+    "common/attackCount": "2",
+    "common/q2": "50",
+    "skillList/0": "400021000",
+    "elemAttr": "f",
+    "weapon": "37",
+    "weapon2": "38",
+    "invisible": "1",
+    "id": "12141011",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = flameWizard/M/122 }",
+    "voice/male/path/1": "{ Old = , New = flameWizard/M/123 }",
+    "voice/male/path/2": "{ Old = , New = flameWizard/M/124 }",
+    "voice/male/path/3": "{ Old = , New = flameWizard/M/17 }",
+    "voice/male/path/4": "{ Old = , New = flameWizard/M/12 }",
+    "voice/male/path/5": "{ Old = , New = flameWizard/M/41 }",
+    "voice/female/path/0": "{ Old = , New = flameWizard/F/94 }",
+    "voice/female/path/1": "{ Old = , New = flameWizard/F/95 }",
+    "voice/female/path/2": "{ Old = , New = flameWizard/F/96 }",
+    "voice/female/path/3": "{ Old = , New = flameWizard/F/47 }",
+    "voice/female/path/4": "{ Old = , New = flameWizard/F/49 }",
+    "voice/female/path/5": "{ Old = , New = flameWizard/F/14 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 41. Fires 3 flames that attack up to 8 enemies at 725% Damage 2 times. If a single enemy is hit by multiple flames, Final Damage -50% for each subsequent flame after the first one."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/12141011_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/12141011_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

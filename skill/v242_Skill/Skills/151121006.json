@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3400728-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121006",
+  "Name": "Flora Temperance",
+  "Job": "Adele",
+  "Desc": "Enables you to focus your mind and remove Status Effects cast on you. Grants immunity to status effects for 3 sec. Cannot cancel certain statuses. Effects and Combat Orders do not apply.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 30.<span style=\"font-weight:bold; color:orange;\">Cooldown: 300 sec.</span>",
+      "New": "MP Cost: 30. Cooldown: 300 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 30.<span style=\"font-weight:bold; color:orange;\">Cooldown: 300 sec.</span>",
+      "New": "MP Cost: 30. Cooldown: 300 sec."
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 30. Cooldown: 300 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

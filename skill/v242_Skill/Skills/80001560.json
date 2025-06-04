@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.8191769-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001560",
+  "Name": "Honey Butterfly Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Move at <span style=\"font-weight:bold; color:orange;\">a noticeably fast speed</span> while riding Lantern Butterflies that enable Double Jump.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Move at <span style=\"font-weight:bold; color:orange;\">a noticeably fast speed</span> while riding Lantern Butterflies that enable Double Jump. <span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span>, and you will automatically fly to the destination following the navigation line. (Autopilot is available only in Victoria Island and some other continents. You can expand your Smart Mount-permitted continents by <span style=\"font-weight:bold; color:orange;\">buying Flight Permits from Instructor Irvine</span>.) ",
+      "New": "[Master Level: 1]<br />Move at <span style=\"font-weight:bold; color:orange;\">a noticeably fast speed</span> while riding Lantern Butterflies that enable Double Jump."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001560_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

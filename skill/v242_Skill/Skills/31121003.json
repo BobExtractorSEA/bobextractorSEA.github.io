@@ -1,0 +1,89 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3270358-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121003",
+  "Name": "Demon Cry",
+  "Job": "Demon Slayer",
+  "Desc": "Instantly unleashes latent power to threaten surrounding enemies and inflict great damage. Blinds the target to reduce DEF, ATT, and Accuracy while increasing EXP OBTAINED and ITEM DROP RATE.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "HP Cost: 400. Force Cost: 30. Threatens and attacks up to 15 enemies at 515% DAMAGE 7 times.<br />Targets' ATT/DEF -15% and Accuracy -20% and OBTAINED EXP/ITEM DROP RATE +20% for 60 sec.<br />Cooldown: 6 sec.",
+      "New": "HP Cost: 400. Force Cost: 30.<br />Threatens and attacks up to 15 enemies at 515% Damage 7 times.<br />Targets' ATT/Accuracy -20%, DEF -15%, EXP Obtained/Item Drop Rate +20% for 60 sec.<br />Cooldown: 6 sec."
+    },
+    "h1": {
+      "Old": "HP Cost: 400. Force Cost: 30. Threatens and attacks up to 15 enemies at 515% DAMAGE 7 times.<br />Targets' ATT/DEF -15% and Accuracy -20% and OBTAINED EXP/ITEM DROP RATE +20% for 60 sec.<br />Cooldown: 6 sec.",
+      "New": "HP Cost: 400. Force Cost: 30.<br />Threatens and attacks up to 15 enemies at 515% Damage 7 times.<br />Targets' ATT/Accuracy -20%, DEF -15%, EXP Obtained/Item Drop Rate +20% for 60 sec.<br />Cooldown: 6 sec."
+    },
+    "common/hcCooltime": {
+      "Old": "35-d(x/2)",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/45",
+      "New": "demonSlayer/M/45"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/46",
+      "New": "demonSlayer/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/47",
+      "New": "demonSlayer/F/47"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/48",
+      "New": "demonSlayer/F/48"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 400. Force Cost: 30.<br />Threatens and attacks up to 15 enemies at 515% Damage 7 times.<br />Targets' ATT/Accuracy -20%, DEF -15%, EXP Obtained/Item Drop Rate +20% for 60 sec.<br />Cooldown: 6 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

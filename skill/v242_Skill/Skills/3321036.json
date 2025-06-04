@@ -1,0 +1,111 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0905506-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321036",
+  "Name": "Ancient Astra (Discharge)",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Materializes an arrow of the legends to bombard enemies with a powerful attack.<br />Additional magic arrows are created from hit enemies. Magic Arrows tracks down the monster with the highest HP first.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to attack up to 7 enemies at 400% damage 6 times. 30% chance per attacked enemy to create 2 magic arrows, dealing 240% damage 2 times.<br />Reduces incoming damage by 60%, including attacks that deal damage based on Max HP percentage while casting.<br />Cooldown: 60 sec.",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 400% Damage 6 times in a row.<br />Each attacked enemy creates a 30% chance of 2 magic arrows that attack at 240% Damage 2 times.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to attack up to 7 enemies at 400% damage 6 times. 30% chance per attacked enemy to create 2 magic arrows, dealing 240% damage 2 times.<br />Reduces incoming damage by 60%, including attacks that deal damage based on Max HP percentage while casting.<br />Cooldown: 60 sec.",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 400% Damage 6 times in a row.<br />Each attacked enemy creates a 30% chance of 2 magic arrows that attack at 240% Damage 2 times.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/17",
+      "New": "pathfinder/M/17"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/34",
+      "New": "pathfinder/M/34"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/35",
+      "New": "pathfinder/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/17",
+      "New": "pathfinder/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/34",
+      "New": "pathfinder/F/34"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/35",
+      "New": "pathfinder/F/35"
+    },
+    "common/s": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 400% Damage 6 times in a row.<br />Each attacked enemy creates a 30% chance of 2 magic arrows that attack at 240% Damage 2 times.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321036_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321036_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

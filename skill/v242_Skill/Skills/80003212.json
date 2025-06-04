@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.719913-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003212",
+  "Name": "Hologram Flame Wolf Riding",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Ride on a Hologram Flame Wolf that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />You can move at a <span style=\"font-weight:bold; color:orange;\">very high speed</span> on a Hologram Flame Wolf Riding that can double-jump. <span style=\"font-weight:bold; color:orange;\">Double-click the desired location on the world map to automatically fly to the destination by following the GPS. (Automatic flights are only available on certain continents, including Victoria Island. </span><span style=\"font-weight:bold; color:orange;\">Purchase a flight permit from Instructor Irvin</span> to expand the smart riding permit continent.)",
+      "New": "[Master Level: 1]<br />Ride on a Hologram Flame Wolf that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003212_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

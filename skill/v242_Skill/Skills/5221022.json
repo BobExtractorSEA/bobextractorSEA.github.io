@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4559015-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221022",
+  "Name": "Battleship Bomber",
+  "Job": "Corsair",
+  "Desc": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not affect enemies in the Damage Reflection status. Bombs the location by placing a Sign of Bombard in a certain area.<br />SP is not invested in the skill and can be used <span style=\"font-weight:bold; color:orange;\">when Ahoy Mateys is learned</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "captain/M/4",
+      "New": "captain/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/12",
+      "New": "captain/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/10",
+      "New": "captain/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/5",
+      "New": "captain/F/5"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221022_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221022_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221022_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221022_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

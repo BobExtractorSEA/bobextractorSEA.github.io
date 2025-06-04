@@ -1,0 +1,157 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9523141-03:00",
+  "ChangeType": "Added",
+  "Id": "151141010",
+  "Name": "Impale VI",
+  "Job": "Adele",
+  "Desc": "Creates an Ether Sword to send it flying forward. Swords can be sent flying in <span style=\"font-weight:bold; color:orange;\">8 directions</span> by using the skill with the directional keys.<br />The swords disappear at the end of the range while leaving behind an Ether Crystal. When an Ether Crystal is created with Impale, if there already is a crystal, the previous crystal disappears to form a new one and ignores the recreation cooldown.<br />Can be chained with Resonance, but chaining the skill will not leave behind an Ether Crystal.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Impale Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "req/151101001": "10",
+    "action/0": "6thLWImpale",
+    "common/maxLevel": "30",
+    "common/mpCon": "45+d(x/6)",
+    "common/damage": "418+11*x",
+    "common/attackCount": "6",
+    "common/mobCount": "6",
+    "common/attackDelay": "100",
+    "common/y": "15",
+    "common/cancelableTime": "360",
+    "common/cooltime": "7",
+    "cancelableSkillID/0": "151141012",
+    "shootobj/info/start/x": -5,
+    "shootobj/info/start/y": -30,
+    "shootobj/info/bodyWH/x": 300,
+    "shootobj/info/bodyWH/y": 80,
+    "shootobj/info/useUpWhenMaxMobCount": "1",
+    "shootobj/info/startDelay": "240",
+    "shootobj/info/pickDir5Way": "1",
+    "shootobj/info/multiStartPos": "1",
+    "shootobj/moveList/p1/0/v": "150",
+    "shootobj/moveList/p1/0/delay": "120",
+    "shootobj/moveList/p1/0/pos/x": 0,
+    "shootobj/moveList/p1/0/pos/y": 450,
+    "shootobj/moveList/p2/0/v": "150",
+    "shootobj/moveList/p2/0/delay": "120",
+    "shootobj/moveList/p2/0/pos/x": -450,
+    "shootobj/moveList/p2/0/pos/y": 0,
+    "shootobj/moveList/p3/0/v": "150",
+    "shootobj/moveList/p3/0/delay": "120",
+    "shootobj/moveList/p3/0/pos/x": 0,
+    "shootobj/moveList/p3/0/pos/y": -450,
+    "shootobj/moveList/p4/0/v": "150",
+    "shootobj/moveList/p4/0/delay": "120",
+    "shootobj/moveList/p4/0/pos/x": -320,
+    "shootobj/moveList/p4/0/pos/y": 320,
+    "shootobj/moveList/p5/0/v": "150",
+    "shootobj/moveList/p5/0/delay": "120",
+    "shootobj/moveList/p5/0/pos/x": -320,
+    "shootobj/moveList/p5/0/pos/y": -320,
+    "hit/0/randomHitOriginX": "35",
+    "hit/0/randomHitOriginY": "20",
+    "additional_process/0": "4",
+    "additional_process/1": "22",
+    "processtype": "-1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "id": "151141010",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = adele/M/16 }",
+    "voice/male/path/1": "{ Old = , New = adele/M/17 }",
+    "voice/male/path/2": "{ Old = , New = adele/M/18 }",
+    "voice/male/path/3": "{ Old = , New = adele/M/19 }",
+    "voice/male/path/4": "{ Old = , New = adele/M/20 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/10 }",
+    "voice/female/path/1": "{ Old = , New = adele/F/11 }",
+    "voice/female/path/2": "{ Old = , New = adele/F/12 }",
+    "voice/female/path/3": "{ Old = , New = adele/F/13 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. Ether Cost: 15.<br />Attacks up to 6 enemies at 748% Damage 6 times.<br />Cooldown: 7 sec.\t\t"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141010_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

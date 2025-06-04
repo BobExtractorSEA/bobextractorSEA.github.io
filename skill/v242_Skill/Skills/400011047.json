@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1603987-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011047",
+  "Name": "Darkness Aura",
+  "Job": "5th (Warrior)",
+  "Desc": "Emits a dark aura to drain life as the contract of darkness is enhanced.<br />Attacks from Darkness Aura do not affect enemies in the Damage Reflection status. Can be reused to instantly feed the darkness the absorbed health and deliver a lethal attack. When used during Gungnir's Descent, Dark Synthesis, or Piercing Cyclone's final attack, the skill can be canceled without the ending animation.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/29",
+      "New": "darkKnight/M/29"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/30",
+      "New": "darkKnight/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/35",
+      "New": "darkKnight/F/35"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/36",
+      "New": "darkKnight/F/36"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011047_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011047_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011047_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011047_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011047_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

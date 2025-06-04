@@ -1,0 +1,92 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9120891-03:00",
+  "ChangeType": "Changed",
+  "Id": "61111113",
+  "Name": "Wing Beat",
+  "Job": "Kaiser",
+  "Desc": "Creates a whirlwind that attacks enemies until a fixed number of monsters are killed. The whirlwind will dissipate after a short distance or time. Wing Beat does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Up to 2 can be in place at a time.<br /><span style=\"font-weight:bold; color:orange;\">Command Skill: During Attack + Jump Key + Command</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Creates a whirlwind that attacks enemies until a fixed number of monsters are killed. The whirlwind will dissipate after a short distance or time. Wing Beat is not affected by enemies in the Damage Reflection status. Up to 2 can be in place at a time.<span style=\"font-weight:bold; color:orange;\">Command Skill: During Attack + Jump Key + Command</span>",
+      "New": "Creates a whirlwind that attacks enemies until a fixed number of monsters are killed. The whirlwind will dissipate after a short distance or time. Wing Beat does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Up to 2 can be in place at a time.<br /><span style=\"font-weight:bold; color:orange;\">Command Skill: During Attack + Jump Key + Command</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 35, Damage: 200%, Number of Attacks: 40, Chance to SlowAttacked Monsters: 40%<br /><span style=\"font-weight:bold; color:orange;\">Dissipates when certain </span> of attacks are made, set distance is traveled, or duration expires<span style=\"font-weight:bold; color:orange;\">.</span>",
+      "New": "MP Cost: 35. Attacks up to 8 enemies at 200% Damage up to 40 times. A 40% chance of Slowing monsters except Bosses for 5 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 35, Damage: 200%, Number of Attacks: 40, Chance to SlowAttacked Monsters: 40%<br /><span style=\"font-weight:bold; color:orange;\">Dissipates when certain </span> of attacks are made, set distance is traveled, or duration expires<span style=\"font-weight:bold; color:orange;\">.</span>",
+      "New": "MP Cost: 35. Attacks up to 8 enemies at 200% Damage up to 40 times. A 40% chance of Slowing monsters except Bosses for 5 sec."
+    },
+    "common/w2": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "15+x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "140+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "20+x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "10000",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "330",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "61141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 35. Attacks up to 8 enemies at 200% Damage up to 40 times. A 40% chance of Slowing monsters except Bosses for 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61111113_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

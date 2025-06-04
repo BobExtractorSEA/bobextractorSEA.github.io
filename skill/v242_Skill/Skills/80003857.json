@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.2517611-03:00",
+  "ChangeType": "Added",
+  "Id": "80003857",
+  "Name": "Champion Double Up",
+  "Job": "Etc",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Champion Double Up</span> Follow Champions 1",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "level/1/hs": "h1",
+    "level/1/time": "10000000",
+    "level/1/x": "1",
+    "summon/invisible": "1",
+    "common/u2": "100",
+    "timeLimited": "1",
+    "invisible": "1",
+    "fixLevel": "1",
+    "id": "80003857"
+  },
+  "HFields": {
+    "h1": "Your Followers will follow you around."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003857_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80003857_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

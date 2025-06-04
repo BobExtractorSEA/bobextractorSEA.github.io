@@ -1,0 +1,135 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.3870645-03:00",
+  "ChangeType": "Changed",
+  "Id": "22170067",
+  "Name": "Dive of Earth",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>, responds to Evan's magic and breaks a rising rock, inflicting great damage on surrounding enemies. Dive of Earth improves in proportion to Dragon Dive's skill and does not affect enemies with the Damage Reflection effect. This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Earth</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 70. Create a rock, attack, and then crash into 3 points to attack. Each hit attacks up to 6 enemies at 370% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision",
+      "New": "MP Cost: 70. Creates a rock, attacks, and then crashes into 3 points to attack. Each hit attacks up to 6 enemies at 370% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision"
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Create a rock, attack, and then crash into 3 points to attack. Each hit attacks up to 6 enemies at 370% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision",
+      "New": "MP Cost: 70. Creates a rock, attacks, and then crashes into 3 points to attack. Each hit attacks up to 6 enemies at 370% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "18+4*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "25+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "59+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/25",
+      "New": "evan/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/12",
+      "New": "evan/M/12"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/5",
+      "New": "evan/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/25",
+      "New": "evan/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/12",
+      "New": "evan/F/12"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/5",
+      "New": "evan/F/5"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22200008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Creates a rock, attacks, and then crashes into 3 points to attack. Each hit attacks up to 6 enemies at 370% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22170067_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170067_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

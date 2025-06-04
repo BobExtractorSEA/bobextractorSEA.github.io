@@ -1,0 +1,145 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6850761-03:00",
+  "ChangeType": "Changed",
+  "Id": "154111002",
+  "Name": "Artz: Triple Bash",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Artz]</span><br />Using a chakram, deliver a series of powerful strikes to enemies in front of you.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "khali/M/50",
+      "New": "khali/M/50"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/53",
+      "New": "khali/M/53"
+    },
+    "voice/male/path/2": {
+      "Old": "khali/M/55",
+      "New": "khali/M/55"
+    },
+    "voice/male/path/3": {
+      "Old": "khali/M/60",
+      "New": "khali/M/60"
+    },
+    "voice/male/path/4": {
+      "Old": "khali/M/65",
+      "New": "khali/M/65"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/37",
+      "New": "khali/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/48",
+      "New": "khali/F/48"
+    },
+    "voice/female/path/2": {
+      "Old": "khali/F/52",
+      "New": "khali/F/52"
+    },
+    "voice/female/path/3": {
+      "Old": "khali/F/54",
+      "New": "khali/F/54"
+    },
+    "voice/female/path/4": {
+      "Old": "khali/F/59",
+      "New": "khali/F/59"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "154141003"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "154141004"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "154141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

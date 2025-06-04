@@ -1,0 +1,108 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.635787-03:00",
+  "ChangeType": "Changed",
+  "Id": "5321052",
+  "Name": "Rolling Cannon Rainbow",
+  "Job": "Cannon Master",
+  "Desc": "Commands the Cannon Shooter's supporters to summon 3 cannons and concentrate fire on enemies in front. Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Installation skill. MP Cost: 300, Damage: 800%, Number of Targets: 10, Number of Attacks per Hit: 3 times, Duration: 12 seconds<br />Cooldown: 90 seconds",
+      "New": "MP Cost: 300. Installs a cannon for 12 sec.<br />The cannon attacks up to 10 enemies at 800% Damage 3 times.<br />Cooldown: 90 sec."
+    },
+    "h1": {
+      "Old": "Installation skill. MP Cost: 300, Damage: 800%, Number of Targets: 10, Number of Attacks per Hit: 3 times, Duration: 12 seconds<br />Cooldown: 90 seconds",
+      "New": "MP Cost: 300. Installs a cannon for 12 sec.<br />The cannon attacks up to 10 enemies at 800% Damage 3 times.<br />Cooldown: 90 sec."
+    },
+    "common/subTime": {
+      "Old": "240",
+      "New": "450"
+    },
+    "voice/prop": {
+      "Old": "0",
+      "New": "100"
+    },
+    "voice/male/path/0": {
+      "Old": "cannonShooter/M/37",
+      "New": "cannonShooter/M/37"
+    },
+    "voice/male/path/1": {
+      "Old": "cannonShooter/M/38",
+      "New": "cannonShooter/M/38"
+    },
+    "voice/female/path/0": {
+      "Old": "cannonShooter/F/33",
+      "New": "cannonShooter/F/33"
+    },
+    "voice/female/path/1": {
+      "Old": "cannonShooter/F/34",
+      "New": "cannonShooter/F/34"
+    },
+    "voice/female/path/2": {
+      "Old": "cannonShooter/F/14",
+      "New": "cannonShooter/F/14"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5341014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Installs a cannon for 12 sec.<br />The cannon attacks up to 10 enemies at 800% Damage 3 times.<br />Cooldown: 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5321052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6493267-03:00",
+  "ChangeType": "Added",
+  "Id": "63141025",
+  "Name": "Chasing Shot VI",
+  "Job": "Kain",
+  "Desc": "Summons an arrow that chases and attacks enemies. Not affected by Attack Speed Increase buffs. Won't be summoned if there are no targets to chase.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Chasing Shot Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -750,
+      "y": -600
+    },
+    "rb": {
+      "x": 200,
+      "y": 400
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "req/63121042": "1",
+    "action/0": "6thChasingShot",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/damage": "376+10*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/y": "3",
+    "common/u": "120",
+    "common/v": "600",
+    "common/cancelableTime": "450",
+    "common/cooltime": "25-d(x/3)",
+    "common/updatableTime": "1500",
+    "common/nbdR": "30",
+    "common/lt/x": -750,
+    "common/lt/y": -600,
+    "common/rb/x": 200,
+    "common/rb/y": 400,
+    "cancelableSkillID/0": "63001002",
+    "cancelableSkillID/1": "63001003",
+    "cancelableSkillID/2": "63001005",
+    "multiAttackInfo/0/attackTime": "420",
+    "multiAttackInfo/1/attackTime": "120",
+    "multiAttackInfo/2/attackTime": "120",
+    "pointInfo/0/x": -120,
+    "pointInfo/0/y": -40,
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngleRange/x": -40,
+    "hit/0/randomHitAngleRange/y": 40,
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "21",
+    "additional_process/1": "22",
+    "additional_process/2": "69",
+    "additional_process/3": "77",
+    "additional_process/4": "1",
+    "additional_process/5": "30",
+    "additional_process/6": "72",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "psd": "1",
+    "applyHyper": "1",
+    "id": "63141025",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = kain/M/42 }",
+    "voice/male/path/1": "{ Old = , New = kain/M/43 }",
+    "voice/male/path/2": "{ Old = , New = kain/M/44 }",
+    "voice/male/path/3": "{ Old = , New = kain/M/45 }",
+    "voice/female/path/0": "{ Old = , New = kain/F/50 }",
+    "voice/female/path/1": "{ Old = , New = kain/F/51 }",
+    "voice/female/path/2": "{ Old = , New = kain/F/52 }",
+    "voice/female/path/3": "{ Old = , New = kain/F/53 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Fires 3 arrows that track and attack up to 8 enemies at 676% Damage 6 times. Normal Monster Damage +30%.<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141025_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141025_effect_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/63141025_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141025_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141025_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8492448-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041091",
+  "Name": "Resonate: Ultimatum",
+  "Job": "5th (Thief)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "skillList/0": {
+      "Old": "154101004",
+      "New": null
+    },
+    "skillList/1": {
+      "Old": "154111004",
+      "New": null
+    },
+    "skillList/2": {
+      "Old": "154121003",
+      "New": null
+    },
+    "skillList/3": {
+      "Old": "154121009",
+      "New": null
+    },
+    "skillList/4": {
+      "Old": "154121011",
+      "New": null
+    },
+    "skillList2/0": {
+      "Old": "154101004",
+      "New": null
+    },
+    "skillList2/1": {
+      "Old": "154111004",
+      "New": null
+    },
+    "skillList2/2": {
+      "Old": "154121003",
+      "New": null
+    },
+    "skillList2/3": {
+      "Old": "154121009",
+      "New": null
+    },
+    "skillList3/0": {
+      "Old": "154111006",
+      "New": null
+    },
+    "skillList3/1": {
+      "Old": "154121001",
+      "New": null
+    },
+    "skillList3/2": {
+      "Old": "154121002",
+      "New": null
+    },
+    "skillList3/3": {
+      "Old": "400041082",
+      "New": null
+    },
+    "common/x": {
+      "Old": null,
+      "New": "76"
+    },
+    "hit2/0/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/0/randomHitAngle": {
+      "Old": null,
+      "New": "1"
+    },
+    "SecondAtom/atom/2/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/2/pos/x": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/2/pos/y": {
+      "Old": null,
+      "New": "-180"
+    },
+    "SecondAtom/atom/2/createDelay": {
+      "Old": null,
+      "New": "60"
+    },
+    "SecondAtom/atom/2/enableDelay": {
+      "Old": null,
+      "New": "660"
+    },
+    "SecondAtom/atom/2/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/2/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/3/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/3/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/3/pos/x": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/3/pos/y": {
+      "Old": null,
+      "New": "-230"
+    },
+    "SecondAtom/atom/3/createDelay": {
+      "Old": null,
+      "New": "60"
+    },
+    "SecondAtom/atom/3/enableDelay": {
+      "Old": null,
+      "New": "660"
+    },
+    "SecondAtom/atom/3/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/3/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/4/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/4/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/4/pos/x": {
+      "Old": null,
+      "New": "105"
+    },
+    "SecondAtom/atom/4/pos/y": {
+      "Old": null,
+      "New": "-180"
+    },
+    "SecondAtom/atom/4/createDelay": {
+      "Old": null,
+      "New": "60"
+    },
+    "SecondAtom/atom/4/enableDelay": {
+      "Old": null,
+      "New": "660"
+    },
+    "SecondAtom/atom/4/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/4/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/5/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/5/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/5/pos/x": {
+      "Old": null,
+      "New": "-165"
+    },
+    "SecondAtom/atom/5/pos/y": {
+      "Old": null,
+      "New": "-100"
+    },
+    "SecondAtom/atom/5/createDelay": {
+      "Old": null,
+      "New": "120"
+    },
+    "SecondAtom/atom/5/enableDelay": {
+      "Old": null,
+      "New": "720"
+    },
+    "SecondAtom/atom/5/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/5/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/6/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/6/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/6/pos/x": {
+      "Old": null,
+      "New": "165"
+    },
+    "SecondAtom/atom/6/pos/y": {
+      "Old": null,
+      "New": "-100"
+    },
+    "SecondAtom/atom/6/createDelay": {
+      "Old": null,
+      "New": "120"
+    },
+    "SecondAtom/atom/6/enableDelay": {
+      "Old": null,
+      "New": "720"
+    },
+    "SecondAtom/atom/6/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/6/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/7/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/7/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/7/pos/x": {
+      "Old": null,
+      "New": "165"
+    },
+    "SecondAtom/atom/7/pos/y": {
+      "Old": null,
+      "New": "-2"
+    },
+    "SecondAtom/atom/7/createDelay": {
+      "Old": null,
+      "New": "180"
+    },
+    "SecondAtom/atom/7/enableDelay": {
+      "Old": null,
+      "New": "780"
+    },
+    "SecondAtom/atom/7/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/7/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/8/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/8/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/8/pos/x": {
+      "Old": null,
+      "New": "-165"
+    },
+    "SecondAtom/atom/8/pos/y": {
+      "Old": null,
+      "New": "-2"
+    },
+    "SecondAtom/atom/8/createDelay": {
+      "Old": null,
+      "New": "180"
+    },
+    "SecondAtom/atom/8/enableDelay": {
+      "Old": null,
+      "New": "780"
+    },
+    "SecondAtom/atom/8/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/8/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/9/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/9/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/9/pos/x": {
+      "Old": null,
+      "New": "105"
+    },
+    "SecondAtom/atom/9/pos/y": {
+      "Old": null,
+      "New": "80"
+    },
+    "SecondAtom/atom/9/createDelay": {
+      "Old": null,
+      "New": "240"
+    },
+    "SecondAtom/atom/9/enableDelay": {
+      "Old": null,
+      "New": "840"
+    },
+    "SecondAtom/atom/9/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/9/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/10/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/10/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/10/pos/x": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/10/pos/y": {
+      "Old": null,
+      "New": "125"
+    },
+    "SecondAtom/atom/10/createDelay": {
+      "Old": null,
+      "New": "240"
+    },
+    "SecondAtom/atom/10/enableDelay": {
+      "Old": null,
+      "New": "840"
+    },
+    "SecondAtom/atom/10/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/10/attackableCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "SecondAtom/atom/11/rotate": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/11/expire": {
+      "Old": null,
+      "New": "4000"
+    },
+    "SecondAtom/atom/11/pos/x": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/11/pos/y": {
+      "Old": null,
+      "New": "80"
+    },
+    "SecondAtom/atom/11/createDelay": {
+      "Old": null,
+      "New": "240"
+    },
+    "SecondAtom/atom/11/enableDelay": {
+      "Old": null,
+      "New": "840"
+    },
+    "SecondAtom/atom/11/dataIndex": {
+      "Old": null,
+      "New": "76"
+    },
+    "SecondAtom/atom/11/attackableCount": {
+      "Old": null,
+      "New": "4"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041091_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit2": {
+      "Old": null,
+      "New": "Animations/New/400041091_hit2_new.webp"
+    }
+  },
+  "Voices": {}
+}

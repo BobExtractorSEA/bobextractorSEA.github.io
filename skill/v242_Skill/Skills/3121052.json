@@ -1,0 +1,155 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.4110395-03:00",
+  "ChangeType": "Changed",
+  "Id": "3121052",
+  "Name": "Wind of Fray",
+  "Job": "Bowmaster",
+  "Desc": "Reads the flow of the wind to summon destructive gusts that will strike enemies. Enhances Installable Arrow Platter and Arrow Platter.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/dot": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/dotInterval": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/dotTime": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "15",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bowMaster/M/15",
+      "New": "bowMaster/M/15"
+    },
+    "voice/male/path/1": {
+      "Old": "bowMaster/M/16",
+      "New": "bowMaster/M/16"
+    },
+    "voice/male/path/2": {
+      "Old": "bowMaster/M/27",
+      "New": "bowMaster/M/27"
+    },
+    "voice/male/path/3": {
+      "Old": "bowMaster/M/37",
+      "New": "bowMaster/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "bowMaster/F/15",
+      "New": "bowMaster/F/15"
+    },
+    "voice/female/path/1": {
+      "Old": "bowMaster/F/16",
+      "New": "bowMaster/F/16"
+    },
+    "voice/female/path/2": {
+      "Old": "bowMaster/F/27",
+      "New": "bowMaster/F/27"
+    },
+    "voice/female/path/3": {
+      "Old": "bowMaster/F/28",
+      "New": "bowMaster/F/28"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

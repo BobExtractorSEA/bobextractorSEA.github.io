@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.5940988-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001478",
+  "Name": "Cleansing Ring",
+  "Job": "Etc",
+  "Desc": "Chance to remove all Status Effects. This skill isn't affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001478_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

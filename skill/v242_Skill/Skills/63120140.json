@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.2798598-03:00",
+  "ChangeType": "Changed",
+  "Id": "63120140",
+  "Name": "[Revelation/Execution] Sneaky Sniping",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revelation/Execution SKill]</span><br />Shoots at enemies with arrows condensed with evil energy. Hold down the key and continue aiming at enemies to increase attack range. Release the key to deal a fatal blow to the enemies by penetrating them with a giant arrows. [Execution] Sneaky Sniping <span style=\"font-weight:bold; color:orange;\">resets Shadow Step's cooldown</span> when defeating an enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 350 MP during key-down for 1.6 sec to generate 5 impacts. Attacks up to 12 enemies at 287% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec</span>",
+      "New": "MP Cost: 350. Key down for up to 1.6 sec. Generates impact 5 times that attacks up to 12 enemies at 287% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 350 MP during key-down for 1.6 sec to generate 5 impacts. Attacks up to 12 enemies at 287% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec</span>",
+      "New": "MP Cost: 350. Key down for up to 1.6 sec. Generates impact 5 times that attacks up to 12 enemies at 287% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63140126"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 350. Key down for up to 1.6 sec. Generates impact 5 times that attacks up to 12 enemies at 287% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63120140_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

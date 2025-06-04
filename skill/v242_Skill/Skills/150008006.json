@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.9790966-03:00",
+  "ChangeType": "Changed",
+  "Id": "150008006",
+  "Name": "Decent Speed Infusion",
+  "Job": "Illium",
+  "Desc": "[Potential Skill]<br />Consumes HP and MP to increase your ASPD by 1 level for a set period. Can be stacked with other buffs except Wind Booster.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_150008006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

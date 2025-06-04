@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7189699-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121054",
+  "Name": "Elite Serum",
+  "Job": "Cadena",
+  "Desc": "Drink an elixir with the secrets of the merchants guild to temporarily maximize potential.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cadena/M/16",
+      "New": "cadena/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/20",
+      "New": "cadena/M/20"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/18",
+      "New": "cadena/M/18"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/19",
+      "New": "cadena/M/19"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/16",
+      "New": "cadena/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/20",
+      "New": "cadena/F/20"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/18",
+      "New": "cadena/F/18"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/19",
+      "New": "cadena/F/19"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

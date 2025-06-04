@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3303422-03:00",
+  "ChangeType": "Changed",
+  "Id": "5141503",
+  "Name": "Liberate Neptunes",
+  "Job": "Buccaneer",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "additional_process/9": {
+      "Old": null,
+      "New": "30"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141503_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

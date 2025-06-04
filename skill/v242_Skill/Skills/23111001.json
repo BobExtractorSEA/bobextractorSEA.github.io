@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6150584-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111001",
+  "Name": "Leaf Tornado",
+  "Job": "Mercedes",
+  "Desc": "Jumps and spins while shooting arrows in all four directions. This skill can only be used only in midair with a certain height or above. Requires a higher height when chaining with <span style=\"font-weight:bold; color:orange;\">Gust Dive</span>. Can be chained with Gust Dive, Rolling Moonsault, Spikes Royale, and Wrath of Enreal.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job Skill, Spikes Royale</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/7": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

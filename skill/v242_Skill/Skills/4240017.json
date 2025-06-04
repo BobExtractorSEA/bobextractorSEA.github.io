@@ -1,0 +1,39 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.087628-03:00",
+  "ChangeType": "Added",
+  "Id": "4240017",
+  "Name": "Shadow Edge",
+  "Job": "Shadower",
+  "Desc": "Delivers a lethal strike from the shadows. Direct Attack Skill hits activate an additional attack.<br />Not affected by Buff Duration Bonus effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "10",
+    "common/maxLevel": "30",
+    "common/time": "3",
+    "common/x": "9",
+    "isBeneficial": "1",
+    "invisible": "1",
+    "repeat/repeatIdx": "8",
+    "id": "4240017"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4240017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/4240017_repeat_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/4240017_end_new.webp"
+    }
+  },
+  "Voices": {}
+}

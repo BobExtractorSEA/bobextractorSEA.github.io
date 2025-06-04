@@ -1,0 +1,52 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.0295663-03:00",
+  "ChangeType": "Added",
+  "Id": "80003821",
+  "Name": "Champion Insignia: Boss Damage",
+  "Job": "Etc",
+  "Desc": "The blessing of the Champion Insignia increases Boss Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "common/maxLevel": "6",
+    "common/bdR": "5*x",
+    "psd": "1",
+    "invisible": "1",
+    "psd_unusableFieldTemplateID/0": "410014000",
+    "psd_unusableFieldTemplateID/1": "410014100",
+    "psd_unusableFieldTemplateID/2": "410014200",
+    "psd_unusableFieldTemplateID/3": "410014300",
+    "psd_unusableFieldTemplateID/4": "410014400",
+    "psd_unusableFieldTemplateID/5": "410014500",
+    "psd_unusableFieldTemplateID/6": "410014600",
+    "psd_unusableFieldTemplateID/7": "410014700",
+    "psd_unusableFieldTemplateID/8": "410014800",
+    "psd_unusableFieldTemplateID/9": "410014900",
+    "psd_unusableFieldTemplateID/10": "410015000",
+    "psd_unusableFieldTemplateID/11": "410015100",
+    "psd_unusableFieldTemplateID/12": "410015200",
+    "psd_unusableFieldTemplateID/13": "410015300",
+    "psd_unusableFieldTemplateID/14": "410015400",
+    "psd_unusableFieldTemplateID/15": "410015500",
+    "psd_unusableFieldTemplateID/16": "410015600",
+    "psd_unusableFieldTemplateID/17": "410015700",
+    "psd_unusableFieldTemplateID/18": "410015800",
+    "psd_unusableFieldTemplateID/19": "410015900",
+    "psd_unusableFieldTemplateID/20": "410016000",
+    "psd_unusableFieldTemplateID/21": "410016100",
+    "id": "80003821"
+  },
+  "HFields": {
+    "h1": "Boss Monster Damage +30%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003821_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

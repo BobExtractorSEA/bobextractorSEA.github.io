@@ -1,0 +1,178 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7123024-03:00",
+  "ChangeType": "Added",
+  "Id": "64141034",
+  "Name": "Weapon Arts: Talon Strike VI",
+  "Job": "Cadena",
+  "Desc": "Summons a Claw. Once equipped, move forward diagonally while quickly scratching at enemies. Prevents being knocked back by any attack while casting a skill. Can only be used in the air and <span style=\"font-weight:bold; color:orange;\">can be used while using a skill.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Arts: Talon Strike Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -290,
+      "y": -100
+    },
+    "rb": {
+      "x": 80,
+      "y": 190
+    }
+  },
+  "Fields": {
+    "type": "52",
+    "req/64101001": "20",
+    "action/0": "6thNTclaw",
+    "common/maxLevel": "30",
+    "common/mpCon": "20+d(x/6)",
+    "common/damage": "550+11*x",
+    "common/attackCount": "4",
+    "common/mobCount": "10",
+    "common/cooltime": "3",
+    "common/lt/x": -290,
+    "common/lt/y": -100,
+    "common/rb/x": 80,
+    "common/rb/y": 190,
+    "common/range": "300",
+    "common/cancelableTime": "150",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "60",
+    "rush/elem/0/vx": "100",
+    "rush/elem/1/style": "2",
+    "rush/elem/1/time": "120",
+    "rush/elem/1/vx": "150",
+    "rush/elem/1/vy": "30",
+    "rush/elem/2/style": "0",
+    "rush/elem/2/time": "240",
+    "rush/elem/2/vx": "0",
+    "cancelableSkillID/1": "64001000",
+    "cancelableSkillID/0": "64001002",
+    "cancelableSkillID/2": "64001013",
+    "cancelableSkillID/3": "64001001",
+    "cancelableSkillID/4": "64001007",
+    "cancelableSkillID/5": "64001008",
+    "cancelableSkillID/6": "64141000",
+    "cancelableSkillID/7": "64141030",
+    "cancelableSkillID/8": "64141031",
+    "hit/0/randomHitAngleRange/x": -35,
+    "hit/0/randomHitAngleRange/y": 20,
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "15",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141034",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 25. Attacks up to 10 enemies at 880% damage 4 time(s).<br />Cooldown: 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141034_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141034_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141034_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141034_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141034_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

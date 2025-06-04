@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2227537-03:00",
+  "ChangeType": "Added",
+  "Id": "5141013",
+  "Name": "Serpent Assault VI",
+  "Job": "Buccaneer",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -870,
+      "y": -485
+    },
+    "rb": {
+      "x": 300,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/5120026": "20",
+    "common/maxLevel": "30",
+    "common/mpCon": "50+d(x/3)",
+    "common/damage": "465+8*x",
+    "common/mobCount": "15",
+    "common/attackCount": "6",
+    "common/lt/x": -870,
+    "common/lt/y": -485,
+    "common/rb/x": 300,
+    "common/rb/y": 90,
+    "effect/fix": "1",
+    "effect0/z": "-1",
+    "effect0/fix": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/hitAfter": "-180",
+    "hit/0/delayShowDamage": "300",
+    "processtype": "-1",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "30",
+    "additional_process/5": "35",
+    "additional_process/6": "75",
+    "invisible": "1",
+    "weapon": "48",
+    "weapon2": "39",
+    "skillList/0": "5101012",
+    "skillList/1": "5111002",
+    "skillList/2": "5121016",
+    "skillList/3": "5141015",
+    "id": "5141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5141013_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/5141013_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5141013_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

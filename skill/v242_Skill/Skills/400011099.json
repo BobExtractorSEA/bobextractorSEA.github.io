@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.066101-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011099",
+  "Name": "Shadow Flash",
+  "Job": "5th (Warrior)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/70",
+      "New": "zero/M/70"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/72",
+      "New": "zero/M/72"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/73",
+      "New": "zero/M/73"
+    },
+    "additional_process/7": {
+      "Old": null,
+      "New": "98"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011099_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011099_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011099_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011099_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

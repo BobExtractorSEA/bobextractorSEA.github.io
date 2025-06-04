@@ -1,0 +1,114 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1352582-03:00",
+  "ChangeType": "Added",
+  "Id": "152141015",
+  "Name": "Longinus Zone VI",
+  "Job": "Illium",
+  "Desc": "Draws 6 Spear of God, Longinus and bombards a large area with attacks.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Longinus Zone Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -515,
+      "y": -515
+    },
+    "rb": {
+      "x": 515,
+      "y": 515
+    }
+  },
+  "Fields": {
+    "req/152121041": "1",
+    "action/0": "6thLonginusZone",
+    "common/maxLevel": "30",
+    "common/mpCon": "200+3*d(x/2)",
+    "common/damage": "1050+16*x",
+    "common/attackCount": "5",
+    "common/mobCount": "12",
+    "common/lt/x": -515,
+    "common/lt/y": -515,
+    "common/rb/x": 515,
+    "common/rb/y": 515,
+    "common/cooltime": "120",
+    "common/time": "2400",
+    "common/subTime": "300",
+    "common/x": "348",
+    "common/y": "0",
+    "common/variableRect/0/lt/x": -515,
+    "common/variableRect/0/lt/y": -515,
+    "common/variableRect/0/rb/x": 515,
+    "common/variableRect/0/rb/y": 515,
+    "common/variableRect/0/delay": "660",
+    "common/variableRect/1/lt/x": -515,
+    "common/variableRect/1/lt/y": -515,
+    "common/variableRect/1/rb/x": 515,
+    "common/variableRect/1/rb/y": 515,
+    "common/variableRect/1/delay": "300",
+    "common/variableRect/2/lt/x": -515,
+    "common/variableRect/2/lt/y": -515,
+    "common/variableRect/2/rb/x": 515,
+    "common/variableRect/2/rb/y": 515,
+    "common/variableRect/2/delay": "300",
+    "common/variableRect/3/lt/x": -515,
+    "common/variableRect/3/lt/y": -515,
+    "common/variableRect/3/rb/x": 515,
+    "common/variableRect/3/rb/y": 515,
+    "common/variableRect/3/delay": "360",
+    "common/u": "4",
+    "effect/z": "2",
+    "tile/z": "-3",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "skillList/0": "400021000",
+    "weapon": "28",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "id": "152141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = illium/M/10 }",
+    "voice/female/path/0": "{ Old = , New = illium/F/10 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 245. Activates 4 explosions that attack up to 12 enemies at 1530% Damage 5 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while it's cast.</span><br />Cooldown: 120 sec.\t"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/152141015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152141015_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/152141015_tile_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

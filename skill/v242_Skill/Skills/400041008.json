@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6592097-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041008",
+  "Name": "Shadow Spear",
+  "Job": "5th (Thief)",
+  "Desc": "A shadow on the ground turns into a spear and attacks enemies. Does not affect enemies in the Damage Reflection state, and Shadow Spear is not activated in towns. This is a kind of Darkness Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/28",
+      "New": "nightWalker/M/28"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/29",
+      "New": "nightWalker/M/29"
+    },
+    "voice/male/path/2": {
+      "Old": "nightWalker/M/30",
+      "New": "nightWalker/M/30"
+    },
+    "voice/male/path/3": {
+      "Old": "nightWalker/M/62",
+      "New": "nightWalker/M/62"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/28",
+      "New": "nightWalker/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/29",
+      "New": "nightWalker/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "nightWalker/F/30",
+      "New": "nightWalker/F/30"
+    },
+    "voice/female/path/3": {
+      "Old": "nightWalker/F/31",
+      "New": "nightWalker/F/31"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

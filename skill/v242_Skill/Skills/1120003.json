@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0156796-03:00",
+  "ChangeType": "Changed",
+  "Id": "1120003",
+  "Name": "Advanced Combo Attack",
+  "Job": "Hero",
+  "Desc": "Increases your Final Damage per Combo Counter, maximum Combo Counters, and chance to generate 2 Combo Counters. Also increases Weapon Mastery.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Weapon Mastery, Lv. 20 Combo Synergy</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1120003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

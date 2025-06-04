@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6434006-03:00",
+  "ChangeType": "Changed",
+  "Id": "13141505",
+  "Name": "Mystral Spring",
+  "Job": "Wind Archer",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141505_icon.png",
+    "IconPathOld": "Icons/Old/v241_13141505_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

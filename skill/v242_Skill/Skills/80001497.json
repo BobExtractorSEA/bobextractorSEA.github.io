@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.6782564-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001497",
+  "Name": "Charge Type CQ57",
+  "Job": "Etc",
+  "Desc": "Summons Charge Type CQ57 to fight together. The Soul Weapon's power temporarily summons Charge Type CQ57 to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001497_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

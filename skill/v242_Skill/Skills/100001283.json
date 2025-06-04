@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.6425574-03:00",
+  "ChangeType": "Changed",
+  "Id": "100001283",
+  "Name": "Shadow Rain",
+  "Job": "Zero",
+  "Desc": "Alpha and Beta’s combination attack. Beta crashes down on the enemy with her Great Sword, stopping them in their tracks. Then Alpha follows up from the shadows, dealing critical damage to all targets. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/0",
+      "New": "zero/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/1",
+      "New": "zero/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "zero/F/0",
+      "New": "zero/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/1",
+      "New": "zero/F/1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141033"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_100001283_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001283_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001283_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001283_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001283_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

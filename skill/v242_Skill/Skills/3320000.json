@@ -1,0 +1,90 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.9470357-03:00",
+  "ChangeType": "Changed",
+  "Id": "3320000",
+  "Name": "Relic Charge II",
+  "Job": "Pathfinder",
+  "Desc": "The power of the completed Relic allows smoother energy circulation and enables enhancing <span style=\"font-weight:bold; color:orange;\">Enchant Force</span> with the power of Cardinal Force.<br /><span style=\"font-weight:bold; color:orange;\">Enchant Force</span> gains a unique attribute based on the Relic's pattern. The Relic's pattern resets after using <span style=\"font-weight:bold; color:orange;\">Enchant Force</span>.<br /><span style=\"font-weight:bold; color:orange;\">Enchant Force</span> can be used in rapid succession after using Cardinal Force.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/s": {
+      "Old": "10",
+      "New": "30"
+    },
+    "skillList2/20": {
+      "Old": null,
+      "New": "3341006"
+    },
+    "skillList2/21": {
+      "Old": null,
+      "New": "3341007"
+    },
+    "skillList2/22": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "skillList2/23": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "skillList2/24": {
+      "Old": null,
+      "New": "3341012"
+    },
+    "skillList2/25": {
+      "Old": null,
+      "New": "3341013"
+    },
+    "skillList2/26": {
+      "Old": null,
+      "New": "3341014"
+    },
+    "skillList2/27": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "skillList2/28": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "skillList2/29": {
+      "Old": null,
+      "New": "3341017"
+    },
+    "skillList2/30": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "skillList2/31": {
+      "Old": null,
+      "New": "3341019"
+    },
+    "skillList2/32": {
+      "Old": null,
+      "New": "3341020"
+    },
+    "skillList2/33": {
+      "Old": null,
+      "New": "3341021"
+    },
+    "skillList2/34": {
+      "Old": null,
+      "New": "3341022"
+    },
+    "skillList2/35": {
+      "Old": null,
+      "New": "3341023"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3320000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

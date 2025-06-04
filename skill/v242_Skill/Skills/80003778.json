@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2463811-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003778",
+  "Name": "Unstable Core",
+  "Job": "Etc",
+  "Desc": "The power of the Anti-Demon Pendant makes Azrael's essence unstable, increasing the time it takes for the shield to regenerate.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003778_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

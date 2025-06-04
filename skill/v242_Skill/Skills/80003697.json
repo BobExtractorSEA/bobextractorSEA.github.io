@@ -1,0 +1,74 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1047498-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003697",
+  "Name": "Dawnlight Illusion: ATT/MATT",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">ATT and MATT</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: ATT/MATT",
+      "New": "Dawnlight Illusion: ATT/MATT"
+    },
+    "level/1/padX": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/1/madX": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/2/padX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/2/madX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/3/padX": {
+      "Old": null,
+      "New": "15"
+    },
+    "level/3/madX": {
+      "Old": null,
+      "New": "15"
+    },
+    "level/4/padX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/4/madX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/5/padX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/5/madX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/6/padX": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/6/madX": {
+      "Old": null,
+      "New": "40"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003697_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,135 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7466001-03:00",
+  "ChangeType": "Added",
+  "Id": "37141009",
+  "Name": "Charging Arm: Smash VI",
+  "Job": "Blaster",
+  "Desc": "Hammers down on the ground, attacking and launching nearby enemies in the air. Enemies hit are forced to reveal their weaknesses for a while, receiving increased Final Damage from the Blaster.<br />Can be chained to Magnum Drive or Burning Breaker.<br />Can be charged by holding the key down. <span style=\"font-weight:bold; color:orange;\">When charged, this skill is activated even in the middle of another skill, by canceling the skill. Protects you against the Knockback effect.</span><br />Up to 2 skills excluding Charging Arm: Smash can be charged even while another skill is in use.<br />Also, permanently increases the Damage of Magnum Drive VI and Double Drive.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Charging Arm: Smash Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -280,
+      "y": -230
+    },
+    "rb": {
+      "x": 180,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/type": "1",
+    "info2/mes": "lifting",
+    "req/37111000": "20",
+    "action/0": "6thChoppingHammer",
+    "common/maxLevel": "30",
+    "common/mpCon": "25+d(x/6)",
+    "common/damage": "327+5*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/y": "60",
+    "common/x": "10",
+    "common/lt/x": -280,
+    "common/lt/y": -230,
+    "common/rb/x": 180,
+    "common/rb/y": 80,
+    "common/w2": "500",
+    "common/v": "400",
+    "common/v2": "500",
+    "common/z": "150",
+    "common/s": "15+7*d(x/3)",
+    "common/u": "10+6*d(x/3)",
+    "rwCancelInfo/0/skill": "37001000",
+    "rwCancelInfo/0/cancelFrame": "3",
+    "rwCancelInfo/1/skill": "400011091",
+    "rwCancelInfo/1/cancelFrame": "3",
+    "rwCancelInfo/2/skill": "37141000",
+    "rwCancelInfo/2/cancelFrame": "3",
+    "skillList/0": "400011000",
+    "finalAttack/37000007/0": "58",
+    "special0/z": "-1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "trembleEffect/delay": "60",
+    "trembleEffect/force": "4",
+    "trembleEffect/time": "240",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "weapon": "58",
+    "subWeapon": "35",
+    "id": "37141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = blaster/M/9 }",
+    "voice/male/path/1": "{ Old = , New = blaster/M/11 }",
+    "voice/female/path/0": "{ Old = , New = blaster/F/16 }",
+    "voice/female/path/1": "{ Old = , New = blaster/F/17 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 30. Attacks up to 8 enemies at 477% Damage 6 times.<br />Enemies hit are forced to reveal their weaknesses for 60 sec., receiving 10% more Final Damage from the Blaster.<br />[Passive Effects: Magnum Drive VI Damage +85%p and Double Drive VI Damage +70%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/37141009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/37141009_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/37141009_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/37141009_special0_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/37141009_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

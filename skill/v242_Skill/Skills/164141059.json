@@ -1,0 +1,110 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.3346954-03:00",
+  "ChangeType": "Added",
+  "Id": "164141059",
+  "Name": "Fist Method: Sucking Vortex VI",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon a powerful vortex that absorbs enemy's spirits. Using the skill again cancels the vortex, and the amount of spirits absorbed proportionally restores HP and MP for party members.<br />Fist Method: Sucking Vortex does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Increases Damage of Fist Method: Sucking Vortex Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "cannotCancelByRButton": "1",
+    "info2/ignoreCounter": "1",
+    "req/164121008": "30",
+    "action/0": "6thVortexAbsorber",
+    "common/maxLevel": "30",
+    "common/atGauge2Con": "900",
+    "common/mobCount": "6",
+    "common/damage": "315+5*x",
+    "common/attackCount": "6",
+    "common/time": "40",
+    "common/subTime": "1000",
+    "common/x": "9",
+    "common/y": "5",
+    "common/z": "4",
+    "common/w": "3",
+    "common/cooltime": "1",
+    "showSummonedBuffIcon": "1",
+    "processtype": "7",
+    "weapon": "29",
+    "subWeapon": "35",
+    "footholdInstallSummoned": "1",
+    "footholdAffectedArea": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "effect/fixed": "1",
+    "effect/fix": "1",
+    "summon/attack1/info/range/lt/x": -500,
+    "summon/attack1/info/range/lt/y": -235,
+    "summon/attack1/info/range/rb/x": 500,
+    "summon/attack1/info/range/rb/y": 35,
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "6",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "additional_process/0": "18",
+    "additional_process/1": "33",
+    "additional_process/2": "41",
+    "id": "164141059",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = HoYoung/M/13 }",
+    "voice/male/path/1": "{ Old = , New = HoYoung/M/14 }",
+    "voice/female/path/0": "{ Old = , New = HoYoung/F/13 }",
+    "voice/female/path/1": "{ Old = , New = HoYoung/F/14 }"
+  },
+  "HFields": {
+    "h1": "Scroll Power Cost: 900. Summons a vortex that attacks up to 6 enemies at 465% Damage 6 times for 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss monster absorbs 3 times the spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed restores HP and MP for party members by up to 5%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_164141059_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/164141059_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/164141059_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141059_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141059_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141059_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141059_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4533371-03:00",
+  "ChangeType": "Changed",
+  "Id": "162121006",
+  "Name": "Absorption: Sound of Wind",
+  "Job": "Lara",
+  "Desc": "Absorbs the power of the wind so that the Aero Spirit shows up to help.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isBeneficial": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "lara/M/38",
+      "New": "lara/M/38"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/39",
+      "New": "lara/M/39"
+    },
+    "voice/male/path/2": {
+      "Old": "lara/M/40",
+      "New": "lara/M/40"
+    },
+    "voice/male/path/3": {
+      "Old": "lara/M/41",
+      "New": "lara/M/41"
+    },
+    "voice/male/path/4": {
+      "Old": "lara/M/42",
+      "New": "lara/M/42"
+    },
+    "voice/male/path/5": {
+      "Old": "lara/M/47",
+      "New": "lara/M/47"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/49",
+      "New": "lara/F/49"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/50",
+      "New": "lara/F/50"
+    },
+    "voice/female/path/2": {
+      "Old": "lara/F/51",
+      "New": "lara/F/51"
+    },
+    "voice/female/path/3": {
+      "Old": "lara/F/52",
+      "New": "lara/F/52"
+    },
+    "voice/female/path/4": {
+      "Old": "lara/F/53",
+      "New": "lara/F/53"
+    },
+    "voice/female/path/5": {
+      "Old": "lara/F/58",
+      "New": "lara/F/58"
+    },
+    "voice/female/path/6": {
+      "Old": "lara/F/60",
+      "New": "lara/F/60"
+    },
+    "skillList/5": {
+      "Old": null,
+      "New": "162141020"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "162141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162121006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

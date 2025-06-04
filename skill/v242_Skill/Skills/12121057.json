@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.2389689-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121057",
+  "Name": "Pheonix Drive",
+  "Job": "Blaze Wizard",
+  "Desc": "Indiscriminately fires flames that flies forwards a set distance then returns to the caster to incinerate enemies. <span style=\"font-weight:bold; color:orange;\">Use the arrow keys to send it in the desired direction. A fire element attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "300+8*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/orbCount": {
+      "Old": "8",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121057_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

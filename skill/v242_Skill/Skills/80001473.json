@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.5600219-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001473",
+  "Name": "Weapon Jump L Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily increases LUK by a portion of your Main Weapon's ATT or MATT. Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001473_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1784584-03:00",
+  "ChangeType": "Changed",
+  "Id": "35111002",
+  "Name": "Rock 'n Shock",
+  "Job": "Mechanic",
+  "Desc": "Installs up to 3 <Tesla Coils> to create a <Rock 'n Shock> which continuously attacks enemies. Tesla Coils self-destruct when they run out of power.<br />If there are no Tesla Coils installed or enough space to install 3 at once, you can install three Tesla Coils at once using the down arrow key.<br />When Rock 'n Shock is in effect, attempting to install a new Tesla Coil will remove all 3 existing Tesla Coils before proceeding to install.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 75. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 70 sec. Attacks up to 10 enemies within range at 200% Damage and Stuns them. After its duration, self-destructs at 550% Damage.",
+      "New": "MP Cost: 75. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 70 sec.<br />Periodically attacks up to 10 enemies within range at 200% Damage. Successful attacks Stun enemies. Upon expiration, explodes and attacks up to 6 enemies at 550% Damage."
+    },
+    "h1": {
+      "Old": "MP Cost: 75. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 70 sec. Attacks up to 10 enemies within range at 200% Damage and Stuns them. After its duration, self-destructs at 550% Damage.",
+      "New": "MP Cost: 75. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 70 sec.<br />Periodically attacks up to 10 enemies within range at 200% Damage. Successful attacks Stun enemies. Upon expiration, explodes and attacks up to 6 enemies at 550% Damage."
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mechanic/M/21",
+      "New": "mechanic/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/22",
+      "New": "mechanic/M/22"
+    },
+    "voice/male/path/2": {
+      "Old": "mechanic/M/23",
+      "New": "mechanic/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/21",
+      "New": "mechanic/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/22",
+      "New": "mechanic/F/22"
+    },
+    "voice/female/path/2": {
+      "Old": "mechanic/F/23",
+      "New": "mechanic/F/23"
+    },
+    "common/w2": {
+      "Old": null,
+      "New": "6"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "35141007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 75. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 70 sec.<br />Periodically attacks up to 10 enemies within range at 200% Damage. Successful attacks Stun enemies. Upon expiration, explodes and attacks up to 6 enemies at 550% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

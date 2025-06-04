@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6446917-03:00",
+  "ChangeType": "Changed",
+  "Id": "152141002",
+  "Name": "Invoke: Javelin VI",
+  "Job": "Illium",
+  "Desc": "Charging the power of the crystal accumulated in crystal shards into javelins, three enchanted <span style=\"font-weight:bold; color:orange;\">3</span> javelins are thrown that automatically track and attack enemies.<br />Javelin runs through and attacks the enemies in a fast pace. When Javelin hits the enemy, it shatters into shards and additionally attacks.<br /><span style=\"font-weight:bold; color:orange;\">Enchant Javelin can charge a large amount of magical power into the crystal.</span><br />Can coordinate with Craft :Orb II and does not get affected from multi-attack skill's attack target increase. <br />Javelin and Javelin shard tracks a boss monster with higher max HP in the first place.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Javelin Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/0": {
+      "Old": null,
+      "New": "152141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

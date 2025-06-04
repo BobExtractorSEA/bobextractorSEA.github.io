@@ -1,0 +1,72 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6433838-03:00",
+  "ChangeType": "Added",
+  "Id": "35141010",
+  "Name": "Intense Distortion Field",
+  "Job": "Mechanic",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -570,
+      "y": -280
+    },
+    "rb": {
+      "x": -40,
+      "y": 160
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/35121052": "1",
+    "common/maxLevel": "30",
+    "common/lt/x": -570,
+    "common/lt/y": -280,
+    "common/rb/x": -40,
+    "common/rb/y": 160,
+    "common/damage": "1300+23*x",
+    "common/attackCount": "15",
+    "common/mobCount": "8",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/delayedTimeActionSpeed": "330",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "68",
+    "additional_process/5": "69",
+    "additional_process/6": "35",
+    "additional_process/7": "101",
+    "processtype": "-1",
+    "weapon": "49",
+    "applyHyper": "1",
+    "canJobRidingUse": "1",
+    "invisible": "1",
+    "id": "35141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/35141010_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141010_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

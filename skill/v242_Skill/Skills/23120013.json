@@ -1,0 +1,130 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6956445-03:00",
+  "ChangeType": "Changed",
+  "Id": "23120013",
+  "Name": "Advanced Stunning Strikes",
+  "Job": "Mercedes",
+  "Desc": "Adds more powerful attack with enhanced Stunning Strikes.<br />Required Skill : <span style=\"font-weight:bold; color:orange;\">Stunning Strikes Level 20</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 35. Shoots 4 arrows that each attacks up to 8 enemies at 456% Damage. 80% chance of causing Stun for 6 sec. Final damage +20% on Stunned enemies.",
+      "New": "MP Cost: 35. Attack up to 8 enemies at 456% Damage 4 times."
+    },
+    "h1": {
+      "Old": "MP Cost: 35. Shoots 4 arrows that each attacks up to 8 enemies at 456% Damage. 80% chance of causing Stun for 6 sec. Final damage +20% on Stunned enemies.",
+      "New": "MP Cost: 35. Attack up to 8 enemies at 456% Damage 4 times."
+    },
+    "mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "info2/mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "info2/multiTargeting": {
+      "Old": "1",
+      "New": null
+    },
+    "common/time": {
+      "Old": "6",
+      "New": null
+    },
+    "common/prop": {
+      "Old": "80",
+      "New": null
+    },
+    "common/range": {
+      "Old": "430",
+      "New": null
+    },
+    "common/hcTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "5",
+      "New": null
+    },
+    "common/x": {
+      "Old": "20",
+      "New": null
+    },
+    "mob/pos": {
+      "Old": "2",
+      "New": null
+    },
+    "mob/repeat": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/2",
+      "New": "mercedes/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/4",
+      "New": "mercedes/F/4"
+    },
+    "addAttack/skillPlus/9": {
+      "Old": null,
+      "New": "23141011"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 35. Attack up to 8 enemies at 456% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23120013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": "Animations/Old/23120013_mob_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23120013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23120013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23120013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23120013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

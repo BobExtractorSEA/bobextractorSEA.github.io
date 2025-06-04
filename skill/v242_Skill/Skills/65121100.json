@@ -1,0 +1,85 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7620431-03:00",
+  "ChangeType": "Changed",
+  "Id": "65121100",
+  "Name": "Celestial Roar",
+  "Job": "Angelic Buster",
+  "Desc": "Fires a wave forward that shakes the souls of enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 21. Attacks up to 8 enemies at 580% damage 4 times.<br />A 90% chance to Stun enemies for 3 sec on hit.",
+      "New": "MP Cost: 21. Attacks up to 8 enemies at 580% Damage 4 times,<br />with a 90% chance of Stunning them for 3 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 21. Attacks up to 8 enemies at 580% damage 4 times.<br />A 90% chance to Stun enemies for 3 sec on hit.",
+      "New": "MP Cost: 21. Attacks up to 8 enemies at 580% Damage 4 times,<br />with a 90% chance of Stunning them for 3 sec."
+    },
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/18",
+      "New": "angelicBurster/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/19",
+      "New": "angelicBurster/F/19"
+    },
+    "voice/female/path/2": {
+      "Old": "angelicBurster/F/65",
+      "New": "angelicBurster/F/65"
+    },
+    "voice/female/path/3": {
+      "Old": "angelicBurster/F/69",
+      "New": "angelicBurster/F/69"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "65141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 21. Attacks up to 8 enemies at 580% Damage 4 times,<br />with a 90% chance of Stunning them for 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_65121100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

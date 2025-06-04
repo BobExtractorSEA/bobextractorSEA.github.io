@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4591634-03:00",
+  "ChangeType": "Changed",
+  "Id": "2221011",
+  "Name": "Freezing Breath",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Freezes you and enemies, <span style=\"font-weight:bold; color:orange;\">Binding and continuously decreasing the enemies' DEF</span>.<br />This skill's targets are resistant to Bind effects for 90 sec. and cannot be Bound by Freezing Breath or any other binding skills. This is a kind of Ice Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "archMageTC/M/8",
+      "New": "archMageTC/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageTC/M/9",
+      "New": "archMageTC/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageTC/F/8",
+      "New": "archMageTC/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageTC/F/9",
+      "New": "archMageTC/F/9"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2221011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

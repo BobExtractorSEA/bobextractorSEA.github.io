@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7129167-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001043",
+  "Name": "Empress Cygnus' Blessing",
+  "Job": "5th",
+  "Desc": "Cygnus blesses you, continuously increasing Damage and restoring HP. This skill can be improved with a certain method after Level 245. Receives a Cooldown Reduction effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001043_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

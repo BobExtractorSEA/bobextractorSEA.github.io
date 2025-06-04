@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6162454-03:00",
+  "ChangeType": "Changed",
+  "Id": "32121011",
+  "Name": "Dark Genesis",
+  "Job": "Battle Mage",
+  "Desc": "Deathly Lightning attacks up to 15 enemies with a chance of temporarily stunning them. Dark Genesis does not affect enemies in the Damage Reflection status. When Dark Genesis is learned, it also increases Dark Energy Chain/Battle Burst/Dark Shock damage permanently and using skills to directly attack enemies during this skill's cooldown strikes lightning onto a single enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "finalAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "condition": {
+      "Old": "attack",
+      "New": null
+    },
+    "magicDamage": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "32141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32121011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

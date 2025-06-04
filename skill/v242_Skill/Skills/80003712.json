@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2084213-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003712",
+  "Name": "Starlight Illusion: Grandis Daily Mission Reward",
+  "Job": "Etc",
+  "Desc": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Grandis Daily</span><br /><span style=\"font-weight:bold; color:orange;\">quests</span>. <br /><br /><span style=\"font-weight:bold; color:orange;\">The effect only applies to Daily quests in Cernium, Hotel Arcs, Odium, Shangri-La, Arteria, and Carcion</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Grandis Daily Mission Reward",
+      "New": "Starlight Illusion: Grandis Daily Mission Reward"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003712_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

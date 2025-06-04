@@ -1,0 +1,174 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3548738-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021092",
+  "Name": "Salamander Mischief",
+  "Job": "5th (Magician)",
+  "Desc": "Summons the mischievous fire elemental, Salamander, to help in battle.<br />Salamander attacks nearby enemies when Flame Wizard's direct attack skill hits and returns to the summoner if all attack counts are consumed in a single action, or if the summoner moves far away.<br />You gain Embers as Salamander's attack hits, and Salamander's power increases based on the number of Embers. When Salamander disappears, it repays the collected Embers with a Magic Attack Increase buff.<br />Salamander's attacks not affect enemies in the Damage Reflection status and prioritizes the Boss monster with the highest Max HP. This is a kind of Fire Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/134",
+      "New": "flameWizard/M/134"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/135",
+      "New": "flameWizard/M/135"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/136",
+      "New": "flameWizard/M/136"
+    },
+    "voice/male/path/3": {
+      "Old": "flameWizard/M/17",
+      "New": "flameWizard/M/17"
+    },
+    "voice/male/path/4": {
+      "Old": "flameWizard/M/23",
+      "New": "flameWizard/M/23"
+    },
+    "voice/male/path/5": {
+      "Old": "flameWizard/M/82",
+      "New": "flameWizard/M/82"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/108",
+      "New": "flameWizard/F/108"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/109",
+      "New": "flameWizard/F/109"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/50",
+      "New": "flameWizard/F/50"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/37",
+      "New": "flameWizard/F/37"
+    },
+    "voice/female/path/4": {
+      "Old": "flameWizard/F/27",
+      "New": "flameWizard/F/27"
+    },
+    "voice/female/path/5": {
+      "Old": "flameWizard/F/19",
+      "New": "flameWizard/F/19"
+    },
+    "voice/female/path/6": {
+      "Old": "flameWizard/F/2",
+      "New": "flameWizard/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021092_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021092_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

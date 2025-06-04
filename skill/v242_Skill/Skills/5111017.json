@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1503821-03:00",
+  "ChangeType": "Changed",
+  "Id": "5111017",
+  "Name": "Serpent Stone",
+  "Job": "Buccaneer",
+  "Desc": "Obtain a clue about the power while dealing with the power of the Water Dragon. Uses the power of the Water Dragon through the clue.<br />Obtains 1 <span style=\"font-weight:bold; color:orange;\">Serpent Stone</span>, which is the clue of the power every time the Water Dragon skill is activated through a fight skill trigger.<br />Enter the Assault state that can handle the power of the Water Dragon when you consume 5 Serpent Stones. In the Assault state, Assault skills are activated instead of the Water Dragon skill as a fighting skill trigger. The Assault state is canceled when an Assault skill is used once. The effect of the increased buff duration does not apply to the Assault state duration.<br />In Auto-Use Mode, Serpent Stones are automatically used when you get 5 Serpent Stones.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/3": {
+      "Old": null,
+      "New": "5141015"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5111017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

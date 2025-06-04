@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7960379-03:00",
+  "ChangeType": "Changed",
+  "Id": "2320013",
+  "Name": "Blessing Harmony",
+  "Job": "Bishop",
+  "Desc": "Blessing Ensemble's effect is increased. Blessing Harmony overrides the effects of Blessing Ensemble, and the Final Damage increased by Blessing Ensemble is cumulative.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Blessing Ensemble's effect is increased. Blessing Ensemble overrides the effects of Blessing Harmony, and the final damage increased by Blessing Ensemble is cumulative.",
+      "New": "Blessing Ensemble's effect is increased. Blessing Harmony overrides the effects of Blessing Ensemble, and the Final Damage increased by Blessing Ensemble is cumulative."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2320013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

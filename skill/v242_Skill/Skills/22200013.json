@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6229197-03:00",
+  "ChangeType": "Added",
+  "Id": "22200013",
+  "Name": "Breath of Earth VI",
+  "Job": "Evan",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -650,
+      "y": -340
+    },
+    "rb": {
+      "x": 40,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "info2/ignoreCounter": "1",
+    "req/22170065": "30",
+    "dragonAction/0": "6thDragonBreathEarth",
+    "common/maxLevel": "30",
+    "common/damage": "297+6*x",
+    "common/attackCount": "6",
+    "common/mobCount": "4",
+    "common/subTime": "450",
+    "common/v": "150",
+    "common/time": "1300",
+    "common/lt/x": -650,
+    "common/lt/y": -340,
+    "common/rb/x": 40,
+    "common/rb/y": 300,
+    "common/mpCon": "80+u(x/3)",
+    "skillList/0": "400021000",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "37",
+    "weapon2": "38",
+    "elemAttr": "f",
+    "invisible": "1",
+    "id": "22200013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22200013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22200013_hit_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/22200013_ball_new.webp"
+    }
+  },
+  "Voices": {}
+}

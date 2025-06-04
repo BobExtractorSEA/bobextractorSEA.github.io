@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2713641-03:00",
+  "ChangeType": "Changed",
+  "Id": "5120011",
+  "Name": "Defense Form",
+  "Job": "Buccaneer",
+  "Desc": "Uses the power of the Water Dragon with the Water Dragon's blessing to decrease damage from attacks periodically.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/8": {
+      "Old": null,
+      "New": "5141013"
+    },
+    "skillList/9": {
+      "Old": null,
+      "New": "5141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5120011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

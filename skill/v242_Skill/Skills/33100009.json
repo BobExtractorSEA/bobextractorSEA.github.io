@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.8715472-03:00",
+  "ChangeType": "Changed",
+  "Id": "33100009",
+  "Name": "Final Attack",
+  "Job": "Wild Hunter",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Crossbow equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Crossbow Mastery or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill \"Advanced Final Attack\".</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Final Attack that inflicts 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Final Attack that inflicts 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33100009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

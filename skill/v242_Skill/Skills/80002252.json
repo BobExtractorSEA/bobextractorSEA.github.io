@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.8657918-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002252",
+  "Name": "Frozen Night Riding",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Rise on a Frozen Night Riding Mount that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Rise on a Frozen Night Riding Mount that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>. <span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span>, and you will automatically fly to the destination following the navigation line. (Autopilot is available only on Victoria Island and some other continents. <span style=\"font-weight:bold; color:orange;\">You can expand your Smart Mount-permitted continents by buying</span> Flight Permits from Instructor Irvin.) ",
+      "New": "[Master Level: 1]<br />Rise on a Frozen Night Riding Mount that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>. "
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002252_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

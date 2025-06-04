@@ -1,0 +1,195 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.2989951-03:00",
+  "ChangeType": "Changed",
+  "Id": "1221011",
+  "Name": "Sanctuary",
+  "Job": "Paladin",
+  "Desc": "Strikes the ground with a giant hammer, simultaneously attacking multiple enemies.<br />Sanctuary inflicts extra damages on Boss Monster and prevents any Knockback effect from enemy attacks while being cast.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Strikes the ground with a giant hammer, simultaneously attacking multiple enemies. Sanctuary inflicts extra damages on Boss Monster and prevents any Knockback effect from enemy attacks while being cast.",
+      "New": "Strikes the ground with a giant hammer, simultaneously attacking multiple enemies.<br />Sanctuary inflicts extra damages on Boss Monster and prevents any Knockback effect from enemy attacks while being cast."
+    },
+    "H": {
+      "Old": "MP Cost: 60. Attacks up to 15 enemies at 620% damage 8 times. +30% Damage when attacking Boss Monsters. Cooldown: 15 sec",
+      "New": "MP Cost: 60. Attacks up to 15 enemies at 620% Damage 8 times.<br />Boss Monster Damage +30%<br />Cooldown: 15 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 60. Attacks up to 15 enemies at 620% damage 8 times. +30% Damage when attacking Boss Monsters. Cooldown: 15 sec",
+      "New": "MP Cost: 60. Attacks up to 15 enemies at 620% Damage 8 times.<br />Boss Monster Damage +30%<br />Cooldown: 15 sec."
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "deadlyAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "common/damageToBoss": {
+      "Old": "440+6*x",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "900+14*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "180-5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/damageToBoss": {
+      "Old": "900+14*x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "paladin/M/29",
+      "New": "paladin/M/29"
+    },
+    "voice/male/path/1": {
+      "Old": "paladin/M/30",
+      "New": "paladin/M/30"
+    },
+    "voice/male/path/2": {
+      "Old": "paladin/M/5",
+      "New": "paladin/M/5"
+    },
+    "voice/male/path/3": {
+      "Old": "paladin/M/7",
+      "New": "paladin/M/7"
+    },
+    "voice/male/path/4": {
+      "Old": "paladin/M/8",
+      "New": "paladin/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "paladin/F/19",
+      "New": "paladin/F/19"
+    },
+    "voice/female/path/1": {
+      "Old": "paladin/F/20",
+      "New": "paladin/F/20"
+    },
+    "voice/female/path/2": {
+      "Old": "paladin/F/8",
+      "New": "paladin/F/8"
+    },
+    "voice/female/path/3": {
+      "Old": "paladin/F/9",
+      "New": "paladin/F/9"
+    },
+    "voice/female/path/4": {
+      "Old": "paladin/F/10",
+      "New": "paladin/F/10"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "1241007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 60. Attacks up to 15 enemies at 620% Damage 8 times.<br />Boss Monster Damage +30%<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1221011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

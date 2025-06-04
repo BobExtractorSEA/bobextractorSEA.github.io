@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.8669573-03:00",
+  "ChangeType": "Added",
+  "Id": "64141015",
+  "Name": "Chain Arts: Takedown VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -325,
+      "y": -350
+    },
+    "rb": {
+      "x": 325,
+      "y": 210
+    }
+  },
+  "Fields": {
+    "info2/ignoreCounter": "1",
+    "req/64121001": "30",
+    "common/maxLevel": "30",
+    "common/damage": "960+18*x",
+    "common/attackCount": "15",
+    "common/mobCount": "10",
+    "common/lt/x": -325,
+    "common/lt/y": -350,
+    "common/rb/x": 325,
+    "common/rb/y": 210,
+    "common/updatableTime": "3690",
+    "common/w": "60",
+    "common/w2": "690",
+    "common/v": "1410",
+    "common/v2": "2040",
+    "common/q": "2970",
+    "trembleEffect/delay": "3060",
+    "trembleEffect/force": "10",
+    "trembleEffect/time": "600",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "21",
+    "invisible": "1",
+    "processtype": "-1",
+    "notResetDarkSight": "1",
+    "id": "64141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141015_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

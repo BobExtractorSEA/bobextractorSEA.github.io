@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2343708-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003775",
+  "Name": "Memories of Honor",
+  "Job": "Etc",
+  "Desc": "With the power of the Anti-Demon Pendant, you recall memories of honor, dealing more Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003775_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

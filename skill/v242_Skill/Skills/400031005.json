@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.442382-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031005",
+  "Name": "Jaguar Storm",
+  "Job": "5th (Bowman)",
+  "Desc": "Summons a pack of Jaguars using the cries of souls. If used with the down arrow key, the number decreases around Wild Hunter but strong Jaguars can be summoned. Use Contraction mode to summon a stronger Jaguar using just the skill key without using the direction key.<br /><span style=\"font-weight:bold; color:orange;\">Contraction Mode On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "wildhunter/M/32",
+      "New": "wildhunter/M/32"
+    },
+    "voice/male/path/1": {
+      "Old": "wildhunter/M/33",
+      "New": "wildhunter/M/33"
+    },
+    "voice/male/path/2": {
+      "Old": "wildhunter/M/34",
+      "New": "wildhunter/M/34"
+    },
+    "voice/female/path/0": {
+      "Old": "wildhunter/F/32",
+      "New": "wildhunter/F/32"
+    },
+    "voice/female/path/1": {
+      "Old": "wildhunter/F/33",
+      "New": "wildhunter/F/33"
+    },
+    "voice/female/path/2": {
+      "Old": "wildhunter/F/34",
+      "New": "wildhunter/F/34"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

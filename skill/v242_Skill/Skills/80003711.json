@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2023919-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003711",
+  "Name": "Starlight Illusion: Arcane River Daily Mission Reward",
+  "Job": "Etc",
+  "Desc": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Arcane River Daily</span><br /><span style=\"font-weight:bold; color:orange;\">quests</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Arcane River Daily Mission Reward",
+      "New": "Starlight Illusion: Arcane River Daily Mission Reward"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003711_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,209 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1426803-03:00",
+  "ChangeType": "Added",
+  "Id": "154141011",
+  "Name": "Hex: Chakram Sweep VI",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Hex]</span><br />Throws a giant chakram forward and leaps backward with the momentum.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hex: Chakram Sweep Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -800,
+      "y": -180
+    },
+    "rb": {
+      "x": 50,
+      "y": 95
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/154111006": "20",
+    "action/0": "6thSweep",
+    "common/maxLevel": "30",
+    "common/mpCon": "45+d(x/4)",
+    "common/damage": "756+19*x",
+    "common/attackCount": "7",
+    "common/mobCount": "8",
+    "common/lt/x": -800,
+    "common/lt/y": -180,
+    "common/rb/x": 50,
+    "common/rb/y": 95,
+    "common/cooltime": "6",
+    "common/updatableTime": "210",
+    "common/cancelableTime": "90",
+    "common/x": "500",
+    "common/y": "600",
+    "common/u": "450",
+    "common/w": "620",
+    "cancelableSkillID/0": "154101004",
+    "cancelableSkillID/1": "154111004",
+    "cancelableSkillID/2": "154111011",
+    "cancelableSkillID/3": "154121003",
+    "cancelableSkillID/4": "154121009",
+    "cancelableSkillID/5": "154121012",
+    "cancelableSkillID/6": "154141003",
+    "cancelableSkillID/7": "154141004",
+    "cancelableSkillID/8": "154141007",
+    "rush/elem/0/style": "5",
+    "rush/elem/0/time": "210",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "effect/fix": "1",
+    "effect/z": "2",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "21",
+    "additional_process/3": "22",
+    "additional_process/4": "30",
+    "weapon": "404",
+    "subWeapon": "35",
+    "processtype": "-1",
+    "id": "154141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "40",
+    "voice/male/count": 7,
+    "voice/female/count": 7,
+    "voice/male/path/0": "{ Old = , New = khali/M/0 }",
+    "voice/male/path/1": "{ Old = , New = khali/M/1 }",
+    "voice/male/path/2": "{ Old = , New = khali/M/2 }",
+    "voice/male/path/3": "{ Old = , New = khali/M/3 }",
+    "voice/male/path/4": "{ Old = , New = khali/M/34 }",
+    "voice/male/path/5": "{ Old = , New = khali/M/42 }",
+    "voice/male/path/6": "{ Old = , New = khali/M/88 }",
+    "voice/female/path/0": "{ Old = , New = khali/F/0 }",
+    "voice/female/path/1": "{ Old = , New = khali/F/1 }",
+    "voice/female/path/2": "{ Old = , New = khali/F/2 }",
+    "voice/female/path/3": "{ Old = , New = khali/F/3 }",
+    "voice/female/path/4": "{ Old = , New = khali/F/34 }",
+    "voice/female/path/5": "{ Old = , New = khali/F/60 }",
+    "voice/female/path/6": "{ Old = , New = khali/F/61 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 52. Throws a giant chakram that attacks up to 8 enemies at 1326% Damage 7 times.<br />Cooldown: 6 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_154141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/154141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/154141011_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

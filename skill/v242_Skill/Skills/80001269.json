@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8803443-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001269",
+  "Name": "Fatal Cuteness",
+  "Job": "Etc",
+  "Desc": "Pink Bean does not like something. Pink Bean summoned by the power of Soul Weapon shows her fatal charm to the monster in the vicinity.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001269_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

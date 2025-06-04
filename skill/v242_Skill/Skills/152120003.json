@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5875366-03:00",
+  "ChangeType": "Changed",
+  "Id": "152120003",
+  "Name": "Invoke: Orb II",
+  "Job": "Illium",
+  "Desc": "Enhances Invoke: Orb.<br />It shares the skill level with Invoke: Javelin II and can be linked together.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Orb Lv. 20 or above</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/2": {
+      "Old": null,
+      "New": "152141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152120003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

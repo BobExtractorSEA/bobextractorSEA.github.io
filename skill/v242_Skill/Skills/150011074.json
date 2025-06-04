@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.9850977-03:00",
+  "ChangeType": "Changed",
+  "Id": "150011074",
+  "Name": "Contact the Caravan",
+  "Job": "Ark",
+  "Desc": "Attempt to contact the Caravan by using the signal device received when parting ways. Receive a different buff based on the communication target. This skill is not affected by Cooldown Reset and Buff Duration Bonus effects.<br /><span style=\"font-weight:bold; color:orange;\">Message Pop-up Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_150011074_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

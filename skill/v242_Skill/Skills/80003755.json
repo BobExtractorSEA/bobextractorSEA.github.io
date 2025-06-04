@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2218643-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003755",
+  "Name": "Limbo of the Source",
+  "Job": "Etc",
+  "Desc": "Summons the soul of Limbo who has reached the Truth. Limbo summoned by the power of your Soul Weapon temporarily attacks surrounding monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003755_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

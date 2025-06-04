@@ -1,0 +1,166 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2360738-03:00",
+  "ChangeType": "Added",
+  "Id": "5141015",
+  "Name": "Hook Bomber VI",
+  "Job": "Buccaneer",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fight Skill]</span><br />Throws a fist out to attack enemies in front with a powerful blast of energy.<br />Transcends limits, increasing the Damage of Octopunch and Super Octopunch.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hook Bomber Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -460,
+      "y": -230
+    },
+    "rb": {
+      "x": 70,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/5121016": "30",
+    "action/0": "6thHookBomber",
+    "common/maxLevel": "30",
+    "common/mpCon": "46+d(x/3)",
+    "common/damage": "616+11*x",
+    "common/mobCount": "8",
+    "common/attackCount": "4",
+    "common/lt/x": -460,
+    "common/lt/y": -230,
+    "common/rb/x": 70,
+    "common/rb/y": 80,
+    "common/u": "8+4*x",
+    "common/v": "8+4*x",
+    "common/damPlus": "15+2*x",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "48",
+    "weapon2": "39",
+    "psd": "1",
+    "id": "5141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = viper/M/6 }",
+    "voice/male/path/1": "{ Old = , New = viper/M/7 }",
+    "voice/male/path/2": "{ Old = , New = viper/M/37 }",
+    "voice/male/path/3": "{ Old = , New = viper/M/34 }",
+    "voice/male/path/4": "{ Old = , New = viper/M/40 }",
+    "voice/male/path/5": "{ Old = , New = viper/M/41 }",
+    "voice/female/path/0": "{ Old = , New = viper/F/6 }",
+    "voice/female/path/1": "{ Old = , New = viper/F/7 }",
+    "voice/female/path/2": "{ Old = , New = viper/F/30 }",
+    "voice/female/path/3": "{ Old = , New = viper/F/35 }",
+    "voice/female/path/4": "{ Old = , New = viper/F/38 }",
+    "voice/female/path/5": "{ Old = , New = viper/F/41 }"
+  },
+  "HFields": {
+    "h1": "Consumes 56 MP and attacks up to 8 enemies at 946% Damage 4 times.<br />[Passive Effect: Octopunch VI Damage +128%p<br />Super Octopunch Damage +75%p <br />Super Octopunch shock wave Damage +128%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5141015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5141015_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

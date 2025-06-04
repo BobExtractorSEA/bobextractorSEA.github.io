@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0510032-03:00",
+  "ChangeType": "Changed",
+  "Id": "21100010",
+  "Name": "Final Attack",
+  "Job": "Aran",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Polearm equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Pole Arm Mastery Lv. 3 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill, 'Advanced Final Attack'</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of an additional attack at 150% DAMAGE",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of additionally attacking at 150% Damage."
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of an additional attack at 150% DAMAGE",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of additionally attacking at 150% Damage."
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of additionally attacking at 150% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21100010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

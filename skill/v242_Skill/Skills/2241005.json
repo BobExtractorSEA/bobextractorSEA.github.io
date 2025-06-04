@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6504505-03:00",
+  "ChangeType": "Added",
+  "Id": "2241005",
+  "Name": "Lightning Sphere VI",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "A giant electric orb appears in front, attacking monsters multiple times. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lightning Sphere Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -350
+    },
+    "rb": {
+      "x": 85,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/2221052": "1",
+    "action/0": "6thLightningSphere",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+d(x/5)",
+    "common/damage": "167+3*x",
+    "common/attackCount": "15",
+    "common/mobCount": "15",
+    "common/x": "843+15*x",
+    "common/cooltime": "60",
+    "common/lt/x": -480,
+    "common/lt/y": -350,
+    "common/rb/x": 85,
+    "common/rb/y": 100,
+    "common/q": "2",
+    "common/w": "15",
+    "common/s": "2000",
+    "common/s2": "140",
+    "prepare/action": "6thLightningSphere_prep",
+    "prepare/time": "780",
+    "prepare0/z": "-1",
+    "keydown/action": "6thLightningSphere",
+    "keydown/repeat": "16",
+    "keydown0/z": "-1",
+    "keydown0/repeat": "16",
+    "keydownend/action": "6thLightningSphere_end",
+    "keydownend/time": "900",
+    "special/randomHitOrigin": "50",
+    "special/useZ": "1",
+    "special/z": "1",
+    "special/soundIndex": "2",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/soundIndex": "1",
+    "elemAttr": "l",
+    "weapon": "37",
+    "weapon2": "38",
+    "applyHyper": "1",
+    "skillList/0": "400021000",
+    "id": "2241005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = archMageTC/M/22 }",
+    "voice/female/path/0": "{ Old = , New = archMageTC/F/22 }"
+  },
+  "HFields": {
+    "h1": "A key-down skill. MP Cost: 36 per attack. Attacks up to 15 enemies at 257% Damage 15 times at regular intervals. Key can be held down for up to 2 sec. At the end of the key-down, activates a finishing blow that attacks at 1293% Damage 15 times.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2241005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/2241005_keydown_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2241005_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/2241005_prepare_new.webp"
+    },
+    "prepare0": {
+      "Old": null,
+      "New": "Animations/New/2241005_prepare0_new.webp"
+    },
+    "keydown0": {
+      "Old": null,
+      "New": "Animations/New/2241005_keydown0_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/2241005_keydownend_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/2241005_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

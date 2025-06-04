@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.5178275-03:00",
+  "ChangeType": "Added",
+  "Id": "3341012",
+  "Name": "Ancient Astra VI (Discharge)",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/3321035": "1",
+    "common/maxLevel": "30",
+    "common/damage": "270+3*x",
+    "common/attackCount": "2",
+    "common/time": "2",
+    "common/lt3/x": -650,
+    "common/lt3/y": -450,
+    "common/rb3/x": 650,
+    "common/rb3/y": 250,
+    "common/lt2/x": -100,
+    "common/lt2/y": -200,
+    "common/rb2/x": 100,
+    "common/rb2/y": -100,
+    "common/prop": "30",
+    "common/x": "3",
+    "common/bulletCount": "2",
+    "weapon": "59",
+    "invisible": "1",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "id": "3341012",
+    "common/lt3": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb3": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1500919-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003703",
+  "Name": "Dawnlight Illusion: Critical Rate",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">CRITICAL RATE</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Critical Rate",
+      "New": "Dawnlight Illusion: Critical Rate"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003703_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

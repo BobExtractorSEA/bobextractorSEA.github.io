@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1380826-03:00",
+  "ChangeType": "Changed",
+  "Id": "15100027",
+  "Name": "Sea Wave",
+  "Job": "Thunder Breaker",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Chain skill]</span><br />Use the skills in sequence to create the wave containing the power of lightning toward enemy. The wave flows toward the direction Striker is looking, and toward the direction where more enemies can be attacked within a certain range.<br />Does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Wave Activation Lock : Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "15140008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15100027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

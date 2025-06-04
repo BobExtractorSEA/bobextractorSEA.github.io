@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8125867-03:00",
+  "ChangeType": "Changed",
+  "Id": "14121053",
+  "Name": "Glory of Guardians",
+  "Job": "Night Walker",
+  "Desc": "Hold a sacred ceremony to uphold the honor of the Cygnus Knights and affirm their devotion to the Empress.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/50",
+      "New": "nightWalker/M/50"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/53",
+      "New": "nightWalker/M/53"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/51",
+      "New": "nightWalker/F/51"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/53",
+      "New": "nightWalker/F/53"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

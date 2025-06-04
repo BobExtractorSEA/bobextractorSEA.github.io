@@ -1,0 +1,146 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6273629-03:00",
+  "ChangeType": "Added",
+  "Id": "35141004",
+  "Name": "Distortion Field VI",
+  "Job": "Mechanic",
+  "Desc": "Distorts space by shooting special bullets made with Resistance vision technology. Periodically enhanced into <span style=\"font-weight:bold; color:orange;\">Intense Distortion Field</span> that completely distorts the surrounding area.<br />Distortion Field does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Distortion Field Lv. 1 or higher</span><br />Applies a distortion effect within the Distortion Field, the strength of which is affected by your Skill Effect Transparency.<br /><span style=\"font-weight:bold; color:orange;\">Distortion Effect Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -520,
+      "y": -250
+    },
+    "rb": {
+      "x": -100,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/35121052": "1",
+    "action/0": "6thDistortionField",
+    "common/maxLevel": "30",
+    "common/mpCon": "270+d(x/3)",
+    "common/cooltime": "8",
+    "common/lt/x": -520,
+    "common/lt/y": -250,
+    "common/rb/x": -100,
+    "common/rb/y": 120,
+    "common/damage": "450+9*x",
+    "common/attackCount": "2",
+    "common/mobCount": "8",
+    "common/time": "4",
+    "common/subTime": "250",
+    "common/u": "30",
+    "common/x": "2",
+    "common/y": "8",
+    "common/z": "790+15*x",
+    "common/w": "3",
+    "common/w2": "285+d(x/2)",
+    "common/u2": "8",
+    "common/u3": "1300+23*x",
+    "common/w3": "15",
+    "tile/repeat": "15",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "distortionFieldEffectInfo/isOnlyLocal": "0",
+    "distortionFieldEffectInfo/delay": "0",
+    "distortionFieldEffectInfo/type": "0",
+    "distortionFieldEffectInfo/offset/x": "-302",
+    "distortionFieldEffectInfo/offset/y": "-55",
+    "distortionFieldEffectInfo/radius": "135",
+    "distortionFieldEffectInfo/intensity": "0,6",
+    "distortionFieldEffectInfo/hue": "0",
+    "distortionFieldEffectInfo/duration": "4350",
+    "weapon": "49",
+    "applyHyper": "1",
+    "id": "35141004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = mechanic/M/33 }",
+    "voice/male/path/1": "{ Old = , New = mechanic/M/34 }",
+    "voice/male/path/2": "{ Old = , New = mechanic/M/35 }",
+    "voice/female/path/0": "{ Old = , New = mechanic/F/33 }",
+    "voice/female/path/1": "{ Old = , New = mechanic/F/34 }",
+    "voice/female/path/2": "{ Old = , New = mechanic/F/35 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 280. Periodically attacks up to 8 enemies at 720% Damage 2 times for 4 sec.<br />Cooldown: 8 sec.<br />Enhanced into <span style=\"font-weight:bold; color:orange;\">Intense Distortion Field</span> every 30 sec.<br /><span style=\"font-weight:bold; color:orange;\">Intense Distortion Field</span>: MP Cost: 300. Periodically attacks up to 8 enemies at 1240% Damage 3 times for 2 sec., and then explodes, attacking up to 8 enemies at 1990% Damage 15 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/35141004_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141004_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/35141004_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/35141004_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

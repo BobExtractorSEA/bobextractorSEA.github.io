@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.1007295-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002405",
+  "Name": "Grasp of Destruction",
+  "Job": "Etc",
+  "Desc": "Will transforms into a spider to deliver a powerful blow. The Soul Weapon's power summons Will to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002405_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

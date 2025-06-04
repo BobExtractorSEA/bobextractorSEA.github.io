@@ -1,0 +1,178 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1310014-03:00",
+  "ChangeType": "Changed",
+  "Id": "15101021",
+  "Name": "Crashing Wave",
+  "Job": "Thunder Breaker",
+  "Desc": "Wipes away monsters in range by moving forward like the powerful ocean. Some monsters are resistant to the attack and cannot be knocked back.<br />While advancing, use the [Down] key to stop. Can be chained with all skills except for Thunderous Dive and you. Wave cancels the skill that was used first, and some skills can be chained into Wave faster than others. Wave doesn't trigger the Lightning buff.<br />Use a custom command to stop by simply pressing the skill key without the arrow key.<br /><span style=\"font-weight:bold; color:orange;\">Toggle Custom Command: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/39",
+      "New": "striker/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/40",
+      "New": "striker/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/41",
+      "New": "striker/M/41"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/42",
+      "New": "striker/M/42"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/24",
+      "New": "striker/M/24"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/25",
+      "New": "striker/M/25"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/26",
+      "New": "striker/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/59",
+      "New": "striker/F/59"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/60",
+      "New": "striker/F/60"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/61",
+      "New": "striker/F/61"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/62",
+      "New": "striker/F/62"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/63",
+      "New": "striker/F/63"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/44",
+      "New": "striker/F/44"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141007"
+    },
+    "skillList/10": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15101021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

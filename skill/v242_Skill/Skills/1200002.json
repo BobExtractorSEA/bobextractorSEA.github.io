@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0535305-03:00",
+  "ChangeType": "Changed",
+  "Id": "1200002",
+  "Name": "Final Attack",
+  "Job": "Paladin",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Sword and Blunt equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Weapon Mastery or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> 40% chance to activate Final Attack that deals 80% damage 2 times.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of attacking at 80% Damage 2 more times."
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> 40% chance to activate Final Attack that deals 80% damage 2 times.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of attacking at 80% Damage 2 more times."
+    },
+    "finalAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "condition": {
+      "Old": "attack",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "1240008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 40% chance of attacking at 80% Damage 2 more times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1200002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

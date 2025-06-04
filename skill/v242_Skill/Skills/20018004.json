@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.7450668-03:00",
+  "ChangeType": "Changed",
+  "Id": "20018004",
+  "Name": "Decent Combat Orders",
+  "Job": "Evan",
+  "Desc": "[Potential Skill]<br />Temporarily increases all your skill levels. <span style=\"font-weight:bold; color:orange;\">Only the 4th Job skills can be increased past their Master level</span>, and other skills are increased to their mastery levels.<br />The Beginner skills, Combat Orders, Decent Combat Orders, Hyper Skill, 5th and 6th Advancement Skills can't be increased.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_20018004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

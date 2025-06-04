@@ -1,0 +1,52 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2359363-03:00",
+  "ChangeType": "Changed",
+  "Id": "36100010",
+  "Name": "Rocket System 1st Enhancement",
+  "Job": "Xenon",
+  "Desc": "Enhances Rocket System.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System Lv. 5 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 4 Effect: Can learn the 3rd Job skill, Rocket System 2nd Enhancement.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pinpoint Rocket 1st Fortification",
+      "New": "Rocket System 1st Enhancement"
+    },
+    "Desc": {
+      "Old": "Increases the Pinpoint Rocket damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Pinpoint Rocket</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 effect: Can learn the 3rd Job Skill, Pinpoint Rocket 2nd Fortification.</span>",
+      "New": "Enhances Rocket System.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System Lv. 5 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 4 Effect: Can learn the 3rd Job skill, Rocket System 2nd Enhancement.</span>"
+    },
+    "H": {
+      "Old": "Increases damage of Pinpoint Rocket by 40%p.",
+      "New": "Rocket System Damage +40%p"
+    },
+    "h1": {
+      "Old": "Increases damage of Pinpoint Rocket by 40%p.",
+      "New": "Rocket System Damage +40%p"
+    },
+    "condition": {
+      "Old": "damaged",
+      "New": null
+    },
+    "counter": {
+      "Old": "damaged",
+      "New": null
+    },
+    "req/36001005": {
+      "Old": "1",
+      "New": "5"
+    }
+  },
+  "HFields": {
+    "h1": "Rocket System Damage +40%p"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36100010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.9570396-03:00",
+  "ChangeType": "Changed",
+  "Id": "3320002",
+  "Name": "Advanced Cardinal Force",
+  "Job": "Pathfinder",
+  "Desc": "Enhances all Cardinal Force skills with the power of the completed Relic.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost when using Cardinal Force skills: 30.<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Discharge</span><br />Fires an arrow that attacks up to 6 enemies at 300% damage 5 times.<br />Fires an additional arrow if there is a Boss monster in range, prioritizes tracking Boss Monsters with highest Max HP.<br />Additional Discharge's Normal Monster Damage +100%<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Blast</span><br />Attacks up to 7 enemies at 600% damage 5 times when the arrow explodes.<br />Additional Blast's Normal Monster Damage +100%<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Transition</span><br />Consumes 1 Swift Wind. Attacks up to 7 enemies at the arrival point at 540 % damage 5 times. <br />Swift Wind recharges by 1 every 7 sec. up to 5.<br />Becomes immune to all Knockback attacks while casting the skill and enemies damaged by attacks are inflicted with 1 stack of the Ancient Curse debuff.",
+      "New": "Cardinal Force skills use 30 MP.<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Discharge</span><br />Fires an arrow that attacks up to 6 enemies at 300% Damage 5 times.<br />Fires an additional arrow if there is a Boss monster within range. The additional arrow prioritizes the Boss monster with the highest Max HP within range.<br />Normal Monster Damage +100% for Additional Discharge<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Blast</span><br />The arrow explosion attacks up to 7 enemies at 600% Damage 5 times.<br />Normal Monster Damage +100% for Additional Blast<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Transition</span><br />Consumes 1 Swift Wind. Attacks up to 7 enemies around the arrival point at 540% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored.<br />You become immune to all Knockback attacks while casting the skill and enemies damaged by your attacks are inflicted with 1 stack of the Ancient Curse debuff."
+    },
+    "h1": {
+      "Old": "MP Cost when using Cardinal Force skills: 30.<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Discharge</span><br />Fires an arrow that attacks up to 6 enemies at 300% damage 5 times.<br />Fires an additional arrow if there is a Boss monster in range, prioritizes tracking Boss Monsters with highest Max HP.<br />Additional Discharge's Normal Monster Damage +100%<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Blast</span><br />Attacks up to 7 enemies at 600% damage 5 times when the arrow explodes.<br />Additional Blast's Normal Monster Damage +100%<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Transition</span><br />Consumes 1 Swift Wind. Attacks up to 7 enemies at the arrival point at 540 % damage 5 times. <br />Swift Wind recharges by 1 every 7 sec. up to 5.<br />Becomes immune to all Knockback attacks while casting the skill and enemies damaged by attacks are inflicted with 1 stack of the Ancient Curse debuff.",
+      "New": "Cardinal Force skills use 30 MP.<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Discharge</span><br />Fires an arrow that attacks up to 6 enemies at 300% Damage 5 times.<br />Fires an additional arrow if there is a Boss monster within range. The additional arrow prioritizes the Boss monster with the highest Max HP within range.<br />Normal Monster Damage +100% for Additional Discharge<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Blast</span><br />The arrow explosion attacks up to 7 enemies at 600% Damage 5 times.<br />Normal Monster Damage +100% for Additional Blast<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Transition</span><br />Consumes 1 Swift Wind. Attacks up to 7 enemies around the arrival point at 540% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored.<br />You become immune to all Knockback attacks while casting the skill and enemies damaged by your attacks are inflicted with 1 stack of the Ancient Curse debuff."
+    }
+  },
+  "HFields": {
+    "h1": "Cardinal Force skills use 30 MP.<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Discharge</span><br />Fires an arrow that attacks up to 6 enemies at 300% Damage 5 times.<br />Fires an additional arrow if there is a Boss monster within range. The additional arrow prioritizes the Boss monster with the highest Max HP within range.<br />Normal Monster Damage +100% for Additional Discharge<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Blast</span><br />The arrow explosion attacks up to 7 enemies at 600% Damage 5 times.<br />Normal Monster Damage +100% for Additional Blast<br /><span style=\"font-weight:bold; color:orange;\">Cardinal Transition</span><br />Consumes 1 Swift Wind. Attacks up to 7 enemies around the arrival point at 540% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored.<br />You become immune to all Knockback attacks while casting the skill and enemies damaged by your attacks are inflicted with 1 stack of the Ancient Curse debuff."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3320002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

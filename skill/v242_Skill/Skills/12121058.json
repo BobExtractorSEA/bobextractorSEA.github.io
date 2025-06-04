@@ -1,0 +1,197 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.2495267-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121058",
+  "Name": "Pheonix Drive",
+  "Job": "Blaze Wizard",
+  "Desc": "Throws a barrage of flames forward, completely engulfing enemies. <span style=\"font-weight:bold; color:orange;\">Use with the Up, Down, Left, and Right keys to direct the flames in any direction.</span><br />After a certain number of hits with the Incarnate's blessing, the Fox's Mischief debuff is activated.<br />When Fox's Mischief stacks <span style=\"font-weight:bold; color:orange;\">5 times, you can hit it with Inferno Rise - Fox to explode it. This is a kind of Fire Element attack.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 37 MP, fire 4 flames that deal 450% damage 2 times to up to 8 enemies. If multiple flames hit a single enemy, the later flames will have -50% final damage.",
+      "New": "MP Cost: 37. Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If a single enemy is hit by multiple flames, Final Damage -50% for each subsequent flame after the first one."
+    },
+    "h1": {
+      "Old": "Consumes 37 MP, fire 4 flames that deal 450% damage 2 times to up to 8 enemies. If multiple flames hit a single enemy, the later flames will have -50% final damage.",
+      "New": "MP Cost: 37. Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If a single enemy is hit by multiple flames, Final Damage -50% for each subsequent flame after the first one."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+4*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/122",
+      "New": "flameWizard/M/122"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/123",
+      "New": "flameWizard/M/123"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/124",
+      "New": "flameWizard/M/124"
+    },
+    "voice/male/path/3": {
+      "Old": "flameWizard/M/17",
+      "New": "flameWizard/M/17"
+    },
+    "voice/male/path/4": {
+      "Old": "flameWizard/M/12",
+      "New": "flameWizard/M/12"
+    },
+    "voice/male/path/5": {
+      "Old": "flameWizard/M/41",
+      "New": "flameWizard/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/94",
+      "New": "flameWizard/F/94"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/95",
+      "New": "flameWizard/F/95"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/96",
+      "New": "flameWizard/F/96"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/47",
+      "New": "flameWizard/F/47"
+    },
+    "voice/female/path/4": {
+      "Old": "flameWizard/F/49",
+      "New": "flameWizard/F/49"
+    },
+    "voice/female/path/5": {
+      "Old": "flameWizard/F/14",
+      "New": "flameWizard/F/14"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 37. Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If a single enemy is hit by multiple flames, Final Damage -50% for each subsequent flame after the first one."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121058_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121058_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5775946-03:00",
+  "ChangeType": "Changed",
+  "Id": "37120043",
+  "Name": "Arm Drive - Reinforce",
+  "Job": "Blaster",
+  "Desc": "Increases damage for Magnum Drive, Double Drive, Charging Arm: Smash, Shockwave Drive, Magnum Flash, and Hurricane Blaster. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Increases damage for Magnum Drive, Double Drive, Charging Arm: Smash, Shockwave Drive, Magnum Flash, and Hurricane Blaster. This skill's effect does not apply to shock wave damage.",
+      "New": "Increases damage for Magnum Drive, Double Drive, Charging Arm: Smash, Shockwave Drive, Magnum Flash, and Hurricane Blaster. "
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37120043_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

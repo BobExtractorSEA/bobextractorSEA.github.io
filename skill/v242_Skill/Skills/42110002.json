@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4888724-03:00",
+  "ChangeType": "Changed",
+  "Id": "42110002",
+  "Name": "Spirit Corral",
+  "Job": "Kanna",
+  "Desc": "Successful attacks using yin-yang technique skills will trigger the paper shikigamis to fly out of the sleeves and attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Grants a 100% chance to summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 195% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds.",
+      "New": "Summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 195% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds."
+    },
+    "h1": {
+      "Old": "Grants a 100% chance to summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 195% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds.",
+      "New": "Summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 195% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds."
+    },
+    "common/prop": {
+      "Old": "100",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 195% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42110002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

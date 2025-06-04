@@ -1,0 +1,88 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4478006-03:00",
+  "ChangeType": "Added",
+  "Id": "21141017",
+  "Name": "Adrenaline Maximum VI: Gold Flash",
+  "Job": "Aran",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -300,
+      "y": -355
+    },
+    "rb": {
+      "x": 300,
+      "y": 205
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/21120003": "30",
+    "common/maxLevel": "30",
+    "common/damage": "710+16*x",
+    "common/attackCount": "10",
+    "common/mobCount": "12",
+    "common/cooltimeMS": "800",
+    "common/lt/x": -300,
+    "common/lt/y": -355,
+    "common/rb/x": 300,
+    "common/rb/y": 205,
+    "common/lt2/x": -380,
+    "common/lt2/y": -320,
+    "common/rb2/x": 380,
+    "common/rb2/y": 250,
+    "skillList/0": "400011145",
+    "skillList/1": "400011146",
+    "skillList/2": "500001001",
+    "skillList/3": "21141015",
+    "skillList/4": "21141016",
+    "skillList/5": "21141017",
+    "extraSkillInfo/0/skill": "21141017",
+    "effect/fix": "1",
+    "effect/z": "5",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngleRange/x": -65,
+    "hit/0/randomHitAngleRange/y": 65,
+    "hit/0/delayedTimeActionSpeed": "150",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "67",
+    "additional_process/5": "69",
+    "notCooltimeReduce": "1",
+    "notCooltimeReset": "1",
+    "weapon": "44",
+    "notIncBuffDuration": "1",
+    "processtype": "-1",
+    "invisible": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "21141017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/21141017_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21141017_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

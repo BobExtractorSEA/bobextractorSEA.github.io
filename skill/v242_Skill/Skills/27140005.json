@@ -1,0 +1,57 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9870916-03:00",
+  "ChangeType": "Added",
+  "Id": "27140005",
+  "Name": "Eternal Lightness",
+  "Job": "Luminous",
+  "Desc": "[Light Magic]<br />An endlessly bright light obliterates your enemies along with the darkness. Activated when you use Light or Equilibrium skills during Sunfire or Equilibrium. Shares cooldown with Endless Darkness.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "common/maxLevel": "30",
+    "common/mpCon": "80",
+    "common/mobCount": "6",
+    "common/damage": "605+25*x",
+    "common/attackCount": "7",
+    "common/cooltime": "2",
+    "common/x": "3",
+    "notCooltimeReduce": "1",
+    "notCooltimeReset": "1",
+    "weapon": "21",
+    "subWeapon": "35",
+    "extraSkillInfo/0/skill": "27141006",
+    "extraSkillInfo/0/delay": "300",
+    "skillList2/0": "27001100",
+    "skillList2/1": "27101100",
+    "skillList2/2": "27101101",
+    "skillList2/3": "27111100",
+    "skillList2/4": "27111101",
+    "skillList2/5": "27121100",
+    "skillList2/6": "27111303",
+    "skillList2/7": "27121303",
+    "skillList2/8": "27141000",
+    "skillList2/9": "27141500",
+    "skillList2/10": "27141501",
+    "skillList2/11": "400021071",
+    "skillList2/12": "27141001",
+    "skillList2/13": "27121113",
+    "skillList2/14": "27121315",
+    "skillList2/15": "27141007",
+    "skillList2/16": "27141009",
+    "id": "27140005",
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. Attacks up to 6 enemies at 1355% damage 7 times.<br />Cooldown: 2 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_27140005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

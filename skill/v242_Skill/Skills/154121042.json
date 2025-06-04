@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7738351-03:00",
+  "ChangeType": "Changed",
+  "Id": "154121042",
+  "Name": "Wrath of God",
+  "Job": "Khali",
+  "Desc": "Borrow the power of an Ancient Flora God to gain incredible powers.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154121042_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

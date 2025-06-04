@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6570385-03:00",
+  "ChangeType": "Changed",
+  "Id": "3221002",
+  "Name": "Sharp Eyes",
+  "Job": "Marksman",
+  "Desc": "Temporarily grants party members the ability to locate an enemy's weak spot to deal fatal damage to that enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "marksman/M/41",
+      "New": "marksman/M/41"
+    },
+    "voice/male/path/1": {
+      "Old": "marksman/M/44",
+      "New": "marksman/M/44"
+    },
+    "voice/male/path/2": {
+      "Old": "marksman/M/40",
+      "New": "marksman/M/40"
+    },
+    "voice/male/path/3": {
+      "Old": "marksman/M/50",
+      "New": "marksman/M/50"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/41",
+      "New": "marksman/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "marksman/F/42",
+      "New": "marksman/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "marksman/F/44",
+      "New": "marksman/F/44"
+    },
+    "voice/female/path/3": {
+      "Old": "marksman/F/48",
+      "New": "marksman/F/48"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3221002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

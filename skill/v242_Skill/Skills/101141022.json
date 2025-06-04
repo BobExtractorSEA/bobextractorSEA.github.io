@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.460358-03:00",
+  "ChangeType": "Added",
+  "Id": "101141022",
+  "Name": "Throwing Weapon VI",
+  "Job": "Zero",
+  "Desc": "Throws Long Sword, attacking all enemies in the sword's path. Throwing Weapon does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Throwing Weapon Lv. 20 or higher</span><br />[Command]: Flash Cut followed by <span style=\"font-weight:bold; color:orange;\">Flash Cut</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/101100101": "20",
+    "action/0": "6thThrowingWeapon",
+    "common/maxLevel": "30",
+    "common/forceCon": "9",
+    "common/damage": "720+5*x",
+    "common/attackCount": "4",
+    "common/mobCount": "6",
+    "common/time": "4",
+    "common/x": "100",
+    "common/w": "300",
+    "common/range": "600",
+    "common/u": "200",
+    "common/v": "1",
+    "common/s": "48",
+    "common/u3": "5",
+    "assistSkillLink/skill": "101100200",
+    "cancleType/0": "1",
+    "summon/attack1/info/range/lt/x": -160,
+    "summon/attack1/info/range/lt/y": -140,
+    "summon/attack1/info/range/rb/x": 140,
+    "summon/attack1/info/range/rb/y": 150,
+    "summon/attack1/info/attackAfter": "120",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/mobCount": "6",
+    "summon/repeat/repeat": "1",
+    "summon/repeat1/repeat": "1",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "56",
+    "excl": "0",
+    "secondaryStatFreezeExcept": "1",
+    "skillList/0": "400011000",
+    "id": "101141022",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 0,
+    "voice/female/count": 6,
+    "voice/female/path/0": "{ Old = , New = zero/F/41 }",
+    "voice/female/path/1": "{ Old = , New = zero/F/42 }",
+    "voice/female/path/2": "{ Old = , New = zero/F/43 }",
+    "voice/female/path/3": "{ Old = , New = zero/F/24 }",
+    "voice/female/path/4": "{ Old = , New = zero/F/3 }",
+    "voice/female/path/5": "{ Old = , New = zero/F/22 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 9. Attacks up to 6 enemies at 870% Damage 4 times. Each enemy can be struck by impact up to 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141022_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141022_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141022_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

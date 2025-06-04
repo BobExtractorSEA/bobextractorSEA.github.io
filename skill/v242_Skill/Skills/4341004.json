@@ -1,0 +1,142 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7992923-03:00",
+  "ChangeType": "Changed",
+  "Id": "4341004",
+  "Name": "Blade Fury",
+  "Job": "Dual Blade",
+  "Desc": "Uses the secret technique of the Secret Flower Garden's tornado to spin rapidly with the two blades in your hands and slay nearby enemies. Ignores a portion of the monster's DEF.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th Advancement Skill Haunted Edge</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 65, Damage: 250%, Max Enemies Hit: 8, Number of Attacks: 5, Enemy DEF Ignored: 20%",
+      "New": "MP Cost: 65. Attacks up to 8 enemies at 250% Damage 5 times. Ignore Monster DEF: 20%."
+    },
+    "Ph": {
+      "Old": "MP Cost: 65, Damage: 250%, Number of Attacks: 5, Max Enemies Hit: 8",
+      "New": "MP Cost: 65. Attack up to 8 enemies at 250% Damage 5 times."
+    },
+    "h1": {
+      "Old": "MP Cost: 65, Damage: 250%, Max Enemies Hit: 8, Number of Attacks: 5, Enemy DEF Ignored: 20%",
+      "New": "MP Cost: 65. Attacks up to 8 enemies at 250% Damage 5 times. Ignore Monster DEF: 20%."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "40+5*d(x/6)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "145+2*x",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/23",
+      "New": "dualBlade/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "dualBlade/M/24",
+      "New": "dualBlade/M/24"
+    },
+    "voice/male/path/2": {
+      "Old": "dualBlade/M/9",
+      "New": "dualBlade/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/24",
+      "New": "dualBlade/F/24"
+    },
+    "voice/female/path/1": {
+      "Old": "dualBlade/F/25",
+      "New": "dualBlade/F/25"
+    },
+    "voice/female/path/2": {
+      "Old": "dualBlade/F/8",
+      "New": "dualBlade/F/8"
+    },
+    "voice/female/path/3": {
+      "Old": "dualBlade/F/3",
+      "New": "dualBlade/F/3"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4361003"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 65. Attacks up to 8 enemies at 250% Damage 5 times. Ignore Monster DEF: 20%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4341004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.583743-03:00",
+  "ChangeType": "Changed",
+  "Id": "164101005",
+  "Name": "Buchae Booster",
+  "Job": "Hoyoung",
+  "Desc": "Temporarily increases Buchae's ASPD at the cost of MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Buchae Mastery Lv. 5 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

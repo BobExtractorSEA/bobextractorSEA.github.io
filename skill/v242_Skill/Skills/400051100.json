@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9004874-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051100",
+  "Name": "Fox God Manifestation",
+  "Job": "5th (Pirate)",
+  "Desc": "The Fox God manifests, spreading a brilliant light that pierces the darkness.<br />The Fox God's blessing resets the cooldown of Eunwol's skills, except for those that are not affected by Cooldown Reset effects.<br />The Fox God's manifestation blesses Eunwol for a while, and punishes his enemies with a foxlight on Eunwol's attack hits. Foxlight does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

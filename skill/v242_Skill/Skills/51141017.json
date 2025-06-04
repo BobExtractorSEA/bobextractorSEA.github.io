@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.179123-03:00",
+  "ChangeType": "Added",
+  "Id": "51141017",
+  "Name": "Offensive Defense VI",
+  "Job": "Mihile",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -350,
+      "y": -145
+    },
+    "rb": {
+      "x": 10,
+      "y": 115
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/51120018": "20",
+    "common/maxLevel": "30",
+    "common/damage": "645+24*x",
+    "common/attackCount": "5",
+    "common/mobCount": "6",
+    "common/lt/x": -350,
+    "common/lt/y": -145,
+    "common/rb/x": 10,
+    "common/rb/y": 115,
+    "common/x": "10",
+    "common/u": "0",
+    "hit/0/delayedTimeActionSpeed": "210",
+    "hit/0/randomHitOriginX": "25",
+    "hit/0/randomHitOriginY": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "30",
+    "invisible": "1",
+    "id": "51141017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/51141017_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/51141017_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2130982-03:00",
+  "ChangeType": "Changed",
+  "Id": "41111001",
+  "Name": "Sweeping Sword",
+  "Job": "Hayato",
+  "Desc": "Quickly moves behind enemies, pushing them forward. The <span style=\"font-weight:bold; color:orange;\">6th step in the Battoujutsu Combo sequence.</span><br /><span style=\"font-weight:bold; color:orange;\">Chainable Skills: Dankuusen, Whirlwind Cut, and Hitokiri Strike</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/5": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41111001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

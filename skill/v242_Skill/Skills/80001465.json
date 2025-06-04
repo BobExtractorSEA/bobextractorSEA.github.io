@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.5035495-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001465",
+  "Name": "Totalling Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily increases your Main Stat by a portion of All Stats combined. For Xenons, increases the highest stat out of STR, DEX and LUK. If all three are equal, LUK increases. Increases by multiplying Demon Avenger's HP. Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001465_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

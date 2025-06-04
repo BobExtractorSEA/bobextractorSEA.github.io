@@ -1,0 +1,157 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.3241906-03:00",
+  "ChangeType": "Added",
+  "Id": "164141056",
+  "Name": "Chasing Ghost Talisman VI",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms talisman into goblin fire that tracks and attacks the enemy. The Goblin Fire stays still for a certain amount of time after the initial attack, and then resumes tracking and attacking enemies.<br />Chasing Ghost Talisman does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP. If there's no Boss monster with the highest Max HP within range, the Goblin Fires attack different enemies from each other. Affected by SUMMONS DURATION INCREASE. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Chasing Ghost Talisman Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -900,
+      "y": -600
+    },
+    "rb": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/164111007": "20",
+    "action/0": "6thFirePursuit",
+    "common/maxLevel": "30",
+    "common/atGauge1Con": "100",
+    "common/atGauge2Inc": "200",
+    "common/mobCount": "5",
+    "common/damage": "249+x*4",
+    "common/attackCount": "5",
+    "common/time": "90",
+    "common/x": "750",
+    "common/y": "100",
+    "common/lt/x": -900,
+    "common/lt/y": -600,
+    "common/rb/x": 900,
+    "common/rb/y": 300,
+    "common/w": "1800",
+    "common/u2": "-176",
+    "common/w2": "-174",
+    "common/u3": "-221",
+    "common/w3": "-80",
+    "common/lt2/x": -50,
+    "common/lt2/y": -50,
+    "common/rb2/x": 50,
+    "common/rb2/y": 50,
+    "common/t": "1.8",
+    "showSummonedBuffIcon": "2",
+    "processtype": "-1",
+    "weapon": "29",
+    "subWeapon": "35",
+    "effect0/z": "-1",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/mobCount": "5",
+    "summon/attack1/info/attackCount": "5",
+    "summon/attack1/info/hit/randomHitOrigin": "30",
+    "summon/attack1/info/range/lt/x": -175,
+    "summon/attack1/info/range/lt/y": -160,
+    "summon/attack1/info/range/rb/x": 175,
+    "summon/attack1/info/range/rb/y": 160,
+    "summon/activeDelay": "450",
+    "additional_process/0": "7",
+    "additional_process/1": "41",
+    "id": "164141056",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = HoYoung/M/4 }",
+    "voice/male/path/1": "{ Old = , New = HoYoung/M/5 }",
+    "voice/male/path/2": "{ Old = , New = HoYoung/M/6 }",
+    "voice/male/path/3": "{ Old = , New = HoYoung/M/7 }",
+    "voice/female/path/0": "{ Old = , New = HoYoung/F/4 }",
+    "voice/female/path/1": "{ Old = , New = HoYoung/F/5 }",
+    "voice/female/path/2": "{ Old = , New = HoYoung/F/6 }",
+    "voice/female/path/3": "{ Old = , New = HoYoung/F/7 }"
+  },
+  "HFields": {
+    "h1": "Talisman Power Cost: 100. Summons 2 Goblin Fires for 90 sec. that each track enemies every 1.8 sec. and attack up to 5 enemies at 369% Damage 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_164141056_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/164141056_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/164141056_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164141056_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

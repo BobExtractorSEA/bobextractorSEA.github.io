@@ -1,0 +1,113 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7532863-03:00",
+  "ChangeType": "Changed",
+  "Id": "101100100",
+  "Name": "Throwing Weapon",
+  "Job": "Zero",
+  "Desc": "Throws Long Sword, attacking all enemies in the sword's path. Throwing Weapon does not affect enemies in the Damage Reflection status. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Flash Cut</span> <br />Command: Flash Cut followed by <span style=\"font-weight:bold; color:orange;\">Flash Cut</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/41",
+      "New": "zero/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/42",
+      "New": "zero/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/43",
+      "New": "zero/F/43"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/24",
+      "New": "zero/F/24"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/3",
+      "New": "zero/F/3"
+    },
+    "voice/female/path/5": {
+      "Old": "zero/F/22",
+      "New": "zero/F/22"
+    },
+    "summon/repeat1/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141022"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101100101"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101100100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5492268-03:00",
+  "ChangeType": "Removed",
+  "Id": "37120001",
+  "Name": "Shockwave Drive",
+  "Job": "Blaster",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/0/onlyOnce": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/0/hitAfter": {
+      "Old": "-330",
+      "New": null
+    },
+    "hit/0/delayShowDamage": {
+      "Old": "330",
+      "New": null
+    },
+    "hit/1/onlyOnce": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/1/hitAfter": {
+      "Old": "-330",
+      "New": null
+    },
+    "hit/1/delayShowDamage": {
+      "Old": "330",
+      "New": null
+    },
+    "hit/2/onlyOnce": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/2/hitAfter": {
+      "Old": "-330",
+      "New": null
+    },
+    "hit/2/delayShowDamage": {
+      "Old": "330",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "common/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "80+2*x",
+      "New": null
+    },
+    "common/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "common/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "common/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "common/lt/x": {
+      "Old": "-385",
+      "New": null
+    },
+    "common/lt/y": {
+      "Old": "-195",
+      "New": null
+    },
+    "common/rb/x": {
+      "Old": "100",
+      "New": null
+    },
+    "common/rb/y": {
+      "Old": "115",
+      "New": null
+    },
+    "common/q": {
+      "Old": "200+5*x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/lt/x": {
+      "Old": "-350",
+      "New": null
+    },
+    "PVPcommon/lt/y": {
+      "Old": "-155",
+      "New": null
+    },
+    "PVPcommon/rb/x": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/rb/y": {
+      "Old": "30",
+      "New": null
+    },
+    "type": {
+      "Old": "1",
+      "New": null
+    },
+    "invisible": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/ignoreCounter": {
+      "Old": "1",
+      "New": null
+    },
+    "action/0": {
+      "Old": "RWshockWavePunch",
+      "New": null
+    },
+    "weapon": {
+      "Old": "58",
+      "New": null
+    },
+    "subWeapon": {
+      "Old": "35",
+      "New": null
+    },
+    "combatOrders": {
+      "Old": "1",
+      "New": null
+    },
+    "id": {
+      "Old": "37120001",
+      "New": null
+    },
+    "common/lt": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "common/rb": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "has_weapon": {
+      "Old": "True",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": null
+    },
+    "hit": {
+      "Old": null,
+      "New": null
+    }
+  },
+  "Voices": {}
+}

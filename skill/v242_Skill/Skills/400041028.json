@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.671805-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041028",
+  "Name": "Steadfast Shadow",
+  "Job": "5th (Thief)",
+  "Desc": "Summons a stationary shadow that mimics your actions.<br />The shadow always faces Boss Monsters with the highest Max HP in range or in the direction of the monster with the highest Max HP if there's no Boss. It can only mimic Throwing Star skills, and does not have a separate HP, and disappears when its summon duration expires.<br />Can activate the skill again to swap places with the shadow or use it with the Down key to summon the shadow again to the current location. However, it isn not available to do it in midair. A separate Cooldown is applied when the shadow is called back.<br />All attcks of the shadow is a kind of Darkness Element attack and it does not affect enemies in the Reflect Damage state, and enables Mark of Darkness, Shadow Bat, and Ravenous Bat.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/31",
+      "New": "nightWalker/M/31"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/32",
+      "New": "nightWalker/M/32"
+    },
+    "voice/male/path/2": {
+      "Old": "nightWalker/M/56",
+      "New": "nightWalker/M/56"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/32",
+      "New": "nightWalker/F/32"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/33",
+      "New": "nightWalker/F/33"
+    },
+    "voice/female/path/2": {
+      "Old": "nightWalker/F/46",
+      "New": "nightWalker/F/46"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041028_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

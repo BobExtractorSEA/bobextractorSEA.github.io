@@ -1,0 +1,153 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.4654267-03:00",
+  "ChangeType": "Changed",
+  "Id": "64001000",
+  "Name": "Chain Arts: Chase",
+  "Job": "Cadena",
+  "Desc": "Enables you to grab an enemy with a chain and quickly move toward them. Hold down the skill key to shoot the chain, and release the key to grab the ground or a monster with the chain.<br />You can only grab monsters by shooting it forward, and the ground by shooting upward or downward. You cannot grab targets that are too close. You can shoot the chain downward only from midair. Shooting the chain in midair temporarily slows you down, regardless of the shooting direction.<br />After grabbing a target, <span style=\"font-weight:bold; color:orange;\">press the skill key again</span> to move to its location. <br />Grabbing a target or moving temporarily activates <span style=\"font-weight:bold; color:orange;\">Dark Sight</span> mode, allowing you to avoid collision with enemies. Attacking or using a skill deactivates Dark Sight. (Certain skills excluded)<br />Chained enemies are temporarily <span style=\"font-weight:bold; color:orange;\">Slowed</span> down.<br />Chain Arts: Chase can be used in the middle of another skill, and is not affected by Cooldown Reset effects.<br /><span style=\"font-weight:bold; color:orange;\">[Up + Skill Key]: Shoot 45° upward</span><br /><span style=\"font-weight:bold; color:orange;\">[Down] + Skill Key: Shoot 45° downward</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001001"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001002"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001001",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "cancelableSkillID/4": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "64141034"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64001000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64001000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

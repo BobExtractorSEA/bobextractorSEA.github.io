@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.1278798-03:00",
+  "ChangeType": "Changed",
+  "Id": "30001078",
+  "Name": "Mechanic Dash",
+  "Job": "Citizen",
+  "Desc": "Push the directional key twice or push the skill button to dash a short distance. Can also be used consecutively midair. <br />Command: <span style=\"font-weight:bold; color:orange;\">[Right][Right] or the Skill button</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_30001078_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

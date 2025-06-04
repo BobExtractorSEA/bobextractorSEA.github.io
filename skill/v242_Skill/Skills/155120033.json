@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0737336-03:00",
+  "ChangeType": "Changed",
+  "Id": "155120033",
+  "Name": "Battle Arts - Boss Rush",
+  "Job": "Ark",
+  "Desc": "Increases Boss Monster Damage for Ark's 1st to 4th Attack skills (except Spell Missile, Approaching Death, Returning Hatred, and Endless Torment) and 6th Mastery Core skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Increases Damage on Boss monster when used Arc's 1st~4th Attack Skills excluding Spell Missile, Approaching Death, and Returning Hatred, and 6th Mastery Core Skills.",
+      "New": "Increases Boss Monster Damage for Ark's 1st to 4th Attack skills (except Spell Missile, Approaching Death, Returning Hatred, and Endless Torment) and 6th Mastery Core skills."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155120033_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

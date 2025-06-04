@@ -1,0 +1,191 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1470865-03:00",
+  "ChangeType": "Added",
+  "Id": "31241012",
+  "Name": "Thousand Swords VI",
+  "Job": "Demon Avenger",
+  "Desc": "Fills the screen with darkness, and then slashes at enemies, its sword a blue flash of light. This skill puts so much strain on the character's body that it increases Exceed Overload. Also, permanently increases Exceed: Execution VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Thousand Swords Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -410,
+      "y": -430
+    },
+    "rb": {
+      "x": 410,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/31221052": "1",
+    "action/0": "6thThousandSword",
+    "common/maxLevel": "30",
+    "common/hpRCon": "15",
+    "common/mobCount": "14",
+    "common/damage": "540+12*x",
+    "common/attackCount": "8",
+    "common/x": "5",
+    "common/cooltime": "8",
+    "common/lt/x": -410,
+    "common/lt/y": -430,
+    "common/rb/x": 410,
+    "common/rb/y": 250,
+    "common/damPlus": "85+7*x",
+    "skillList/0": "400011000",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "35",
+    "effectFlash/0/delay": "60",
+    "effectFlash/0/alpha": "40",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "60",
+    "effectFlash/1/alpha": "50",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "60",
+    "effectFlash/2/alpha": "60",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "90",
+    "effectFlash/3/alpha": "70",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "60",
+    "effectFlash/4/alpha": "80",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "60",
+    "effectFlash/5/alpha": "70",
+    "effectFlash/5/color": "0",
+    "effectFlash/6/delay": "60",
+    "effectFlash/6/alpha": "50",
+    "effectFlash/6/color": "0",
+    "effectFlash/7/delay": "300",
+    "effectFlash/7/alpha": "30",
+    "effectFlash/7/color": "0",
+    "effectFlash/8/delay": "180",
+    "effectFlash/8/alpha": "20",
+    "effectFlash/8/color": "0",
+    "effectFlash/9/delay": "60",
+    "effectFlash/9/alpha": "10",
+    "effectFlash/9/color": "0",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "applyHyper": "1",
+    "weapon": "23",
+    "psd": "1",
+    "id": "31241012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "80",
+    "voice/male/count": 5,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = demonAvenger/M/58 }",
+    "voice/male/path/1": "{ Old = , New = demonAvenger/M/59 }",
+    "voice/male/path/2": "{ Old = , New = demonAvenger/M/60 }",
+    "voice/male/path/3": "{ Old = , New = demonAvenger/M/10 }",
+    "voice/male/path/4": "{ Old = , New = demonAvenger/M/12 }",
+    "voice/female/path/0": "{ Old = , New = demonAvenger/F/60 }",
+    "voice/female/path/1": "{ Old = , New = demonAvenger/F/61 }",
+    "voice/female/path/2": "{ Old = , New = demonAvenger/F/62 }",
+    "voice/female/path/3": "{ Old = , New = demonAvenger/F/15 }",
+    "voice/female/path/4": "{ Old = , New = demonAvenger/F/14 }",
+    "voice/female/path/5": "{ Old = , New = demonAvenger/F/2 }"
+  },
+  "HFields": {
+    "h1": "Cost: 15% of Max HP. Exceed Overload +5.<br />Attacks up to 14 enemies at 900% Damage 8 times.<br />Cooldown: 8 sec.<br />[Passive Effects: Final Damage of Execution VI Damage +295%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31241012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31241012_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31241012_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31241012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

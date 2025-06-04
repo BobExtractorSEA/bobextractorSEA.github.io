@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6991759-03:00",
+  "ChangeType": "Changed",
+  "Id": "154110010",
+  "Name": "Summon Chakri",
+  "Job": "Khali",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList3/7": {
+      "Old": "154141500",
+      "New": "154141010"
+    },
+    "skillList3/8": {
+      "Old": "154141501",
+      "New": "154141011"
+    },
+    "skillList3/9": {
+      "Old": null,
+      "New": "154141500"
+    },
+    "skillList3/10": {
+      "Old": null,
+      "New": "154141501"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154110010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

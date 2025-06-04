@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.9471232-03:00",
+  "ChangeType": "Changed",
+  "Id": "20051288",
+  "Name": "Longing Heart",
+  "Job": "Shade",
+  "Desc": "Summons a Guardian as a favor to the Fox God. Will the Guardian really look like someone you miss?<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span> to activate or deactivate the Guardian.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/109",
+      "New": "eunwol/M/109"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/110",
+      "New": "eunwol/M/110"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/112",
+      "New": "eunwol/F/112"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/113",
+      "New": "eunwol/F/113"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_20051288_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/20051288_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/20051288_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/20051288_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/20051288_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

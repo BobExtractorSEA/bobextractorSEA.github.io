@@ -1,0 +1,245 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5488834-03:00",
+  "ChangeType": "Changed",
+  "Id": "64101002",
+  "Name": "Weapon Arts: Shuriken Bomb",
+  "Job": "Cadena",
+  "Desc": "Summons a shuriken that explodes with a delay, and throws it close to the ground. The shuriken pushes back enemies while attacking. It doesn't affect enemies in the Damage Reflection status and can't be knocked back. Cannot deactivate Dark Sight upon use and explosion.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variation I Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 28. Attacks for 7 sec. at 205% for a total of 40 times. If all attack counts are used, or after a set period of time, the shuriken automatically explodes to attack up to 8 enemies at 450% damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Reuse the skill</span> to manually explode.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 28. Summons a shuriken that periodically attacks 1 enemies at 205% Damage <br />1 times for 7 sec.<br />Auto-explodes after 7 sec. <span style=\"font-weight:bold; color:orange;\">Enter the skill key again</span> to manually explode it.<br />The explosion attacks up to 8 enemies at 450% Damage 3 times.<br />Cooldown: 10 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 28. Attacks for 7 sec. at 205% for a total of 40 times. If all attack counts are used, or after a set period of time, the shuriken automatically explodes to attack up to 8 enemies at 450% damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Reuse the skill</span> to manually explode.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 28. Summons a shuriken that periodically attacks 1 enemies at 205% Damage <br />1 times for 7 sec.<br />Auto-explodes after 7 sec. <span style=\"font-weight:bold; color:orange;\">Enter the skill key again</span> to manually explode it.<br />The explosion attacks up to 8 enemies at 450% Damage 3 times.<br />Cooldown: 10 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "common/attackCount": {
+      "Old": "40",
+      "New": "1"
+    },
+    "PVPcommon/mpCon": {
+      "Old": "9+x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "19",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "110+5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "330",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "4+d(x/4)",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "260+10*x",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "u(x/7)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "10",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/5",
+      "New": "cadena/M/5"
+    },
+    "voice/male/path/5": {
+      "Old": "cadena/M/8",
+      "New": "cadena/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/5",
+      "New": "cadena/F/5"
+    },
+    "voice/female/path/5": {
+      "Old": "cadena/F/8",
+      "New": "cadena/F/8"
+    },
+    "common/x": {
+      "Old": null,
+      "New": "7"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141032"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 28. Summons a shuriken that periodically attacks 1 enemies at 205% Damage <br />1 times for 7 sec.<br />Auto-explodes after 7 sec. <span style=\"font-weight:bold; color:orange;\">Enter the skill key again</span> to manually explode it.<br />The explosion attacks up to 8 enemies at 450% Damage 3 times.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64101002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

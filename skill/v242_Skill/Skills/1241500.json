@@ -1,0 +1,169 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3442557-03:00",
+  "ChangeType": "Changed",
+  "Id": "1241500",
+  "Name": "Sacred Bastion",
+  "Job": "Paladin",
+  "Desc": "The holy knight unleashes its brilliance, judging enemies and creating a sanctuary.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10: Ignore Monster DEF +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Damage on Boss monsters +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30: Ignore Monster DEF +30%, Damage on Boss monsters +30%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "additional_process/4": {
+      "Old": "67",
+      "New": "30"
+    },
+    "additional_process/5": {
+      "Old": "69",
+      "New": "67"
+    },
+    "additional_process/6": {
+      "Old": "77",
+      "New": "69"
+    },
+    "additional_process/7": {
+      "Old": "95",
+      "New": "77"
+    },
+    "additional_process/8": {
+      "Old": "100",
+      "New": "95"
+    },
+    "additional_process/9": {
+      "Old": "102",
+      "New": "98"
+    },
+    "additional_process/10": {
+      "Old": "104",
+      "New": "100"
+    },
+    "additional_process/11": {
+      "Old": "98",
+      "New": "102"
+    },
+    "voice/male/path/0": {
+      "Old": "paladin/M/0",
+      "New": "paladin/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "paladin/M/1",
+      "New": "paladin/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "paladin/M/2",
+      "New": "paladin/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "paladin/M/3",
+      "New": "paladin/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "paladin/M/4",
+      "New": "paladin/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "paladin/F/0",
+      "New": "paladin/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "paladin/F/1",
+      "New": "paladin/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "paladin/F/2",
+      "New": "paladin/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "paladin/F/3",
+      "New": "paladin/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "paladin/F/4",
+      "New": "paladin/F/4"
+    },
+    "additional_process/12": {
+      "Old": null,
+      "New": "104"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241500_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241500_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

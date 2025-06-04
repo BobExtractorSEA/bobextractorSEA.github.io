@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.0653213-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003591",
+  "Name": "World Map Teleport (Thunder Beast)",
+  "Job": "Etc",
+  "Desc": "World Map Teleport skill can be used while riding the Thunder Beast Mount.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "ableTeleportWorldmap": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003591_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,140 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6584042-03:00",
+  "ChangeType": "Added",
+  "Id": "35141007",
+  "Name": "Rock 'n Shock VI",
+  "Job": "Mechanic",
+  "Desc": "Installs up to 3 <Tesla Coils> to create a <Rock 'n Shock> which continuously attacks enemies. Tesla Coils self-destruct when they run out of power.<br />If there are no Tesla Coils installed or enough space to install 3 at once, you can install three Tesla Coils at once using the Down key.<br />When Rock 'n Shock is in effect, attempting to install a new Tesla Coil will remove all 3 existing Tesla Coils before proceeding to install.<br />Also, permanently enhances Massive Fire: IRON-B VI's 2nd explosion attack.<br />Affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rock 'n Shock Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "minionAttack": "stun",
+    "lastSummonTrigger": "1",
+    "selfDestructMinion": "1",
+    "pvp": "0",
+    "info2/ignoreCounter": "1",
+    "req/35111002": "10",
+    "action/0": "6thMagneticField",
+    "common/maxLevel": "30",
+    "common/mpCon": "80+d(x/3)",
+    "common/damage": "705+13*x",
+    "common/selfDestruction": "646+12*x",
+    "common/attackCount": "3",
+    "common/mobCount": "10",
+    "common/time": "91",
+    "common/y": "98",
+    "common/x": "1",
+    "common/z": "650",
+    "common/range": "320",
+    "common/w": "465",
+    "common/s": "10",
+    "common/s2": "10",
+    "common/q": "420",
+    "common/w2": "6",
+    "common/damPlus": "100+2*x",
+    "summon/createDelay": "360",
+    "summon/die/info/range/lt/x": -160,
+    "summon/die/info/range/lt/y": -140,
+    "summon/die/info/range/rb/x": 160,
+    "summon/die/info/range/rb/y": 50,
+    "summon/die/info/mobCount": "6",
+    "summon/die/info/attackAfter": "360",
+    "summon/die/info/attackCount": "3",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "ball/offset/x": -10,
+    "ball/offset/y": -5,
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/1/randomHitOrigin": "25",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/1/soundIndex": "2",
+    "showSummonedBuffIcon": "2",
+    "footholdInstallSummoned": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "psd": "1",
+    "id": "35141007",
+    "has_req": true,
+    "voice/prop": "60",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = mechanic/M/21 }",
+    "voice/male/path/1": "{ Old = , New = mechanic/M/22 }",
+    "voice/male/path/2": "{ Old = , New = mechanic/M/23 }",
+    "voice/female/path/0": "{ Old = , New = mechanic/F/21 }",
+    "voice/female/path/1": "{ Old = , New = mechanic/F/22 }",
+    "voice/female/path/2": "{ Old = , New = mechanic/F/23 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 90. When 3 Tesla Coils are installed, creates a Rock 'n Shock for 98 sec.<br />Periodically attacks up to 10 enemies within range at 1095% Damage. Successful attacks Stun enemies. Upon expiration, explodes and attacks up to 6 enemies at 1006% Damage 3 times.<br />[Passive Effects: Massive Fire: IRON-B VI's 2nd explosion attack Damage +160%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/35141007_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141007_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/35141007_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

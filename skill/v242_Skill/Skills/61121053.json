@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9943381-03:00",
+  "ChangeType": "Changed",
+  "Id": "61121053",
+  "Name": "Final Trance",
+  "Job": "Kaiser",
+  "Desc": "Immediately fills up Morph Gauge and transforms you into your Final Form.<br />When Final Form ends from Final Trance, all Morph Gauge retained before transforming are restored.<br />The Final Form by Final Trance isn't affected by Buff Duration Bonus effects.<br />Required Skills: <span style=\"font-weight:bold; color:orange;\">Final Form Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kaiser/M/3",
+      "New": "kaiser/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "kaiser/M/6",
+      "New": "kaiser/M/6"
+    },
+    "voice/male/path/2": {
+      "Old": "kaiser/M/33",
+      "New": "kaiser/M/33"
+    },
+    "voice/male/path/3": {
+      "Old": "kaiser/M/84",
+      "New": "kaiser/M/84"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/3",
+      "New": "kaiser/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/6",
+      "New": "kaiser/F/6"
+    },
+    "voice/female/path/2": {
+      "Old": "kaiser/F/31",
+      "New": "kaiser/F/31"
+    },
+    "voice/female/path/3": {
+      "Old": "kaiser/F/115",
+      "New": "kaiser/F/115"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

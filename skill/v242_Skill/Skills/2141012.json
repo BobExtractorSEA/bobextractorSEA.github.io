@@ -1,0 +1,148 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5260224-03:00",
+  "ChangeType": "Added",
+  "Id": "2141012",
+  "Name": "Meteor VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Summons numerous meteors to deliver a powerful Fire attack. Also, permanently makes skills except for Fire Aura create a <span style=\"font-weight:bold; color:orange;\">chance of dropping a meteor onto enemies, dealing damage</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Meteor Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -460,
+      "y": -450
+    },
+    "rb": {
+      "x": 460,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "req/2121007": "30",
+    "action/0": "6thMeteor",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/mobCount": "15",
+    "common/damage": "340+12*x",
+    "common/cooltime": "50",
+    "common/attackCount": "12",
+    "common/x": "233+5*x",
+    "common/lt/x": -460,
+    "common/lt/y": -450,
+    "common/rb/x": 460,
+    "common/rb/y": 250,
+    "common/prop": "65",
+    "common/y": "180",
+    "effect/fix": "1",
+    "effect0/z": "-1",
+    "effect0/fix": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitFlip": "1",
+    "hit/0/randomHitAngleRange/x": -60,
+    "hit/0/randomHitAngleRange/y": 60,
+    "hit/0/delayedTimeActionSpeed": "1530",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "elemAttr": "f",
+    "id": "2141012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = archMageFP/M/13 }",
+    "voice/male/path/1": "{ Old = , New = archMageFP/M/14 }",
+    "voice/male/path/2": "{ Old = , New = archMageFP/M/26 }",
+    "voice/male/path/3": "{ Old = , New = archMageFP/M/27 }",
+    "voice/female/path/0": "{ Old = , New = archMageFP/F/13 }",
+    "voice/female/path/1": "{ Old = , New = archMageFP/F/14 }",
+    "voice/female/path/2": "{ Old = , New = archMageFP/F/25 }",
+    "voice/female/path/3": "{ Old = , New = archMageFP/F/27 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 700% Damage 12 times.<br />Cooldown: 50 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 65% chance of dropping a meteor that attacks at 383% Damage.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2141012_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/2141012_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2141012_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

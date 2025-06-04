@@ -1,0 +1,62 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8491644-03:00",
+  "ChangeType": "Added",
+  "Id": "24141008",
+  "Name": "Carte de La Mort",
+  "Job": "Phantom",
+  "Desc": "Replaces a Carte Noire with a Death Card that tempts Fate.<br />Replaces a certain number of Carte Noire cards with Carte de La Mort during Fateful Hour. Increases Damage and card count during Joker. Carte de La Mort does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Permanently increases Carte Noire VI Damage.",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 400,
+      "y": 400
+    }
+  },
+  "Fields": {
+    "type": "10",
+    "common/maxLevel": "30",
+    "common/mpCon": "300",
+    "common/time": "40",
+    "common/x": "80",
+    "common/w": "900+15*x",
+    "common/y": "160",
+    "common/w2": "15*x",
+    "common/cooltime": "60",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 400,
+    "common/rb/y": 400,
+    "common/damPlus": "x",
+    "common/u": "900+15*x",
+    "additional_process/0": "22",
+    "additional_process/1": "27",
+    "weapon": "36",
+    "subWeapon": "35",
+    "processtype": "6",
+    "notCooltimeReset": "1",
+    "psd": "1",
+    "isSequenceOn": "1",
+    "id": "24141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Charges 80 Carte de La Mort for 40 sec.<br />Carte de La Mort attacks at 1350% Damage.<br />Use during Joker key-down or the Joker buff that you've cast to charge 160 Carte de La Mort. Carte de La Mort Damage +450%p.<br />Cooldown: 60 sec.<br />[Passive Effects: Carte Noire VI Damage +30%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_24141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/24141008_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

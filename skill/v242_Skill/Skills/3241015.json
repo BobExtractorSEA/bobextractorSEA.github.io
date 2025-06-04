@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.3130765-03:00",
+  "ChangeType": "Added",
+  "Id": "3241015",
+  "Name": "Long Range True Shot VI",
+  "Job": "Marksman",
+  "Desc": "Focus mind to shoot down all enemies within range with one strike.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Long Range True Shot Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -960,
+      "y": -210
+    },
+    "rb": {
+      "x": -60,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/3221052": "1",
+    "action/0": "6thLongRangeTrueShot",
+    "common/maxLevel": "30",
+    "common/mpCon": "345+d(x/2)",
+    "common/damage": "372+6*x",
+    "common/attackCount": "9",
+    "common/mobCount": "12",
+    "common/cooltime": "40",
+    "common/lt/x": -960,
+    "common/lt/y": -210,
+    "common/rb/x": -60,
+    "common/rb/y": 150,
+    "common/updatableTime": "2000",
+    "common/x": "6",
+    "multiAttackInfo/0/attackTime": "270",
+    "multiAttackInfo/1/attackTime": "180",
+    "multiAttackInfo/2/attackTime": "180",
+    "multiAttackInfo/3/attackTime": "180",
+    "multiAttackInfo/4/attackTime": "180",
+    "multiAttackInfo/5/attackTime": "180",
+    "finalAttack/3200001/0": "46",
+    "applyHyper": "1",
+    "processtype": "-1",
+    "hit/randomHit": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "15",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/1/randomHitOrigin": "15",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "hit/2/randomHitOrigin": "15",
+    "hit2/0/repeat": "15",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "55",
+    "additional_process/4": "35",
+    "additional_process/5": "69",
+    "additional_process/6": "77",
+    "additional_process/7": "22",
+    "id": "3241015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = marksman/M/19 }",
+    "voice/male/path/1": "{ Old = , New = marksman/M/20 }",
+    "voice/female/path/0": "{ Old = , New = marksman/F/21 }",
+    "voice/female/path/1": "{ Old = , New = marksman/F/23 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 360. Activates 6 strikes that attack up to 12 enemies at 552% Damage 9 times.<br />Cooldown: 40 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3241015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3241015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3241015_hit_new.webp"
+    },
+    "hit2": {
+      "Old": null,
+      "New": "Animations/New/3241015_hit2_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3241015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3241015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3241015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3241015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

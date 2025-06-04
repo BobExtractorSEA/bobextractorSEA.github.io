@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8633193-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001267",
+  "Name": "Hellfire Sneezing",
+  "Job": "Etc",
+  "Desc": "Devil Balrog's sneezing is even fearsome. Balrog summoned with the power of Sould Weapon gives a powerful damage to the monsters on the screen.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001267_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

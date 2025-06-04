@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9544757-03:00",
+  "ChangeType": "Changed",
+  "Id": "11121053",
+  "Name": "Glory of Guardians",
+  "Job": "Dawn Warrior",
+  "Desc": "Hold a sacred ceremony to uphold the honor of the Cygnus Knights and affirm their devotion to the Empress.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/42",
+      "New": "soulMaster/M/42"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/43",
+      "New": "soulMaster/M/43"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/45",
+      "New": "soulMaster/F/45"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/48",
+      "New": "soulMaster/F/48"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

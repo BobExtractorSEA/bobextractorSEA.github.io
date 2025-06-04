@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4614354-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031007",
+  "Name": "Elemental Ghost",
+  "Job": "5th (Bowman)",
+  "Desc": "The remaining afterimages of spirits attack enemies. Afterimages of spirits and image of Eurel do not affect enemies in the Damage Reflection status. Afterimages of spirits do not activate while using Sylvidia, but Final Damage increases depending on the activation chance.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/34",
+      "New": "mercedes/M/34"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/35",
+      "New": "mercedes/M/35"
+    },
+    "voice/male/path/2": {
+      "Old": "mercedes/M/36",
+      "New": "mercedes/M/36"
+    },
+    "voice/male/path/3": {
+      "Old": "mercedes/M/37",
+      "New": "mercedes/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/36",
+      "New": "mercedes/F/36"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/37",
+      "New": "mercedes/F/37"
+    },
+    "voice/female/path/2": {
+      "Old": "mercedes/F/38",
+      "New": "mercedes/F/38"
+    },
+    "voice/female/path/3": {
+      "Old": "mercedes/F/39",
+      "New": "mercedes/F/39"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

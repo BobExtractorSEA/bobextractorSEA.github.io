@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9679765-03:00",
+  "ChangeType": "Changed",
+  "Id": "400010028",
+  "Name": "Vulcan Punch",
+  "Job": "5th (Warrior)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "500+20*x",
+      "New": "600+24*x"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400010028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

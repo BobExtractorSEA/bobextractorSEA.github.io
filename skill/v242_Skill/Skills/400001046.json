@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.725134-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001046",
+  "Name": "Grandis Goddess's Blessing",
+  "Job": "5th",
+  "Desc": "Grandis Goddess, who appears differently for each race, gives a blessing suitable for your race. Receives a Cooldown Reduction effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001046_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

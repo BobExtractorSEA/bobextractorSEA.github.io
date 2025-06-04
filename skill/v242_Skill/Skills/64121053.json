@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7264753-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121053",
+  "Name": "Professionalism",
+  "Job": "Cadena",
+  "Desc": "Shows true professionalism in handling various weapon. Increases Weapon Variation effects and attack skills have a chance of dealing additional damage.<br />This skill isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Weapon Variation III or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 500. Weapon Variation damage bonus is increased 2 times for 30 sec.<br />Creates an explosion that attacks up to 6 enemies at 255% damage 3 times when switching Weapon Arts or landing attacks.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 500. Weapon Variation Final Damage increase x2 times for 30 sec.<br />Successful attacks create an explosion that attacks up to 6 enemies at 255% Damage 3 times.<br />Cooldown: 180 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 500. Weapon Variation damage bonus is increased 2 times for 30 sec.<br />Creates an explosion that attacks up to 6 enemies at 255% damage 3 times when switching Weapon Arts or landing attacks.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 500. Weapon Variation Final Damage increase x2 times for 30 sec.<br />Successful attacks create an explosion that attacks up to 6 enemies at 255% Damage 3 times.<br />Cooldown: 180 sec."
+    },
+    "psd": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/16",
+      "New": "cadena/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/17",
+      "New": "cadena/M/17"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/18",
+      "New": "cadena/M/18"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/19",
+      "New": "cadena/M/19"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/16",
+      "New": "cadena/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/17",
+      "New": "cadena/F/17"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/18",
+      "New": "cadena/F/18"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/19",
+      "New": "cadena/F/19"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141011"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 500. Weapon Variation Final Damage increase x2 times for 30 sec.<br />Successful attacks create an explosion that attacks up to 6 enemies at 255% Damage 3 times.<br />Cooldown: 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

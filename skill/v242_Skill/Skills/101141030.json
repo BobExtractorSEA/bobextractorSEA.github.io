@@ -1,0 +1,116 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5312934-03:00",
+  "ChangeType": "Added",
+  "Id": "101141030",
+  "Name": "Piercing Thrust VI",
+  "Job": "Zero",
+  "Desc": "Thrusts your Long Sword forward to knock back enemies with the tip. Some monsters have a resistance to the attack and cannot be knocked back.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shadow Strike Lv. 10 or higher</span><br />[Command]: Moon Strike followed by <span style=\"font-weight:bold; color:orange;\">Moon Strike</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -380,
+      "y": -180
+    },
+    "rb": {
+      "x": 80,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/101000201": "10",
+    "action/0": "6thPierceThrust",
+    "common/maxLevel": "30",
+    "common/forceCon": "5",
+    "common/damage": "185+3*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/lt/x": -380,
+    "common/lt/y": -180,
+    "common/rb/x": 80,
+    "common/rb/y": 90,
+    "addAttack/skill": "101141031",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFrame": "4",
+    "addAttack/toolTipDesc": "1",
+    "addAttack/toolTipDescSkill": "101141031",
+    "assistSkillLink/skill": "101000100",
+    "assistSkillLink/skipFrame": "3",
+    "cancleType/0": "1",
+    "hit/0/randomHitOriginX": "50",
+    "hit/0/randomHitOriginY": "20",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "57",
+    "skillList/0": "400011000",
+    "id": "101141030",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "10",
+    "voice/male/count": 5,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = zero/M/38 }",
+    "voice/male/path/1": "{ Old = , New = zero/M/39 }",
+    "voice/male/path/2": "{ Old = , New = zero/M/3 }",
+    "voice/male/path/3": "{ Old = , New = zero/M/4 }",
+    "voice/male/path/4": "{ Old = , New = zero/M/5 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 5. Attacks up to 8 enemies at 275% Damage 6 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141030_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141030_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141030_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141030_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141030_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141030_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141030_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141030_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

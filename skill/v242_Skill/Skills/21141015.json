@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4261397-03:00",
+  "ChangeType": "Added",
+  "Id": "21141015",
+  "Name": "Adrenaline Maximum VI: Ice Wave",
+  "Job": "Aran",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -290,
+      "y": -180
+    },
+    "rb": {
+      "x": 290,
+      "y": 50
+    }
+  },
+  "Fields": {
+    "type": "11",
+    "info2/ignoreCounter": "1",
+    "req/21120003": "30",
+    "common/maxLevel": "30",
+    "common/damage": "567+11*x",
+    "common/attackCount": "2",
+    "common/mobCount": "7",
+    "common/subTime": "390",
+    "common/w": "60",
+    "common/y": "810",
+    "common/lt/x": -290,
+    "common/lt/y": -180,
+    "common/rb/x": 290,
+    "common/rb/y": 50,
+    "special/repeat": "16",
+    "special/z": "3",
+    "special0/repeat": "16",
+    "special0/z": "-2",
+    "end/z": "3",
+    "end0/z": "-2",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/updateHitFlipByPos": "1",
+    "hit/0/randomHitAngleRange/x": -25,
+    "hit/0/randomHitAngleRange/y": 25,
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "invisible": "1",
+    "weapon": "44",
+    "isBeneficial": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "21141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21141015_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/21141015_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/21141015_special0_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/21141015_end_new.webp"
+    },
+    "end0": {
+      "Old": null,
+      "New": "Animations/New/21141015_end0_new.webp"
+    }
+  },
+  "Voices": {}
+}

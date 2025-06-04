@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6890821-03:00",
+  "ChangeType": "Changed",
+  "Id": "3241002",
+  "Name": "Enhance Snipe VI",
+  "Job": "Marksman",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "finalAttack/3200001/0": {
+      "Old": null,
+      "New": "46"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3241002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

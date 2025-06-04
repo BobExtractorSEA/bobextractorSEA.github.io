@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.7099538-03:00",
+  "ChangeType": "Changed",
+  "Id": "14001024",
+  "Name": "Rapid Invasion",
+  "Job": "Night Walker",
+  "Desc": "Moves backwards quickly.<br /><span style=\"font-weight:bold; color:orange;\">You can move in the air and during the last attack of throwing skills</span>, and cannot be pushed back when moving. If you've learned Dark Sight and used it during the last attack of a throwing skill, Dark Sight will be activated automatically for a short time.<br />SP is not required for the skill, and it can be used <span style=\"font-weight:bold; color:orange;\">upon Night Walker job advancement.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/42",
+      "New": "nightWalker/M/42"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/45",
+      "New": "nightWalker/M/45"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/43",
+      "New": "nightWalker/F/43"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/61",
+      "New": "nightWalker/F/61"
+    },
+    "actionList/14": {
+      "Old": null,
+      "New": "6thDarknessOmen"
+    },
+    "actionList/15": {
+      "Old": null,
+      "New": "6thDominion"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14001024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14001024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14001024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14001024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14001024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

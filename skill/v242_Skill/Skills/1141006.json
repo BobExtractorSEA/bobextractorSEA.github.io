@@ -1,0 +1,100 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6274124-03:00",
+  "ChangeType": "Added",
+  "Id": "1141006",
+  "Name": "Valhalla VI",
+  "Job": "Hero",
+  "Desc": "Ancient warriors grant you their willpower, allowing you to achieve great strength. When a hero uses a <span style=\"font-weight:bold; color:orange;\">swordsmanship</span> skill, the Sword Attack remains like an afterimage at the attack spot every certain amount of time, attacking the enemy additionally. The Sword Attack prioritizes the Boss monster with the highest Max HP. Sword Attack does not occur with common skills and 5th Advancement Skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Valhalla Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/1121054": "1",
+    "action/0": "6thValhalla",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+2*x",
+    "common/x": "100",
+    "common/y": "100",
+    "common/time": "30",
+    "common/cooltime": "120",
+    "common/indieCr": "30",
+    "common/indiePad": "50",
+    "common/w": "3",
+    "common/damage": "560+15*x",
+    "common/mobCount": "6",
+    "common/u2": "12",
+    "common/attackCount": "2",
+    "skillList/0": "1121008",
+    "skillList/1": "1120017",
+    "skillList/2": "1121015",
+    "skillList/3": "1101011",
+    "skillList/4": "1111010",
+    "skillList/5": "1141000",
+    "skillList/6": "1141001",
+    "skillList/7": "1141500",
+    "skillList/8": "1141501",
+    "skillList/9": "1141008",
+    "effect0/z": "-1",
+    "applyHyper": "1",
+    "isSequenceOn": "1",
+    "id": "1141006",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = hero/M/12 }",
+    "voice/male/path/1": "{ Old = , New = hero/M/13 }",
+    "voice/female/path/0": "{ Old = , New = hero/F/12 }",
+    "voice/female/path/1": "{ Old = , New = hero/F/13 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 360. Protects you against the Knockback effect from enemy's attacks for 30 sec., and fully charges combo.<br />Active buff ATT +50, Critical Rate +30%, Status Resistance +100, All Elemental Resistance +100%.<br />3 Sword Attacks occur to attack up to 6 enemies at 1010% Damage 2 times. Sword Attacks occur up to 12 times, and they cannot occur anymore once used up.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1141006_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/1141006_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

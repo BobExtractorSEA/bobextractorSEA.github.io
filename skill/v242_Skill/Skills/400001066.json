@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.749589-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001066",
+  "Name": "Transcendent",
+  "Job": "5th",
+  "Desc": "Receive blessings from the Transcendent of Light, Life, and Time. The Spear of Light first targets the Boss monster with the highest Max HP within range. The Blessings of Light and Time do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001066_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

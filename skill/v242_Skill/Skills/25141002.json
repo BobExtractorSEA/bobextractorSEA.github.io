@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0480388-03:00",
+  "ChangeType": "Changed",
+  "Id": "25141002",
+  "Name": "Fox Spirits VI",
+  "Job": "Shade",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/28": {
+      "Old": null,
+      "New": "25141003"
+    },
+    "skillList/29": {
+      "Old": null,
+      "New": "25141004"
+    },
+    "skillList/30": {
+      "Old": null,
+      "New": "25141005"
+    },
+    "skillList/31": {
+      "Old": null,
+      "New": "25141006"
+    },
+    "skillList/32": {
+      "Old": null,
+      "New": "25141008"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "25141009"
+    },
+    "skillList/34": {
+      "Old": null,
+      "New": "25141010"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5524304-03:00",
+  "ChangeType": "Changed",
+  "Id": "5241004",
+  "Name": "Battleship Bomber VI",
+  "Job": "Corsair",
+  "Desc": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not affect enemies in the Damage Reflection status.<br />Bombs the location by placing a Sign of Bombard in a certain area.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Battleship Bomber Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

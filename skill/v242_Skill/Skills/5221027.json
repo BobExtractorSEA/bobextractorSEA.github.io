@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4654077-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221027",
+  "Name": "Battleship Bomber",
+  "Job": "Corsair",
+  "Desc": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not affect enemies in the Damage Reflection status. Bombs the location by placing a Sign of Bombard in a certain area.<br />SP is not invested in the skill and can be used <span style=\"font-weight:bold; color:orange;\">when Ahoy Mateys is learned</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

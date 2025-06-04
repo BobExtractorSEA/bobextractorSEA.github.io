@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3748398-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121053",
+  "Name": "Demonic Fortitude",
+  "Job": "Demon Slayer",
+  "Desc": "Calls forth a demonic crystal that releases the energy of the Demons.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

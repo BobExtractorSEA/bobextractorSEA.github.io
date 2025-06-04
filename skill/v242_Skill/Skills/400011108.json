@@ -1,0 +1,118 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0959388-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011108",
+  "Name": "Infinite",
+  "Job": "5th (Warrior)",
+  "Desc": "Creates a place where countless Ether Swords are produced. Ether Swords only move near Adele, and follows Adele when moving out of range to track down a new enemy.<br />Ether Swords created from Infinite aren't affected by Gathering/Blossom and are only affected by Grave.<br />Ether Swords do not affect enemies in the Damage Reflection status and only tracks down enemies when Adele is in combat.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Grave or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 1000. Invincible while casting or canceling.<br />Creates 18 Ether Swords which lasts for 30 sec. and attacks at 700% damage 2 times.<br />When attack hits, there is 5% chance of creating an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 1000. Invincible while casting or canceling.<br />Creates 18 Ether Swords that last for 30 sec., attacking at 700% Damage 2 times.<br />Successful attacks create a 5% chance of creating an Ether Crystal.<br />Cooldown: 180 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 1000. Invincible while casting or canceling.<br />Creates 18 Ether Swords which lasts for 30 sec. and attacks at 700% damage 2 times.<br />When attack hits, there is 5% chance of creating an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>",
+      "New": "MP Cost: 1000. Invincible while casting or canceling.<br />Creates 18 Ether Swords that last for 30 sec., attacking at 700% Damage 2 times.<br />Successful attacks create a 5% chance of creating an Ether Crystal.<br />Cooldown: 180 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/41",
+      "New": "adele/M/41"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/42",
+      "New": "adele/M/42"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/43",
+      "New": "adele/M/43"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/38",
+      "New": "adele/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/39",
+      "New": "adele/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/40",
+      "New": "adele/F/40"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/41",
+      "New": "adele/F/41"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 1000. Invincible while casting or canceling.<br />Creates 18 Ether Swords that last for 30 sec., attacking at 700% Damage 2 times.<br />Successful attacks create a 5% chance of creating an Ether Crystal.<br />Cooldown: 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011108_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011108_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

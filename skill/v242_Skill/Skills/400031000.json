@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4182884-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031000",
+  "Name": "Guided Arrow",
+  "Job": "5th (Bowman)",
+  "Desc": "Summons a soul arrow that chases enemies. Does not affect enemies in the Damage Reflection status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5345357-03:00",
+  "ChangeType": "Added",
+  "Id": "2140013",
+  "Name": "Meteor VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/2121007": "30",
+    "common/maxLevel": "30",
+    "common/damage": "233+5*x",
+    "common/prop": "65",
+    "hit/0/pos": "1",
+    "hit/0/delayShowDamage": "780",
+    "hit/0/soundIndex": "1",
+    "hit/1/pos": "1",
+    "hit/1/delayShowDamage": "900",
+    "hit/1/soundIndex": "2",
+    "hit/2/pos": "1",
+    "hit/2/delayShowDamage": "960",
+    "hit/2/soundIndex": "3",
+    "hit/3/pos": "1",
+    "hit/3/delayShowDamage": "780",
+    "hit/3/soundIndex": "4",
+    "hit/4/pos": "1",
+    "hit/4/delayShowDamage": "900",
+    "hit/4/soundIndex": "5",
+    "hit/5/pos": "1",
+    "hit/5/delayShowDamage": "960",
+    "hit/5/soundIndex": "6",
+    "hit/6/pos": "1",
+    "hit/6/delayShowDamage": "780",
+    "hit/6/soundIndex": "7",
+    "hit/7/pos": "1",
+    "hit/7/delayShowDamage": "840",
+    "hit/7/soundIndex": "8",
+    "hit/8/pos": "1",
+    "hit/8/delayShowDamage": "1020",
+    "hit/8/soundIndex": "9",
+    "hit/randomHit": "1",
+    "skillType": "3",
+    "invisible": "1",
+    "elemAttr": "f",
+    "ignoreSpecialCore": "1",
+    "id": "2140013",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2140013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2140013_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

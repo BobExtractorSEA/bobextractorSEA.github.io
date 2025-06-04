@@ -1,0 +1,130 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7532285-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041057",
+  "Name": "Photon Ray",
+  "Job": "5th (Thief)",
+  "Desc": "Use a Photon Cannon that tracks down the enemy until it hits.<br />Use the skill to briefly enter <span style=\"font-weight:bold; color:orange;\">Aiming Mode</span> to take several shots at a time. Once one aim is confirmed, the next aim begins. Use the skill again to fire the Photon Cannon at the enemy that is currently being aimed at.<br />The set amount of initial aims can be completed very quickly, but additional aims are performed 1 shot at a time, requiring more time. All aims prioritize aiming at Boss Monsters with the highest Max HP within range, and <span style=\"font-weight:bold; color:orange;\">attacking the aimed enemy</span> causes aims to complete faster.<br />If an enemy that is being aimed at or has been aimed at travels far away from you, aiming is canceled. All aims are also canceled if the Aiming Mode duration ends before you can fire a shot.<br />Photon Ray doesn't affect enemies in Damage Reflection status. It is not affected by Virtual Projection and can be fired without the firing motion when using Fuzzy Rob Masquerade, Meltdown Explosion, and Mega Smasher.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/104",
+      "New": "xenon/M/104"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/105",
+      "New": "xenon/M/105"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/106",
+      "New": "xenon/M/106"
+    },
+    "voice/male/path/3": {
+      "Old": "xenon/M/107",
+      "New": "xenon/M/107"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/99",
+      "New": "xenon/F/99"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/100",
+      "New": "xenon/F/100"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/101",
+      "New": "xenon/F/101"
+    },
+    "voice/female/path/3": {
+      "Old": "xenon/F/102",
+      "New": "xenon/F/102"
+    },
+    "voice/female/path/4": {
+      "Old": "xenon/F/103",
+      "New": "xenon/F/103"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "36141014"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "36141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041057_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041057_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

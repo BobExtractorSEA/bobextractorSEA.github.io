@@ -1,0 +1,113 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4637627-03:00",
+  "ChangeType": "Added",
+  "Id": "3341006",
+  "Name": "Edge of Resonance VI",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Ancient Force]</span><br />Summons a blade of the soul that resonates with the ancient curse and attacks nearby enemies.<br />The curse resonates stronger with each use, enhancing your next Edge of Resonance with multiple uses. <br />Deals greater damage to enemies inflicted with the Ancient Curse debuff. Can be used while using your skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Edge of Resonance Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -320,
+      "y": -300
+    },
+    "rb": {
+      "x": 320,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "req/3321012": "30",
+    "common/maxLevel": "30",
+    "common/forceCon": "100",
+    "common/damage": "920+29*x",
+    "common/mobCount": "8",
+    "common/attackCount": "6",
+    "common/cooltime": "15",
+    "common/lt/x": -320,
+    "common/lt/y": -300,
+    "common/rb/x": 320,
+    "common/rb/y": 250,
+    "common/x": "10",
+    "common/y": "4",
+    "common/s": "8",
+    "common/s2": "591+34*x",
+    "common/s3": "10",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/delayedTimeActionSpeed": "30",
+    "hit2/0/randomHitOrigin": "40",
+    "hit2/0/randomHitAngle": "1",
+    "hit2/0/useZ": "1",
+    "hit2/0/z": "1",
+    "hit2/0/delayedTimeActionSpeed": "30",
+    "weapon": "59",
+    "subWeapon": "35",
+    "isBeneficial": "1",
+    "id": "3341006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/12 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/13 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/12 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/13 }"
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 100. Attacks up to 8 enemies at 1790% Damage 6 times.<br />Final Damage +10% per Ancient Curse debuff<br />Use 4 times to replace the next attack with an enhanced Edge of Resonance.<br /><span style=\"font-weight:bold; color:orange;\">Ancient Impact</span>: Attacks up to 8 enemies at 1611% damage 10 times.<br />Cooldown 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341006_hit_new.webp"
+    },
+    "hit2": {
+      "Old": null,
+      "New": "Animations/New/3341006_hit2_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

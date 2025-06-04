@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.92107-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003449",
+  "Name": "Tangyoon's Cooking: Arcane Force",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Arcane Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Arcane Force</span> quest after the 5th Job Advancement.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Chew Chew Special Slushie: Arcane Force",
+      "New": "Tangyoon's Cooking: Arcane Force"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003449_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003449_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

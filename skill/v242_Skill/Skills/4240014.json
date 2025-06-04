@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0731074-03:00",
+  "ChangeType": "Added",
+  "Id": "4240014",
+  "Name": "Shadow Veil VI",
+  "Job": "Shadower",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "dmgDelay": "1",
+    "req/4221052": "1",
+    "common/maxLevel": "30",
+    "common/x": "1",
+    "common/prop": "20",
+    "common/w": "1",
+    "invisible": "1",
+    "weapon": "33",
+    "applyHyper": "1",
+    "effect/z": "2",
+    "effect0/z": "-1",
+    "id": "4240014",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4240014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4240014_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/4240014_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

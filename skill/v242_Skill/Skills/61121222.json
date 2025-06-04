@@ -1,0 +1,96 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9672858-03:00",
+  "ChangeType": "Changed",
+  "Id": "61121222",
+  "Name": "Inferno Breath",
+  "Job": "Kaiser",
+  "Desc": "Summons an ancient dragon that breathes fire, leaving a trail of fire that deals continuous damage to those on it. The trail of fire does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 70. Attacks up to 15 enemies at 300% Damage 8 times, and then inflicts DoT.<br />Cooldown: 20 sec",
+      "New": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then deals DoT.<br />Cooldown: 20 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Attacks up to 15 enemies at 300% Damage 8 times, and then inflicts DoT.<br />Cooldown: 20 sec",
+      "New": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then deals DoT.<br />Cooldown: 20 sec."
+    },
+    "common/attackCount": {
+      "Old": "8",
+      "New": "14"
+    },
+    "common/damage": {
+      "Old": "220+4*x",
+      "New": "690+14*x"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "220+4*x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "40-x",
+      "New": null
+    },
+    "PVPcommon/lt2/x": {
+      "Old": "-20",
+      "New": null
+    },
+    "PVPcommon/lt2/y": {
+      "Old": "-20",
+      "New": null
+    },
+    "PVPcommon/rb2/x": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/rb2/y": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1200",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "skillList/0": {
+      "Old": null,
+      "New": "400011000"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then deals DoT.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61121222_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

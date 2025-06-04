@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2853194-03:00",
+  "ChangeType": "Changed",
+  "Id": "22140015",
+  "Name": "Dive of Thunder",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>, responds to Evan's magic and produces powerful lightning balls that roll off his body and run along the ground. Dive of Thunder improves in proportion to Dragon Swift's level and does not affect enemies in the Damage Reflection state.<br />This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Thunder</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 70 MP to generate 4 lightning balls that attack up to 1 enemies at 135% Damage 1 times. Lasts for 4 seconds. Lightning balls disappear after attacking enemies or when their duration expires.",
+      "New": "MP Cost: 70. Generates 4 lightning balls that periodically attack at 135% Damage for 4 sec.<br />Lightning balls disappear after attacking enemies or when their duration expires."
+    },
+    "h1": {
+      "Old": "Consumes 70 MP to generate 4 lightning balls that attack up to 1 enemies at 135% Damage 1 times. Lasts for 4 seconds. Lightning balls disappear after attacking enemies or when their duration expires.",
+      "New": "MP Cost: 70. Generates 4 lightning balls that periodically attack at 135% Damage for 4 sec.<br />Lightning balls disappear after attacking enemies or when their duration expires."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "140+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "20+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "10000",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "330",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/26",
+      "New": "evan/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/26",
+      "New": "evan/F/26"
+    },
+    "common/s": {
+      "Old": null,
+      "New": "4"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Generates 4 lightning balls that periodically attack at 135% Damage for 4 sec.<br />Lightning balls disappear after attacking enemies or when their duration expires."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22140015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

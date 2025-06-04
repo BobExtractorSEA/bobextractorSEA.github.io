@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.4505949-03:00",
+  "ChangeType": "Added",
+  "Id": "101141021",
+  "Name": "Flash Cut VI",
+  "Job": "Zero",
+  "Desc": "Forcefully swing your long sword to attack multiple enemies in front of you.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Throwing Weapon Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -365,
+      "y": -180
+    },
+    "rb": {
+      "x": 70,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/101100101": "20",
+    "action/0": "6thFrontSlash",
+    "common/forceCon": "7",
+    "common/damage": "226+4*x",
+    "common/attackCount": "6",
+    "common/mobCount": "6",
+    "common/maxLevel": "30",
+    "common/lt/x": -365,
+    "common/lt/y": -180,
+    "common/rb/x": 70,
+    "common/rb/y": 80,
+    "common/cooltime": "5",
+    "addAttack/skill": "101141022",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFrame": "5",
+    "addAttack/toolTipDesc": "1",
+    "addAttack/toolTipDescSkill": "101141022",
+    "assistSkillLink/skill": "101101200",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "56",
+    "skillList/0": "400011000",
+    "id": "101141021",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 0,
+    "voice/female/count": 5,
+    "voice/female/path/0": "{ Old = , New = zero/F/40 }",
+    "voice/female/path/1": "{ Old = , New = zero/F/12 }",
+    "voice/female/path/2": "{ Old = , New = zero/F/14 }",
+    "voice/female/path/3": "{ Old = , New = zero/F/20 }",
+    "voice/female/path/4": "{ Old = , New = zero/F/1 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 7. Attacks up to 6 enemies at 346% Damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 5 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141021_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141021_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141021_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141021_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

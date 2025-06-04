@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.017323-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011073",
+  "Name": "Combo Instincts",
+  "Job": "5th (Warrior)",
+  "Desc": "Takes the Combo Counter into an unconscious level and draws out all the potential. Increases the power from Combo Counter and creates a Space Crack when <span style=\"font-weight:bold; color:orange;\">using Raging Blow</span>. Does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Raging Blow or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/18",
+      "New": "hero/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/19",
+      "New": "hero/M/19"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/18",
+      "New": "hero/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/19",
+      "New": "hero/F/19"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011073_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011073_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011073_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011073_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011073_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.9609191-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003453",
+  "Name": "Ano's Cooking: Bounty Hunter/Flame Wolf Additional EXP",
+  "Job": "Etc",
+  "Desc": "Increases Polo and Frito, Especia, and Flame Wolf<br /><span style=\"font-weight:bold; color:orange;\">EXP</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pidoll's Special Syrup: Ignore DEF",
+      "New": "Ano's Cooking: Bounty Hunter/Flame Wolf Additional EXP"
+    },
+    "Desc": {
+      "Old": "Increases <span style=\"font-weight:bold; color:orange;\">Ignore DEF</span> rate.",
+      "New": "Increases Polo and Frito, Especia, and Flame Wolf<br /><span style=\"font-weight:bold; color:orange;\">EXP</span>."
+    },
+    "H": {
+      "Old": "Ignore DEF +20%",
+      "New": "Polo/Frito/Especia and Flame Wolf EXP Obtained +100%"
+    },
+    "h1": {
+      "Old": "Ignore DEF +20%",
+      "New": "Polo/Frito/Especia and Flame Wolf EXP Obtained +100%"
+    },
+    "common/maxLevel": {
+      "Old": "3",
+      "New": "6"
+    },
+    "common/ignoreMobpdpR": {
+      "Old": "5*x+5*(d(x/3))",
+      "New": null
+    },
+    "common/time": {
+      "Old": null,
+      "New": "1200"
+    },
+    "cannotCancelByRButton": {
+      "Old": null,
+      "New": "1"
+    },
+    "notRemoved": {
+      "Old": null,
+      "New": "1"
+    },
+    "notIncBuffDuration": {
+      "Old": null,
+      "New": "1"
+    },
+    "level/1/bHunterR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/1/indieExp": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/2/bHunterR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/2/indieExp": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/3/bHunterR": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/3/indieExp": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/4/bHunterR": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/4/indieExp": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/5/bHunterR": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/5/indieExp": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/6/bHunterR": {
+      "Old": null,
+      "New": "100"
+    },
+    "level/6/indieExp": {
+      "Old": null,
+      "New": "100"
+    },
+    "processtype": {
+      "Old": null,
+      "New": "6"
+    }
+  },
+  "HFields": {
+    "h1": "Polo/Frito/Especia and Flame Wolf EXP Obtained +100%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003453_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003453_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

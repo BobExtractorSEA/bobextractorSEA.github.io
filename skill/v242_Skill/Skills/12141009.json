@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.2894599-03:00",
+  "ChangeType": "Changed",
+  "Id": "12141009",
+  "Name": "Blazing Extinction VI",
+  "Job": "Blaze Wizard",
+  "Desc": "The mischievous Flame Fox creates a fireball of compressed heat and sends a powerful blast of heat forward for a while.<br />Use with the Down key to activate the Blazing Extinction - Lion mode. Lock the command to disable the Blazing Extinction - Lion mode when using this skill with the Down key.<br />A Fire Element attack. Cooldown Reset effect is not applied.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blazing Extinction Lv. 30 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "The mischievous Flame Fox creates a fireball of compressed heat and sends a powerful blast of heat forward for a while.<br />A Fire Element attack. Not affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blazing Extinction Lv. 30 or higher</span>",
+      "New": "The mischievous Flame Fox creates a fireball of compressed heat and sends a powerful blast of heat forward for a while.<br />Use with the Down key to activate the Blazing Extinction - Lion mode. Lock the command to disable the Blazing Extinction - Lion mode when using this skill with the Down key.<br />A Fire Element attack. Cooldown Reset effect is not applied.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blazing Extinction Lv. 30 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

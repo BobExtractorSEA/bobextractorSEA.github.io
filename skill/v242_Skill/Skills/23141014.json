@@ -1,0 +1,126 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7159053-03:00",
+  "ChangeType": "Added",
+  "Id": "23141014",
+  "Name": "Elemental Knights VI",
+  "Job": "Mercedes",
+  "Desc": "Randomly summons an Ice Spirit, Fire Spirit, or Shadow Spirit to aid you in battle. Successful attacks during Elemental Knights summon elemental spirits. Elemental Knights does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Affected by SUMMONS DURATION INCREASE.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Elemental Knights Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "minionAttack": "normal",
+    "info2/ignoreCounter": "1",
+    "req/23111008": "10",
+    "common/maxLevel": "30",
+    "common/mpCon": "0",
+    "common/damage": "235+3*x",
+    "common/time": "210",
+    "common/x": "7",
+    "common/y": "-15",
+    "common/u": "2000",
+    "summon/attack1/info/range/lt/x": -301,
+    "summon/attack1/info/range/lt/y": -120,
+    "summon/attack1/info/range/rb/x": 300,
+    "summon/attack1/info/range/rb/y": 30,
+    "summon/attack1/info/attackAfter": "180",
+    "summon/attack1/info/attackCount": "2",
+    "summon/attack1/info/delay": "90",
+    "hit/0/pos": "12",
+    "hit/0/delayedTime": "450",
+    "hit/0/randomHitOriginX": "60",
+    "hit/0/randomHitOriginY": "30",
+    "hit/0/updateHitFlipByMobPos": "1",
+    "hit/0/onlyOnce": "1",
+    "hit2/0/pos": "12",
+    "hit2/0/randomHitOrigin": "15",
+    "hit2/0/randomHitAngle": "1",
+    "hit2/0/onlyOnce": "1",
+    "invisible": "1",
+    "showSummonedBuffIcon": "2",
+    "canJobRidingUse": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "resummonByUnionCharTag": "1",
+    "id": "23141014",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = mercedes/M/9 }",
+    "voice/male/path/1": "{ Old = , New = mercedes/M/10 }",
+    "voice/male/path/2": "{ Old = , New = mercedes/M/12 }",
+    "voice/female/path/0": "{ Old = , New = mercedes/F/8 }",
+    "voice/female/path/1": "{ Old = , New = mercedes/F/9 }",
+    "voice/female/path/2": "{ Old = , New = mercedes/F/12 }",
+    "voice/female/path/3": "{ Old = , New = mercedes/F/13 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/23141014_hit_new.webp"
+    },
+    "hit2": {
+      "Old": null,
+      "New": "Animations/New/23141014_hit2_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

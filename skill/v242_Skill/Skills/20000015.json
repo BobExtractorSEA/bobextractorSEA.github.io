@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.679916-03:00",
+  "ChangeType": "Changed",
+  "Id": "20000015",
+  "Name": "Tutorial Skill",
+  "Job": "Legend",
+  "Desc": "Tutorial Skill",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_20000015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

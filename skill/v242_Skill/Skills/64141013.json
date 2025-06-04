@@ -1,0 +1,168 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.8478806-03:00",
+  "ChangeType": "Added",
+  "Id": "64141013",
+  "Name": "Chain Arts: Takedown VI",
+  "Job": "Cadena",
+  "Desc": "Quickly draws a long chain and swings it around to chain enemies within range. Chain Arts: Takedown chains the enemy with the highest Max HP first.<br />After chaining, Pommels the enemy with such speed that it leaves afterimages. The power of the Pommel depends on the number of additional Weapon Variation attacks activated during that time, and Weapon Variation stacks are maximized during the Pommel.<br />Not affected by Cooldown Reset effects. Attacked enemies resist Bind for 90 sec., becoming immune to Bind by Chain Arts: Takedown and other skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Chain Arts: Takedown Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -430,
+      "y": -380
+    },
+    "rb": {
+      "x": 430,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/64121001": "30",
+    "action/0": "6thNTcobra",
+    "common/maxLevel": "30",
+    "common/mpCon": "252+x",
+    "common/damage": "328+6*x",
+    "common/attackCount": "2",
+    "common/mobCount": "8",
+    "common/lt/x": -430,
+    "common/lt/y": -380,
+    "common/rb/x": 430,
+    "common/rb/y": 100,
+    "common/time": "10",
+    "common/cooltime": "118",
+    "common/x": "5000",
+    "common/u3": "0",
+    "common/w": "3",
+    "common/v": "5",
+    "common/ignoreMobpdpR": "80",
+    "common/s": "842+16*x",
+    "common/q": "960+18*x",
+    "common/u": "1080+21*x",
+    "common/u4": "10",
+    "common/u2": "15",
+    "common/w2": "10",
+    "common/v2": "655+12*x",
+    "common/z": "4",
+    "common/updatableTime": "5000",
+    "common/y": "5",
+    "common/s2": "10",
+    "common/q2": "10",
+    "common/prop": "270+5*x",
+    "common/range": "378+7*x",
+    "common/subTime": "540+10*x",
+    "common/w3": "3",
+    "mob/repeat": "1",
+    "mob/pos": "2",
+    "tile/50/hold/repeat": "1",
+    "tile/100/hold/repeat": "1",
+    "tile/150/hold/repeat": "1",
+    "tile/200/hold/repeat": "1",
+    "special/repeat": "1",
+    "special0/repeat": "1",
+    "special0/z": "-1",
+    "special1/loop/pos": "2",
+    "special1/loop/repeat": "1",
+    "special1/loop/repeatIdx": "12",
+    "special1/end/pos": "2",
+    "special2/loop/pos": "2",
+    "special2/loop/repeat": "1",
+    "special2/loop/repeatIdx": "12",
+    "special2/end/pos": "2",
+    "special3/loop/pos": "2",
+    "special3/loop/repeat": "1",
+    "special3/loop/repeatIdx": "12",
+    "special3/end/pos": "2",
+    "additional_process/0": "16",
+    "additional_process/1": "21",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "psd": "1",
+    "notCooltimeReset": "1",
+    "id": "64141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = cadena/M/13 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/14 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/15 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/13 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/14 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/15 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 282. Attacks up to 8 enemies at 508% Damage 2 times.<br />Attacked enemies are Bound for 10 sec.<br />Bind duration up to +100%, depending on the Damage dealt by Chain Arts: Takedown.<br />For 5 sec. after casting, activates Pommel, with attack strength divided into 3 levels <br />based on the <span style=\"font-weight:bold; color:orange;\">Weapon Variation additional attack activation count</span>. If the activation count is not reached in time, the minimum level of Pommel is activated. If it is reached in time, Pommel is activated instantly.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5, or higher, depending on the level, attacks up to 10 enemies at 1322%/1500%/1710% Damage 15 times, and then delivers a finishing attack that attacks up to 10 enemies at 420%/588%/840% Damage 10 times.<br />During the consecutive attacks, generates a shock wave that attacks up to 10 enemies at 1015% Damage 4 times following your attacks. Additional 80% Ignore DEF for all attacks.<br />Cooldown: 118 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141013_effect_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/64141013_mob_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/64141013_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/64141013_special0_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.5737135-03:00",
+  "ChangeType": "Changed",
+  "Id": "10001253",
+  "Name": "Elemental Shift",
+  "Job": "Noblesse",
+  "Desc": "Push a direction key, except for [Down], and the Jump key together to allow jumping in that direction. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_10001253_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

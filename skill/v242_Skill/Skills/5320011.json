@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.6232745-03:00",
+  "ChangeType": "Changed",
+  "Id": "5320011",
+  "Name": "Monkey Militia",
+  "Job": "Cannon Master",
+  "Desc": "Summons the elite artillerymen Monkey Twins to aid you in combat. This skill does not affect enemies with the Damage Reflection effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/mobCount": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5340010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5320011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

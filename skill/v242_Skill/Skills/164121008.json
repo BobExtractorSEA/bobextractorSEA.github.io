@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.6044369-03:00",
+  "ChangeType": "Changed",
+  "Id": "164121008",
+  "Name": "Fist Method: Inhaling Vortex",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon a powerful vortex that absorbs enemy's spirits. Using the skill again cancels the vortex, and the amount of spirits absorbed proportionally restores HP and MP for party members.<br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Sucking Vortex does not cause you to take damage even when attacking enemies in the Damage Reflection Status.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon a powerful vortex that absorbs enemy's spirits Using the skill again cancels the vortex, and the amount of spirits absorbed proportionally heals HP and MP for party members.<br /><br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Inhaling Vortex is not affected by enemies in the Damage Reflection status.</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon a powerful vortex that absorbs enemy's spirits. Using the skill again cancels the vortex, and the amount of spirits absorbed proportionally restores HP and MP for party members.<br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Sucking Vortex does not cause you to take damage even when attacking enemies in the Damage Reflection Status.</span>"
+    },
+    "H": {
+      "Old": "Scroll Power Cost: 900. Summons a vortex that attacks the enemy at 256% damage 6 times over 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss Monster absorbs 3 times more spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed recovers HP and MP for party members by up to 5%.",
+      "New": "Scroll Power Cost: 900. Summons a vortex that attacks at 256% Damage 6 times for 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss monster absorbs 3 times the spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed restores HP and MP for party members by up to 5%."
+    },
+    "h1": {
+      "Old": "Scroll Power Cost: 900. Summons a vortex that attacks the enemy at 256% damage 6 times over 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss Monster absorbs 3 times more spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed recovers HP and MP for party members by up to 5%.",
+      "New": "Scroll Power Cost: 900. Summons a vortex that attacks at 256% Damage 6 times for 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss monster absorbs 3 times the spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed restores HP and MP for party members by up to 5%."
+    },
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/13",
+      "New": "HoYoung/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/14",
+      "New": "HoYoung/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/13",
+      "New": "HoYoung/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/14",
+      "New": "HoYoung/F/14"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "164141059"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Scroll Power Cost: 900. Summons a vortex that attacks at 256% Damage 6 times for 40 sec.<br />Absorbs 1 spirit per 4 hits. Up to 9 spirits can be absorbed. Attacking a Boss monster absorbs 3 times the spirits.<br />Reusing the skill cancels the vortex. 1 spirit absorbed restores HP and MP for party members by up to 5%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_164121008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

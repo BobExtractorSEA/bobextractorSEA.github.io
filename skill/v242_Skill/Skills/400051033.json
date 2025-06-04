@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8748534-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051033",
+  "Name": "Overdrive",
+  "Job": "5th (Pirate)",
+  "Desc": "Drives the weapon to its limits to increase ATT. After the skill ends, the overdriven weapon's stats are reduced for a set duration, and you cannot change weapons during Overdrive's Cooldown.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051033_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

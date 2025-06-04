@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7276728-03:00",
+  "ChangeType": "Changed",
+  "Id": "101000200",
+  "Name": "Piercing Thrust",
+  "Job": "Zero",
+  "Desc": "Thrusts your Long Sword foward to knock back enemies with the tip. Some monsters have a resistance to the attack and cannot be pulled. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Moon Strike</span> <br />Command: While Moon Strike is active, activate <span style=\"font-weight:bold; color:orange;\">Moon Strike</span> again. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/38",
+      "New": "zero/M/38"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/39",
+      "New": "zero/M/39"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/3",
+      "New": "zero/M/3"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/4",
+      "New": "zero/M/4"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/5",
+      "New": "zero/M/5"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141030"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101000200_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000200_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000200_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000200_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000200_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000200_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

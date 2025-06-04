@@ -1,0 +1,66 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.089466-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011105",
+  "Name": "Ruin",
+  "Job": "5th (Warrior)",
+  "Desc": "Summons an ancient sword of annihilation to devastate the surroundings.<br />Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 1000. Attacks up to 15 enemies<br />activates 12 times to deal 500% damage 6 times when summoned.<br />After being summoned, the sword stabs the ground to attack 8 times and inflicts 900% damage 9 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>",
+      "New": "MP Cost: 1000. Attacks up to 15 enemies.<br />Activates 12 attacks when summoned that attack at 500% Damage 6 times.<br />After being summoned, the sword stabs the ground and activate 8 attacks that attack at 900% Damage 9 times.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 1000. Attacks up to 15 enemies<br />activates 12 times to deal 500% damage 6 times when summoned.<br />After being summoned, the sword stabs the ground to attack 8 times and inflicts 900% damage 9 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>",
+      "New": "MP Cost: 1000. Attacks up to 15 enemies.<br />Activates 12 attacks when summoned that attack at 500% Damage 6 times.<br />After being summoned, the sword stabs the ground and activate 8 attacks that attack at 900% Damage 9 times.<br />Cooldown: 60 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/40",
+      "New": "adele/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/36",
+      "New": "adele/F/36"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/37",
+      "New": "adele/F/37"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 1000. Attacks up to 15 enemies.<br />Activates 12 attacks when summoned that attack at 500% Damage 6 times.<br />After being summoned, the sword stabs the ground and activate 8 attacks that attack at 900% Damage 9 times.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011105_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011105_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011105_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011105_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

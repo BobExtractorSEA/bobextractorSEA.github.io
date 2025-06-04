@@ -1,0 +1,111 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.3497959-03:00",
+  "ChangeType": "Changed",
+  "Id": "22171063",
+  "Name": "Dragon Breath",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Mir Skill</span> Mir breathes fire, burning all enemies in front. Dragon Breath isn't affected by enemies in the Damage Reflection status.<br />Additional damage that Dragon Breath adds as a Passive effect overrides the additional damage added by Dragon Dive.<br /><span style=\"font-weight:bold; color:orange;\">Mir's Skills and the Fusion Skills aren't affected by ASPD Bonus effects.</span><br /><span style=\"font-weight:bold; color:orange;\">Required Skill: Dragon Dive Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "18+4*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "25+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "59+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/23",
+      "New": "evan/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/12",
+      "New": "evan/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/23",
+      "New": "evan/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/12",
+      "New": "evan/F/12"
+    },
+    "mixSkill/22201006/0": {
+      "Old": null,
+      "New": "22170065"
+    },
+    "mixSkill/22201010/0": {
+      "Old": null,
+      "New": "22170066"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22201011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22171063_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171063_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171063_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171063_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22171063_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

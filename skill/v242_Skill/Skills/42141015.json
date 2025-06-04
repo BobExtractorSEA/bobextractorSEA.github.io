@@ -1,0 +1,132 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0366754-03:00",
+  "ChangeType": "Added",
+  "Id": "42141015",
+  "Name": "Clay Yaksha: Boss Ⅵ",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Summons the overwhelmingly mighty Boss Yaksha and orders it to push back and attack enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv.20 Clay Yaksha: Boss</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/0/pos": "4",
+    "hit/1/pos": "4",
+    "summon/attack1/info/range/lt/x": -205,
+    "summon/attack1/info/range/lt/y": -325,
+    "summon/attack1/info/range/rb/x": 205,
+    "summon/attack1/info/range/rb/y": 45,
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/mobCount": "10",
+    "summon/attack1/info/delay": "60",
+    "summon/attack1/info/attackAfter": "420",
+    "summon/attack2/info/range/lt/x": -470,
+    "summon/attack2/info/range/lt/y": -350,
+    "summon/attack2/info/range/rb/x": 180,
+    "summon/attack2/info/range/rb/y": 40,
+    "summon/attack2/info/attackCount": "4",
+    "summon/attack2/info/mobCount": "10",
+    "summon/attack2/info/attackAfter": "180",
+    "summon/attack3/info/range/lt/x": -600,
+    "summon/attack3/info/range/lt/y": -350,
+    "summon/attack3/info/range/rb/x": -180,
+    "summon/attack3/info/range/rb/y": 20,
+    "summon/attack3/info/attackCount": "4",
+    "summon/attack3/info/mobCount": "10",
+    "summon/attack3/info/attackAfter": "180",
+    "summon/attack4/info/range/lt/x": -665,
+    "summon/attack4/info/range/lt/y": -350,
+    "summon/attack4/info/range/rb/x": 175,
+    "summon/attack4/info/range/rb/y": 45,
+    "summon/attack4/info/attackCount": "4",
+    "summon/attack4/info/mobCount": "10",
+    "summon/attack4/info/attackAfter": "180",
+    "summon/die/info/range/lt/x": -250,
+    "summon/die/info/range/lt/y": -440,
+    "summon/die/info/range/rb/x": 250,
+    "summon/die/info/range/rb/y": 45,
+    "summon/die/info/attackCount": "4",
+    "summon/die/info/mobCount": "10",
+    "summon/die/info/delay": "60",
+    "summon/die/info/attackAfter": "2160",
+    "type": "33",
+    "selfDestructMinion": "1",
+    "info2/ignoreCounter": "1",
+    "action/0": "6thkannaDoubleDraw",
+    "common/maxLevel": "30",
+    "common/epCon": "40",
+    "common/cooltime": "3",
+    "common/time": "30",
+    "common/damage": "280+(6*x)",
+    "common/selfDestruction": "510+(3*x)",
+    "common/memo_PL": "attackCount, mobCount는 스트링작성용 더미 프로퍼티입니다.",
+    "common/attackCount": "4",
+    "common/mobCount": "10",
+    "weapon": "55",
+    "showSummonedBuffIcon": "2",
+    "masterLevel": "30",
+    "notRemoved": "1",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "skillList/0": "400021000",
+    "req/42120001": "20",
+    "id": "42141015",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = kanna/M/3 }",
+    "voice/male/path/1": "{ Old = , New = kanna/M/4 }",
+    "voice/female/path/0": "{ Old = , New = kanna/F/3 }",
+    "voice/female/path/1": "{ Old = , New = kanna/F/4 }"
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Consumes 40 Spiritual Energy</span> to summon Shikigami Yaksha for <span style=\"font-weight:bold; color:orange;\">30 seconds.</span><br />While summoned, the Yaksha repeatedly attacks <span style=\"font-weight:bold; color:orange;\">up to 10 enemies 4 times each</span>, at 460% damage.<br /><span style=\"font-weight:bold; color:orange;\">Activating the skill again</span> while the Yaksha is still summoned immediately sends the Yaksha back, while <span style=\"font-weight:bold; color:orange;\">pulling in enemies around the Yaksha to inflict 600% damage</span>.<br />[Cooldown: 3 sec]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/42141015_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

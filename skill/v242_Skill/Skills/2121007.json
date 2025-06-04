@@ -1,0 +1,173 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1383026-03:00",
+  "ChangeType": "Changed",
+  "Id": "2121007",
+  "Name": "Meteor",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Summons a meteor from the sky, dealing great Fire damage. Also, permanently makes skills except for Fire Aura create a <span style=\"font-weight:bold; color:orange;\">chance of dropping a meteor onto enemies, dealing damage</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a meteorite from the sky onto a group of enemies, inflicting great Fire damage. Attacks with skills except Fire Aura permanently <span style=\"font-weight:bold; color:orange;\">create a chance of dropping a meteor onto a single enemy</span>.",
+      "New": "Summons a meteor from the sky, dealing great Fire damage. Also, permanently makes skills except for Fire Aura create a <span style=\"font-weight:bold; color:orange;\">chance of dropping a meteor onto enemies, dealing damage</span>."
+    },
+    "H": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 315% damage 12 times. Cooldown: 45 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With direct attack skills in use, this skill creates a 60% chance of dropping a meteor onto a single enemy, inflicting 220% damage.]",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 315% Damage 12 times.<br />Cooldown: 45 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of dropping a meteor that attacks at 220% Damage.]"
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 315% damage 12 times. Cooldown: 45 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With direct attack skills in use, this skill creates a 60% chance of dropping a meteor onto a single enemy, inflicting 220% damage.]",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 315% Damage 12 times.<br />Cooldown: 45 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of dropping a meteor that attacks at 220% Damage.]"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "360-x*2",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "635+10*x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "45",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "2*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "100+4*x",
+      "New": null
+    },
+    "PVPcommon/hcCooltime": {
+      "Old": "60-2*d(x/2)",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/13",
+      "New": "archMageFP/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/14",
+      "New": "archMageFP/M/14"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageFP/M/26",
+      "New": "archMageFP/M/26"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageFP/M/27",
+      "New": "archMageFP/M/27"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/13",
+      "New": "archMageFP/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/14",
+      "New": "archMageFP/F/14"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageFP/F/25",
+      "New": "archMageFP/F/25"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageFP/F/27",
+      "New": "archMageFP/F/27"
+    },
+    "common/y": {
+      "Old": null,
+      "New": "180"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Attacks up to 15 enemies at 315% Damage 12 times.<br />Cooldown: 45 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of dropping a meteor that attacks at 220% Damage.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2121007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

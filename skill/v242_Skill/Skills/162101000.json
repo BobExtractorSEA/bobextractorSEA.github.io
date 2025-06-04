@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.337195-03:00",
+  "ChangeType": "Changed",
+  "Id": "162101000",
+  "Name": "Reading Dragon Vein",
+  "Job": "Lara",
+  "Desc": "By reading the veins, you can discover the location of Dragon Veins where Nature Spirits gather. Dragon veins hold the power of one of the natural elements of nature, which are river, wind, or sun. The discovered Dragon Vein is consumed by using the <span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>. You can't find Dragon Veins at the village.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/9": {
+      "Old": null,
+      "New": "162141012"
+    },
+    "skillList/10": {
+      "Old": null,
+      "New": "162141015"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "162141018"
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "162141020"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162101000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

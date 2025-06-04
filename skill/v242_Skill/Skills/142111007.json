@@ -1,0 +1,255 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8821851-03:00",
+  "ChangeType": "Changed",
+  "Id": "142111007",
+  "Name": "Ultimate - Train",
+  "Job": "Kinesis",
+  "Desc": "Lifts up an empty train and keeps smashing it towards your front at an extremely high speed. Ultimate-Train does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Ultimate-Deep Impact</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn Ultimate-B.P.M (4th).</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 15</span>. Attacks up to 5 enemies at 120% damage 6 times for 12 sec. Ultimate-Train Damage decreases by 5% per hit.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Material] Damage +140%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Deep Impact] Damage +100%p</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 15</span>.<br />Attacks up to 5 enemies at 120% Damage 6 times for 12 sec., decreasing Ultimate - Train Damage -5% as attacks continue.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +140%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +100%p</span>"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 15</span>. Attacks up to 5 enemies at 120% damage 6 times for 12 sec. Ultimate-Train Damage decreases by 5% per hit.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Material] Damage +140%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Deep Impact] Damage +100%p</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 15</span>.<br />Attacks up to 5 enemies at 120% Damage 6 times for 12 sec., decreasing Ultimate - Train Damage -5% as attacks continue.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +140%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +100%p</span>"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/ppCon": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "50+3*x",
+      "New": null
+    },
+    "PVPcommon/s2": {
+      "Old": "4*x",
+      "New": null
+    },
+    "PVPcommon/u2": {
+      "Old": "3*x",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "10000",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/v": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "4200",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "footholdInstallSummoned": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kinesis/M/25",
+      "New": "kinesis/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/26",
+      "New": "kinesis/M/26"
+    },
+    "voice/male/path/2": {
+      "Old": "kinesis/M/27",
+      "New": "kinesis/M/27"
+    },
+    "voice/male/path/3": {
+      "Old": "kinesis/M/17",
+      "New": "kinesis/M/17"
+    },
+    "voice/male/path/4": {
+      "Old": "kinesis/M/18",
+      "New": "kinesis/M/18"
+    },
+    "voice/male/path/5": {
+      "Old": "kinesis/M/17",
+      "New": "kinesis/M/17"
+    },
+    "voice/male/path/6": {
+      "Old": "kinesis/M/18",
+      "New": "kinesis/M/18"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/25",
+      "New": "kinesis/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/26",
+      "New": "kinesis/F/26"
+    },
+    "voice/female/path/2": {
+      "Old": "kinesis/F/27",
+      "New": "kinesis/F/27"
+    },
+    "voice/female/path/3": {
+      "Old": "kinesis/F/76",
+      "New": "kinesis/F/76"
+    },
+    "voice/female/path/4": {
+      "Old": "kinesis/F/18",
+      "New": "kinesis/F/18"
+    },
+    "voice/female/path/5": {
+      "Old": "kinesis/F/76",
+      "New": "kinesis/F/76"
+    },
+    "voice/female/path/6": {
+      "Old": "kinesis/F/18",
+      "New": "kinesis/F/18"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "142141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 15</span>.<br />Attacks up to 5 enemies at 120% Damage 6 times for 12 sec., decreasing Ultimate - Train Damage -5% as attacks continue.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +140%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +100%p</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_142111007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142111007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

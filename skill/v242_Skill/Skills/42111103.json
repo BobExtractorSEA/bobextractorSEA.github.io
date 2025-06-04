@@ -1,0 +1,90 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5070354-03:00",
+  "ChangeType": "Removed",
+  "Id": "42111103",
+  "Name": null,
+  "Job": "Kanna",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "invisible": {
+      "Old": "1",
+      "New": null
+    },
+    "type": {
+      "Old": "33",
+      "New": null
+    },
+    "skillOrigin/x": {
+      "Old": "0",
+      "New": null
+    },
+    "skillOrigin/y": {
+      "Old": "-47",
+      "New": null
+    },
+    "common/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "common/time": {
+      "Old": "1",
+      "New": null
+    },
+    "common/lt/x": {
+      "Old": "-1000",
+      "New": null
+    },
+    "common/lt/y": {
+      "Old": "-750",
+      "New": null
+    },
+    "common/rb/x": {
+      "Old": "1000",
+      "New": null
+    },
+    "common/rb/y": {
+      "Old": "750",
+      "New": null
+    },
+    "common/epCon": {
+      "Old": "20",
+      "New": null
+    },
+    "fixLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "weapon": {
+      "Old": "55",
+      "New": null
+    },
+    "id": {
+      "Old": "42111103",
+      "New": null
+    },
+    "common/lt": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "common/rb": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "has_weapon": {
+      "Old": "True",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

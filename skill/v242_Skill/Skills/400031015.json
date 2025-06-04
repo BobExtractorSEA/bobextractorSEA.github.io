@@ -1,0 +1,85 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4852997-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031015",
+  "Name": "Split Arrow",
+  "Job": "5th (Bowman)",
+  "Desc": "Imbues an arrow with mysterious powers to split into countless arrows on impact. An arrow activated through Piercing does not split.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: .800 When Full Burst Shot hits an enemy after using Piercing, Snipe, Enhance Piercing, Enhance Snipe, Ultimate Piercing, Ultimate Snipe, Final Aim, or Piercing Cartridge, the arrows split and attack up to 10 enemies at 1400% DAMAGE 5 additional times for 72 sec.<br />IGNORE MONSTER DEF: 25%<br />Cooldown: 120 sec",
+      "New": "MP Cost: 800. For 72 sec., when Full Burst Shot hits an enemy after using Piercing, Snipe, Enhance Piercing, Enhance Snipe, Ultimate Piercing, Ultimate Snipe, Long Range True Shot VI, Final Aim, or Piercing Cartridge, the arrows split and attack up to 10 enemies at 1400% Damage 5 more times.<br />Ignore Monster DEF: 25%.<br />Cooldown: 120 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: .800 When Full Burst Shot hits an enemy after using Piercing, Snipe, Enhance Piercing, Enhance Snipe, Ultimate Piercing, Ultimate Snipe, Final Aim, or Piercing Cartridge, the arrows split and attack up to 10 enemies at 1400% DAMAGE 5 additional times for 72 sec.<br />IGNORE MONSTER DEF: 25%<br />Cooldown: 120 sec",
+      "New": "MP Cost: 800. For 72 sec., when Full Burst Shot hits an enemy after using Piercing, Snipe, Enhance Piercing, Enhance Snipe, Ultimate Piercing, Ultimate Snipe, Long Range True Shot VI, Final Aim, or Piercing Cartridge, the arrows split and attack up to 10 enemies at 1400% Damage 5 more times.<br />Ignore Monster DEF: 25%.<br />Cooldown: 120 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "marksman/M/24",
+      "New": "marksman/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "marksman/M/25",
+      "New": "marksman/M/25"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/27",
+      "New": "marksman/F/27"
+    },
+    "voice/female/path/1": {
+      "Old": "marksman/F/29",
+      "New": "marksman/F/29"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 800. For 72 sec., when Full Burst Shot hits an enemy after using Piercing, Snipe, Enhance Piercing, Enhance Snipe, Ultimate Piercing, Ultimate Snipe, Long Range True Shot VI, Final Aim, or Piercing Cartridge, the arrows split and attack up to 10 enemies at 1400% Damage 5 more times.<br />Ignore Monster DEF: 25%.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

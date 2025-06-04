@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3352456-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021073",
+  "Name": "Zodiac Ray",
+  "Job": "5th (Magician)",
+  "Desc": "Charge MP to release the power of constellations and create a pentacle. When Evan's magic hits (except Mana Tornado), the pentacle becomes charged with mana. The pentacle activates once fully charged. This skill does not affect enemies in the Damage Reflection status. Only the first attack of Elemental Blast deals elemental damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "evan/M/42",
+      "New": "evan/M/42"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/43",
+      "New": "evan/M/43"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/44",
+      "New": "evan/M/44"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/42",
+      "New": "evan/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/43",
+      "New": "evan/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/44",
+      "New": "evan/F/44"
+    },
+    "skillList2/20": {
+      "Old": null,
+      "New": "22201006"
+    },
+    "skillList2/21": {
+      "Old": null,
+      "New": "22200008"
+    },
+    "skillList2/22": {
+      "Old": null,
+      "New": "22200009"
+    },
+    "skillList2/23": {
+      "Old": null,
+      "New": "22201010"
+    },
+    "skillList2/24": {
+      "Old": null,
+      "New": "22200013"
+    },
+    "skillList2/25": {
+      "Old": null,
+      "New": "22200014"
+    },
+    "skillList2/26": {
+      "Old": null,
+      "New": "22201011"
+    },
+    "skillList3/3": {
+      "Old": null,
+      "New": "22200016"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021073_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021073_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

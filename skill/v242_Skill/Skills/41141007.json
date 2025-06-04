@@ -1,0 +1,120 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8369515-03:00",
+  "ChangeType": "Added",
+  "Id": "41141007",
+  "Name": "Hitokiri Strike VI",
+  "Job": "Hayato",
+  "Desc": "Rushes enemies in front of you at amazing speed, slashing anything in the way with your more powerful sword. Temporarily increases Critical Rate and Critical Damage.<br /><span style=\"font-weight:bold; color:orange;\">Chainable skills: Dankuusen, Whirlwind Cut</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -700,
+      "y": -100
+    },
+    "rb": {
+      "x": -1,
+      "y": 2
+    }
+  },
+  "Fields": {
+    "effect0/z": "-1",
+    "repeat/overlay": "underface",
+    "repeat0/z": "-1",
+    "action/0": "6thkenjiitsen",
+    "req/41121002": "30",
+    "common/mpCon": "70+12*u(x/5)",
+    "common/damage": "500",
+    "common/mobCount": "15",
+    "common/attackCount": "8",
+    "common/time": "10+3*d(x/3)",
+    "common/prop": "45",
+    "common/x": "12",
+    "common/cr": "100",
+    "common/cooltime": "90",
+    "common/lt/x": -700,
+    "common/lt/y": -100,
+    "common/rb/x": -1,
+    "common/rb/y": 2,
+    "common/maxLevel": "30",
+    "common/z": "3",
+    "combatOrders": "1",
+    "addAttack/skill": "41101002",
+    "addAttack/skillPlus/0": "41111003",
+    "addAttack/skillPlus/1": "41111015",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skipActionFrame": "10",
+    "addAttack/activeTime": "2000",
+    "addAttack/permitTime": "2000",
+    "specialActionFrame/attackdelay": "10",
+    "psd": "1",
+    "weapon": "54",
+    "type": "1",
+    "skillList/0": "400011000",
+    "rwCancelInfo/0/skill": "400011138",
+    "rwCancelInfo/0/cancelFrame": "5",
+    "id": "41141007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = hayato/M/16 }",
+    "voice/female/path/0": "{ Old = , New = hayato/F/16 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 142, Max Enemies Hit: 15, Damage: 500%, Number of Attacks: 8, Guaranteed Critical Attack, Critical Rate Increase: 45% for 40 sec, Invincibility: z sec<br />Cooldown: 90 sec"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_41141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/41141007_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/41141007_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/41141007_hit_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/41141007_repeat_new.webp"
+    },
+    "repeat0": {
+      "Old": null,
+      "New": "Animations/New/41141007_repeat0_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/41141007_special_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/41141007_screen_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

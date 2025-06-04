@@ -1,0 +1,131 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7591905-03:00",
+  "ChangeType": "Added",
+  "Id": "13141003",
+  "Name": "Storm Bringer VI",
+  "Job": "Wind Archer",
+  "Desc": "Brings the power of storm to get power to punish enemies.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Storm Bringer VI is affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Storm Bringer Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/13121017": "15",
+    "common/maxLevel": "30",
+    "common/mpCon": "70+d(x/3)",
+    "common/damage": "700+17*x",
+    "common/prop": "45",
+    "common/time": "200",
+    "effect0/z": "-1",
+    "isPetAutoBuff": "1",
+    "isSequenceOn": "1",
+    "applySixthSkillIncBuffDuration": "1",
+    "id": "13141003",
+    "has_req": true,
+    "voice/prop": "80",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = windBreaker/M/111 }",
+    "voice/male/path/1": "{ Old = , New = windBreaker/M/112 }",
+    "voice/male/path/2": "{ Old = , New = windBreaker/M/113 }",
+    "voice/male/path/3": "{ Old = , New = windBreaker/M/114 }",
+    "voice/male/path/4": "{ Old = , New = windBreaker/M/115 }",
+    "voice/female/path/0": "{ Old = , New = windBreaker/F/119 }",
+    "voice/female/path/1": "{ Old = , New = windBreaker/F/120 }",
+    "voice/female/path/2": "{ Old = , New = windBreaker/F/121 }",
+    "voice/female/path/3": "{ Old = , New = windBreaker/F/122 }",
+    "voice/female/path/4": "{ Old = , New = windBreaker/F/123 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. For 200 sec., attacks create a 45% chance of summoning a giant arrow that additionally attacks at 1210% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/13141003_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/13141003_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5739192-03:00",
+  "ChangeType": "Changed",
+  "Id": "152111007",
+  "Name": "Crystal Skill: Harmony Link",
+  "Job": "Illium",
+  "Desc": "A blessing energy connects Illium and his crystal. This energy leaves <span style=\"font-weight:bold; color:orange;\">Bless Marks</span> on Illium and surrounding party members, restoring their HP, and <span style=\"font-weight:bold; color:orange;\">Curse Marks</span> on enemies.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 60 or more</span><br /><span style=\"font-weight:bold; color:orange;\">- Can be cast again after Crystal Charge is reset.</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/6",
+      "New": "illium/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/6",
+      "New": "illium/F/6"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152111007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152111007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152111007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

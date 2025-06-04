@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5446503-03:00",
+  "ChangeType": "Changed",
+  "Id": "152101007",
+  "Name": "Magic Gauntlet Booster",
+  "Job": "Illium",
+  "Desc": "Increases Magic Gauntlet ASPD.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/0",
+      "New": "illium/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "illium/M/1",
+      "New": "illium/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "illium/M/2",
+      "New": "illium/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/0",
+      "New": "illium/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "illium/F/1",
+      "New": "illium/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "illium/F/2",
+      "New": "illium/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152101007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152101007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

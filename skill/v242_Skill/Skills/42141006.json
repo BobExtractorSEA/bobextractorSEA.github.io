@@ -1,0 +1,89 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.958262-03:00",
+  "ChangeType": "Added",
+  "Id": "42141006",
+  "Name": "Celestial Fury Ⅵ (Activated)",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Having received sufficient Spiritual Energy, the paper shikigami burns up and attacks nearby enemies.",
+  "Coordinates": {
+    "lt": {
+      "x": -530,
+      "y": -515
+    },
+    "rb": {
+      "x": 530,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "invisible": "1",
+    "effect0/z": "-2",
+    "type": "1",
+    "common/maxLevel": "30",
+    "common/epCon": "0",
+    "common/damage": "500+(2*x)",
+    "common/mobCount": "12",
+    "common/attackCount": "8",
+    "common/lt/x": -530,
+    "common/lt/y": -515,
+    "common/rb/x": 530,
+    "common/rb/y": 30,
+    "common/u": "100",
+    "common/cooltime": "5",
+    "common/subTime": "300",
+    "common/time": "1980",
+    "weapon": "55",
+    "skillList/0": "400021000",
+    "skillList/1": "42110002",
+    "skillList/2": "42141007",
+    "req/42121104": "20",
+    "id": "42141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = kanna/M/7 }",
+    "voice/female/path/0": "{ Old = , New = kanna/F/7 }"
+  },
+  "HFields": {
+    "h1": "Attacks up to 12 enemies around Kanna at 560% damage 8 times<br />[Cooldown: 5 sec]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/42141006_effect0_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/42141006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

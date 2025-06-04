@@ -1,0 +1,158 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9840763-03:00",
+  "ChangeType": "Changed",
+  "Id": "25111005",
+  "Name": "Spirit Frenzy",
+  "Job": "Shade",
+  "Desc": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, Deepen Communion.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy absorbs the souls of enemies that fail to pass through, increasing its duration. Does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, Deepen Communion.</span>",
+      "New": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, Deepen Communion.</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 30. Summons a barrier for 45 sec. This barrier periodically<br />attacks up to 10 enemies at 210% DAMAGE 6 times.<br />Duration +1 sec per Spirit Frenzy kill, up to 15 sec<br />Cooldown: 30 sec",
+      "New": "MP Cost: 30. Summons a Spirit Frenzy for 60 sec.<br />The barrier periodically attacks up to 10 enemies at 210% Damage 6 times.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 30. Summons a barrier for 45 sec. This barrier periodically<br />attacks up to 10 enemies at 210% DAMAGE 6 times.<br />Duration +1 sec per Spirit Frenzy kill, up to 15 sec<br />Cooldown: 30 sec",
+      "New": "MP Cost: 30. Summons a Spirit Frenzy for 60 sec.<br />The barrier periodically attacks up to 10 enemies at 210% Damage 6 times.<br />Cooldown: 30 sec."
+    },
+    "common/time": {
+      "Old": "45",
+      "New": "60"
+    },
+    "common/u": {
+      "Old": "1",
+      "New": null
+    },
+    "common/w": {
+      "Old": "15",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": "25120018",
+      "New": "25141007"
+    },
+    "voice/male/path/0": {
+      "Old": "eunwol/M/2",
+      "New": "eunwol/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/9",
+      "New": "eunwol/M/9"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/45",
+      "New": "eunwol/M/45"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/46",
+      "New": "eunwol/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/6",
+      "New": "eunwol/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/15",
+      "New": "eunwol/F/15"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/45",
+      "New": "eunwol/F/45"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/46",
+      "New": "eunwol/F/46"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "25120018"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 30. Summons a Spirit Frenzy for 60 sec.<br />The barrier periodically attacks up to 10 enemies at 210% Damage 6 times.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_25111005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": "Animations/Old/25111005_effect_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25111005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

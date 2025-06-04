@@ -1,0 +1,153 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2853532-03:00",
+  "ChangeType": "Added",
+  "Id": "162141019",
+  "Name": "Absorption: Sunlight Bud VI",
+  "Job": "Lara",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -590,
+      "y": -270
+    },
+    "rb": {
+      "x": 50,
+      "y": 95
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "info2/ignoreCounter": "1",
+    "req/162120008": "30",
+    "common/maxLevel": "30",
+    "common/damage": "290+3*x",
+    "common/attackCount": "6",
+    "common/bulletCount": "5",
+    "common/u": "120",
+    "common/w": "1080",
+    "common/v": "2000",
+    "common/q": "720",
+    "common/x": "40",
+    "common/lt/x": -590,
+    "common/lt/y": -270,
+    "common/rb/x": 50,
+    "common/rb/y": 95,
+    "SecondAtom/dataIndex": "101",
+    "SecondAtom/atom/0/rotate": "100",
+    "SecondAtom/atom/0/enableDelay": "90",
+    "SecondAtom/atom/0/expire": "4000",
+    "SecondAtom/atom/0/pos/x": -55,
+    "SecondAtom/atom/0/pos/y": -90,
+    "SecondAtom/atom/1/rotate": "20",
+    "SecondAtom/atom/1/expire": "4000",
+    "SecondAtom/atom/1/pos/x": -60,
+    "SecondAtom/atom/1/pos/y": -85,
+    "SecondAtom/atom/1/enableDelay": "90",
+    "SecondAtom/atom/2/rotate": "40",
+    "SecondAtom/atom/2/expire": "4000",
+    "SecondAtom/atom/2/pos/x": -65,
+    "SecondAtom/atom/2/pos/y": -80,
+    "SecondAtom/atom/2/enableDelay": "90",
+    "SecondAtom/atom/3/rotate": "60",
+    "SecondAtom/atom/3/expire": "4000",
+    "SecondAtom/atom/3/pos/x": -55,
+    "SecondAtom/atom/3/pos/y": -90,
+    "SecondAtom/atom/3/enableDelay": "90",
+    "SecondAtom/atom/4/rotate": "80",
+    "SecondAtom/atom/4/expire": "4000",
+    "SecondAtom/atom/4/pos/x": -60,
+    "SecondAtom/atom/4/pos/y": -80,
+    "SecondAtom/atom/4/enableDelay": "90",
+    "extraSkillInfo/0/skill": "162141019",
+    "skillList/0": "400021000",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "15",
+    "hit/0/randomHitAngle": "1",
+    "additional_process/0": "53",
+    "additional_process/1": "18",
+    "additional_process/2": "19",
+    "additional_process/3": "27",
+    "additional_process/4": "58",
+    "additional_process/5": "59",
+    "additional_process/6": "67",
+    "additional_process/7": "22",
+    "weapon": "37",
+    "subWeapon": "35",
+    "invisible": "1",
+    "processtype": "-1",
+    "id": "162141019",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = lara/M/52 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/53 }",
+    "voice/male/path/2": "{ Old = , New = lara/M/54 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/63 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/65 }",
+    "voice/female/path/2": "{ Old = , New = lara/F/66 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/162141019_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/162141019_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141019_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

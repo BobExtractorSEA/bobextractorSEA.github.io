@@ -1,0 +1,207 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7360953-03:00",
+  "ChangeType": "Added",
+  "Id": "64141008",
+  "Name": "Weapon Arts: Assault & Battery VI",
+  "Job": "Cadena",
+  "Desc": "Summons a spiked bat to mercilessly strike down on the head. Can be used 3 times in a row, and can be used while moving forward with the directional key. Using an attack skill during the consecutive usage prevents further uses. Temporarily causes <span style=\"font-weight:bold; color:orange;\">Confusion</span> on hit. Prevents being knocked back by any attack while casting.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Arts: Assault & Battery Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -300,
+      "y": -210
+    },
+    "rb": {
+      "x": 95,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "type": "98",
+    "req/64121003": "30",
+    "action/0": "6thNTbat",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+d(x/4)",
+    "common/damage": "358+7*x",
+    "common/attackCount": "12",
+    "common/mobCount": "8",
+    "common/lt/x": -300,
+    "common/lt/y": -210,
+    "common/rb/x": 95,
+    "common/rb/y": 30,
+    "common/y": "483+10*x",
+    "common/u2": "8",
+    "common/u3": "13",
+    "common/w": "710+15*x",
+    "common/w2": "10",
+    "common/w3": "14",
+    "common/s": "20",
+    "common/cancelableTime": "150",
+    "common/time": "30",
+    "common/cooltime": "12",
+    "common/u": "-20",
+    "common/prop": "100",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001001",
+    "cancelableSkillID/2": "64001002",
+    "cancelableSkillID/3": "64001007",
+    "cancelableSkillID/4": "64001008",
+    "cancelableSkillID/5": "64001013",
+    "cancelableSkillID/6": "64101001",
+    "cancelableSkillID/7": "64141000",
+    "cancelableSkillID/8": "64141030",
+    "cancelableSkillID/9": "64141031",
+    "cancelableSkillID/10": "64141034",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "150",
+    "rush/elem/0/vx": "20",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "-1",
+    "addAttack/skill": "64141009",
+    "addAttack/type": "0",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/skipActionFrame": "5",
+    "addAttack/patternType": "1",
+    "addAttack/permitTime": "450",
+    "addAttack/isCancelable": "1",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "22",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 47<br />1-hit: Attacks up to 8 enemies at 568% Damage 12 times.<br />2nd Hit: Attacks up to 8 enemies at 783% Damage 13 times<br />3rd Hit: Attacks up to 10 enemies at 1160% Damage 14 times.<br />Attacks create a 100% chance of Confusion for 30 sec., decreasing enemy ATT -20%.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141008_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/64141008_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141008_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/64141008_special_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/64141008_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

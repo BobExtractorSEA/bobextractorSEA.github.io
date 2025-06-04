@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.354479-03:00",
+  "ChangeType": "Changed",
+  "Id": "1241502",
+  "Name": "Sacred Bastion",
+  "Job": "Paladin",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/14": {
+      "Old": null,
+      "New": "1241007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3839254-03:00",
+  "ChangeType": "Changed",
+  "Id": "31141008",
+  "Name": "Infernal Concussion VI",
+  "Job": "Demon Slayer",
+  "Desc": "Draws up dark energy and explodes it. Also, permanently enhances Demon Impact VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Infernal Concussion Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "HP Cost: 300. Force Cost: 15. Attacks up to 10 enemies at 585% damage 5 times.<br />Additional Critical Rate +60%, Normal Monster Damage +205%p<br />[Passive Effects: Demon Impact Damage +70%p, Demon Chain Damage +90%p]",
+      "New": "HP Cost: 300. Force Cost: 15. Attacks up to 10 enemies at 585% damage 5 times.<br />Additional Critical Rate +60%, Normal Monster Damage +205%p<br />[Passive Effects: Demon Impact VI Damage +70%p, Demon Impact VI: Demon Chain Damage +90%p]"
+    },
+    "h1": {
+      "Old": "HP Cost: 300. Force Cost: 15. Attacks up to 10 enemies at 585% damage 5 times.<br />Additional Critical Rate +60%, Normal Monster Damage +205%p<br />[Passive Effects: Demon Impact Damage +70%p, Demon Chain Damage +90%p]",
+      "New": "HP Cost: 300. Force Cost: 15. Attacks up to 10 enemies at 585% damage 5 times.<br />Additional Critical Rate +60%, Normal Monster Damage +205%p<br />[Passive Effects: Demon Impact VI Damage +70%p, Demon Impact VI: Demon Chain Damage +90%p]"
+    },
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/16",
+      "New": "demonSlayer/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/18",
+      "New": "demonSlayer/M/18"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/39",
+      "New": "demonSlayer/M/39"
+    },
+    "voice/male/path/3": {
+      "Old": "demonSlayer/M/40",
+      "New": "demonSlayer/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/41",
+      "New": "demonSlayer/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/42",
+      "New": "demonSlayer/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/4",
+      "New": "demonSlayer/F/4"
+    },
+    "voice/female/path/3": {
+      "Old": "demonSlayer/F/3",
+      "New": "demonSlayer/F/3"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 300. Force Cost: 15. Attacks up to 10 enemies at 585% damage 5 times.<br />Additional Critical Rate +60%, Normal Monster Damage +205%p<br />[Passive Effects: Demon Impact VI Damage +70%p, Demon Impact VI: Demon Chain Damage +90%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

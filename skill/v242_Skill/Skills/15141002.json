@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.49564-03:00",
+  "ChangeType": "Changed",
+  "Id": "15141002",
+  "Name": "Lightning Strike",
+  "Job": "Thunder Breaker",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/15": {
+      "Old": null,
+      "New": "15141006"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

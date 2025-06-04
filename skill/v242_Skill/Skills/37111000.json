@@ -1,0 +1,173 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.504038-03:00",
+  "ChangeType": "Changed",
+  "Id": "37111000",
+  "Name": "Charging Arm: Smash",
+  "Job": "Blaster",
+  "Desc": "Hammers down on the ground, attacking and launching nearby enemies in the air. Enemies hit are forced to reveal their weaknesses for a while, receiving increased Final Damage from the Blaster.<br />Can be chained to Magnum Drive or Burning Breaker.<br />Can be charged by holding the key down. <span style=\"font-weight:bold; color:orange;\">When charged, this skill is activated even in the middle of another skill, by canceling the skill. Protects you against the Knockback effect.</span><br />Up to 2 skills excluding Charging Arm: Smash can be charged even while another skill is in use.<br />Also, permanently increases Double Drive Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Hammers down on the ground, attacking and launching nearby enemies in the air. The attacked enemies suffers a debuff that increases the final damage received from Blaster for a certain period of time.<br />Can be chained with Magnum Drive or Burning Breaker.<br />Can be charged by holding the key down. <span style=\"font-weight:bold; color:orange;\">When activated after charging, the skill is canceled and activates Hammer Smash even while using your other skill, and enemy attacks do not push you back while using the skill. Deals additional damage by creating a shockwave on the ground when the skill ends.</span><br />Charging is possible while using other skills other than Hammer Smash, and up to 2 skills can be charged at once.<br />The shockwave does not affect enemies in the Damage Reflection status.<br />It also permanently increases damage dealt by Double Pang.",
+      "New": "Hammers down on the ground, attacking and launching nearby enemies in the air. Enemies hit are forced to reveal their weaknesses for a while, receiving increased Final Damage from the Blaster.<br />Can be chained to Magnum Drive or Burning Breaker.<br />Can be charged by holding the key down. <span style=\"font-weight:bold; color:orange;\">When charged, this skill is activated even in the middle of another skill, by canceling the skill. Protects you against the Knockback effect.</span><br />Up to 2 skills excluding Charging Arm: Smash can be charged even while another skill is in use.<br />Also, permanently increases Double Drive Damage."
+    },
+    "H": {
+      "Old": "Consumes 25 MP to attack up to 8 enemies at 200% Damage 6 times. The enemies receive a debuff that increases your final damage by 10% for 30 sec.<br />When charged, this skill sends forth a shock wave that attacks up to 8 enemies at 150% 2 times for 5 sec. and casts the Final Damage bonus debuff on them.<br />[Passive Effect: Final Damage of Double Drive +130%]",
+      "New": "MP Cost: 25. Attacks up to 8 enemies at 150% Damage 6 times.<br />Enemies hit are forced to reveal their weaknesses for 60 sec., receiving 10% more Final Damage from the Blaster.<br />[Passive Effects: Final Damage of Double Drive +130%]"
+    },
+    "h1": {
+      "Old": "Consumes 25 MP to attack up to 8 enemies at 200% Damage 6 times. The enemies receive a debuff that increases your final damage by 10% for 30 sec.<br />When charged, this skill sends forth a shock wave that attacks up to 8 enemies at 150% 2 times for 5 sec. and casts the Final Damage bonus debuff on them.<br />[Passive Effect: Final Damage of Double Drive +130%]",
+      "New": "MP Cost: 25. Attacks up to 8 enemies at 150% Damage 6 times.<br />Enemies hit are forced to reveal their weaknesses for 60 sec., receiving 10% more Final Damage from the Blaster.<br />[Passive Effects: Final Damage of Double Drive +130%]"
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "trembling": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "140+3*x",
+      "New": "90+3*x"
+    },
+    "common/y": {
+      "Old": "30",
+      "New": "60"
+    },
+    "common/w": {
+      "Old": "300",
+      "New": null
+    },
+    "common/q": {
+      "Old": "5",
+      "New": null
+    },
+    "common/q2": {
+      "Old": "150",
+      "New": null
+    },
+    "common/s2": {
+      "Old": "2",
+      "New": null
+    },
+    "common/s": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "125+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3+d(x/10)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "1+u(x/5)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "u(x/10)",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "50",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/damPlus": {
+      "Old": "5+x",
+      "New": null
+    },
+    "PVPcommon/w2": {
+      "Old": "800",
+      "New": null
+    },
+    "PVPcommon/onActive": {
+      "Old": "20",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/9",
+      "New": "blaster/M/9"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/11",
+      "New": "blaster/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/16",
+      "New": "blaster/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/17",
+      "New": "blaster/F/17"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 25. Attacks up to 8 enemies at 150% Damage 6 times.<br />Enemies hit are forced to reveal their weaknesses for 60 sec., receiving 10% more Final Damage from the Blaster.<br />[Passive Effects: Final Damage of Double Drive +130%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37111000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37111000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

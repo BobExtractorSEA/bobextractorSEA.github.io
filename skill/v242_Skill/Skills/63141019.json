@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5503516-03:00",
+  "ChangeType": "Added",
+  "Id": "63141019",
+  "Name": "Shaft Break VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -310,
+      "y": -310
+    },
+    "rb": {
+      "x": 310,
+      "y": 310
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/63111003": "20",
+    "common/maxLevel": "30",
+    "common/damage": "1",
+    "common/attackCount": "1",
+    "common/mobCount": "7",
+    "common/lt/x": -310,
+    "common/lt/y": -310,
+    "common/rb/x": 310,
+    "common/rb/y": 310,
+    "additional_process/0": "18",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "39",
+    "additional_process/5": "48",
+    "additional_process/6": "61",
+    "additional_process/7": "1",
+    "invisible": "1",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "id": "63141019",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141019_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

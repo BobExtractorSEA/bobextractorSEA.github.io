@@ -1,0 +1,106 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4434572-03:00",
+  "ChangeType": "Added",
+  "Id": "61141009",
+  "Name": "Inferno Breath VI",
+  "Job": "Kaiser",
+  "Desc": "Summons an ancient dragon that breathes fire.  After a certain number of uses, fully resonates with the ancient dragon, unleashing even more powerful attacks. Required Skill: <span style=\"font-weight:bold; color:orange;\">Inferno Breath Lv. 20 or higher</span> ",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -280
+    },
+    "rb": {
+      "x": 80,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "req/61121105": "20",
+    "action/0": "6thEnterTheDragon",
+    "common/maxLevel": "30",
+    "common/mpCon": "72+d(x/3)",
+    "common/damage": "1650+51*x",
+    "common/attackCount": "14",
+    "common/mobCount": "15",
+    "common/cooltime": "19",
+    "common/z": "2",
+    "common/x": "15",
+    "common/u": "1070+33*x",
+    "common/y": "8",
+    "common/s": "4",
+    "common/lt/x": -500,
+    "common/lt/y": -280,
+    "common/rb/x": 80,
+    "common/rb/y": 120,
+    "skillList/0": "400011000",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "40",
+    "normalGauge": "40",
+    "weapon": "40",
+    "subWeapon": "35",
+    "isBeneficial": "1",
+    "id": "61141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = kaiser/M/54 }",
+    "voice/male/path/1": "{ Old = , New = kaiser/M/57 }",
+    "voice/female/path/0": "{ Old = , New = kaiser/F/77 }",
+    "voice/female/path/1": "{ Old = , New = kaiser/F/73 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 82. Attacks up to 15 enemies at 3180% Damage 14 times.<br />Using Inferno Breath 2 times enhances the next attack.<br /><span style=\"font-weight:bold; color:orange;\">Ultimate Inferno Breath</span>: Breathes 4 times, attacking up to 15 enemies at 2060% Damage 8 times.<br />Cooldown: 19 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/61141009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/61141009_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

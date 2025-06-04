@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2666391-03:00",
+  "ChangeType": "Changed",
+  "Id": "41121054",
+  "Name": "God of Blades",
+  "Job": "Hayato",
+  "Desc": "Call upon the ancient spirits of the sword to enhance Hayato's abilities.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hayato/M/2",
+      "New": "hayato/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "hayato/F/2",
+      "New": "hayato/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

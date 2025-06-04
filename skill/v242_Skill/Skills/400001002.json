@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6043283-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001002",
+  "Name": "Decent Sharp Eyes",
+  "Job": "5th",
+  "Desc": "Allows you to locate an enemy's weak spot to deal fatal damage to that enemy. Cannot be stacked with Sharp Eyes.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

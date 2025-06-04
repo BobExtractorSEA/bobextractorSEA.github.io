@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.6001067-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001479",
+  "Name": "Risk Taker Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily increases ATT/MATT. However, the buff is canceled when you are attacked (attack reflection excluded). Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001479_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0993846-03:00",
+  "ChangeType": "Changed",
+  "Id": "12101025",
+  "Name": "Flashfire",
+  "Job": "Blaze Wizard",
+  "Desc": "Leave a trail of fire at the caster's location. While the trail remains, <span style=\"font-weight:bold; color:orange;\">cast the skill again to turn into elements and teleport to the previous location within the same map.</span><br />Reuse the skill with the Down key to leave a trail of fire again.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/98",
+      "New": "flameWizard/M/98"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/37",
+      "New": "flameWizard/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/69",
+      "New": "flameWizard/F/69"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/18",
+      "New": "flameWizard/F/18"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12101025_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101025_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101025_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101025_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101025_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

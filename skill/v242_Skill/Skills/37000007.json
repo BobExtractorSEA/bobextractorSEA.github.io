@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4268449-03:00",
+  "ChangeType": "Changed",
+  "Id": "37000007",
+  "Name": "Overheat",
+  "Job": "Blaster",
+  "Desc": "Researches Gauntlet Revolvers to learn about the basics of the Revolving Gauntlet. Enemies who are hit by direct Gauntlet Revolver attacks receive additional heat damage.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 5 Effect: Can learn the 2nd Job skill, Enhanced Overheat.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Researches Gauntlet Revolvers to learn about the basics of the Revolving Gauntlet. Enemies who are hit by overheated Gauntlet Revolvers receive additional heat DAMAGE.<br /><span style=\"font-weight:bold; color:orange;\">Applicable Skills: Magnum Drive, Double Drive, Charging Arm: Smash, Shockwave Drive, Hurricane Blaster, Magnum Flash, Charging Arm: Devastator, Vulcan Punch, Burning Breaker</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 5 Effect: Can learn the 2nd skill, Enhanced Overheat</span>",
+      "New": "Researches Gauntlet Revolvers to learn about the basics of the Revolving Gauntlet. Enemies who are hit by direct Gauntlet Revolver attacks receive additional heat damage.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 5 Effect: Can learn the 2nd Job skill, Enhanced Overheat.</span>"
+    },
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Skill]</span> Direct attacks with a Gauntlet Revolver causes an additional attack that attacks up to 6 enemies at 120% DAMAGE 1 times.<br />Permanently increases SPEED +30, JUMP +15, and MAX SPEED +20.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Gauntlet Revolver attack hits activate an additional attack that attacks up to 6 enemies at 120% Damage.<br />Permanently increases Speed +30, Jump +15, and Max Speed +20."
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Skill]</span> Direct attacks with a Gauntlet Revolver causes an additional attack that attacks up to 6 enemies at 120% DAMAGE 1 times.<br />Permanently increases SPEED +30, JUMP +15, and MAX SPEED +20.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Gauntlet Revolver attack hits activate an additional attack that attacks up to 6 enemies at 120% Damage.<br />Permanently increases Speed +30, Jump +15, and Max Speed +20."
+    },
+    "condition": {
+      "Old": "attack",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": null,
+      "New": "20"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Gauntlet Revolver attack hits activate an additional attack that attacks up to 6 enemies at 120% Damage.<br />Permanently increases Speed +30, Jump +15, and Max Speed +20."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37000007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": "Animations/Old/37000007_hit_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

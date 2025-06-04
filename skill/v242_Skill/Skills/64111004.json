@@ -1,0 +1,273 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5936197-03:00",
+  "ChangeType": "Changed",
+  "Id": "64111004",
+  "Name": "Weapon Arts: Energy Bombs",
+  "Job": "Cadena",
+  "Desc": "Summons a bomb and sets it down while falling back. When used in the air, the bomb is dropped at the spot. The bomb explodes after a delay. Does not affect enemies in the Damage Reflection status. Prevents being knocked back by any attack while casting a skill. Cannot deactivate Dark Sight upon use and explosion.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variation II Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 40. Sets down a bomb that attacks up to 8 enemies at 415% damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span>",
+      "New": "MP Cost: 40. Installs a bomb that explodes in 1 sec. The bomb attacks up to 8 enemies at 415% Damage 6 times.<br />Cooldown: 8 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 40. Sets down a bomb that attacks up to 8 enemies at 415% damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span>",
+      "New": "MP Cost: 40. Installs a bomb that explodes in 1 sec. The bomb attacks up to 8 enemies at 415% Damage 6 times.<br />Cooldown: 8 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "600",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "600",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/updatableTime": {
+      "Old": "60",
+      "New": null
+    },
+    "PVPcommon/v": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "800",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "175+12*x",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "6",
+      "New": null
+    },
+    "casterMove": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "avaliableInJumpingState": {
+      "Old": "1",
+      "New": null
+    },
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001001"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001002"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64001001",
+      "New": "64001013"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64141000",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/male/path/5": {
+      "Old": "cadena/M/7",
+      "New": "cadena/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "voice/female/path/5": {
+      "Old": "cadena/F/7",
+      "New": "cadena/F/7"
+    },
+    "common/u2": {
+      "Old": null,
+      "New": "1"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141000"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141028"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 40. Installs a bomb that explodes in 1 sec. The bomb attacks up to 8 enemies at 415% Damage 6 times.<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64111004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

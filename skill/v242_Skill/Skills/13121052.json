@@ -1,0 +1,162 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6084917-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121052",
+  "Name": "Violent Squall",
+  "Job": "Wind Archer",
+  "Desc": "Summons monsoon that flows while wrapping the world.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 350. Attacks 15 enemies at 430% Damage 12 times. Casts a debuff that inflicts 200% damage every 1 seconds for 30 sec.<br />Cooldown: 30 sec",
+      "New": "MP Cost: 350. Attacks up to 15 enemies at 430% Damage 12 times. 200% DoT every 1 sec for 30 sec.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 350. Attacks 15 enemies at 430% Damage 12 times. Casts a debuff that inflicts 200% damage every 1 seconds for 30 sec.<br />Cooldown: 30 sec",
+      "New": "MP Cost: 350. Attacks up to 15 enemies at 430% Damage 12 times. 200% DoT every 1 sec for 30 sec.<br />Cooldown: 30 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/116",
+      "New": "windBreaker/M/116"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/117",
+      "New": "windBreaker/M/117"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/118",
+      "New": "windBreaker/M/118"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/119",
+      "New": "windBreaker/M/119"
+    },
+    "voice/male/path/4": {
+      "Old": "windBreaker/M/120",
+      "New": "windBreaker/M/120"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/125",
+      "New": "windBreaker/F/125"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/126",
+      "New": "windBreaker/F/126"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/127",
+      "New": "windBreaker/F/127"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/128",
+      "New": "windBreaker/F/128"
+    },
+    "voice/female/path/4": {
+      "Old": "windBreaker/F/129",
+      "New": "windBreaker/F/129"
+    },
+    "voice/female/path/5": {
+      "Old": "windBreaker/F/65",
+      "New": "windBreaker/F/65"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "13141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 350. Attacks up to 15 enemies at 430% Damage 12 times. 200% DoT every 1 sec for 30 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

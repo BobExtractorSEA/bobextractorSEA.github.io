@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1122718-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003698",
+  "Name": "Dawnlight Illusion: Damage on Boss Monsters:",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">damage on Boss Monsters</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Damage on Boss Monsters:",
+      "New": "Dawnlight Illusion: Damage on Boss Monsters:"
+    },
+    "common/bdR": {
+      "Old": "5*u(x/6)+5*x+5*d(x/6)",
+      "New": null
+    },
+    "level/1/bdR": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/2/bdR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/3/bdR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/4/bdR": {
+      "Old": null,
+      "New": "25"
+    },
+    "level/5/bdR": {
+      "Old": null,
+      "New": "35"
+    },
+    "level/6/bdR": {
+      "Old": null,
+      "New": "40"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003698_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

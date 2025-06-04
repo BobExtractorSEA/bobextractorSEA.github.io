@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.2741491-03:00",
+  "ChangeType": "Changed",
+  "Id": "3111015",
+  "Name": "Flash Mirage",
+  "Job": "Bowmaster",
+  "Desc": "Performs swift archery to create the illusion of shooting a bow.<br />Whenever an arrow hits the enemy for a certain number of times, creates an illusion to shoot an arrow tracking the enemy and disappears. The arrow attacks a single enemy in front of the illusion and penetrates enemies in a straight line. Installable Arrow Platter is not considered your direct attack.<br />Additionally enhances Wind.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3111015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2958877-03:00",
+  "ChangeType": "Added",
+  "Id": "162141020",
+  "Name": "Waking Up VI",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />If the sleeping dragon's power is awakened in a rough way, it will transform into an intangible energy that track and attack nearby enemies. Waking Up consumes closer Dragon Veins first rather than free Dragon Veins. It doesn't affect enemies in Damage Reflection status, and Stance 100% is applied while casting. Creates a Free Dragon Vein at the location of the awakened Dragon Vein. Also, permanently increases the Final Damage of the Eruption and Absorption skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Waking Up Lv. 20 and Free Dragon Vein Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -350,
+      "y": -180
+    },
+    "rb": {
+      "x": 350,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "info2/ignoreCounter": "1",
+    "req/162111005": "20",
+    "req/162121042": "1",
+    "action/0": "6thAMroughEruption",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+d(x/2)",
+    "common/damage": "700+15*x",
+    "common/attackCount": "4",
+    "common/bulletCount": "7",
+    "common/range": "330",
+    "common/z": "12",
+    "common/x": "1",
+    "common/q": "50",
+    "common/v": "40",
+    "common/mdR": "u(x/2)",
+    "common/cooltime": "15",
+    "common/lt/x": -350,
+    "common/lt/y": -180,
+    "common/rb/x": 350,
+    "common/rb/y": 150,
+    "common/lt2/x": -160,
+    "common/lt2/y": -450,
+    "common/rb2/x": 160,
+    "common/rb2/y": -110,
+    "common/lt3/x": -450,
+    "common/lt3/y": -300,
+    "common/rb3/x": 450,
+    "common/rb3/y": 300,
+    "SecondAtom/enableDelay": "1140",
+    "SecondAtom/rotate": "0",
+    "SecondAtom/createDelay": "600",
+    "SecondAtom/expire": "4000",
+    "skillList/0": "400021000",
+    "special/z": "2",
+    "special1/z": "2",
+    "special2/z": "2",
+    "special3/z": "2",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/onlyOnce": "1",
+    "hit/1/randomHitOrigin": "40",
+    "hit/1/useZ": "1",
+    "hit/1/z": "2",
+    "hit/1/onlyOnce": "1",
+    "hit/2/randomHitOrigin": "40",
+    "hit/2/useZ": "1",
+    "hit/2/z": "2",
+    "hit/2/onlyOnce": "1",
+    "hit/3/randomHitOrigin": "40",
+    "hit/3/useZ": "1",
+    "hit/3/z": "2",
+    "hit/3/onlyOnce": "1",
+    "additional_process/0": "58",
+    "additional_process/1": "59",
+    "processtype": "-1",
+    "weapon": "37",
+    "subWeapon": "35",
+    "psd": "1",
+    "id": "162141020",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt3": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb3": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = lara/M/36 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/37 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/47 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/48 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks at 1150% Damage 4 times.<br />If a single enemy is attacked by multiple intangible energies, Final Damage -40% for each subsequent energy after the first one.<br />Cooldown: 15 sec.<br />[Passive Effects: Eruption/Absorption skills' Final Damage +15%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/162141020_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/162141020_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/162141020_special_new.webp"
+    },
+    "special1": {
+      "Old": null,
+      "New": "Animations/New/162141020_special1_new.webp"
+    },
+    "special2": {
+      "Old": null,
+      "New": "Animations/New/162141020_special2_new.webp"
+    },
+    "special3": {
+      "Old": null,
+      "New": "Animations/New/162141020_special3_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141020_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141020_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141020_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141020_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

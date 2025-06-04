@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1196141-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003699",
+  "Name": "Dawnlight Illusion: Ignore Monster DEF",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Ignore DEF</span> rate.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Ignore Monster DEF",
+      "New": "Dawnlight Illusion: Ignore Monster DEF"
+    },
+    "common/ignoreMobpdpR": {
+      "Old": "5*u(x/6)+5*x+5*d(x/6)",
+      "New": null
+    },
+    "level/1/ignoreMobpdpR": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/2/ignoreMobpdpR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/3/ignoreMobpdpR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/4/ignoreMobpdpR": {
+      "Old": null,
+      "New": "25"
+    },
+    "level/5/ignoreMobpdpR": {
+      "Old": null,
+      "New": "35"
+    },
+    "level/6/ignoreMobpdpR": {
+      "Old": null,
+      "New": "40"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003699_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

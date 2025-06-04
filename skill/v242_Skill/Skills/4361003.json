@@ -1,0 +1,134 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1259307-03:00",
+  "ChangeType": "Added",
+  "Id": "4361003",
+  "Name": "Blade Fury VI",
+  "Job": "Dual Blade",
+  "Desc": "Use the secret technique of the Secret Flower Garden's tornado to spin rapidly with the two blades in your hands and slay nearby enemies.<br />Periodically enhanced into <span style=\"font-weight:bold; color:orange;\">Furious Jet</span> that forcefully sweeps the surrounding enemies. When using a custom command, use the skill with the Up key to activate <span style=\"font-weight:bold; color:orange;\">Furious Jet</span>.<br />Also, permanently enhances Phantom Blow VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blade Fury Lv. 30 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -300,
+      "y": -240
+    },
+    "rb": {
+      "x": 260,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/4341004": "30",
+    "action/0": "6thBladeFury",
+    "common/maxLevel": "30",
+    "common/mpCon": "66+d(x/3)",
+    "common/lt/x": -300,
+    "common/lt/y": -240,
+    "common/rb/x": 260,
+    "common/rb/y": 80,
+    "common/damage": "370+7*x",
+    "common/attackCount": "5",
+    "common/mobCount": "8",
+    "common/u": "6",
+    "common/x": "80+d(x/7)",
+    "common/y": "12",
+    "common/z": "380+7*x",
+    "common/w": "6",
+    "common/damPlus": "12+x",
+    "finalAttack/4341054/0": "33",
+    "extraSkillInfo/0/skill": "400041076",
+    "extraSkillInfo/0/delay": "240",
+    "extraSkillInfo/0/manual": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "33",
+    "subWeapon": "34",
+    "psd": "1",
+    "id": "4361003",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 3,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = dualBlade/M/23 }",
+    "voice/male/path/1": "{ Old = , New = dualBlade/M/24 }",
+    "voice/male/path/2": "{ Old = , New = dualBlade/M/9 }",
+    "voice/female/path/0": "{ Old = , New = dualBlade/F/24 }",
+    "voice/female/path/1": "{ Old = , New = dualBlade/F/25 }",
+    "voice/female/path/2": "{ Old = , New = dualBlade/F/8 }",
+    "voice/female/path/3": "{ Old = , New = dualBlade/F/3 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 76. Attacks up to 8 enemies at 580% Damage 5 times.<br />Enhanced into <span style=\"font-weight:bold; color:orange;\">Furious Jet</span> every 6 sec.<br /><span style=\"font-weight:bold; color:orange;\">Furious Jet</span>: Consumes 84 MP and attacks up to 12 enemies at 590% Damage 6 times.<br />[Passive Effect: Phantom Blow VI Damage +42%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4361003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4361003_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4361003_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

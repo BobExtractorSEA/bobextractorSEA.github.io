@@ -1,0 +1,94 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1408435-03:00",
+  "ChangeType": "Changed",
+  "Id": "3341503",
+  "Name": "Forsaken Relic",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/30": {
+      "Old": null,
+      "New": "3341006"
+    },
+    "skillList/31": {
+      "Old": null,
+      "New": "3341007"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "3341008"
+    },
+    "skillList/34": {
+      "Old": null,
+      "New": "3341009"
+    },
+    "skillList/35": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "skillList/37": {
+      "Old": null,
+      "New": "3341012"
+    },
+    "skillList/38": {
+      "Old": null,
+      "New": "3341013"
+    },
+    "skillList/39": {
+      "Old": null,
+      "New": "3341014"
+    },
+    "skillList/40": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "skillList/41": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "skillList/42": {
+      "Old": null,
+      "New": "3341017"
+    },
+    "skillList/43": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "skillList/44": {
+      "Old": null,
+      "New": "3341019"
+    },
+    "skillList/45": {
+      "Old": null,
+      "New": "3341020"
+    },
+    "skillList/46": {
+      "Old": null,
+      "New": "3341021"
+    },
+    "skillList/47": {
+      "Old": null,
+      "New": "3341022"
+    },
+    "skillList/48": {
+      "Old": null,
+      "New": "3341023"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341503_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

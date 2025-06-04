@@ -1,0 +1,166 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2924657-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121000",
+  "Name": "Divide",
+  "Job": "Adele",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Trigger Skill</span> Creates a giant broad sword to decimate the enemies in front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "adele/M/0",
+      "New": "adele/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/1",
+      "New": "adele/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/2",
+      "New": "adele/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "adele/M/3",
+      "New": "adele/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "adele/M/4",
+      "New": "adele/M/4"
+    },
+    "voice/male/path/5": {
+      "Old": "adele/M/5",
+      "New": "adele/M/5"
+    },
+    "voice/male/path/6": {
+      "Old": "adele/M/11",
+      "New": "adele/M/11"
+    },
+    "voice/male/path/7": {
+      "Old": "adele/M/12",
+      "New": "adele/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/0",
+      "New": "adele/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/1",
+      "New": "adele/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/3",
+      "New": "adele/F/3"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/4",
+      "New": "adele/F/4"
+    },
+    "voice/female/path/4": {
+      "Old": "adele/F/5",
+      "New": "adele/F/5"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

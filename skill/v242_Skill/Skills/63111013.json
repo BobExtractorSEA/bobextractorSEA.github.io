@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.1012637-03:00",
+  "ChangeType": "Changed",
+  "Id": "63111013",
+  "Name": "Death Blessing",
+  "Job": "Kain",
+  "Desc": "Fulfills the Blessing of Death and temporarily increases its final damage based on contribution.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/16": {
+      "Old": null,
+      "New": "63141016"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "skillList2/8": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63111013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

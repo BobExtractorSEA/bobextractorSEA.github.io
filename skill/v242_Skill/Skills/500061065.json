@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1157615-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061065",
+  "Name": "Restore",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Temporarily restores the Tabarin Magic Circuit to resurrect the ancient magic wings.<br />The attacks from Restore can deal damage to enemies with attack ignore and attack reflection states. Using the skill again immediately ends it.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Nobility Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "adele/M/44",
+      "New": "adele/M/44"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/45",
+      "New": "adele/M/45"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/46",
+      "New": "adele/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/42",
+      "New": "adele/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/43",
+      "New": "adele/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/44",
+      "New": "adele/F/44"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061065_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061065_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

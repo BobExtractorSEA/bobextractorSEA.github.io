@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.9090364-03:00",
+  "ChangeType": "Changed",
+  "Id": "33120011",
+  "Name": "Advanced Final Attack",
+  "Job": "Wild Hunter",
+  "Desc": "Permanently increases ATT, and significantly increases Final Attack's activation rate and Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Permanently increases Attack, and significantly increases Final Attack's activation rate and damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+      "New": "Permanently increases ATT, and significantly increases Final Attack's activation rate and Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>"
+    },
+    "H": {
+      "Old": "Permanently increases Attack +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span>Attacks create a 70% chance of casting Final Attack that inflicts 210% damage",
+      "New": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 70% chance of Final Attack that attacks at 210% Damage."
+    },
+    "h1": {
+      "Old": "Permanently increases Attack +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span>Attacks create a 70% chance of casting Final Attack that inflicts 210% damage",
+      "New": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 70% chance of Final Attack that attacks at 210% Damage."
+    },
+    "common/ar": {
+      "Old": "0",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "150+x",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "40+u(x/2)",
+      "New": null
+    },
+    "PVPcommon/ar": {
+      "Old": "u(x/3)",
+      "New": null
+    },
+    "PVPcommon/padX": {
+      "Old": "5+u(x/2)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 70% chance of Final Attack that attacks at 210% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33120011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

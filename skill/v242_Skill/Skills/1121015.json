@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.006158-03:00",
+  "ChangeType": "Changed",
+  "Id": "1121015",
+  "Name": "Incising",
+  "Job": "Hero",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Swordsmanship]</span> Lets you focus your mind and slash the enemy with your sword. This is the ultimate swordsmanship, which looks as if the sword engraved on the soul comes to life and attacks the enemies. The attacked enemy becomes injured and sustains DoT damage for a certain period of time, and <span style=\"font-weight:bold; color:orange;\">the amount of damage from the critical hit increases</span> while receiving DoT damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Advanced Combo Attack or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/8",
+      "New": "hero/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/9",
+      "New": "hero/M/9"
+    },
+    "voice/male/path/2": {
+      "Old": "hero/M/24",
+      "New": "hero/M/24"
+    },
+    "voice/male/path/3": {
+      "Old": "hero/M/25",
+      "New": "hero/M/25"
+    },
+    "voice/male/path/4": {
+      "Old": "hero/M/26",
+      "New": "hero/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/8",
+      "New": "hero/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/9",
+      "New": "hero/F/9"
+    },
+    "voice/female/path/2": {
+      "Old": "hero/F/25",
+      "New": "hero/F/25"
+    },
+    "voice/female/path/3": {
+      "Old": "hero/F/26",
+      "New": "hero/F/26"
+    },
+    "voice/female/path/4": {
+      "Old": "hero/F/27",
+      "New": "hero/F/27"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "1141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1121015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1121015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

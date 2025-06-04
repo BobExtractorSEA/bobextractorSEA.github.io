@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9961159-03:00",
+  "ChangeType": "Added",
+  "Id": "27141006",
+  "Name": "Eternal Lightness",
+  "Job": "Luminous",
+  "Desc": "[Light Magic]<br />An endlessly bright light obliterates your enemies along with the darkness. Activated when you use Light or Equilibrium skills during Sunfire or Equilibrium. Shares cooldown with Endless Darkness.",
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -500
+    },
+    "rb": {
+      "x": 450,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "80",
+    "common/attackCount": "7",
+    "common/mobCount": "6",
+    "common/damage": "605+25*x",
+    "common/lt/x": -450,
+    "common/lt/y": -500,
+    "common/rb/x": 450,
+    "common/rb/y": 200,
+    "common/cooltime": "2",
+    "common/gauge": "150",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/randomHitOrigin": "20",
+    "hit/0/onlyOnce": "1",
+    "hit/0/soundIndex": "1",
+    "hit/1/useZ": "1",
+    "hit/1/z": "3",
+    "hit/1/randomHitOrigin": "20",
+    "hit/1/onlyOnce": "1",
+    "hit/1/soundIndex": "2",
+    "hit/2/useZ": "1",
+    "hit/2/z": "3",
+    "hit/2/randomHitOrigin": "20",
+    "hit/2/onlyOnce": "1",
+    "hit/2/soundIndex": "3",
+    "hit/randomHit": "1",
+    "processtype": "-1",
+    "additional_process/0": "19",
+    "additional_process/1": "22",
+    "additional_process/2": "30",
+    "additional_process/3": "35",
+    "additional_process/4": "75",
+    "additional_process/5": "2",
+    "additional_process/6": "67",
+    "additional_process/7": "27",
+    "additional_process/8": "80",
+    "additional_process/9": "101",
+    "notCooltimeReduce": "1",
+    "notCooltimeReset": "1",
+    "weapon": "21",
+    "subWeapon": "35",
+    "invisible": "1",
+    "skillList/0": "400021000",
+    "id": "27141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/27141006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/27141006_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

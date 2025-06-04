@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.9380365-03:00",
+  "ChangeType": "Changed",
+  "Id": "33141004",
+  "Name": "Wild Arrow Blast VI",
+  "Job": "Wild Hunter",
+  "Desc": "The Jaguar's wild nature goes into a frenzy. When a certain threshold is reached, the firing rate of the Wild Vulcan increases. This does not apply to the Wild Vulcan used in the Jaguar Riding state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_33141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

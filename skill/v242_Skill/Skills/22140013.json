@@ -1,0 +1,84 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2784919-03:00",
+  "ChangeType": "Changed",
+  "Id": "22140013",
+  "Name": "Dive - Come Back!",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir instantly stops attacking and returns to Evan's side, increasing ASPD by 1 level for him and surrounding party members with the power of the crest.  Dive - Come Back! improves in proportion to Dragon Dive's level.  This skill activates when Evan casts <span style=\"font-weight:bold; color:orange;\">[Come Back]</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Dive, Dive of Thunder, or Dive of Earth</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "evan/M/16",
+      "New": "evan/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/5",
+      "New": "evan/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/16",
+      "New": "evan/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/5",
+      "New": "evan/F/5"
+    },
+    "addAttack/skillPlus/7": {
+      "Old": null,
+      "New": "22201006"
+    },
+    "addAttack/skillPlus/8": {
+      "Old": null,
+      "New": "22201010"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22140013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect2": {
+      "Old": null,
+      "New": "Animations/New/22140013_effect2_new.webp"
+    },
+    "affected2": {
+      "Old": null,
+      "New": "Animations/New/22140013_affected2_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

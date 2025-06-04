@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6183996-03:00",
+  "ChangeType": "Added",
+  "Id": "63141023",
+  "Name": "Remain Incense VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -650,
+      "y": -500
+    },
+    "rb": {
+      "x": 300,
+      "y": 500
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "info2/ignoreCounter": "1",
+    "req/63111009": "15",
+    "common/maxLevel": "30",
+    "common/damage": "270+5*x",
+    "common/attackCount": "4",
+    "common/mobCount": "1",
+    "common/x": "60",
+    "common/time": "10000",
+    "common/u": "300",
+    "common/q": "0",
+    "common/range": "175",
+    "common/lt/x": -650,
+    "common/lt/y": -500,
+    "common/rb/x": 300,
+    "common/rb/y": 500,
+    "common/lt2/x": -500,
+    "common/lt2/y": -350,
+    "common/rb2/x": 500,
+    "common/rb2/y": 300,
+    "skillSpecialValue/63001100": "1",
+    "skillSpecialValue/63101100": "1",
+    "skillSpecialValue/63101104": "2",
+    "skillSpecialValue/63111105": "6",
+    "skillSpecialValue/63121103": "8",
+    "skillSpecialValue/63121141": "8",
+    "skillSpecialValue/400031061": "1",
+    "skillSpecialValue/400031064": "2",
+    "skillSpecialValue/63141101": "8",
+    "skillSpecialValue/63141107": "1",
+    "skillSpecialValue/63141109": "2",
+    "skillSpecialValue/63141120": "6",
+    "skillSpecialValue/63141127": "8",
+    "hit/0/delayedTime": "750",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "40",
+    "invisible": "1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "id": "63141023",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141023_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141023_hit_new.webp"
+    },
+    "start": {
+      "Old": null,
+      "New": "Animations/New/63141023_start_new.webp"
+    },
+    "start2": {
+      "Old": null,
+      "New": "Animations/New/63141023_start2_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/63141023_end_new.webp"
+    },
+    "loop": {
+      "Old": null,
+      "New": "Animations/New/63141023_loop_new.webp"
+    }
+  },
+  "Voices": {}
+}

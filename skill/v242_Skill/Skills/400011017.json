@@ -1,0 +1,133 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9423084-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011017",
+  "Name": "Bunker Buster",
+  "Job": "5th (Warrior)",
+  "Desc": "Loads Revolving Gauntlet with special bombs to penetrate hardened targets. Bunker Buster isn't affected by Revolving Gauntlet Enhancement Cores.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "200+8*x",
+      "New": "250+10*x"
+    },
+    "skillList/7": {
+      "Old": "37120022",
+      "New": "37121052"
+    },
+    "skillList/8": {
+      "Old": "37121052",
+      "New": "37141500"
+    },
+    "skillList/9": {
+      "Old": "37141500",
+      "New": "37141501"
+    },
+    "skillList/10": {
+      "Old": "37141501",
+      "New": "37141000"
+    },
+    "skillList/11": {
+      "Old": "37141000",
+      "New": "37141001"
+    },
+    "skillList/12": {
+      "Old": "37141001",
+      "New": "37141009"
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/35",
+      "New": "blaster/M/35"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/36",
+      "New": "blaster/M/36"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/37",
+      "New": "blaster/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/42",
+      "New": "blaster/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/43",
+      "New": "blaster/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/44",
+      "New": "blaster/F/44"
+    },
+    "skillList/13": {
+      "Old": null,
+      "New": "37141010"
+    },
+    "skillList/14": {
+      "Old": null,
+      "New": "37141011"
+    },
+    "skillList/15": {
+      "Old": null,
+      "New": "37141015"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

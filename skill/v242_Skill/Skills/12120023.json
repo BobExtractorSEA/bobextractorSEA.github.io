@@ -1,0 +1,173 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1645374-03:00",
+  "ChangeType": "Changed",
+  "Id": "12120023",
+  "Name": "Inferno Rise",
+  "Job": "Blaze Wizard",
+  "Desc": "Flame Fox briefly turns into pure flame and flies forward. For enemies with 5 stacks of Fox's Mischief, causes the flames to run wild, burning them for significant Damage.<br />Some of Flame Wizard's manual attack skills decrease the cooldown of Inferno Rise - Fox mode after each hit.<br />Use with the Down key to activate the Inferno Rise - Lion mode. Lock the command to disable the Inferno Rise - Lion mode when using this skill with the Down key.<br />A Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Fox</span>.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Flame Fox briefly turns into pure flame and flies forward. For enemies with 5 stacks of Fox's Mischief, causes the flames to run wild, burning them for significant DAMAGE.<br />Some of Flame Wizard's manual attack skills decrease the cooldown of Inferno Rise - Fox mode after each hit.<br />Use with the Down key to activate the Inferno Rise - Lion mode. This is a kind of Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Fox.</span>",
+      "New": "Flame Fox briefly turns into pure flame and flies forward. For enemies with 5 stacks of Fox's Mischief, causes the flames to run wild, burning them for significant Damage.<br />Some of Flame Wizard's manual attack skills decrease the cooldown of Inferno Rise - Fox mode after each hit.<br />Use with the Down key to activate the Inferno Rise - Lion mode. Lock the command to disable the Inferno Rise - Lion mode when using this skill with the Down key.<br />A Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Fox</span>.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 22. Attacks up to 15 enemies at 630% DAMAGE 6 times.<br />When hitting enemies with 5 stacks of Fox's Mischief, causes 13 additional attacks at 1824% DAMAGE.<br />Cooldown: 30 sec.<br />Cooldown -0.6 sec. on manual attack skill hit",
+      "New": "MP Cost: 22. Attacks up to 15 enemies at 630% Damage 6 times.<br />When hitting enemies with 5 stacks of Fox's Mischief, causes 13 additional attacks at 1824% Damage.<br />Cooldown: 30 sec.<br />Cooldown -0.6 sec. on direct Attack Skill hit"
+    },
+    "h1": {
+      "Old": "MP Cost: 22. Attacks up to 15 enemies at 630% DAMAGE 6 times.<br />When hitting enemies with 5 stacks of Fox's Mischief, causes 13 additional attacks at 1824% DAMAGE.<br />Cooldown: 30 sec.<br />Cooldown -0.6 sec. on manual attack skill hit",
+      "New": "MP Cost: 22. Attacks up to 15 enemies at 630% Damage 6 times.<br />When hitting enemies with 5 stacks of Fox's Mischief, causes 13 additional attacks at 1824% Damage.<br />Cooldown: 30 sec.<br />Cooldown -0.6 sec. on direct Attack Skill hit"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "12+d(x/3)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "220+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/bulletConsume": {
+      "Old": "2",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/108",
+      "New": "flameWizard/M/108"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/109",
+      "New": "flameWizard/M/109"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/110",
+      "New": "flameWizard/M/110"
+    },
+    "voice/male/path/3": {
+      "Old": "flameWizard/M/60",
+      "New": "flameWizard/M/60"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/80",
+      "New": "flameWizard/F/80"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/81",
+      "New": "flameWizard/F/81"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/49",
+      "New": "flameWizard/F/49"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/51",
+      "New": "flameWizard/F/51"
+    },
+    "skillList2/7": {
+      "Old": null,
+      "New": "12141015"
+    },
+    "skillList2/8": {
+      "Old": null,
+      "New": "12141016"
+    },
+    "skillList2/9": {
+      "Old": null,
+      "New": "12141017"
+    },
+    "skillList2/10": {
+      "Old": null,
+      "New": "12141018"
+    },
+    "skillList2/11": {
+      "Old": null,
+      "New": "12140019"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 22. Attacks up to 15 enemies at 630% Damage 6 times.<br />When hitting enemies with 5 stacks of Fox's Mischief, causes 13 additional attacks at 1824% Damage.<br />Cooldown: 30 sec.<br />Cooldown -0.6 sec. on direct Attack Skill hit"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12120023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12120023_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

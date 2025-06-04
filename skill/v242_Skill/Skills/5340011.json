@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4134109-03:00",
+  "ChangeType": "Added",
+  "Id": "5340011",
+  "Name": "Monkey Militia VI",
+  "Job": "Cannon Master",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/5320045": "1",
+    "common/maxLevel": "30",
+    "common/x": "1",
+    "summon/attack1/info/range/lt/x": -400,
+    "summon/attack1/info/range/lt/y": -150,
+    "summon/attack1/info/range/rb/x": 0,
+    "summon/attack1/info/range/rb/y": 0,
+    "summon/attack1/info/attackAfter": "120",
+    "summon/attack1/info/attackCount": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "secondaryStatFreezeExcept": "1",
+    "invisible": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "5340011",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5340011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5340011_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

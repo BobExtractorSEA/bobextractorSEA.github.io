@@ -1,0 +1,153 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7035562-03:00",
+  "ChangeType": "Added",
+  "Id": "36141012",
+  "Name": "Meltdown Explosion VI",
+  "Job": "Xenon",
+  "Desc": "Shoots a powerful laser beam from space, scorching everything on the ground. Temporarily increases damage after use. Not affected by COOLDOWN REDUCTION.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Meltdown Explosion Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -550
+    },
+    "rb": {
+      "x": 550,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/36121052": "1",
+    "action/0": "6thMeltdownExplosion",
+    "common/maxLevel": "30",
+    "common/mpCon": "200+10*d(x/3)",
+    "common/mobCount": "15",
+    "common/damage": "1371+40*x",
+    "common/attackCount": "7",
+    "common/time": "10",
+    "common/x": "30",
+    "common/y": "25",
+    "common/w": "10",
+    "common/prop": "100",
+    "common/cooltime": "50",
+    "common/lt/x": -550,
+    "common/lt/y": -550,
+    "common/rb/x": 550,
+    "common/rb/y": 200,
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "applyHyper": "1",
+    "weapon": "24",
+    "notCooltimeReduce": "1",
+    "id": "36141012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = xenon/M/70 }",
+    "voice/male/path/1": "{ Old = , New = xenon/M/71 }",
+    "voice/male/path/2": "{ Old = , New = xenon/M/72 }",
+    "voice/male/path/3": "{ Old = , New = xenon/M/73 }",
+    "voice/male/path/4": "{ Old = , New = xenon/M/74 }",
+    "voice/female/path/0": "{ Old = , New = xenon/F/69 }",
+    "voice/female/path/1": "{ Old = , New = xenon/F/71 }",
+    "voice/female/path/2": "{ Old = , New = xenon/F/72 }"
+  },
+  "HFields": {
+    "h1": "MP 300. Attacks up to 15 enemies at 2571% Damage 7 times.<br />Attacked enemies lose 30% of MONSTER DEF for 10 sec.<br />Damage +10% for 25 sec. after use. Makes you Invincible while it's cast.<br />Cooldown: 50 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/36141012_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/36141012_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/36141012_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/36141012_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/36141012_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

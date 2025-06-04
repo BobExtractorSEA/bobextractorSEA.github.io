@@ -1,0 +1,140 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.6608966-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121001",
+  "Name": "Chain Arts: Takedown",
+  "Job": "Cadena",
+  "Desc": "Instantly pulls out a long Energy Chain and swings the chain to tie the enemy within range. Chain Art: Stroke prioritizes tyng the enemy with the highest Max HP.<br />Pommel the enemy so quickly that there is an afterimage for some time after tying the enemy. While striking, Weapon Variation stack is kept to the max. Invincible while attacking, but if the enemy is not bound, the duration of invincibility is reduced.<br />Not affected by cooldown reset effects. Once the enemy is attacked, it will resist another bind effect for 90 sec, and become immune to bind effects from Chain Art: Stroke and other skills. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 255. Attacks up to 8 enemies with 300% damage 2 times and immobilizes them for 10 secs. The corresponding attack may immobilize the enemy regarding damage dealt to increase duration up to 100% max.<br /> <span style=\"font-weight:bold; color:orange;\">Weapon Variation is additionally activated for 5 secs per number of hits</span> to activate Pommel with 3 stages, if the activation count isn't fulfilled within the time only the lowest grade Pommel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5 or more, depending on the stage, hits up to 10 enemies 15 times with 770%/880%/990% damage, then activates close up by attacking 10 times at 250%/350%/500% damage.<br />Depending on the hit during continuous attacks, causes a Shock Wave that attacks a max of 10 enemies with 600% damage 4 times. All attacks additionally ignore 80% defense.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 120 sec.</span>",
+      "New": "MP Cost: 255. Attacks up to 8 enemies at 300% Damage 2 times.<br />Attacked enemies are Bound for 10 sec.<br />Bind duration up to +100%, depending on the Damage dealt by Chain Arts: Takedown.<br />For 5 sec. after casting, activates Pommel, with attack strength divided into 3 levels <br />based on the <span style=\"font-weight:bold; color:orange;\">Weapon Variation additional attack activation count</span>. If the activation count is not reached in time, the minimum level of Pommel is activated. If it is reached in time, Pommel is activated instantly.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5, or higher, depending on the level, attacks up to 10 enemies at 770%/880%/990% Damage 15 times, and then delivers a finishing attack that attacks up to 10 enemies at 250%/350%/500% Damage 10 times.<br />During the consecutive attacks, generates a shock wave that attacks up to 10 enemies at 600% Damage 4 times following your attacks. Additional 80% Ignore DEF for all attacks.<br />Cooldown: 120 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 255. Attacks up to 8 enemies with 300% damage 2 times and immobilizes them for 10 secs. The corresponding attack may immobilize the enemy regarding damage dealt to increase duration up to 100% max.<br /> <span style=\"font-weight:bold; color:orange;\">Weapon Variation is additionally activated for 5 secs per number of hits</span> to activate Pommel with 3 stages, if the activation count isn't fulfilled within the time only the lowest grade Pommel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5 or more, depending on the stage, hits up to 10 enemies 15 times with 770%/880%/990% damage, then activates close up by attacking 10 times at 250%/350%/500% damage.<br />Depending on the hit during continuous attacks, causes a Shock Wave that attacks a max of 10 enemies with 600% damage 4 times. All attacks additionally ignore 80% defense.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 120 sec.</span>",
+      "New": "MP Cost: 255. Attacks up to 8 enemies at 300% Damage 2 times.<br />Attacked enemies are Bound for 10 sec.<br />Bind duration up to +100%, depending on the Damage dealt by Chain Arts: Takedown.<br />For 5 sec. after casting, activates Pommel, with attack strength divided into 3 levels <br />based on the <span style=\"font-weight:bold; color:orange;\">Weapon Variation additional attack activation count</span>. If the activation count is not reached in time, the minimum level of Pommel is activated. If it is reached in time, Pommel is activated instantly.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5, or higher, depending on the level, attacks up to 10 enemies at 770%/880%/990% Damage 15 times, and then delivers a finishing attack that attacks up to 10 enemies at 250%/350%/500% Damage 10 times.<br />During the consecutive attacks, generates a shock wave that attacks up to 10 enemies at 600% Damage 4 times following your attacks. Additional 80% Ignore DEF for all attacks.<br />Cooldown: 120 sec."
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "teleport/type": {
+      "Old": "2",
+      "New": null
+    },
+    "teleport/gapX": {
+      "Old": "212",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/13",
+      "New": "cadena/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/14",
+      "New": "cadena/M/14"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/15",
+      "New": "cadena/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/13",
+      "New": "cadena/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/14",
+      "New": "cadena/F/14"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/15",
+      "New": "cadena/F/15"
+    },
+    "common/u3": {
+      "Old": null,
+      "New": "0"
+    },
+    "common/u4": {
+      "Old": null,
+      "New": "10"
+    },
+    "common/w3": {
+      "Old": null,
+      "New": "3"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141013"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 255. Attacks up to 8 enemies at 300% Damage 2 times.<br />Attacked enemies are Bound for 10 sec.<br />Bind duration up to +100%, depending on the Damage dealt by Chain Arts: Takedown.<br />For 5 sec. after casting, activates Pommel, with attack strength divided into 3 levels <br />based on the <span style=\"font-weight:bold; color:orange;\">Weapon Variation additional attack activation count</span>. If the activation count is not reached in time, the minimum level of Pommel is activated. If it is reached in time, Pommel is activated instantly.<br /><span style=\"font-weight:bold; color:orange;\">Pommel</span>: When Weapon Variation activation count is 0, 3, 5, or higher, depending on the level, attacks up to 10 enemies at 770%/880%/990% Damage 15 times, and then delivers a finishing attack that attacks up to 10 enemies at 250%/350%/500% Damage 10 times.<br />During the consecutive attacks, generates a shock wave that attacks up to 10 enemies at 600% Damage 4 times following your attacks. Additional 80% Ignore DEF for all attacks.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/64121001_ball_old.webp",
+      "New": null
+    },
+    "ball0": {
+      "Old": "Animations/Old/64121001_ball0_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

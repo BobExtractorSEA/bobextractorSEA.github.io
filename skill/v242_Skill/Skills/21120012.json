@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1047802-03:00",
+  "ChangeType": "Changed",
+  "Id": "21120012",
+  "Name": "Advanced Final Attack",
+  "Job": "Aran",
+  "Desc": "Permanently increases ATT, and significantly increases Final Attack's activation rate and DAMAGE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Permanently increases ATT +30.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Skill]</span> attacks have a 60% chance of additional 3 attacks at 180% DAMAGE.",
+      "New": "Permanently increases ATT +30.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks create a 60% chance of attacking at 180% Damage 3 more times."
+    },
+    "h1": {
+      "Old": "Permanently increases ATT +30.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Skill]</span> attacks have a 60% chance of additional 3 attacks at 180% DAMAGE.",
+      "New": "Permanently increases ATT +30.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks create a 60% chance of attacking at 180% Damage 3 more times."
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21140012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Permanently increases ATT +30.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks create a 60% chance of attacking at 180% Damage 3 more times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21120012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

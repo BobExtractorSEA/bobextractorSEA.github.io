@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0390099-03:00",
+  "ChangeType": "Changed",
+  "Id": "21101005",
+  "Name": "Drain",
+  "Job": "Aran",
+  "Desc": "Absorbs some of the DAMAGE dealt to an enemy as HP.<br />Also, permanently increases Max HP.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/5": {
+      "Old": null,
+      "New": "21141015"
+    },
+    "skillList/6": {
+      "Old": null,
+      "New": "21141016"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "21141017"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

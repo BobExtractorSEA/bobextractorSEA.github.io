@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.280157-03:00",
+  "ChangeType": "Changed",
+  "Id": "3111016",
+  "Name": "Flash Mirage",
+  "Job": "Bowmaster",
+  "Desc": "Performs swift archery to create the illusion of shooting a bow. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3111016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

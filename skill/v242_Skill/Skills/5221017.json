@@ -1,0 +1,122 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4293834-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221017",
+  "Name": "Eight-Legs Easton",
+  "Job": "Corsair",
+  "Desc": "Fires a hefty barrage of bullets. Using with the Down key decreases the attack range, but ignores the Knockback effect from enemy attacks during casting.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Fires a hefty barrage of bullets. When used by Captain while pressing the down key, the cast range is reduced but ignores the Knockback effect from enemy attacks while being cast.",
+      "New": "Fires a hefty barrage of bullets. Using with the Down key decreases the attack range, but ignores the Knockback effect from enemy attacks during casting."
+    },
+    "H": {
+      "Old": "Consumes 55 MP and 4 bullets to attack up to 8 enemies for 4 times, Damage: 649%<br />[Passive Effects: Nautilus Strike skill damage +130%]",
+      "New": "Cost: 55 MP and 4 bullets. Attacks up to 8 enemies at 649% Damage 4 times.<br />[Passive Effects: Nautilus Strike skill damage +130%p]"
+    },
+    "h1": {
+      "Old": "Consumes 55 MP and 4 bullets to attack up to 8 enemies for 4 times, Damage: 649%<br />[Passive Effects: Nautilus Strike skill damage +130%]",
+      "New": "Cost: 55 MP and 4 bullets. Attacks up to 8 enemies at 649% Damage 4 times.<br />[Passive Effects: Nautilus Strike skill damage +130%p]"
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/26",
+      "New": "captain/M/26"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/27",
+      "New": "captain/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "captain/M/9",
+      "New": "captain/M/9"
+    },
+    "voice/male/path/3": {
+      "Old": "captain/M/11",
+      "New": "captain/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/28",
+      "New": "captain/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/29",
+      "New": "captain/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "captain/F/10",
+      "New": "captain/F/10"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 55 MP and 4 bullets. Attacks up to 8 enemies at 649% Damage 4 times.<br />[Passive Effects: Nautilus Strike skill damage +130%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

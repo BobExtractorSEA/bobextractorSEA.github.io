@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.4500763-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002855",
+  "Name": "Thunderbird Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Travel by mounting the Thunderbird, which enables High Altitude Flight. Press the Jump key twice while in town to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "relationSkill/type": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/skillID": {
+      "Old": "80002856",
+      "New": null
+    },
+    "relationSkill/level": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/periodMin": {
+      "Old": "129600",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002855_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

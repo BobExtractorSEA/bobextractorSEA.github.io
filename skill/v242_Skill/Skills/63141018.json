@@ -1,0 +1,145 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5417742-03:00",
+  "ChangeType": "Added",
+  "Id": "63141018",
+  "Name": "Shaft Break VI",
+  "Job": "Kain",
+  "Desc": "Shoots arrows that fall into pieces and explode after penetrating enemies. Arrows pull enemies before falling into pieces and penetrate a certain number of enemies or fall into pieces when attacking boss monster and disappear at the end of the attack range. The explosion does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shaft Break Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "req/63111003": "20",
+    "action/0": "6thNAshaftBreak",
+    "common/maxLevel": "30",
+    "common/mpCon": "67+d(x/3)",
+    "common/damage": "285+5*x",
+    "common/attackCount": "3",
+    "common/mobCount": "3",
+    "common/cancelableTime": "390",
+    "common/u": "8",
+    "common/w": "3",
+    "common/v": "7",
+    "common/u2": "235+5*x",
+    "common/w2": "10",
+    "common/q": "10",
+    "cancelableSkillID/0": "63001002",
+    "cancelableSkillID/1": "63001003",
+    "cancelableSkillID/2": "63001005",
+    "shootobj/info/start/x": -100,
+    "shootobj/info/start/y": -31,
+    "shootobj/info/bodyWH/x": 180,
+    "shootobj/info/bodyWH/y": 90,
+    "shootobj/info/startDelay": "390",
+    "shootobj/info/useUpWhenMaxMobCount": "1",
+    "shootobj/info/hitWhenBossMob": "1",
+    "shootobj/moveList/p1/0/pos/x": 0,
+    "shootobj/moveList/p1/0/pos/y": 0,
+    "shootobj/moveList/p1/0/v": "0",
+    "shootobj/moveList/p1/0/delay": "0",
+    "shootobj/moveList/p1/1/pos/x": -430,
+    "shootobj/moveList/p1/1/pos/y": 0,
+    "shootobj/moveList/p1/1/v": "40",
+    "shootobj/moveList/p1/1/delay": "0",
+    "hit/0/randomHitOrigin": "45",
+    "additional_process/0": "4",
+    "additional_process/1": "22",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "showStackCooltimeNum": "1",
+    "id": "63141018",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "50",
+    "voice/male/count": 3,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = kain/M/28 }",
+    "voice/male/path/1": "{ Old = , New = kain/M/29 }",
+    "voice/male/path/2": "{ Old = , New = kain/M/30 }",
+    "voice/female/path/0": "{ Old = , New = kain/F/31 }",
+    "voice/female/path/1": "{ Old = , New = kain/F/32 }",
+    "voice/female/path/2": "{ Old = , New = kain/F/33 }",
+    "voice/female/path/3": "{ Old = , New = kain/F/34 }",
+    "voice/female/path/4": "{ Old = , New = kain/F/35 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 77. Penetrates up to 3 enemies at 435% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks 10 enemies at 385% Damage 10 times.<br />1 Shaft Break Cartridge is ready every 8 sec., and up to 3 can be carried."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141018_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141018_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

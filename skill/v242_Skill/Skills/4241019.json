@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1026404-03:00",
+  "ChangeType": "Added",
+  "Id": "4241019",
+  "Name": "Shadow Edge",
+  "Job": "Shadower",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/attackCount": "4",
+    "common/mobCount": "1",
+    "common/damage": "100+2*x",
+    "common/prop": "100",
+    "weapon": "33",
+    "processtype": "-1",
+    "invisible": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "3",
+    "hit/1/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "3",
+    "hit/2/randomHitOrigin": "30",
+    "hit/randomHit": "1",
+    "additional_process/0": "19",
+    "additional_process/1": "22",
+    "additional_process/2": "30",
+    "additional_process/3": "75",
+    "additional_process/4": "1",
+    "additional_process/5": "67",
+    "additional_process/6": "27",
+    "additional_process/7": "80",
+    "additional_process/8": "77",
+    "additional_process/9": "18",
+    "additional_process/10": "74",
+    "id": "4241019",
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4241019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4241019_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

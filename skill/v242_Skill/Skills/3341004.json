@@ -1,0 +1,223 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1341186-03:00",
+  "ChangeType": "Changed",
+  "Id": "3341004",
+  "Name": "Cardinal Discharge VI",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cardinal Force] </span><br />Shoots out guided arrows at the target within range which never misses. If there are Boss Monsters in range, a single Guided Arrow will prioritize tracking the Boss Monster with the highest Max HP. Does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Cardinal Force Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/0",
+      "New": "pathfinder/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/1",
+      "New": "pathfinder/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/38",
+      "New": "pathfinder/M/38"
+    },
+    "voice/male/path/3": {
+      "Old": "pathfinder/M/40",
+      "New": "pathfinder/M/40"
+    },
+    "voice/male/path/4": {
+      "Old": "pathfinder/M/44",
+      "New": "pathfinder/M/44"
+    },
+    "voice/male/path/5": {
+      "Old": "pathfinder/M/47",
+      "New": "pathfinder/M/47"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/0",
+      "New": "pathfinder/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/1",
+      "New": "pathfinder/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/36",
+      "New": "pathfinder/F/36"
+    },
+    "voice/female/path/3": {
+      "Old": "pathfinder/F/40",
+      "New": "pathfinder/F/40"
+    },
+    "voice/female/path/4": {
+      "Old": "pathfinder/F/41",
+      "New": "pathfinder/F/41"
+    },
+    "voice/female/path/5": {
+      "Old": "pathfinder/F/44",
+      "New": "pathfinder/F/44"
+    },
+    "cancelableSkillID/34": {
+      "Old": null,
+      "New": "3341006"
+    },
+    "cancelableSkillID/35": {
+      "Old": null,
+      "New": "3341007"
+    },
+    "cancelableSkillID/36": {
+      "Old": null,
+      "New": "3341008"
+    },
+    "cancelableSkillID/37": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "cancelableSkillID/38": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "cancelableSkillID/39": {
+      "Old": null,
+      "New": "3341012"
+    },
+    "cancelableSkillID/40": {
+      "Old": null,
+      "New": "3341013"
+    },
+    "cancelableSkillID/41": {
+      "Old": null,
+      "New": "3341014"
+    },
+    "cancelableSkillID/42": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "cancelableSkillID/43": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "cancelableSkillID/44": {
+      "Old": null,
+      "New": "3341017"
+    },
+    "cancelableSkillID/45": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "cancelableSkillID/46": {
+      "Old": null,
+      "New": "3341019"
+    },
+    "cancelableSkillID/47": {
+      "Old": null,
+      "New": "3341020"
+    },
+    "cancelableSkillID/48": {
+      "Old": null,
+      "New": "3341021"
+    },
+    "cancelableSkillID/49": {
+      "Old": null,
+      "New": "3341022"
+    },
+    "cancelableSkillID/50": {
+      "Old": null,
+      "New": "3341023"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

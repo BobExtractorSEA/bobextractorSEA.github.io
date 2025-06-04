@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0947125-03:00",
+  "ChangeType": "Changed",
+  "Id": "63110011",
+  "Name": "Death Blessing",
+  "Job": "Kain",
+  "Desc": "Casts Death Blessing on the enemies exposed to Malice. If you grant blessing on the enemies hit by the Realm of Death generated from certain attack skills or Thanatos's Descent among <span style=\"font-weight:bold; color:orange;\">Revelation Skills</span> and attack enemies with <span style=\"font-weight:bold; color:orange;\">Execution Skills</span>, it fulfills Blessing and destroys enemies from inside. Also enhances Death Blessing and Execution Skills temporarily and <span style=\"font-weight:bold; color:orange;\">resets Shadow Step's cooldown</span>.<br />Death Blessing deals damage to enemies in the Damage Ignore/Reflection status and [Revelation/Execution] Sneaky Sniping does not take the effects of Contribution.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, Advanced Death Blessing</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Can be held for up to 90 sec and can be stacked up to 15 times.<br />Realization of Blessing: Obtains Contribution after consuming Death Blessing and attacking enemies at 140% 10 times.<br />Contribution: Increases Final Damage of Death Blessing/Execution Skill by 10% for 5 sec, and creates 10 Malice when an Execution skill to fulfill Blessing.",
+      "New": "Can be held for up to 90 sec and can be stacked up to 15<br />Realization of Blessing: Obtains the Contribution buff after consuming Death Blessing and attacking enemies at 140% Damage 10 times.<br />Contribution Buff: Increases Final Damage of Death Blessing/Execution Skill by 10% for 5 sec, and creates 10 Malice when an Execution skill to fulfill Blessing."
+    },
+    "h1": {
+      "Old": "Can be held for up to 90 sec and can be stacked up to 15 times.<br />Realization of Blessing: Obtains Contribution after consuming Death Blessing and attacking enemies at 140% 10 times.<br />Contribution: Increases Final Damage of Death Blessing/Execution Skill by 10% for 5 sec, and creates 10 Malice when an Execution skill to fulfill Blessing.",
+      "New": "Can be held for up to 90 sec and can be stacked up to 15<br />Realization of Blessing: Obtains the Contribution buff after consuming Death Blessing and attacking enemies at 140% Damage 10 times.<br />Contribution Buff: Increases Final Damage of Death Blessing/Execution Skill by 10% for 5 sec, and creates 10 Malice when an Execution skill to fulfill Blessing."
+    },
+    "magicDamage": {
+      "Old": "1",
+      "New": null
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "63141120"
+    },
+    "skillList/13": {
+      "Old": null,
+      "New": "63141127"
+    },
+    "skillList2/10": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "skillList2/11": {
+      "Old": null,
+      "New": "63141127"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Can be held for up to 90 sec and can be stacked up to 15<br />Realization of Blessing: Obtains the Contribution buff after consuming Death Blessing and attacking enemies at 140% Damage 10 times.<br />Contribution Buff: Increases Final Damage of Death Blessing/Execution Skill by 10% for 5 sec, and creates 10 Malice when an Execution skill to fulfill Blessing."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63110011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

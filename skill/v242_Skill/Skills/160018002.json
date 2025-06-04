@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.296317-03:00",
+  "ChangeType": "Changed",
+  "Id": "160018002",
+  "Name": "Decent Sharp Eyes",
+  "Job": "Lara",
+  "Desc": "Potential Skill<br />Allows you to locate an enemy's weak spot to deal fatal damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_160018002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

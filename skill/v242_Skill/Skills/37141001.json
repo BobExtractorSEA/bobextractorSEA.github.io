@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5977994-03:00",
+  "ChangeType": "Changed",
+  "Id": "37141001",
+  "Name": "Double Drive VI",
+  "Job": "Blaster",
+  "Desc": "Uses the momentum of the Gauntlet Revolver to deliver a powerful 2 stage combination forwards. After learning the skill, you can use it by repeatedly pressing the Magnum Drive VI button. When using the skill, Revolving Gauntlet is automatically activated. Can be linked with Ducking, Hammer Smash, Sway, Shock Wave Punch, and Burning Breaker.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Double Drive Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "blaster/M/0",
+      "New": "blaster/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/18",
+      "New": "blaster/M/18"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/19",
+      "New": "blaster/M/19"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/3",
+      "New": "blaster/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/4",
+      "New": "blaster/F/4"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/8",
+      "New": "blaster/F/8"
+    },
+    "voice/female/path/3": {
+      "Old": "blaster/F/25",
+      "New": "blaster/F/25"
+    },
+    "voice/female/path/4": {
+      "Old": "blaster/F/26",
+      "New": "blaster/F/26"
+    },
+    "rwCancelInfo/5/skill": {
+      "Old": null,
+      "New": "37141009"
+    },
+    "rwCancelInfo/5/cancelFrame": {
+      "Old": null,
+      "New": "4"
+    },
+    "rwCancelInfo/6/skill": {
+      "Old": null,
+      "New": "37141011"
+    },
+    "rwCancelInfo/6/cancelFrame": {
+      "Old": null,
+      "New": "4"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

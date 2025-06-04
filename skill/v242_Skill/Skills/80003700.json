@@ -1,0 +1,138 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1256307-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003700",
+  "Name": "Dawnlight Illusion: All Stats",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">All Stats</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: All Stats",
+      "New": "Dawnlight Illusion: All Stats"
+    },
+    "common/strX": {
+      "Old": "10*x",
+      "New": null
+    },
+    "common/dexX": {
+      "Old": "10*x",
+      "New": null
+    },
+    "common/intX": {
+      "Old": "10*x",
+      "New": null
+    },
+    "common/lukX": {
+      "Old": "10*x",
+      "New": null
+    },
+    "level/1/strX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/1/dexX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/1/intX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/1/lukX": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/2/strX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/2/dexX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/2/intX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/2/lukX": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/3/strX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/3/dexX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/3/intX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/3/lukX": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/4/strX": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/4/dexX": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/4/intX": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/4/lukX": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/5/strX": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/5/dexX": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/5/intX": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/5/lukX": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/6/strX": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/6/dexX": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/6/intX": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/6/lukX": {
+      "Old": null,
+      "New": "80"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003700_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,108 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0444322-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011088",
+  "Name": "Soul Eclipse",
+  "Job": "5th (Warrior)",
+  "Desc": "Concentrates the power of souls and generates an eclipse. <span style=\"font-weight:bold; color:orange;\">Use the skill again</span> after the complete eclipse to use Soluna Divide. Soluna Divide also can be used during Solar Slash, Lunar Divide, and Soul Cleaving attacks. Eclipse does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/26",
+      "New": "soulMaster/M/26"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/27",
+      "New": "soulMaster/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "soulMaster/M/28",
+      "New": "soulMaster/M/28"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/26",
+      "New": "soulMaster/F/26"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/27",
+      "New": "soulMaster/F/27"
+    },
+    "voice/female/path/2": {
+      "Old": "soulMaster/F/28",
+      "New": "soulMaster/F/28"
+    },
+    "voice/female/path/3": {
+      "Old": "soulMaster/F/29",
+      "New": "soulMaster/F/29"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011088_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011088_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

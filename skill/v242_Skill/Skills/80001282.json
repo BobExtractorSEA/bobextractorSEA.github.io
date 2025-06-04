@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.9305539-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001282",
+  "Name": "Arkarium Stun",
+  "Job": "Etc",
+  "Desc": "The appearance of Arkarium is shocking enough to stun everyone nearby. Arkarium, summoned by the power of the soul weapon, delivers stun damage to the nearby enemies with its powerful eyes.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001282_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

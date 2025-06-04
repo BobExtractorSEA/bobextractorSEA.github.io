@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7395882-03:00",
+  "ChangeType": "Added",
+  "Id": "37141008",
+  "Name": "Overheat VI",
+  "Job": "Blaster",
+  "Desc": "Enemies who are hit by direct Gauntlet Revolver attacks receive additional heat damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Enhanced Overheat III Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/37120008": "20",
+    "common/maxLevel": "30",
+    "common/damage": "370+11*x",
+    "common/attackCount": "1",
+    "common/mobCount": "6",
+    "common/prop": "100",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "hit/randomHit": "1",
+    "skillType": "3",
+    "weapon": "58",
+    "subWeapon": "35",
+    "id": "37141008",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Gauntlet Revolver attack hits activate an additional attack that attacks up to 6 enemies at 700% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/37141008_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

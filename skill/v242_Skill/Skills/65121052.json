@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7836616-03:00",
+  "ChangeType": "Changed",
+  "Id": "65121052",
+  "Name": "Supreme Supernova",
+  "Job": "Angelic Buster",
+  "Desc": "Sets up an energy ball that radiates Eskalade's power in all directions. Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 100. Summons an energy ball for 12 sec.<br />This energy ball continuously attacks up to 15 enemies at 600% damage 3 times.<br />Cooldown: 60 sec.",
+      "New": "MP Cost: 100. Summons an energy ball for 12 sec.<br />This energy ball periodically attacks up to 15 enemies at 600% Damage 3 times.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 100. Summons an energy ball for 12 sec.<br />This energy ball continuously attacks up to 15 enemies at 600% damage 3 times.<br />Cooldown: 60 sec.",
+      "New": "MP Cost: 100. Summons an energy ball for 12 sec.<br />This energy ball periodically attacks up to 15 enemies at 600% Damage 3 times.<br />Cooldown: 60 sec."
+    },
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/26",
+      "New": "angelicBurster/F/26"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/27",
+      "New": "angelicBurster/F/27"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "65141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 100. Summons an energy ball for 12 sec.<br />This energy ball periodically attacks up to 15 enemies at 600% Damage 3 times.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_65121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

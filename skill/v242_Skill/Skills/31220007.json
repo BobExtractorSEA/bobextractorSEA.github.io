@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5080369-03:00",
+  "ChangeType": "Changed",
+  "Id": "31220007",
+  "Name": "Enhanced Exceed",
+  "Job": "Demon Avenger",
+  "Desc": "Permanently add more attacks at a certain rate after Exceed Attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Adds extra attack to 2 enemies 2 times with a chance of 70% and damage of 200% after permanent Exceed attack.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Permanently makes Exceed create a 70% chance of attacking up to 2 enemies at 200% Damage 2 times on hit."
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Adds extra attack to 2 enemies 2 times with a chance of 70% and damage of 200% after permanent Exceed attack.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Permanently makes Exceed create a 70% chance of attacking up to 2 enemies at 200% Damage 2 times on hit."
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31240013"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Permanently makes Exceed create a 70% chance of attacking up to 2 enemies at 200% Damage 2 times on hit."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31220007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

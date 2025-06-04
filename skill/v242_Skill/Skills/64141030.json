@@ -1,0 +1,197 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6971959-03:00",
+  "ChangeType": "Added",
+  "Id": "64141030",
+  "Name": "Weapon Arts: Blade Cut VI",
+  "Job": "Cadena",
+  "Desc": "Summons a scimitar that you can hold upside down and cut through enemies horizontally. Prevents being knocked back by any attack while casting a skill. Can only be used in the air, and <span style=\"font-weight:bold; color:orange;\">can be used during another skill.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Arts: Blade Cut Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -130
+    },
+    "rb": {
+      "x": 20,
+      "y": 20
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/64001002": "20",
+    "action/0": "6thNTscimitar",
+    "common/maxLevel": "30",
+    "common/mpCon": "15+d(x/6)",
+    "common/damage": "519+11*x",
+    "common/attackCount": "5",
+    "common/mobCount": "6",
+    "common/cooltime": "4",
+    "common/x": "500",
+    "common/lt/x": -450,
+    "common/lt/y": -130,
+    "common/rb/x": 20,
+    "common/rb/y": 20,
+    "common/cancelableTime": "150",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001007",
+    "cancelableSkillID/2": "64001008",
+    "cancelableSkillID/3": "64001001",
+    "cancelableSkillID/4": "64141000",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "300",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/1/style": "0",
+    "rush/elem/1/time": "120",
+    "rush/elem/1/vx": "0",
+    "rush/elem/1/vy": "0",
+    "rush/elem/1/ax": "0",
+    "rush/elem/1/distance/gap": "4",
+    "rush/elem/1/distance/applyX": "1",
+    "rush/elem/1/distance/applyY": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "22",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141030",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/male/path/5": "{ Old = , New = cadena/M/8 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }",
+    "voice/female/path/5": "{ Old = , New = cadena/F/8 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 20. Attacks up to 6 enemies at 849% damage 5 time(s).<br />Cooldown: 4 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141030_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141030_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141030_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/64141030_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141030_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141030_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

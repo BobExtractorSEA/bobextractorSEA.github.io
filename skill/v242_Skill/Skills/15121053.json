@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.4607339-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121053",
+  "Name": "Glory of Guardians",
+  "Job": "Thunder Breaker",
+  "Desc": "Hold a sacred ceremony to uphold the honor of the Cygnus Knights and affirm their devotion to the Empress.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/0",
+      "New": "striker/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/3",
+      "New": "striker/M/3"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/14",
+      "New": "striker/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/11",
+      "New": "striker/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/6",
+      "New": "striker/F/6"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/16",
+      "New": "striker/F/16"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

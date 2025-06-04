@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.2514383-03:00",
+  "ChangeType": "Changed",
+  "Id": "63121042",
+  "Name": "Chasing Shot",
+  "Job": "Kain",
+  "Desc": "Summons an arrow that chases and attacks enemies. Not affected by ASPD buffs. Won't be summoned if there are no targets to chase.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 300 MP and shoots arrows 3 times to chase up to 8 enemies and attack at 352% Damage 6 times. Damage on normal monsters increases by 30%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 25 sec</span>",
+      "New": "MP Cost: 300. Fires 3 arrows that track and attack up to 8 enemies at 352% Damage 6 times. Normal Monster Damage +30%.<br />Cooldown: 25 sec."
+    },
+    "h1": {
+      "Old": "Consumes 300 MP and shoots arrows 3 times to chase up to 8 enemies and attack at 352% Damage 6 times. Damage on normal monsters increases by 30%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 25 sec</span>",
+      "New": "MP Cost: 300. Fires 3 arrows that track and attack up to 8 enemies at 352% Damage 6 times. Normal Monster Damage +30%.<br />Cooldown: 25 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/42",
+      "New": "kain/M/42"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/43",
+      "New": "kain/M/43"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/44",
+      "New": "kain/M/44"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/45",
+      "New": "kain/M/45"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/50",
+      "New": "kain/F/50"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/51",
+      "New": "kain/F/51"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/52",
+      "New": "kain/F/52"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/53",
+      "New": "kain/F/53"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141025"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Fires 3 arrows that track and attack up to 8 enemies at 352% Damage 6 times. Normal Monster Damage +30%.<br />Cooldown: 25 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63121042_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121042_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

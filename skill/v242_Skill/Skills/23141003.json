@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7353887-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141003",
+  "Name": "Wrath of Enreal VI",
+  "Job": "Mercedes",
+  "Desc": "Unleashes Enreal's wrath onto enemies. Casts a debuff that temporarily ignores collision when used against Boss monsters.<br />Periodically casts the power of the Ancient Spirit, enhancing to <span style=\"font-weight:bold; color:orange;\">Wrath of Enreal VI: Spirit Enchant</span>.<br />Can be chained with Rising Rush, Stunning Strikes, Unicorn Spike, Spikes Royale, and Lightning Edge.<br />Also, permanently enhances Ishtar's Brand.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wrath of Enreal Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/7",
+      "New": "mercedes/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "addAttack/skillPlus/8": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "addAttack/skillPlus/9": {
+      "Old": null,
+      "New": "23141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

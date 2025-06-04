@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0280801-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121215",
+  "Name": "Uncontrollable Chaos",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "155141036"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121215_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

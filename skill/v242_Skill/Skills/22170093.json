@@ -1,0 +1,100 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4411079-03:00",
+  "ChangeType": "Changed",
+  "Id": "22170093",
+  "Name": "Breath - Come Back!",
+  "Job": "Evan",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "evan/M/16",
+      "New": "evan/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/5",
+      "New": "evan/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/16",
+      "New": "evan/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/5",
+      "New": "evan/F/5"
+    },
+    "common/x": {
+      "Old": null,
+      "New": "32"
+    },
+    "common/y": {
+      "Old": null,
+      "New": "160"
+    },
+    "tile/0/a0": {
+      "Old": null,
+      "New": "0"
+    },
+    "tile/1/a0": {
+      "Old": null,
+      "New": "0"
+    },
+    "tile/2/a0": {
+      "Old": null,
+      "New": "0"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22170093_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": "Animations/Old/22170093_effect_old.webp",
+      "New": null
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22170093_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170093_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170093_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170093_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170093_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

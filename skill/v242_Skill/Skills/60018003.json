@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.7181614-03:00",
+  "ChangeType": "Changed",
+  "Id": "60018003",
+  "Name": "Decent Hyper Body",
+  "Job": "Angelic Buster",
+  "Desc": "[Potential Skill]<br />Increases Max HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_60018003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

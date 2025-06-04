@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.3908461-03:00",
+  "ChangeType": "Changed",
+  "Id": "42101005",
+  "Name": "Yin Yang Force",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Draws a big talisman with yin and yang energy, attacking surrounding enemies, and summons a black cloud, burning everything that's wicked around you.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/3": {
+      "Old": null,
+      "New": "42141007"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/5"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42101005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42101005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

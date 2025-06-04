@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5450533-03:00",
+  "ChangeType": "Changed",
+  "Id": "42120024",
+  "Name": "Haku Reborn 2",
+  "Job": "Kanna",
+  "Desc": "Haku temporarily takes human form and uses improved Yin-Yang Techniques.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Haku Reborn Lv. 10</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42120024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

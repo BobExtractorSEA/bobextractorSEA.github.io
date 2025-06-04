@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6011545-03:00",
+  "ChangeType": "Changed",
+  "Id": "152121005",
+  "Name": "Crystal Skill: Deus",
+  "Job": "Illium",
+  "Desc": "Combines the powers of Liyo and Makina and summons Deus. Deus summons up to <span style=\"font-weight:bold; color:orange;\">5</span> satellites that track and attack nearby enemies.<br />Deus does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 90 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">* Can be cast again after Crystal Charge is reset.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Liyo/Makina Lv. 20 or above</span>  \t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Combines the powers of Liyo and Makina and summons Deus. Deus summons up to <span style=\"font-weight:bold; color:orange;\">5</span> satellites that follow and attack nearby enemies.<br />Deus's attacks are not affected by the Damage Reflection effect.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 90 or more</span><br /><span style=\"font-weight:bold; color:orange;\">- Can be cast again after Crystal Charge is reset.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Liyo/Makina Lv. 20 or above</span>  \t\t",
+      "New": "Combines the powers of Liyo and Makina and summons Deus. Deus summons up to <span style=\"font-weight:bold; color:orange;\">5</span> satellites that track and attack nearby enemies.<br />Deus does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 90 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">* Can be cast again after Crystal Charge is reset.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Liyo/Makina Lv. 20 or above</span>  \t\t"
+    },
+    "voice/male/path/0": {
+      "Old": "illium/M/7",
+      "New": "illium/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/7",
+      "New": "illium/F/7"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "152141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

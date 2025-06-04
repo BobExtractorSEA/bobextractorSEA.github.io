@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6886263-03:00",
+  "ChangeType": "Changed",
+  "Id": "23121004",
+  "Name": "Ancient Warding",
+  "Job": "Mercedes",
+  "Desc": "Temporarily receives the Ancient Spirit's protection, which increases your ATT and HP. Permanently increases Evade chance and Stance for Ignis Roar.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Ignis Roar or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/9",
+      "New": "mercedes/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/8",
+      "New": "mercedes/F/8"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23121004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23121004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

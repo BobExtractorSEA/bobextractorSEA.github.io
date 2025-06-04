@@ -1,0 +1,146 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1630442-03:00",
+  "ChangeType": "Changed",
+  "Id": "35101012",
+  "Name": "Robot Launcher: RM7",
+  "Job": "Mechanic",
+  "Desc": "Installs an RM7, a fixed artillery weapon with point-blank range. RM7 repeatedly fires toward the front, and then explodes itself after a set duration.<br /><Robo Launcher: RM7>This skill is not affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45. Installs a Robo Launcher that fires cannonballs at 250% Damage for 70 sec, and then explodes for 400% damage.",
+      "New": "MP Cost: 45. Installs a Robo Launcher for 70 sec.<br />Periodically fires cannonballs at 250% Damage, and then explodes upon expiration, attacking up to 6 enemies at 400% Damage."
+    },
+    "h1": {
+      "Old": "MP Cost: 45. Installs a Robo Launcher that fires cannonballs at 250% Damage for 70 sec, and then explodes for 400% damage.",
+      "New": "MP Cost: 45. Installs a Robo Launcher for 70 sec.<br />Periodically fires cannonballs at 250% Damage, and then explodes upon expiration, attacking up to 6 enemies at 400% Damage."
+    },
+    "common/bulletCount": {
+      "Old": "1",
+      "New": null
+    },
+    "common/range": {
+      "Old": "450",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "120-15*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "100+10*x",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "400",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "3-d(x/6)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "30+2*x",
+      "New": null
+    },
+    "PVPcommon/selfDestruction": {
+      "Old": "250+30*d(x/3)",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mechanic/M/14",
+      "New": "mechanic/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/15",
+      "New": "mechanic/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/14",
+      "New": "mechanic/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/15",
+      "New": "mechanic/F/15"
+    },
+    "common/y": {
+      "Old": null,
+      "New": "6"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "35141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Installs a Robo Launcher for 70 sec.<br />Periodically fires cannonballs at 250% Damage, and then explodes upon expiration, attacking up to 6 enemies at 400% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35101012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/35101012_ball_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

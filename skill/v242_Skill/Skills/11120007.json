@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9454263-03:00",
+  "ChangeType": "Changed",
+  "Id": "11120007",
+  "Name": "Expert Sword Mastery",
+  "Job": "Dawn Warrior",
+  "Desc": "Increases Mastery, Attack, and Critical Damage for One-handed/Two-handed Swords.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sword Mastery level 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/criticaldamage": {
+      "Old": "5+d(x/3)",
+      "New": "5+d(x/2)"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11120007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

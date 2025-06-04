@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1641478-03:00",
+  "ChangeType": "Added",
+  "Id": "80003844",
+  "Name": "Champions' Bonds",
+  "Job": "Etc",
+  "Desc": "If Champion gauge exists due to a deep bond between Champions, Final Damage increases by 5%.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "common/x": "25",
+    "common/y": "600",
+    "common/z": "15",
+    "common/s": "5",
+    "type": "50",
+    "invisible": "1",
+    "id": "80003844"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003844_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

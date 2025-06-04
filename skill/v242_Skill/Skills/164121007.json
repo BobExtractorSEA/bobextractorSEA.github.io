@@ -1,0 +1,98 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.6181798-03:00",
+  "ChangeType": "Changed",
+  "Id": "164121007",
+  "Name": "Fist Method: Rainbow Butterflies",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon beautiful, but lethal five-colored butterflies. A butterfly that tracks and attacks the enemy is summoned for a set amount of time.<br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Rainbow Butterflies does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon beautiful, but lethal five-colored butterflies. A butterfly that tracks and attacks the enemy is summoned for a set amount of time.<br /><br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Rainbow Butterflies does not affect enemies in the Damage Reflection status and prioritizes tracking Boss monsters with the highest Max HP.</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Scroll Magic]</span> Opens a scroll to summon beautiful, but lethal five-colored butterflies. A butterfly that tracks and attacks the enemy is summoned for a set amount of time.<br /><span style=\"font-weight:bold; color:orange;\">Fist Method: Rainbow Butterflies does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>"
+    },
+    "H": {
+      "Old": "Scroll Power cost: 900. Summons 5 butterflies that increase Final Damage by 10% for 100 sec. and deal damage at 297% when attacking.<br />However, butterflies can't be summoned again for 1 sec. after being summoned once.<br />Fist Method: Dooming Light damage +400%p",
+      "New": "Scroll Power Cost: 900. Summons 5 butterflies that increase Final Damage by 10%<br />and attacks at 297% Damage for 100 sec.<br />Butterflies can't be re-summoned for 1 sec.<br />Fist Method: Dooming Light damage +400%p"
+    },
+    "h1": {
+      "Old": "Scroll Power cost: 900. Summons 5 butterflies that increase Final Damage by 10% for 100 sec. and deal damage at 297% when attacking.<br />However, butterflies can't be summoned again for 1 sec. after being summoned once.<br />Fist Method: Dooming Light damage +400%p",
+      "New": "Scroll Power Cost: 900. Summons 5 butterflies that increase Final Damage by 10%<br />and attacks at 297% Damage for 100 sec.<br />Butterflies can't be re-summoned for 1 sec.<br />Fist Method: Dooming Light damage +400%p"
+    },
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/11",
+      "New": "HoYoung/M/11"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/12",
+      "New": "HoYoung/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/11",
+      "New": "HoYoung/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/12",
+      "New": "HoYoung/F/12"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "164141057"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Scroll Power Cost: 900. Summons 5 butterflies that increase Final Damage by 10%<br />and attacks at 297% Damage for 100 sec.<br />Butterflies can't be re-summoned for 1 sec.<br />Fist Method: Dooming Light damage +400%p"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_164121007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "state": {
+      "Old": "Animations/Old/164121007_state_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164121007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

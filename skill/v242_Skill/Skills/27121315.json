@@ -1,0 +1,140 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9648468-03:00",
+  "ChangeType": "Added",
+  "Id": "27121315",
+  "Name": "Twilight Nova",
+  "Job": "Luminous",
+  "Desc": "[Equilibrium]<br />Causes an explosion of the power of light and darkness. Not affected by Equilibrium's COOLDOWN NOT APPLIED effect. Also, permanently increases final damage and Boss damage.",
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -320
+    },
+    "rb": {
+      "x": 50,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "action/0": "LMtwilightNova",
+    "common/maxLevel": "30",
+    "common/mpCon": "50+x",
+    "common/damage": "300+5*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/u": "3",
+    "common/cooltime": "15",
+    "common/lt/x": -450,
+    "common/lt/y": -320,
+    "common/rb/x": 50,
+    "common/rb/y": 80,
+    "common/updatableTime": "1000",
+    "common/w": "750+15*x",
+    "common/z": "7",
+    "common/y": "750+15*x",
+    "common/v": "7",
+    "common/mdR": "10+x",
+    "common/bdR": "d(x/2)",
+    "combatOrders": "1",
+    "multiAttackInfo/0/attackTime": "30",
+    "multiAttackInfo/1/attackTime": "330",
+    "multiAttackInfo/2/attackTime": "330",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "21",
+    "subWeapon": "35",
+    "processtype": "-1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "55",
+    "additional_process/4": "35",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "69",
+    "additional_process/8": "108",
+    "invisible": "1",
+    "skillList/0": "400021000",
+    "changeSkill/0/skill": "27141009",
+    "changeSkill/0/quickslot": "1",
+    "id": "27121315",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = luminous/M/27 }",
+    "voice/male/path/1": "{ Old = , New = luminous/M/26 }",
+    "voice/male/path/2": "{ Old = , New = luminous/M/25 }",
+    "voice/female/path/0": "{ Old = , New = luminous/F/29 }",
+    "voice/female/path/1": "{ Old = , New = luminous/F/28 }",
+    "voice/female/path/2": "{ Old = , New = luminous/F/27 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. Attacks up to 8 enemies.<br /><span style=\"font-weight:bold; color:orange;\">Sunfire</span>: Attacks at 1200% damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Eclipse</span>: Attacks at 1200% damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Equilibrium</span>: Causes 3 explosions that attack at 450% Damage 6 times.<br />Cooldown: 15 sec.<br />[Passive Effects: Increases final damage by 40% and Boss damage by 15%.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_27121315_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/27121315_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/27121315_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121315_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

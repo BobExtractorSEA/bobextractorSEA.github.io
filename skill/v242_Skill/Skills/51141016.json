@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1720949-03:00",
+  "ChangeType": "Added",
+  "Id": "51141016",
+  "Name": "Offensive Defense VI",
+  "Job": "Mihile",
+  "Desc": "The power of the shield protecting the Empress makes enemies vulnerable to Mihile's <span style=\"font-weight:bold; color:orange;\">Soul Light</span>. Enemies hit by Royal Guard's counterattack receive a debuff, and attacking the debuffed enemies with <span style=\"font-weight:bold; color:orange;\">Soul Light skills</span> creates a shock wave of light that delivers an additional attack.<br />The shock wave of light is generated from the center of the Boss monster with the highest Max HP among the enemies hit by Soul Light. If there's no Boss monster, it's generated from the center of the closest monster among the enemies hit.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Offensive Defense Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "32",
+    "req/51120018": "20",
+    "common/maxLevel": "30",
+    "common/damage": "645+24*x",
+    "common/attackCount": "5",
+    "common/mobCount": "6",
+    "common/time": "20",
+    "common/cooltime": "10",
+    "skillList/0": "51001011",
+    "skillList/1": "51001012",
+    "skillList/2": "51001013",
+    "skillList/3": "51111011",
+    "skillList/4": "51111012",
+    "skillList/5": "51141008",
+    "skillList/6": "51141009",
+    "skillList/7": "51141010",
+    "skillList/8": "51141011",
+    "skillList/9": "51141012",
+    "skillList2/0": "51001004",
+    "skillList2/1": "51101005",
+    "skillList2/2": "51111006",
+    "skillList2/3": "51121009",
+    "skillList2/4": "51121017",
+    "skillList2/5": "51121052",
+    "skillList2/6": "400011035",
+    "skillList2/7": "400011036",
+    "skillList2/8": "400011037",
+    "skillList2/9": "400011084",
+    "skillList2/10": "400011087",
+    "skillList2/11": "51141000",
+    "skillList2/12": "51141001",
+    "skillList2/13": "51141500",
+    "skillList2/14": "51141501",
+    "skillList2/15": "51141502",
+    "skillList2/16": "500061010",
+    "skillList2/17": "51141013",
+    "skillList2/18": "51141014",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "mob0/0/size": "105",
+    "mob0/0/repeat": "1",
+    "mob0/0/pos": "3",
+    "mob0/1/size": "210",
+    "mob0/1/repeat": "1",
+    "mob0/1/pos": "3",
+    "mob0/2/repeat": "1",
+    "mob0/2/pos": "3",
+    "mob0/sizeVari": "1",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "weapon": "30",
+    "id": "51141016",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Royal Guard's counterattacks inflict the Offensive Defense debuff that lasts for 20 sec. on hit.<br />Hitting debuffed enemies with <span style=\"font-weight:bold; color:orange;\">Soul Light skills</span> generates a shock wave of light from the center of the hit enemy. Enemies hit by the shock wave of light lose their Offensive Defense debuff.<br /><span style=\"font-weight:bold; color:orange;\">Shock Wave of Light</span>: Attacks up to 6 enemies at 1365% Damage 5 times.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/51141016_mob_new.webp"
+    },
+    "mob0": {
+      "Old": null,
+      "New": "Animations/New/51141016_mob0_new.webp"
+    }
+  },
+  "Voices": {}
+}

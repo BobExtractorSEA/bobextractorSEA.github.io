@@ -1,0 +1,57 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.6325151-03:00",
+  "ChangeType": "Changed",
+  "Id": "100001261",
+  "Name": "Time Distortion",
+  "Job": "Zero",
+  "Desc": "Summon the power of the Transcendents to distort local time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/56",
+      "New": "zero/M/56"
+    },
+    "voice/female/path/0": {
+      "Old": "zero/F/52",
+      "New": "zero/F/52"
+    },
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_100001261_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001261_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/100001261_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

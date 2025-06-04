@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7460644-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041052",
+  "Name": "Mystic Energy: Advent of Rebellious Power",
+  "Job": "5th (Thief)",
+  "Desc": "Borrows power from unknown gods of unknown origin. Temporarily increases damage by the power of the gods. Whenever attacks hits a set number of times, you can trigger a God's Blow.<br /><span style=\"font-weight:bold; color:orange;\">Using the skill one more time</span> briefly calls upon the gods for a powerful attack.<br /><br /><span style=\"font-weight:bold; color:orange;\">Mystic Energy: Advent of Rebellious Power does not affect by enemies in the Damage Reflection state and prioritizes attacking Boss Monsters with the highest Max HP.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/23",
+      "New": "HoYoung/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/24",
+      "New": "HoYoung/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/23",
+      "New": "HoYoung/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/24",
+      "New": "HoYoung/F/24"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

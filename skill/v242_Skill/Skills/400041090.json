@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8407388-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041090",
+  "Name": "Resonate: Ultimatum",
+  "Job": "5th (Thief)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList3/6": {
+      "Old": "154141500",
+      "New": "154141009"
+    },
+    "skillList3/7": {
+      "Old": "154141501",
+      "New": "154141010"
+    },
+    "skillList3/8": {
+      "Old": "154141009",
+      "New": "154141011"
+    },
+    "skillList3/9": {
+      "Old": null,
+      "New": "154141500"
+    },
+    "skillList3/10": {
+      "Old": null,
+      "New": "154141501"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041090_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9034696-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011004",
+  "Name": "Dark Spear",
+  "Job": "5th (Warrior)",
+  "Desc": "Throws Dark Spears at enemies. Use with the UP & Down keys to throw a spear in that direction. This skill Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/21",
+      "New": "darkKnight/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/22",
+      "New": "darkKnight/M/22"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/25",
+      "New": "darkKnight/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/26",
+      "New": "darkKnight/F/26"
+    },
+    "finalAttack/1300002/0": {
+      "Old": null,
+      "New": "43"
+    },
+    "finalAttack/1300002/1": {
+      "Old": null,
+      "New": "44"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9502479-03:00",
+  "ChangeType": "Changed",
+  "Id": "61121009",
+  "Name": "Grand Armor",
+  "Job": "Kaiser",
+  "Desc": "Creates a strong formless armor to decrease the damage. Grand Armor isn't affected by Cooldown Reset and Buff Duration Bonus effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kaiser/M/74",
+      "New": "kaiser/M/74"
+    },
+    "voice/male/path/1": {
+      "Old": "kaiser/M/75",
+      "New": "kaiser/M/75"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/108",
+      "New": "kaiser/F/108"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/109",
+      "New": "kaiser/F/109"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61121009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

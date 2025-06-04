@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8086204-03:00",
+  "ChangeType": "Added",
+  "Id": "24140004",
+  "Name": "Carte Noire VI",
+  "Job": "Phantom",
+  "Desc": "When attack of a Phantom achieves critical attack, excluding attacks by minions or installation skills, each critical attack has a chance to produce a card that attacks nearby enemies automatically. <span style=\"font-weight:bold; color:orange;\">This card is added to your Deck.</span><br />A reversal card is prepared periodically and performs an additional attack on enemies on a direct Attack Skill or Impeccable Memory Attack Skill hit. The reversal card does not increase the Deck and does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Carte Noire Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -200
+    },
+    "rb": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "req/24120002": "20",
+    "common/maxLevel": "30",
+    "common/prop": "100",
+    "common/damage": "280+2*x",
+    "common/x": "1",
+    "common/y": "5",
+    "common/q": "990+16*x",
+    "common/q2": "5",
+    "common/w": "5",
+    "common/nbdR": "150",
+    "common/lt/x": -400,
+    "common/lt/y": -200,
+    "common/rb/x": 400,
+    "common/rb/y": 200,
+    "psd": "1",
+    "id": "24140004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Successful Critical attacks create a 100% chance of creating a card that attacks at 340% Damage. <span style=\"font-weight:bold; color:orange;\">Deck +1</span>.<br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Creates 5 reversal cards that attack at 1470% Damage. Cooldown: 5 sec.<br />Cards' Normal Monster Damage +150%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_24140004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

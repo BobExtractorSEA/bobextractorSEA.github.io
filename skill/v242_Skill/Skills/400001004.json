@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.618036-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001004",
+  "Name": "Decent Combat Orders",
+  "Job": "5th",
+  "Desc": "It increases all of your skills' levels for a set duration, allowing you to raise the skill levels beyond the master level for <span style=\"font-weight:bold; color:orange;\">4th job skills</span>, for other skills, it can only raise them to the master level<br />However, certain special skills, beginner skills, Combat Orders, Useful Combat Orders, Hyper Skills, 5th job skills, and 6th job skills cannot have their skill levels increased<br />It does not stack with Combat Orders.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

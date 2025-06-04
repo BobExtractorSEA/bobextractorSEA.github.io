@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2331908-03:00",
+  "ChangeType": "Added",
+  "Id": "155141036",
+  "Name": "Unforgettable Ominous Dream VI",
+  "Job": "Ark",
+  "Desc": "Scratches the enemy with the power of the specter in your hand. Changes to Unforgettable Nightmare in Flora form.<br />It can be chained with all skills, and skills that are chained with Unforgettable Ominous Dream is used in place instead of moving. However, even if the skill is chained, you can move by using the skill with direction keys.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Endless Ominous Dream Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -430,
+      "y": -260
+    },
+    "rb": {
+      "x": 85,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/155120000": "30",
+    "action/0": "6thNightMare2",
+    "common/maxLevel": "30",
+    "common/damage": "480+8*x",
+    "common/mobCount": "6",
+    "common/attackCount": "7",
+    "common/lt/x": -430,
+    "common/lt/y": -260,
+    "common/rb/x": 85,
+    "common/rb/y": 30,
+    "common/cancelableTime": "180",
+    "common/w": "1",
+    "cancelableSkillID/0": "155101200",
+    "cancelableSkillID/1": "155101201",
+    "cancelableSkillID/2": "155101212",
+    "cancelableSkillID/3": "155101204",
+    "cancelableSkillID/4": "155101214",
+    "cancelableSkillID/5": "155111202",
+    "cancelableSkillID/6": "155111211",
+    "cancelableSkillID/7": "155111306",
+    "cancelableSkillID/8": "155121202",
+    "cancelableSkillID/9": "155121215",
+    "cancelableSkillID/10": "155121306",
+    "cancelableSkillID/11": "155121341",
+    "cancelableSkillID/12": "400051334",
+    "cancelableSkillID/13": "155141021",
+    "cancelableSkillID/14": "155141022",
+    "cancelableSkillID/15": "155141023",
+    "cancelableSkillID/16": "155141024",
+    "cancelableSkillID/17": "155141025",
+    "cancelableSkillID/18": "155141026",
+    "cancelableSkillID/19": "155141027",
+    "cancelableSkillID/20": "155141028",
+    "cancelableSkillID/21": "155141029",
+    "cancelableSkillID/22": "155141031",
+    "processtype": "1",
+    "weapon": "48",
+    "weapon2": "39",
+    "subWeapon": "35",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngleRange/x": -20,
+    "hit/0/randomHitAngleRange/y": 15,
+    "additional_process/0": "1",
+    "additional_process/1": "22",
+    "id": "155141036",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true
+  },
+  "HFields": {
+    "h1": "Attacks up to 6 enemies at 720% Damage 7 times.<br />Restores 1% of Max HP on hit."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141036_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/155141036_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/155141036_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

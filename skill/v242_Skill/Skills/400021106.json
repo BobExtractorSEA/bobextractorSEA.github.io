@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3830161-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021106",
+  "Name": "Liberation Orb",
+  "Job": "5th (Magician)",
+  "Desc": "Create an orb with the power of light and darkness.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/16": {
+      "Old": null,
+      "New": "27141004"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "27121113"
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "27121214"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "27121315"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "27141007"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "27141008"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "27141009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021106_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

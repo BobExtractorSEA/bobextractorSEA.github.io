@@ -1,0 +1,139 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2327103-03:00",
+  "ChangeType": "Added",
+  "Id": "3141015",
+  "Name": "Wind of Fray VI",
+  "Job": "Bowmaster",
+  "Desc": "Reads the flow of the wind to summon destructive gusts that will strike enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wind of Fray Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -455
+    },
+    "rb": {
+      "x": 400,
+      "y": 75
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/3121052": "1",
+    "action/0": "6thWindOfFrey",
+    "common/maxLevel": "30",
+    "common/mpCon": "200+x",
+    "common/damage": "360+7*x",
+    "common/attackCount": "12",
+    "common/mobCount": "12",
+    "common/cooltime": "15",
+    "common/lt/x": -400,
+    "common/lt/y": -455,
+    "common/rb/x": 400,
+    "common/rb/y": 75,
+    "common/s": "-30",
+    "common/time": "20",
+    "effect/fix": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "applyHyper": "1",
+    "id": "3141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = bowMaster/M/15 }",
+    "voice/male/path/1": "{ Old = , New = bowMaster/M/16 }",
+    "voice/male/path/2": "{ Old = , New = bowMaster/M/27 }",
+    "voice/male/path/3": "{ Old = , New = bowMaster/M/37 }",
+    "voice/female/path/0": "{ Old = , New = bowMaster/F/15 }",
+    "voice/female/path/1": "{ Old = , New = bowMaster/F/16 }",
+    "voice/female/path/2": "{ Old = , New = bowMaster/F/27 }",
+    "voice/female/path/3": "{ Old = , New = bowMaster/F/28 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 230. Attacks up to 12 enemies at 570% Damage 12 times.<br />Enemies hit lose -30 Speed for 20 sec.<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3141015_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3141015_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/3141015_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

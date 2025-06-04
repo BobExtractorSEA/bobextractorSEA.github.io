@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.219616-03:00",
+  "ChangeType": "Changed",
+  "Id": "41111003",
+  "Name": "Whirlwind Cut",
+  "Job": "Hayato",
+  "Desc": "Shoots spirit swords, pushing enemies as he dashes forward. Use immediately after Shoryuusen to push enemies into the air.<br /><span style=\"font-weight:bold; color:orange;\">Chainable Skills: Sweeping Sword, Hitokiri Strike, Dankuusen, and Falcon Dive</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hayato/M/14",
+      "New": "hayato/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "hayato/F/14",
+      "New": "hayato/F/14"
+    },
+    "addAttack/skillPlus/7": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9321638-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011011",
+  "Name": "Rho Aias",
+  "Job": "5th (Warrior)",
+  "Desc": "Becomes a shield that protects party members from the enemies’ attack and protect the party members in the area for a set amount of time from attacks and status effects. Increases your final damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mikhail/M/94",
+      "New": "mikhail/M/94"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/96",
+      "New": "mikhail/M/96"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/48",
+      "New": "mikhail/M/48"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

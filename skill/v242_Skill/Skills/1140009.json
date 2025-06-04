@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6489906-03:00",
+  "ChangeType": "Added",
+  "Id": "1140009",
+  "Name": "Final Attack VI",
+  "Job": "Hero",
+  "Desc": "Attack skills have a chance of inflicting additional damage, prioritizing the Boss monster with the highest Max HP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Final Attack Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillType": "3",
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/1120013": "20",
+    "common/damage": "176+3*x",
+    "common/prop": "61",
+    "common/ar": "7",
+    "common/maxLevel": "30",
+    "common/attackCount": "3",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "psd": "1",
+    "id": "1140009",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 61% chance of Final Attack that attacks at 266% Damage 3 times"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1140009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1140009_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

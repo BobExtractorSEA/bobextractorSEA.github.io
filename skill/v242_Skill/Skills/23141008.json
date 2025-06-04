@@ -1,0 +1,126 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7715135-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141008",
+  "Name": "Leaf Tornado VI: Spirit Enchant",
+  "Job": "Mercedes",
+  "Desc": "Quickly spins around and shoots arrows imbued with the power of the Ancient Spirit in all directions.<br />Only available in the air, this skill requires a certain height, and even <span style=\"font-weight:bold; color:orange;\">higher when used with Gust Dive</span>.<br />In Steal mode, it can be used directly from the ground without a jump, but it can't be chained to Gust Dive from the ground.<br />Can be chained with Gust Dive, Spikes Royale, and Wrath of Enreal.<br /><span style=\"font-weight:bold; color:orange;\">Steal Mode On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Leaf Tornado Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/0",
+      "New": "mercedes/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "mercedes/M/2",
+      "New": "mercedes/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "mercedes/M/5",
+      "New": "mercedes/M/5"
+    },
+    "voice/male/path/4": {
+      "Old": "mercedes/M/6",
+      "New": "mercedes/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/2",
+      "New": "mercedes/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/3",
+      "New": "mercedes/F/3"
+    },
+    "voice/female/path/2": {
+      "Old": "mercedes/F/4",
+      "New": "mercedes/F/4"
+    },
+    "voice/female/path/3": {
+      "Old": "mercedes/F/1",
+      "New": "mercedes/F/1"
+    },
+    "addAttack/skillPlus/7": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2106015-03:00",
+  "ChangeType": "Changed",
+  "Id": "2211015",
+  "Name": "Thunder Spear",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Summons a ball of condensed lightning.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "summonMinion": {
+      "Old": "1",
+      "New": null
+    },
+    "common/y": {
+      "Old": "10+2*x",
+      "New": null
+    },
+    "common/w": {
+      "Old": "250+6*x",
+      "New": null
+    },
+    "common/s": {
+      "Old": "6",
+      "New": null
+    },
+    "common/q": {
+      "Old": "3",
+      "New": null
+    },
+    "common/q2": {
+      "Old": "30",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageTC/M/3",
+      "New": "archMageTC/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageTC/M/27",
+      "New": "archMageTC/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageTC/M/35",
+      "New": "archMageTC/M/35"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageTC/M/39",
+      "New": "archMageTC/M/39"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageTC/F/3",
+      "New": "archMageTC/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageTC/F/27",
+      "New": "archMageTC/F/27"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageTC/F/29",
+      "New": "archMageTC/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageTC/F/39",
+      "New": "archMageTC/F/39"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2241008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2211015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/2211015_ball_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

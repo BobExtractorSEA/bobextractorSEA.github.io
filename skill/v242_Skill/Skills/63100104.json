@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0661804-03:00",
+  "ChangeType": "Changed",
+  "Id": "63100104",
+  "Name": "[Revelation] Scattering Shot",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revelation Skill]</span><br />Arrows containing Malice chase down the targets. It first targets the enemy with the highest HP, and ignores enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 35 MP, fires 6 arrows attacking at 155% Damage 4 times, and increases Damage on Normal monsters by 30%.<br />When an enemy takes damage from multiple arrows at the same time, final damage from the 2nd arrow decreases by 50%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 6 sec</span>.",
+      "New": "MP Cost: 35. Fires 6 arrows that attack at 155% Damage 4 times. Normal Monster Damage +30%.<br />If a single enemy is hit by multiple arrows, Final Damage -50% for each subsequent arrow after the first one.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 6 sec.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 35 MP, fires 6 arrows attacking at 155% Damage 4 times, and increases Damage on Normal monsters by 30%.<br />When an enemy takes damage from multiple arrows at the same time, final damage from the 2nd arrow decreases by 50%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 6 sec</span>.",
+      "New": "MP Cost: 35. Fires 6 arrows that attack at 155% Damage 4 times. Normal Monster Damage +30%.<br />If a single enemy is hit by multiple arrows, Final Damage -50% for each subsequent arrow after the first one.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 6 sec.</span>"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 35. Fires 6 arrows that attack at 155% Damage 4 times. Normal Monster Damage +30%.<br />If a single enemy is hit by multiple arrows, Final Damage -50% for each subsequent arrow after the first one.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 6 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63100104_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2207903-03:00",
+  "ChangeType": "Changed",
+  "Id": "151101001",
+  "Name": "Impale",
+  "Job": "Adele",
+  "Desc": "Creates an Ether Sword to send it flying forward. Swords can be sent flying in <span style=\"font-weight:bold; color:orange;\">8 directions</span> by using the skill with the directional keys.<br />The swords disappear at the end of the range while leaving behind an Ether Crystal. When an Ether Crystal is created with Impale, if there already is a crystal, the previous crystal disappears to form a new one and ignores the recreation cooldown.<br />Can be chained with Resonance, but chaining the skill will not leave behind an Ether Crystal.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45. Ether Cost: 15.<br />Attacks up to 6 enemies at 85% damage 6 times<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 7 sec.\t\t</span>",
+      "New": "MP Cost: 45. Ether Cost: 15.<br />Attacks up to 6 enemies at 85% Damage 6 times.<br />Cooldown: 7 sec.\t\t"
+    },
+    "h1": {
+      "Old": "MP Cost: 45. Ether Cost: 15.<br />Attacks up to 6 enemies at 85% damage 6 times<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 7 sec.\t\t</span>",
+      "New": "MP Cost: 45. Ether Cost: 15.<br />Attacks up to 6 enemies at 85% Damage 6 times.<br />Cooldown: 7 sec.\t\t"
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "additional_process/1": {
+      "Old": "4",
+      "New": "22"
+    },
+    "additional_process/2": {
+      "Old": "22",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/16",
+      "New": "adele/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/17",
+      "New": "adele/M/17"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/18",
+      "New": "adele/M/18"
+    },
+    "voice/male/path/3": {
+      "Old": "adele/M/19",
+      "New": "adele/M/19"
+    },
+    "voice/male/path/4": {
+      "Old": "adele/M/20",
+      "New": "adele/M/20"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/10",
+      "New": "adele/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/11",
+      "New": "adele/F/11"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/12",
+      "New": "adele/F/12"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/13",
+      "New": "adele/F/13"
+    },
+    "additional_process/0": {
+      "Old": null,
+      "New": "4"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Ether Cost: 15.<br />Attacks up to 6 enemies at 85% Damage 6 times.<br />Cooldown: 7 sec.\t\t"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151101001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

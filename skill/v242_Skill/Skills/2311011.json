@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5744656-03:00",
+  "ChangeType": "Changed",
+  "Id": "2311011",
+  "Name": "Holy Fountain",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Benevolence]</span>Summons a Holy Fountain that heals HP for party members, including those in Undead state. To <span style=\"font-weight:bold; color:orange;\">recover HP, approach the fountain and press [Up]</span>.<br /><span style=\"font-weight:bold; color:orange;\">Can't be used on maps with party members' Holy Fountain, Decent Holy Fountain, and Holy Traces.</span><br />Not affected by Cooldown Reset, Recovery Skill Efficiency Increase, or SUMMONS DURATION INCREASE effects. Can't be summoned near portals.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/5",
+      "New": "bishop/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/6",
+      "New": "bishop/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/5",
+      "New": "bishop/F/5"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/6",
+      "New": "bishop/F/6"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2311011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2311011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

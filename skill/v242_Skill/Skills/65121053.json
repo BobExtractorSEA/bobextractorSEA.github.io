@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7931674-03:00",
+  "ChangeType": "Changed",
+  "Id": "65121053",
+  "Name": "Final Contract",
+  "Job": "Angelic Buster",
+  "Desc": "Perfectly controls the power of the Relic through a complete contract with Eskalade.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/28",
+      "New": "angelicBurster/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/29",
+      "New": "angelicBurster/F/29"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_65121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/65121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

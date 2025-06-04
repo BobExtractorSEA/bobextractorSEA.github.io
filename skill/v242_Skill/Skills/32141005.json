@@ -1,0 +1,112 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2402238-03:00",
+  "ChangeType": "Added",
+  "Id": "32141005",
+  "Name": "Dark Shock VI",
+  "Job": "Battle Mage",
+  "Desc": "Using Teleport creates a dark lightning from the starting point to the end and brands all enemies hit with Darkness Emblem.<br />Dark Chain and Battle Burst also enable the Darkness Emblem. Darkness Emblem can't be activated by skills or minions that mark enemies. Additionally activates a <span style=\"font-weight:bold; color:orange;\">Dark Pentacle</span> after a set number of Darkness Emblems is activated.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Shock Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/32111016": "20",
+    "common/maxLevel": "30",
+    "common/mpCon": "17",
+    "common/mobCount": "8",
+    "common/damage": "170+x",
+    "common/attackCount": "4",
+    "common/time": "30",
+    "common/bdR": "20",
+    "common/u": "110+2*x",
+    "common/s": "40",
+    "common/v": "90",
+    "common/w": "40",
+    "common/q": "40",
+    "common/s2": "40",
+    "common/v2": "65",
+    "common/w2": "40",
+    "common/q2": "65",
+    "common/x": "480+2*x",
+    "common/y": "4",
+    "common/z": "30",
+    "common/s3": "15",
+    "common/v3": "600+10*x",
+    "common/w3": "6",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "skillList/0": "400021000",
+    "psd": "1",
+    "weapon": "38",
+    "elemAttr": "d",
+    "excl": "500",
+    "isExceptSetLastAttack": "1",
+    "id": "32141005",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = battlemage/M/18 }",
+    "voice/male/path/1": "{ Old = , New = battlemage/M/67 }",
+    "voice/female/path/0": "{ Old = , New = battlemage/F/11 }",
+    "voice/female/path/1": "{ Old = , New = battlemage/F/63 }"
+  },
+  "HFields": {
+    "h1": "Teleport consumes additional 17 MP.<br />Attacks up to 8 enemies between the starting and ending points of Teleport at 200% Damage 4 times. Normal Monster Damage +170%p.<br />Attacked enemies are marked with a Darkness Emblem for 30 sec.<br />Attacking an enemy with a Darkness Emblem activates the emblem, attacking at 540% Damage 4 times. Additionally activates a <span style=\"font-weight:bold; color:orange;\">Dark Pentacle</span> after 15 Darkness Emblems are activated.<br /><span style=\"font-weight:bold; color:orange;\">Dark Pentacle</span>: Attacks at 900% Damage 6 times.<br />Darkness Emblems and Dark Pentacles increase Boss Monster Damage +20%.<br />Emblems are consumed for 30 attacks."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_32141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/32141005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/32141005_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/32141005_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.2721626-03:00",
+  "ChangeType": "Added",
+  "Id": "80003860",
+  "Name": "Champion Double Up Leader",
+  "Job": "Etc",
+  "Desc": "An exclusive benefit for the Leader.<br />Ends upon hunting 100,000 monsters within the level range each week.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "type": "50",
+    "invisible": "1",
+    "timeLimited": "1",
+    "notCanceled": "1",
+    "id": "80003860"
+  },
+  "HFields": {
+    "h1": "EXP Obtained +15%<br />Normal Monster Damage +15%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003860_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

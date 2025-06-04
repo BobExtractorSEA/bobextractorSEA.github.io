@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5089789-03:00",
+  "ChangeType": "Changed",
+  "Id": "5220019",
+  "Name": "Ahoy Mateys",
+  "Job": "Corsair",
+  "Desc": "With unique leadership, enhances the abilities of crewmen summoned by Assemble Crew. Max HP and critical damage are increased with the Captain's Dignity. Gets additional passive effects when summoning crewmen. <span style=\"font-weight:bold; color:orange;\">Battleship Bomber can be used</span> when Ahoy Mateys is learned.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Assemble Crew Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList2/3": {
+      "Old": null,
+      "New": "5241010"
+    },
+    "skillList2/4": {
+      "Old": null,
+      "New": "5241011"
+    },
+    "skillList2/5": {
+      "Old": null,
+      "New": "5241012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5220019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

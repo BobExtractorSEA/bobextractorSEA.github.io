@@ -1,0 +1,69 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5337458-03:00",
+  "ChangeType": "Added",
+  "Id": "63141014",
+  "Name": "Dragon Fang VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -260
+    },
+    "rb": {
+      "x": 480,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/63101005": "20",
+    "common/maxLevel": "30",
+    "common/damage": "287+5*x",
+    "common/attackCount": "4",
+    "common/mobCount": "1",
+    "common/u2": "3000",
+    "common/x": "2400",
+    "common/q": "7",
+    "common/q2": "4800",
+    "common/v": "45+d(x/2)",
+    "common/lt2/x": -75,
+    "common/lt2/y": -100,
+    "common/rb2/x": 75,
+    "common/rb2/y": 50,
+    "common/lt/x": -480,
+    "common/lt/y": -260,
+    "common/rb/x": 480,
+    "common/rb/y": 200,
+    "SecondAtom/dataIndex": "69",
+    "SecondAtom/attackableCount": "50",
+    "SecondAtom/enableDelay": "210",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/delayedTime": "390",
+    "subWeapon": "35",
+    "weapon": "214",
+    "notRemoved": "1",
+    "invisible": "1",
+    "id": "63141014",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141014_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

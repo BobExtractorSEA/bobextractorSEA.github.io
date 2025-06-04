@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9919237-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011055",
+  "Name": "Elysion",
+  "Job": "5th (Warrior)",
+  "Desc": "Sends the enemy to a place that separates the living from the dead. Can use Soul Cleaving with a <span style=\"font-weight:bold; color:orange;\">normal attack</span> while Elysion is active. Using the Custom Command, allows to use Soul Cleaving with a normal attack or <span style=\"font-weight:bold; color:orange;\">Solar Slash/Lunar Divide</span>. Soul Cleaving and the attack from the crack is unaffected by attack reflection.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/22",
+      "New": "soulMaster/M/22"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/23",
+      "New": "soulMaster/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/22",
+      "New": "soulMaster/F/22"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/23",
+      "New": "soulMaster/F/23"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011055_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011055_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011055_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011055_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

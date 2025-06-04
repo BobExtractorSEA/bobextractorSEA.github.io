@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6360352-03:00",
+  "ChangeType": "Changed",
+  "Id": "32121056",
+  "Name": "Master of Death",
+  "Job": "Battle Mage",
+  "Desc": "Employs a grim reaper to aid in battle.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "battlemage/M/47",
+      "New": "battlemage/M/47"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/48",
+      "New": "battlemage/M/48"
+    },
+    "voice/male/path/2": {
+      "Old": "battlemage/M/49",
+      "New": "battlemage/M/49"
+    },
+    "voice/male/path/3": {
+      "Old": "battlemage/M/50",
+      "New": "battlemage/M/50"
+    },
+    "voice/male/path/4": {
+      "Old": "battlemage/M/71",
+      "New": "battlemage/M/71"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/37",
+      "New": "battlemage/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/38",
+      "New": "battlemage/F/38"
+    },
+    "voice/female/path/2": {
+      "Old": "battlemage/F/39",
+      "New": "battlemage/F/39"
+    },
+    "voice/female/path/3": {
+      "Old": "battlemage/F/40",
+      "New": "battlemage/F/40"
+    },
+    "voice/female/path/4": {
+      "Old": "battlemage/F/67",
+      "New": "battlemage/F/67"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32121056_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121056_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

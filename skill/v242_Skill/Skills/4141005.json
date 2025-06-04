@@ -1,0 +1,151 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8668234-03:00",
+  "ChangeType": "Added",
+  "Id": "4141005",
+  "Name": "Showdown Challenge VI",
+  "Job": "Night Lord",
+  "Desc": "Using a shuriken, attacks and taunts up to 6 enemies, and prevents them from <span style=\"font-weight:bold; color:orange;\">colliding into you</span>.<br />Increases EXP Obtained and Item Drop Rate from the taunted enemies. This effect is halved for Boss monsters.<br />When the talisman explodes, a Shuriken of Darkness is created to attack nearby enemies. Darkness Shuriken does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Showdown Challenge Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -490,
+      "y": -230
+    },
+    "rb": {
+      "x": 20,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "32",
+    "req/4121017": "30",
+    "action/0": "6thShowDownCallenge",
+    "common/maxLevel": "30",
+    "common/mpCon": "55",
+    "common/mobCount": "6",
+    "common/damage": "780+13*x",
+    "common/attackCount": "2",
+    "common/bulletConsume": "3",
+    "common/cancelableTime": "210",
+    "common/u": "6",
+    "common/time": "140",
+    "common/x": "6",
+    "common/w": "27+x",
+    "common/z": "6",
+    "common/u2": "50",
+    "common/w2": "200",
+    "common/s2": "5",
+    "common/y": "5000",
+    "common/nbdR": "220+3*x",
+    "common/lt/x": -490,
+    "common/lt/y": -230,
+    "common/rb/x": 20,
+    "common/rb/y": 80,
+    "cancelableSkillID/0": "4101015",
+    "effect/fix": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "psd": "1",
+    "weapon": "47",
+    "id": "4141005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "25",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = nightLord/M/27 }",
+    "voice/male/path/1": "{ Old = , New = nightLord/M/28 }",
+    "voice/male/path/2": "{ Old = , New = nightLord/M/7 }",
+    "voice/male/path/3": "{ Old = , New = nightLord/M/11 }",
+    "voice/female/path/0": "{ Old = , New = nightLord/F/36 }",
+    "voice/female/path/1": "{ Old = , New = nightLord/F/37 }",
+    "voice/female/path/2": "{ Old = , New = nightLord/F/15 }",
+    "voice/female/path/3": "{ Old = , New = nightLord/F/16 }"
+  },
+  "HFields": {
+    "h1": "Cost: 55 MP and 3 throwing stars.<br />Taunts and attacks up to 6 enemies at 1170% Damage 2 times.<br />For 140 sec., taunted enemies <span style=\"font-weight:bold; color:orange;\">don't collide</span> and increase EXP Obtained and Item Drop Rate +6%. (Effect halved for Boss monsters)<br />Afterward, creates 6 shurikens that attack at 57% Damage 6 times.<br />If a single enemy is hit by multiple shurikens, Final Damage -50% for each subsequent shuriken after the first one. Normal Monster Damage +200%.<br />Shuriken Cooldown: 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4141005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4141005_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/4141005_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

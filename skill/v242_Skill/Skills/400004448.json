@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8139825-03:00",
+  "ChangeType": "Changed",
+  "Id": "400004448",
+  "Name": "Spin Cutter/Throwing Weapon Enhancement",
+  "Job": "5th",
+  "Desc": "Enhances Spin Cutter/Throwing Weapon.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max Targets +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Enhances Spin Cutter/Throwing Weapon.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max attackable target count of Spin Cutter +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+      "New": "Enhances Spin Cutter/Throwing Weapon.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max Targets +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400004448_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4550639-03:00",
+  "ChangeType": "Changed",
+  "Id": "42111113",
+  "Name": "Cherry Blossom Barrier (Ether Combo)",
+  "Job": "Kanna",
+  "Desc": "The cherry blossom barrier has been reinforced by integrating Ether spots.<br /><span style=\"font-weight:bold; color:orange;\">In the enhanced cherry blossom barrier, Kanna takes 20% less damage from enemy attacks, while Status Resistance increases by 30. Also, HP recovers 5% every second with an extra 30 points for Spiritual Energy recovery.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "100",
+      "New": "120"
+    },
+    "common/time": {
+      "Old": "20",
+      "New": "30"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "2"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "2"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": null,
+      "New": "kanna/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": null,
+      "New": "kanna/F/11"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42111113_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111113_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111113_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111113_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111113_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

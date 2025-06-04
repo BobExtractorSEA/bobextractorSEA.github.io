@@ -1,0 +1,31 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.2319888-03:00",
+  "ChangeType": "Added",
+  "Id": "80003854",
+  "Name": "Hamcelot's Protection",
+  "Job": "Etc",
+  "Desc": "The protection of Imperial Knight Sir Hamcelot decreases Damage Taken by 25%, including Max HP-based Damage. Applied in Champion Practice mode.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "10",
+    "invisible": "1",
+    "common/maxLevel": "5",
+    "common/time": "99999",
+    "common/x": "25",
+    "disable": "1",
+    "canJobRidingUse": "1",
+    "isUsableKaiserDragon": "1",
+    "id": "80003854"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003854_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2229597-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021003",
+  "Name": "Pray",
+  "Job": "5th (Magician)",
+  "Desc": "Creates a sacred zone blessed with prayers. Cannot receive the Pray buff of other Bishops while the skill is used. Pray can be reused in succession to decrease its duration and cooldown. Use a custom command to immediately apply the reduced duration and cooldown without reusing the skill.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/23",
+      "New": "bishop/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/24",
+      "New": "bishop/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/23",
+      "New": "bishop/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/24",
+      "New": "bishop/F/24"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

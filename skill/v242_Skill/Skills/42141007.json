@@ -1,0 +1,43 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9677725-03:00",
+  "ChangeType": "Added",
+  "Id": "42141007",
+  "Name": "Spirit Corral Ⅵ",
+  "Job": "Kanna",
+  "Desc": "Successful attacks using yin-yang technique skills will trigger the paper shikigamis to fly out of your sleeves and attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/damage": "210+(4*x)",
+    "common/time": "5",
+    "common/v": "5",
+    "common/x": "1",
+    "psd": "1",
+    "skillList/0": "400021000",
+    "req/42110002": "15",
+    "id": "42141007",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Summon paper shikigamis with each successful attack by Kanna. The number of shikigamis summoned equals the number of monsters hit. The paper shikigamis fly toward the nearest enemy to inflict 330% damage and marks the target to receive 5% extra damage from Kanna for 5 seconds."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/42141007_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

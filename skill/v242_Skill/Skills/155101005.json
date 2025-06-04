@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9273419-03:00",
+  "ChangeType": "Changed",
+  "Id": "155101005",
+  "Name": "Knuckle Booster",
+  "Job": "Ark",
+  "Desc": "Temporarily increases Knuckle ASPD by 2 levels at the cost of MP. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Knuckle Mastery or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/0",
+      "New": "ark/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/1",
+      "New": "ark/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/0",
+      "New": "ark/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/1",
+      "New": "ark/F/1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

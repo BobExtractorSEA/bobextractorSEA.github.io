@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0116168-03:00",
+  "ChangeType": "Added",
+  "Id": "42141012",
+  "Name": "Tengu Strike Ⅵ",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Summons twin tengus to attack enemies on both sides simultaneously.<br />Using the skill again while the tengus are in place brings them back to Kanna while attacking one last time with a 100% critical hit.<br />Required skill : Lv.20 Tengu Strike",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "30",
+    "common/epCon": "20",
+    "common/cooltime": "1",
+    "common/x": "1",
+    "common/v": "3000",
+    "common/y": "100",
+    "common/memo_PL": "damage, w, attackCount, mobCount는 스트링작성용 더미 프로퍼티입니다.",
+    "common/damage": "340+(3*x)",
+    "common/w": "600",
+    "common/attackCount": "5",
+    "common/mobCount": "15",
+    "weapon": "55",
+    "req/42111100": "20",
+    "id": "42141012",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = kanna/M/16 }",
+    "voice/female/path/0": "{ Old = , New = kanna/F/16 }"
+  },
+  "HFields": {
+    "h1": "Spends 20 Spiritual Energy points to summon the tengu twins.<br />The tengus move out by 600 units on both sides of Kanna, attacking 15 enemies at 430% damage 5 times each.<br />[Cooldown: 1 sec]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

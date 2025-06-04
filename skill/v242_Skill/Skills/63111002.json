@@ -1,0 +1,148 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.088197-03:00",
+  "ChangeType": "Changed",
+  "Id": "63111002",
+  "Name": "Strike Arrow III",
+  "Job": "Kain",
+  "Desc": "Shoots arrows several times in a row after using Strike Arrow II to effectively suppress enemies. Temporarily enables you to reuse the skill after using Strike Arrow II and also activates Arrow Fragment.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/0",
+      "New": "kain/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/1",
+      "New": "kain/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/2",
+      "New": "kain/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/3",
+      "New": "kain/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "kain/M/4",
+      "New": "kain/M/4"
+    },
+    "voice/male/path/5": {
+      "Old": "kain/M/5",
+      "New": "kain/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/0",
+      "New": "kain/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/1",
+      "New": "kain/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/2",
+      "New": "kain/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/3",
+      "New": "kain/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/4",
+      "New": "kain/F/4"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

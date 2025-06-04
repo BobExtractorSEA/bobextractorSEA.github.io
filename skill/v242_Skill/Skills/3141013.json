@@ -1,0 +1,84 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2181945-03:00",
+  "ChangeType": "Added",
+  "Id": "3141013",
+  "Name": "Flash Mirage VI",
+  "Job": "Bowmaster",
+  "Desc": "Performs swift archery to create the illusion of shooting a bow.<br />Whenever an arrow hits the enemy for a certain number of times, creates an illusion to shoot an arrow tracking the enemy and disappears. The arrow attacks a single enemy in front of the illusion and penetrates enemies in a straight line. Installable Arrow Platter is not considered your direct attack.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Flash Mirage II Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -800,
+      "y": -500
+    },
+    "rb": {
+      "x": 800,
+      "y": 500
+    }
+  },
+  "Fields": {
+    "req/3120021": "20",
+    "common/maxLevel": "30",
+    "common/mpCon": "90+d(x/2)",
+    "common/cooltime": "1",
+    "common/u": "7",
+    "common/u2": "7",
+    "common/w": "4",
+    "common/lt/x": -800,
+    "common/lt/y": -500,
+    "common/rb/x": 800,
+    "common/rb/y": 500,
+    "common/s": "450",
+    "common/s2": "300",
+    "common/q": "550",
+    "common/q2": "450",
+    "common/v": "30",
+    "common/x": "700",
+    "common/subTime": "500",
+    "common/ballDelay": "540",
+    "common/ballDelay1": "540",
+    "common/ballDelay2": "540",
+    "common/ballDelay3": "540",
+    "common/attackCount": "4",
+    "common/damage": "615+21*x",
+    "common/mobCount": "5",
+    "weapon": "45",
+    "canNotStealableSkill": "1",
+    "isCancelableBuff": "1",
+    "id": "3141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 105. Shoots an arrow at an enemy in front, creating 4 illusions when hitting 7 times.<br />Arrow Platter, Hurricane, Silhouette Mirage, Illusionary Shot, Full Burst Quiver, and Arrow Rain are considered one-time attacks when hitting 7 times.<br />The fired arrow penetrates up to 5 enemies toward the target enemy and attacks at 1245% Damage 4 times.<br />Cooldown: 1 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3141013_effect_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/3141013_special_new.webp"
+    },
+    "special1": {
+      "Old": null,
+      "New": "Animations/New/3141013_special1_new.webp"
+    },
+    "special2": {
+      "Old": null,
+      "New": "Animations/New/3141013_special2_new.webp"
+    },
+    "special3": {
+      "Old": null,
+      "New": "Animations/New/3141013_special3_new.webp"
+    }
+  },
+  "Voices": {}
+}

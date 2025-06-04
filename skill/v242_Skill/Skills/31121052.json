@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3657625-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121052",
+  "Name": "Cerburus",
+  "Job": "Demon Slayer",
+  "Desc": "Defeat enemies and steal their spirits with the power of the netherworld.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 300 HP and attacks 8 enemies at 450% Damage 6 times. Damage on Boss monsters +50% and Ignore Monster DEF +50%. Attacks absorb 50 more Fury.<br />Cooldown: <span style=\"font-weight:bold; color:orange;\">ooltimesec</span>",
+      "New": "HP Cost: 300. Attacks up to 8 enemies at 450% Damage 6 times.<br />Boss Monster Damage +50%, additional Ignore Monster DEF +50%, and 50 additional Force absorption while attacking<br />Cooldown: 5 sec."
+    },
+    "h1": {
+      "Old": "Consumes 300 HP and attacks 8 enemies at 450% Damage 6 times. Damage on Boss monsters +50% and Ignore Monster DEF +50%. Attacks absorb 50 more Fury.<br />Cooldown: <span style=\"font-weight:bold; color:orange;\">ooltimesec</span>",
+      "New": "HP Cost: 300. Attacks up to 8 enemies at 450% Damage 6 times.<br />Boss Monster Damage +50%, additional Ignore Monster DEF +50%, and 50 additional Force absorption while attacking<br />Cooldown: 5 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/hpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "450",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/bdR": {
+      "Old": "50",
+      "New": null
+    },
+    "PVPcommon/ignoreMobpdpR": {
+      "Old": "50",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "50",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/7",
+      "New": "demonSlayer/M/7"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/56",
+      "New": "demonSlayer/M/56"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/57",
+      "New": "demonSlayer/M/57"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/58",
+      "New": "demonSlayer/F/58"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/59",
+      "New": "demonSlayer/F/59"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/13",
+      "New": "demonSlayer/F/13"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 300. Attacks up to 8 enemies at 450% Damage 6 times.<br />Boss Monster Damage +50%, additional Ignore Monster DEF +50%, and 50 additional Force absorption while attacking<br />Cooldown: 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

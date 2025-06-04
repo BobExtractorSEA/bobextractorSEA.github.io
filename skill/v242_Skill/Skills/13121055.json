@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6261488-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121055",
+  "Name": "Storm Winds",
+  "Job": "Wind Archer",
+  "Desc": "With the blessing of the wind spirit, gains the ability to handle the whimsical power of the wind to its limit for a short while.<br />Do not take damage from attacking enemies’ with Damage Reflect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/121",
+      "New": "windBreaker/M/121"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/122",
+      "New": "windBreaker/M/122"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/123",
+      "New": "windBreaker/M/123"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/124",
+      "New": "windBreaker/M/124"
+    },
+    "voice/male/path/4": {
+      "Old": "windBreaker/M/75",
+      "New": "windBreaker/M/75"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/130",
+      "New": "windBreaker/F/130"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/131",
+      "New": "windBreaker/F/131"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/132",
+      "New": "windBreaker/F/132"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "13141004"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "13141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121055_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.682095-03:00",
+  "ChangeType": "Changed",
+  "Id": "23121011",
+  "Name": "Rolling Moonsault",
+  "Job": "Mercedes",
+  "Desc": "Enables you to quickly spin and attack multiple times while in midair. Perfectly resists Knockback for its duration. Press the skill key or the Down and Basic Attack keys after Rising Rush to activate it. Can be chained with Leaf Tornado, Gust Dive, Spikes Royale, and Wrath of Enreal.<br />Also adds the Passive effect that permanently increases Rising Rush and Aerial Barrage damage. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/10": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23121011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,155 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8963321-03:00",
+  "ChangeType": "Added",
+  "Id": "25141006",
+  "Name": "Death Mark VI",
+  "Job": "Shade",
+  "Desc": "Summons a death spirit to attack multiple enemies in front of you and marks them.<br />The marked enemies receive DoT. Absorbs a portion of the marked damage as HP. Death Mark does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also, permanently increases Soul Splitter Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Death Mark Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -420,
+      "y": -210
+    },
+    "rb": {
+      "x": 150,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/25121006": "20",
+    "action/0": "6thDeathMarker",
+    "common/maxLevel": "30",
+    "common/mpCon": "120+x",
+    "common/mobCount": "10",
+    "common/damage": "658+19*x",
+    "common/attackCount": "8",
+    "common/dotTime": "15",
+    "common/dotInterval": "1",
+    "common/dot": "274+7*x",
+    "common/x": "1",
+    "common/cr": "100",
+    "common/y": "302+12*x",
+    "common/cooltime": "54",
+    "common/lt/x": -420,
+    "common/lt/y": -210,
+    "common/rb/x": 150,
+    "common/rb/y": 60,
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngleRange/x": -45,
+    "hit/0/randomHitAngleRange/y": 45,
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "affected0/z": "-1",
+    "psd": "1",
+    "weapon": "48",
+    "subWeapon": "35",
+    "id": "25141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = eunwol/M/1 }",
+    "voice/male/path/1": "{ Old = , New = eunwol/M/10 }",
+    "voice/male/path/2": "{ Old = , New = eunwol/M/61 }",
+    "voice/male/path/3": "{ Old = , New = eunwol/M/62 }",
+    "voice/female/path/0": "{ Old = , New = eunwol/F/3 }",
+    "voice/female/path/1": "{ Old = , New = eunwol/F/18 }",
+    "voice/female/path/2": "{ Old = , New = eunwol/F/61 }",
+    "voice/female/path/3": "{ Old = , New = eunwol/F/62 }"
+  },
+  "HFields": {
+    "h1": "Consumes 150 MP to critically attack up to 10 enemies at 1228% Damage 8 times.<br /><span style=\"font-weight:bold; color:orange;\">Death Mark</span>: 484% DoT every 1 sec. for 15 sec.<br />Restores your HP by 1% of DoT per hit.<br />Cooldown: 54 sec.<br />[Passive Effects: Soul Splitter Damage +662%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/25141006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/25141006_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/25141006_mob_new.webp"
+    },
+    "affected": {
+      "Old": null,
+      "New": "Animations/New/25141006_affected_new.webp"
+    },
+    "affected0": {
+      "Old": null,
+      "New": "Animations/New/25141006_affected0_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

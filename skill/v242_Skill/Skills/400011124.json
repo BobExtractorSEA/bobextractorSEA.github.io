@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1520488-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011124",
+  "Name": "Sword Illusion",
+  "Job": "5th (Warrior)",
+  "Desc": "Explodes the power of the combo counter and cuts numerous times ahead at invisible speeds. Sword Illusion attacks do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/20",
+      "New": "hero/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/21",
+      "New": "hero/M/21"
+    },
+    "voice/male/path/2": {
+      "Old": "hero/M/28",
+      "New": "hero/M/28"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/20",
+      "New": "hero/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/21",
+      "New": "hero/F/21"
+    },
+    "voice/female/path/2": {
+      "Old": "hero/F/30",
+      "New": "hero/F/30"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011124_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011124_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

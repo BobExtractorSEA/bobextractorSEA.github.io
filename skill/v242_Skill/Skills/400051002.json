@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8823871-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051002",
+  "Name": "Lightning Form",
+  "Job": "5th (Pirate)",
+  "Desc": "Accept the power of the sea to gain incredible power. During Lightning Form, you can press the same direction key twice to teleport and cast an energy orb that attacks nearby enemies by using the skill again. Energy Orb doesn't affect enemies in the Damage Reflection status and grants Invincibility while casting.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/20",
+      "New": "viper/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/21",
+      "New": "viper/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/20",
+      "New": "viper/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/21",
+      "New": "viper/F/21"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

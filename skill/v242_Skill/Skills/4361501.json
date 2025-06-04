@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.8538954-03:00",
+  "ChangeType": "Changed",
+  "Id": "4361501",
+  "Name": "Karma Blade",
+  "Job": "Dual Blade",
+  "Desc": "The God of Fire descends on the sword. Every time you cut an enemy by consuming the karma blade contained in the sword, the enemy's karma attacks you.<br />When you consume all the karma blades, the god of karma appears directly and cuts down all living things in an instant. The Blade of Karma does not take damage even if it attacks an enemy that is in the attack reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/25": {
+      "Old": null,
+      "New": "4361003"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "4361004"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "4361005"
+    },
+    "skillList/28": {
+      "Old": null,
+      "New": "4360006"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4361501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

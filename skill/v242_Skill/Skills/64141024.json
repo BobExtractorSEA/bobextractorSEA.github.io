@@ -1,0 +1,188 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.8105825-03:00",
+  "ChangeType": "Added",
+  "Id": "64141024",
+  "Name": "Weapon Arts: Cinderblock Smash VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -370,
+      "y": -355
+    },
+    "rb": {
+      "x": 150,
+      "y": 140
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/64121021": "30",
+    "action/0": "6thNTbrick",
+    "common/maxLevel": "30",
+    "common/mpCon": "46+d(x/5)",
+    "common/damage": "585+11*x",
+    "common/attackCount": "7",
+    "common/mobCount": "7",
+    "common/lt/x": -370,
+    "common/lt/y": -355,
+    "common/rb/x": 150,
+    "common/rb/y": 140,
+    "common/cooltime": "8",
+    "common/range": "350",
+    "common/q2": "200",
+    "common/cancelableTime": "150",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001001",
+    "cancelableSkillID/2": "64001002",
+    "cancelableSkillID/3": "64001007",
+    "cancelableSkillID/4": "64001008",
+    "cancelableSkillID/5": "64001013",
+    "cancelableSkillID/6": "64101001",
+    "cancelableSkillID/7": "64141000",
+    "cancelableSkillID/8": "64141030",
+    "cancelableSkillID/9": "64141031",
+    "cancelableSkillID/10": "64141034",
+    "rush/elem/0/style": "5",
+    "rush/elem/0/time": "60",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/1/style": "0",
+    "rush/elem/1/time": "480",
+    "rush/elem/1/vx": "0",
+    "rush/elem/1/vy": "0",
+    "rush/elem/1/ax": "0",
+    "rush/elem/1/distance/gap": "15",
+    "rush/elem/1/distance/applyX": "1",
+    "rush/elem/1/distance/applyY": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "effect0/z": "-1",
+    "additional_process/0": "9",
+    "additional_process/1": "25",
+    "invisible": "1",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141024",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = cadena/M/4 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/5 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/6 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/7 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/9 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/4 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/5 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/6 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/7 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/9 }",
+    "voice/female/path/5": "{ Old = , New = cadena/F/23 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141024_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141024_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/64141024_effect1_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.9752461-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061008",
+  "Name": "Rho Aias",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Becomes a shield that protects allies from enemy attacks, defending them against damage and fatal status ailments within a certain area for a certain duration. Also increases your final damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mikhail/M/94",
+      "New": "mikhail/M/94"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/96",
+      "New": "mikhail/M/96"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/48",
+      "New": "mikhail/M/48"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

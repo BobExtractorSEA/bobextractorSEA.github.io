@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3997172-03:00",
+  "ChangeType": "Changed",
+  "Id": "36141501",
+  "Name": "Artificial Evolution",
+  "Job": "Xenon",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/114",
+      "New": "xenon/M/114"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/115",
+      "New": "xenon/M/115"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/116",
+      "New": "xenon/M/116"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/110",
+      "New": "xenon/F/110"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/111",
+      "New": "xenon/F/111"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/112",
+      "New": "xenon/F/112"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "36141012"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "36141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141501_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

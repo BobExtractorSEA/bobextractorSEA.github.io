@@ -1,0 +1,151 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2651538-03:00",
+  "ChangeType": "Changed",
+  "Id": "22140010",
+  "Name": "Circle of Mana III",
+  "Job": "Evan",
+  "Desc": "Shoots 4 reinforced condensed mana balls at enemies in front. This skill can be reinforced up to <span style=\"font-weight:bold; color:orange;\">4 phases</span> depending on the Job Advancement stage.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, Circle of Mana IV.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "evan/M/0",
+      "New": "evan/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/1",
+      "New": "evan/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/2",
+      "New": "evan/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "evan/M/3",
+      "New": "evan/M/3"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/0",
+      "New": "evan/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/1",
+      "New": "evan/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/2",
+      "New": "evan/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "evan/F/3",
+      "New": "evan/F/3"
+    },
+    "addAttack/skillPlus/10": {
+      "Old": null,
+      "New": "22201006"
+    },
+    "addAttack/skillPlus/11": {
+      "Old": null,
+      "New": "22201010"
+    },
+    "addAttack/skillPlus/12": {
+      "Old": null,
+      "New": "22201002"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "22201003"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "22201007"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "22201011"
+    },
+    "addAttack/skillPlus/16": {
+      "Old": null,
+      "New": "22201010"
+    },
+    "addAttack/skillPlus/17": {
+      "Old": null,
+      "New": "22140022"
+    },
+    "addAttack/skillPlus/18": {
+      "Old": null,
+      "New": "22201007"
+    },
+    "addAttack/skillPlus/19": {
+      "Old": null,
+      "New": "22201011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22140010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22140010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.8649298-03:00",
+  "ChangeType": "Changed",
+  "Id": "61101004",
+  "Name": "Blaze On",
+  "Job": "Kaiser",
+  "Desc": "Draw out inner strength to temporarily increase Attack Power and Speed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kaiser/M/38",
+      "New": "kaiser/M/38"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/40",
+      "New": "kaiser/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/41",
+      "New": "kaiser/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61101004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61101004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61101004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61101004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

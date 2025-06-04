@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4792677-03:00",
+  "ChangeType": "Changed",
+  "Id": "37101003",
+  "Name": "Gauntlet Booster",
+  "Job": "Blaster",
+  "Desc": "Temporarily increases Weapon ASPD by 2 levels at the cost of MP. Requires Gauntlet Revolvers.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 Gauntlet Mastery or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.9135356-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001280",
+  "Name": "Queen's Scent of Ephenia",
+  "Job": "Etc",
+  "Desc": "Ephenia leaves the scents of queen in her wake. Ephenia summoned by the power of Soul Weapon increases HP and MP for party members.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001280_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

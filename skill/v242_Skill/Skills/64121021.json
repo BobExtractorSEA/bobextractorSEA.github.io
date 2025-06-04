@@ -1,0 +1,250 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.6083284-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121021",
+  "Name": "Weapon Arts: Cinderblock Smash",
+  "Job": "Cadena",
+  "Desc": "Summons a giant brick tied to the chain, striking down after jumping forward. Enters the Up key to jump further. Prevents being knocked back by any attack while casting a skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variation III Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45. Attacks up to 7 enemies at 535% damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span>",
+      "New": "MP Cost: 45. Attacks up to 7 enemies at 535% damage 7 time(s).<br />Cooldown: 8 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 45. Attacks up to 7 enemies at 535% damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 8 sec.</span>",
+      "New": "MP Cost: 45. Attacks up to 7 enemies at 535% damage 7 time(s).<br />Cooldown: 8 sec."
+    },
+    "common/y": {
+      "Old": "6",
+      "New": null
+    },
+    "common/w": {
+      "Old": "100",
+      "New": null
+    },
+    "common/u": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+u(x/2)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "245+8*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "140",
+      "New": null
+    },
+    "PVPcommon/q2": {
+      "Old": "50",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001001"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001002"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64001001",
+      "New": "64001013"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64141000",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/4",
+      "New": "cadena/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/5",
+      "New": "cadena/M/5"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/6",
+      "New": "cadena/M/6"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/7",
+      "New": "cadena/M/7"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/9",
+      "New": "cadena/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/4",
+      "New": "cadena/F/4"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/5",
+      "New": "cadena/F/5"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/6",
+      "New": "cadena/F/6"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/7",
+      "New": "cadena/F/7"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/9",
+      "New": "cadena/F/9"
+    },
+    "voice/female/path/5": {
+      "Old": "cadena/F/23",
+      "New": "cadena/F/23"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141000"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141023"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Attacks up to 7 enemies at 535% damage 7 time(s).<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

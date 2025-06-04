@@ -1,0 +1,171 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.9015087-03:00",
+  "ChangeType": "Changed",
+  "Id": "142121005",
+  "Name": "Ultimate - B.P.M",
+  "Job": "Kinesis",
+  "Desc": "Dense PK powers gush forth at a faster speed. If you use up all of your Psychic Points, your telekinesis loses its power, and starts gushing again when you regain a certain number of Psychic Points. Ultimate-B.P.M does not affect enemies in the Damage Reflection status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ultimate-Train Level 10</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Attacks up to 3 enemies at 175% Damage 7 times. Psychic Point Cost per Activation: 1<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Material] damage +310%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Deep Impact] damage +270%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Train] damage +100%p</span>",
+      "New": "Attacks up to 3 enemies at 175% Damage 7 times.<br />Consumes 1 Psychic Point blocks per activation.<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +310%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +270%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Train] Damage +100%p</span>"
+    },
+    "h1": {
+      "Old": "Attacks up to 3 enemies at 175% Damage 7 times. Psychic Point Cost per Activation: 1<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Material] damage +310%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Deep Impact] damage +270%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate-Train] damage +100%p</span>",
+      "New": "Attacks up to 3 enemies at 175% Damage 7 times.<br />Consumes 1 Psychic Point blocks per activation.<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +310%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +270%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Train] Damage +100%p</span>"
+    },
+    "common/time": {
+      "Old": "9800",
+      "New": null
+    },
+    "common/bulletCount": {
+      "Old": "16500",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "70+x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/attackDelay": {
+      "Old": "600",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "17",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/ppReq": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/s2": {
+      "Old": "700+35*x",
+      "New": null
+    },
+    "PVPcommon/u2": {
+      "Old": "130+7*x",
+      "New": null
+    },
+    "PVPcommon/w2": {
+      "Old": "20+2*x",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kinesis/M/28",
+      "New": "kinesis/M/28"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/29",
+      "New": "kinesis/M/29"
+    },
+    "voice/male/path/2": {
+      "Old": "kinesis/M/72",
+      "New": "kinesis/M/72"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/28",
+      "New": "kinesis/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/29",
+      "New": "kinesis/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "kinesis/F/72",
+      "New": "kinesis/F/72"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "142141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Attacks up to 3 enemies at 175% Damage 7 times.<br />Consumes 1 Psychic Point blocks per activation.<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Material] Damage +310%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Deep Impact] Damage +270%p</span><br /><span style=\"font-weight:bold; color:orange;\">[Ultimate - Train] Damage +100%p</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_142121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

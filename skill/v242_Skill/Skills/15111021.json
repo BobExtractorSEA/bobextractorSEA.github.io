@@ -1,0 +1,163 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1735542-03:00",
+  "ChangeType": "Changed",
+  "Id": "15111021",
+  "Name": "Thunderous Dive",
+  "Job": "Thunder Breaker",
+  "Desc": "Moves like lightning in the air, rushing into the enemies in the front. Available after the jump or ascend, and can use with all skills except itself. The casting motion cannot be canceled by linking with Crashing Wave in midair.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/48",
+      "New": "striker/M/48"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/49",
+      "New": "striker/M/49"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/50",
+      "New": "striker/M/50"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/25",
+      "New": "striker/M/25"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/27",
+      "New": "striker/M/27"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/28",
+      "New": "striker/M/28"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/15",
+      "New": "striker/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/69",
+      "New": "striker/F/69"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/70",
+      "New": "striker/F/70"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/71",
+      "New": "striker/F/71"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/45",
+      "New": "striker/F/45"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/47",
+      "New": "striker/F/47"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15111021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

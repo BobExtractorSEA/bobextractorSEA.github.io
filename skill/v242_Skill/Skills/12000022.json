@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0620445-03:00",
+  "ChangeType": "Changed",
+  "Id": "12000022",
+  "Name": "Element Infusion I: Flame",
+  "Job": "Blaze Wizard",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Flame Wizard's direct skill attack</span> to summon Element Infusion I: Flame. The summoned elemental remains for a while and increases your MATT<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 2nd Job Skill, 'Element Infusion II: Flame'</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/40": {
+      "Old": null,
+      "New": "12141011"
+    },
+    "skillList/41": {
+      "Old": null,
+      "New": "12141012"
+    },
+    "skillList/42": {
+      "Old": null,
+      "New": "12141013"
+    },
+    "skillList/43": {
+      "Old": null,
+      "New": "12141014"
+    },
+    "skillList/44": {
+      "Old": null,
+      "New": "12141017"
+    },
+    "skillList/45": {
+      "Old": null,
+      "New": "12141018"
+    },
+    "skillList/46": {
+      "Old": null,
+      "New": "12140019"
+    },
+    "skillList/47": {
+      "Old": null,
+      "New": "12121002"
+    },
+    "skillList/48": {
+      "Old": null,
+      "New": "12120023"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12000022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

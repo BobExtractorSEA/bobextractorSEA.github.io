@@ -1,0 +1,117 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4633982-03:00",
+  "ChangeType": "Added",
+  "Id": "61141011",
+  "Name": "Inferno Breath VI",
+  "Job": "Kaiser",
+  "Desc": "Fully resonates with the ancient dragon, unleashing a powerful fire attack.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Inferno Breath Lv. 20 or higher</span> ",
+  "Coordinates": {
+    "lt": {
+      "x": -650,
+      "y": -300
+    },
+    "rb": {
+      "x": 80,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/61121105": "20",
+    "action/0": "6thEnterTheDragonEnchant",
+    "common/maxLevel": "30",
+    "common/mpCon": "72+d(x/3)",
+    "common/damage": "1070+33*x",
+    "common/attackCount": "8",
+    "common/mobCount": "15",
+    "common/x": "4",
+    "common/updatableTime": "900",
+    "common/cooltime": "19",
+    "common/lt/x": -650,
+    "common/lt/y": -300,
+    "common/rb/x": 80,
+    "common/rb/y": 120,
+    "skillList/0": "400011000",
+    "multiAttackInfo/0/attackTime": "30",
+    "multiAttackInfo/1/attackTime": "60",
+    "multiAttackInfo/2/attackTime": "60",
+    "multiAttackInfo/3/attackTime": "60",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "45",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "22",
+    "additional_process/3": "30",
+    "additional_process/4": "35",
+    "additional_process/5": "55",
+    "additional_process/6": "69",
+    "additional_process/7": "77",
+    "additional_process/8": "108",
+    "processtype": "-1",
+    "normalGauge": "10",
+    "weapon": "40",
+    "subWeapon": "35",
+    "invisible": "1",
+    "id": "61141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = kaiser/M/54 }",
+    "voice/male/path/1": "{ Old = , New = kaiser/M/57 }",
+    "voice/female/path/0": "{ Old = , New = kaiser/F/77 }",
+    "voice/female/path/1": "{ Old = , New = kaiser/F/73 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 82. Breathes 4 times, attacking up to 15 enemies at 2060% Damage 8 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/61141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/61141011_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9140423-03:00",
+  "ChangeType": "Added",
+  "Id": "14141019",
+  "Name": "Abyssal Darkness",
+  "Job": "Night Walker",
+  "Desc": "Masters the darkness and deliver deadly attacks to enemy vital points. Hitting a Mark of Darkness target with a set number of Throwing Star skills activates an abyssal strike. Abyssal Darkness does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and the abyssal strike Damage increases proportional to Element: Darkness's Mark of Darkness stacks.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Element Infusion III: Darkness Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/14120007": "10",
+    "common/maxLevel": "30",
+    "common/damage": "187+8*x",
+    "common/attackCount": "6",
+    "common/y": "5",
+    "common/x": "12",
+    "common/time": "15000",
+    "skillList/0": "14001020",
+    "skillList/1": "14101020",
+    "skillList/2": "14111020",
+    "skillList/3": "14121001",
+    "skillList/4": "14141000",
+    "skillList/5": "14141002",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/randomHitOriginX": "50",
+    "hit/0/randomHitOriginY": "30",
+    "hit/0/randomDelayedTimeStart": "240",
+    "hit/0/randomDelayedTimeEnd": "390",
+    "hit/0/pos": "9",
+    "hit/1/useZ": "1",
+    "hit/1/z": "3",
+    "hit/1/randomHitOriginX": "55",
+    "hit/1/randomHitOriginY": "30",
+    "hit/1/randomDelayedTimeStart": "30",
+    "hit/1/randomDelayedTimeEnd": "270",
+    "hit/1/pos": "9",
+    "hit/2/useZ": "1",
+    "hit/2/z": "3",
+    "hit/2/randomHitOriginX": "50",
+    "hit/2/randomHitOriginY": "30",
+    "hit/2/randomDelayedTimeStart": "180",
+    "hit/2/randomDelayedTimeEnd": "360",
+    "hit/2/pos": "9",
+    "hit/3/useZ": "1",
+    "hit/3/z": "3",
+    "hit/3/randomHitOriginX": "55",
+    "hit/3/randomHitOriginY": "30",
+    "hit/3/randomDelayedTimeStart": "120",
+    "hit/3/randomDelayedTimeEnd": "450",
+    "hit/3/pos": "9",
+    "hit/randomHit": "1",
+    "notResetDarkSight": "1",
+    "id": "14141019",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Hitting Throwing Star skills except for Rapid Throw 12 times activates an abyssal strike that attacks at 427% Damage 6 times.<br />The abyssal strike Damage increases proportional to Element: Darkness's Mark of Darkness stacks. Stacks up to 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_14141019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/14141019_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2726666-03:00",
+  "ChangeType": "Changed",
+  "Id": "41121022",
+  "Name": "Skewed Hitokiri Strike",
+  "Job": "Hayato",
+  "Desc": "Rush toward your enemies diagonally with amazing speed, slashing anything in the way. Critical attacks inflict maximum damage. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cr": {
+      "Old": "100",
+      "New": null
+    },
+    "morph": {
+      "Old": "1",
+      "New": null
+    },
+    "psd": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "41141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41121022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

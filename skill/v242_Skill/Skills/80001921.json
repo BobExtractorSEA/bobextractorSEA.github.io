@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.5046173-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001921",
+  "Name": "Pterodactyl Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Pterodactyl, where are you taking me? Enables you to double-jump and travel <span style=\"font-weight:bold; color:orange;\">very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Pterodactyl, where are you taking me? Enables you to double-jump and travel <span style=\"font-weight:bold; color:orange;\">very fast</span>. <span style=\"font-weight:bold; color:orange;\">Double-click your destination on the World Map</span> and you will automatically fly toward it along the navigation route. (Auto flight is available only on certain continents, including Victoria Island. <span style=\"font-weight:bold; color:orange;\">You can expand your Smart Mount-permitted continents by buying</span> Flight Permits from Instructor Irvin.)",
+      "New": "[Master Level: 1]<br />Pterodactyl, where are you taking me? Enables you to double-jump and travel <span style=\"font-weight:bold; color:orange;\">very fast</span>."
+    },
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001921_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

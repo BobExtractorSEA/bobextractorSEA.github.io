@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4875124-03:00",
+  "ChangeType": "Changed",
+  "Id": "37100004",
+  "Name": "Gauntlet Mastery",
+  "Job": "Blaster",
+  "Desc": "Increases Mastery, Critical Rate, and ATT for Gauntlet Revolvers.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job skill, Expert Gauntlet Mastery.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Increases Mastery, Critical Rate, ATT, and Final Damage for Gauntlet Revolvers.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job skill, Expert Gauntlet Mastery.</span>",
+      "New": "Increases Mastery, Critical Rate, and ATT for Gauntlet Revolvers.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job skill, Expert Gauntlet Mastery.</span>"
+    },
+    "H": {
+      "Old": "Mastery +50%, Critical Rate +30%, ATT +20, Final Damage +5%",
+      "New": "Mastery +50%, Critical Rate +30%, and Attack +20"
+    },
+    "h1": {
+      "Old": "Mastery +50%, Critical Rate +30%, ATT +20, Final Damage +5%",
+      "New": "Mastery +50%, Critical Rate +30%, and Attack +20"
+    },
+    "common/pdR": {
+      "Old": "d(x/2)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mastery": {
+      "Old": "5*x",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "15*x",
+      "New": null
+    },
+    "PVPcommon/padX": {
+      "Old": "2*x",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Mastery +50%, Critical Rate +30%, and Attack +20"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37100004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

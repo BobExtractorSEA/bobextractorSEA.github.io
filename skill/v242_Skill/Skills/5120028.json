@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.277714-03:00",
+  "ChangeType": "Changed",
+  "Id": "5120028",
+  "Name": "Offense Form",
+  "Job": "Buccaneer",
+  "Desc": "Becomes defensive and gets a Damage buff every time some attack skills hit. Permanently increases damage of Corkscrew Blow.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/9": {
+      "Old": null,
+      "New": "5141015"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5120028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

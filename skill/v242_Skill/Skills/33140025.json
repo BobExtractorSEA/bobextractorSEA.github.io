@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4232345-03:00",
+  "ChangeType": "Added",
+  "Id": "33140025",
+  "Name": "Another Bite VI",
+  "Job": "Wild Hunter",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/33001007": "1",
+    "common/maxLevel": "30",
+    "common/damage": "200+4*x",
+    "common/y": "3",
+    "common/time": "20",
+    "mob/0/pos": "2",
+    "mob/0/repeat": "1",
+    "mob/1/pos": "2",
+    "mob/1/repeat": "1",
+    "mob/2/pos": "2",
+    "mob/2/repeat": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "invisible": "1",
+    "id": "33140025",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_33140025_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/33140025_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/33140025_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

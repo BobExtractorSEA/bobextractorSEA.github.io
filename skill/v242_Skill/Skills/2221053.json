@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.507904-03:00",
+  "ChangeType": "Changed",
+  "Id": "2221053",
+  "Name": "Epic Adventure",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "This buff can only be used by legendary adventurers that have explored all of Maple World. Increases damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2221053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

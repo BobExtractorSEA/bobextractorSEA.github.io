@@ -1,0 +1,105 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4503177-03:00",
+  "ChangeType": "Changed",
+  "Id": "22170094",
+  "Name": "Breath of Earth",
+  "Job": "Evan",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "action/0": {
+      "Old": "EVdragonBack",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/25",
+      "New": "evan/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/12",
+      "New": "evan/M/12"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/5",
+      "New": "evan/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/25",
+      "New": "evan/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/12",
+      "New": "evan/F/12"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/5",
+      "New": "evan/F/5"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22200013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22170094_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170094_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

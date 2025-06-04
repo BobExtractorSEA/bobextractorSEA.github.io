@@ -1,0 +1,128 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2216571-03:00",
+  "ChangeType": "Changed",
+  "Id": "51121059",
+  "Name": "Soul Majesty",
+  "Job": "Mihile",
+  "Desc": "By refining the strong belief in protecting the Empress and your allies, the Soul Shield and Soul Light skills become more powerful. During this skill, your damage will be increased and Advanced Soul Shield’s effects will be enhanced.<br />In addition, Install Shield will inflict Offensive Defense’s debuff and Offensive Defense will be enhanced.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 200 MP, lasts 25 seconds, Damage +15%<br />During this skill, Advanced Soul Shield’s damage reduction effect when you successfully Royal Guard will be increased by 5%This stacks additively with Advanced Soul Shield’s effects.<br />During this skill, Install Shield will activate Offensive Defense’s debuff. Offensive Defense’s Shockwave of Light’s reactivation cooldown will be decreased to 2 seconds.<br />When Offensive Defense’s Shockwave of Light is activated, <span style=\"font-weight:bold; color:orange;\">Wave of Light</span> will also be activated.<br /><span style=\"font-weight:bold; color:orange;\">Wave of Light</span> : Deals 700% damage 6 times to up to 8 enemies<br />Cooldown 180 seconds",
+      "New": "MP Cost: 200. Lasts for 25 sec. Damage +15%.<br />For its duration, successful Royal Guard of Advanced Soul Shield increases damage reduction +5%. The increased damage reduction is added to the Advanced Soul Shield effect.<br />For its duration, Shield Installation activates the Offensive Defense debuff and decreases Offensive Defense's Light Shock Wave cooldown -2 sec.<br />Offensive Defense's Light Shock Wave additionally activates <span style=\"font-weight:bold; color:orange;\">Light Wave</span>.<br /><span style=\"font-weight:bold; color:orange;\">Light Wave</span>: Attacks up to 8 enemies at 700% damage 6 times.<br />Cooldown 180 sec."
+    },
+    "h1": {
+      "Old": "Consumes 200 MP, lasts 25 seconds, Damage +15%<br />During this skill, Advanced Soul Shield’s damage reduction effect when you successfully Royal Guard will be increased by 5%This stacks additively with Advanced Soul Shield’s effects.<br />During this skill, Install Shield will activate Offensive Defense’s debuff. Offensive Defense’s Shockwave of Light’s reactivation cooldown will be decreased to 2 seconds.<br />When Offensive Defense’s Shockwave of Light is activated, <span style=\"font-weight:bold; color:orange;\">Wave of Light</span> will also be activated.<br /><span style=\"font-weight:bold; color:orange;\">Wave of Light</span> : Deals 700% damage 6 times to up to 8 enemies<br />Cooldown 180 seconds",
+      "New": "MP Cost: 200. Lasts for 25 sec. Damage +15%.<br />For its duration, successful Royal Guard of Advanced Soul Shield increases damage reduction +5%. The increased damage reduction is added to the Advanced Soul Shield effect.<br />For its duration, Shield Installation activates the Offensive Defense debuff and decreases Offensive Defense's Light Shock Wave cooldown -2 sec.<br />Offensive Defense's Light Shock Wave additionally activates <span style=\"font-weight:bold; color:orange;\">Light Wave</span>.<br /><span style=\"font-weight:bold; color:orange;\">Light Wave</span>: Attacks up to 8 enemies at 700% damage 6 times.<br />Cooldown 180 sec."
+    },
+    "common/t": {
+      "Old": "2",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mikhail/M/92",
+      "New": "mikhail/M/92"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/93",
+      "New": "mikhail/M/93"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/47",
+      "New": "mikhail/M/47"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/37",
+      "New": "mikhail/M/37"
+    },
+    "voice/male/path/4": {
+      "Old": "mikhail/M/39",
+      "New": "mikhail/M/39"
+    },
+    "common/v": {
+      "Old": null,
+      "New": "2"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "51141015"
+    },
+    "skillList2/17": {
+      "Old": null,
+      "New": "51141013"
+    },
+    "skillList2/18": {
+      "Old": null,
+      "New": "51141014"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "51141019"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "weapon": {
+      "Old": null,
+      "New": "30"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "has_weapon": {
+      "Old": null,
+      "New": "True"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Lasts for 25 sec. Damage +15%.<br />For its duration, successful Royal Guard of Advanced Soul Shield increases damage reduction +5%. The increased damage reduction is added to the Advanced Soul Shield effect.<br />For its duration, Shield Installation activates the Offensive Defense debuff and decreases Offensive Defense's Light Shock Wave cooldown -2 sec.<br />Offensive Defense's Light Shock Wave additionally activates <span style=\"font-weight:bold; color:orange;\">Light Wave</span>.<br /><span style=\"font-weight:bold; color:orange;\">Light Wave</span>: Attacks up to 8 enemies at 700% damage 6 times.<br />Cooldown 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51121059_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121059_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121059_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121059_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121059_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121059_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5739604-03:00",
+  "ChangeType": "Changed",
+  "Id": "5301003",
+  "Name": "Monkey Magic",
+  "Job": "Cannon Master",
+  "Desc": "Uses the magic of the monkey to temporarily increase the HP, MP, All Stats, MSPD, and Jump of all nearby party members. Can be stacked with all other buffs.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill, 'Mega Monkey Magic'</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cannonShooter/M/4",
+      "New": "cannonShooter/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "cannonShooter/M/5",
+      "New": "cannonShooter/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "cannonShooter/F/0",
+      "New": "cannonShooter/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cannonShooter/F/1",
+      "New": "cannonShooter/F/1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5301003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5301003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5301003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5301003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5301003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

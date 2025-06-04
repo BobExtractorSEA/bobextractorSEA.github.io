@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9715397-03:00",
+  "ChangeType": "Changed",
+  "Id": "11141003",
+  "Name": "Soluna Power",
+  "Job": "Dawn Warrior",
+  "Desc": "Explodes the power inherent in the united celestial bodies,<br />unleashing blinding sunlight and cold moonlight swords in rapid succession.<br /> Activated on Solar Slash, Lunar Divide, and Soul Cleaving hits<br />while Soluna Power is not on cooldown.<br />Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "additional_process/0": {
+      "Old": null,
+      "New": "80"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

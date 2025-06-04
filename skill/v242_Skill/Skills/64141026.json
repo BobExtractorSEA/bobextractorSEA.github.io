@@ -1,0 +1,78 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.8384078-03:00",
+  "ChangeType": "Added",
+  "Id": "64141026",
+  "Name": "Weapon Arts: Cinderblock Smash VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -370,
+      "y": -355
+    },
+    "rb": {
+      "x": 150,
+      "y": 140
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/64121021": "30",
+    "action/0": "6thNTbrickLast",
+    "common/maxLevel": "30",
+    "common/damage": "585+11*x",
+    "common/attackCount": "7",
+    "common/mobCount": "7",
+    "common/lt/x": -370,
+    "common/lt/y": -355,
+    "common/rb/x": 150,
+    "common/rb/y": 140,
+    "common/range": "500",
+    "common/cancelableTime": "150",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001001",
+    "cancelableSkillID/2": "64001002",
+    "cancelableSkillID/3": "64001007",
+    "cancelableSkillID/4": "64001008",
+    "cancelableSkillID/5": "64001013",
+    "cancelableSkillID/6": "64101001",
+    "cancelableSkillID/7": "64141000",
+    "cancelableSkillID/8": "64141030",
+    "cancelableSkillID/9": "64141031",
+    "cancelableSkillID/10": "64141034",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "trembleEffect/delay": "30",
+    "trembleEffect/force": "6",
+    "trembleEffect/time": "300",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "additional_process/0": "1",
+    "invisible": "1",
+    "processtype": "-1",
+    "id": "64141026",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_cancelableSkill": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141026_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141026_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141026_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

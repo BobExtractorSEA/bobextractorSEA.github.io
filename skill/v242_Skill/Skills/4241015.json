@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0592656-03:00",
+  "ChangeType": "Added",
+  "Id": "4241015",
+  "Name": "Sudden Raid VI",
+  "Job": "Shadower",
+  "Desc": "Calls in a horde of friends to attack enemies. Sudden Raid does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sudden Raid Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -375
+    },
+    "rb": {
+      "x": 400,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "dot": "1",
+    "dotType": "burn",
+    "info2/ignoreCounter": "1",
+    "req/4221010": "30",
+    "action/0": "6thSuddenRaidShadower",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/damage": "530+9*x",
+    "common/attackCount": "7",
+    "common/mobCount": "15",
+    "common/cooltime": "14",
+    "common/dot": "215+x",
+    "common/dotTime": "10",
+    "common/dotInterval": "1",
+    "common/lt/x": -400,
+    "common/lt/y": -375,
+    "common/rb/x": 400,
+    "common/rb/y": 250,
+    "common/prop": "100",
+    "common/attackDelay": "540",
+    "weapon": "33",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "30",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "30",
+    "effectFlash/0/alpha": "10",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "30",
+    "effectFlash/1/alpha": "20",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "30",
+    "effectFlash/2/alpha": "30",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "30",
+    "effectFlash/3/alpha": "40",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "240",
+    "effectFlash/4/alpha": "50",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "30",
+    "effectFlash/5/alpha": "40",
+    "effectFlash/5/color": "0",
+    "effectFlash/6/delay": "30",
+    "effectFlash/6/alpha": "30",
+    "effectFlash/6/color": "0",
+    "effectFlash/7/delay": "30",
+    "effectFlash/7/alpha": "15",
+    "effectFlash/7/color": "0",
+    "id": "4241015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = shadower/M/8 }",
+    "voice/male/path/1": "{ Old = , New = shadower/M/9 }",
+    "voice/female/path/0": "{ Old = , New = shadower/F/12 }",
+    "voice/female/path/1": "{ Old = , New = shadower/F/13 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 800% Damage 7 times.<br />1% DoT every 1 sect. for 10 sec.<br />Cooldown: 14 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4241015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4241015_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/4241015_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4241015_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4241015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0977337-03:00",
+  "ChangeType": "Changed",
+  "Id": "21121005",
+  "Name": "Adrenaline Maximum: Gold Flash",
+  "Job": "Aran",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Gold Flash",
+      "New": "Adrenaline Maximum: Gold Flash"
+    },
+    "common/cooltimeMS": {
+      "Old": "1200",
+      "New": "800"
+    },
+    "hit/randomHit": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21141017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

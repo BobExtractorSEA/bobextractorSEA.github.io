@@ -1,0 +1,104 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.4481395-03:00",
+  "ChangeType": "Changed",
+  "Id": "31211003",
+  "Name": "Refract Evil",
+  "Job": "Demon Avenger",
+  "Desc": "Temporarily gain the ability to ward off evil energy. Increases All Elemental Resistances, Status Resistances and reduces damage taken.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/36",
+      "New": "demonAvenger/M/36"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/37",
+      "New": "demonAvenger/M/37"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/38",
+      "New": "demonAvenger/M/38"
+    },
+    "voice/male/path/3": {
+      "Old": "demonAvenger/M/14",
+      "New": "demonAvenger/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/39",
+      "New": "demonAvenger/F/39"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/40",
+      "New": "demonAvenger/F/40"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/41",
+      "New": "demonAvenger/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31211003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

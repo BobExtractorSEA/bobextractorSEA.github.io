@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0805663-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121341",
+  "Name": "Endless Torment",
+  "Job": "Ark",
+  "Desc": "Opens up an Abyssal Passage to release a barrage over a short period of time, then calls upon the Abyssal Watcher to deliver the final blow. Using the skill turns you into Specter form. Although vigor isn't used while the skill is in use, it can't be used when exhausted, and isn't affected by cooldown reset effects.<br />Endless Pain doesn't affect enemies in the Damage Reflection status, but the Abyssal Watcher's attacks can damage enemies in Ignore Attack and Damage Reflection status.<br />This can be chained with all skills, and chained skills are used in place instead while moving. However, even if the skill is chained with Endless Torment, you can move by using the skill with direction keys.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Hold the key down to attack 5 enemies in front at 360% DAMAGE 3 times for up to 3 sec. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Causes 5 slashes that each attack up to 12 enemies at 420% DAMAGE 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec.",
+      "New": "Key down for up to 3 sec.<br />Periodically attacks up to 5 enemies at 360% Damage 3 times. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Activates 5 slashes that attack up to 12 enemies at 420% Damage 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "Hold the key down to attack 5 enemies in front at 360% DAMAGE 3 times for up to 3 sec. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Causes 5 slashes that each attack up to 12 enemies at 420% DAMAGE 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec.",
+      "New": "Key down for up to 3 sec.<br />Periodically attacks up to 5 enemies at 360% Damage 3 times. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Activates 5 slashes that attack up to 12 enemies at 420% Damage 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "additional_process/5": {
+      "Old": null,
+      "New": "65"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Key down for up to 3 sec.<br />Periodically attacks up to 5 enemies at 360% Damage 3 times. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Activates 5 slashes that attack up to 12 enemies at 420% Damage 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121341_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2161872-03:00",
+  "ChangeType": "Added",
+  "Id": "5141012",
+  "Name": "Serpent Stone VI",
+  "Job": "Buccaneer",
+  "Desc": "Obtain a clue about the power while dealing with the power of the Water Dragon. Uses the power of the Water Dragon through the clue.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "common/maxLevel": "30",
+    "special/repeat": "5",
+    "special0/repeat": "5",
+    "special0/z": "-2",
+    "special0/useZ": "1",
+    "end0/z": "-1",
+    "end0/useZ": "1",
+    "invisible": "1",
+    "id": "5141012"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "special": {
+      "Old": null,
+      "New": "Animations/New/5141012_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/5141012_special0_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/5141012_end_new.webp"
+    },
+    "end0": {
+      "Old": null,
+      "New": "Animations/New/5141012_end0_new.webp"
+    }
+  },
+  "Voices": {}
+}

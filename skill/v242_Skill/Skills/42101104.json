@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4104436-03:00",
+  "ChangeType": "Changed",
+  "Id": "42101104",
+  "Name": "Shikigami Charm",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Charges the feet with the power of yin-yang to stir up a whirlwind and fly backwards. (Direction can be slightly controlled through the direction keys.)",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/3": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42101104_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

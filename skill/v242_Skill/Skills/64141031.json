@@ -1,0 +1,197 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7047557-03:00",
+  "ChangeType": "Added",
+  "Id": "64141031",
+  "Name": "Weapon Arts: Blade Cut VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -130
+    },
+    "rb": {
+      "x": 20,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/64001002": "20",
+    "action/0": "6thNTscimitar",
+    "common/maxLevel": "30",
+    "common/mpCon": "15+d(x/6)",
+    "common/damage": "519+11*x",
+    "common/attackCount": "5",
+    "common/mobCount": "6",
+    "common/cooltime": "4",
+    "common/x": "500",
+    "common/lt/x": -450,
+    "common/lt/y": -130,
+    "common/rb/x": 20,
+    "common/rb/y": 60,
+    "common/cancelableTime": "330",
+    "rush/elem/0/style": "5",
+    "rush/elem/0/time": "630",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "cancelableSkillID/0": "64101001",
+    "cancelableSkillID/1": "64001000",
+    "cancelableSkillID/2": "64001007",
+    "cancelableSkillID/3": "64001008",
+    "cancelableSkillID/4": "64001001",
+    "cancelableSkillID/5": "64141000",
+    "cancelableSkillID/6": "64141034",
+    "teleport/lt/x": -300,
+    "teleport/lt/y": -1,
+    "teleport/rb/x": 0,
+    "teleport/rb/y": 0,
+    "teleport/type": "1",
+    "teleport/startDelay": "330",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "8",
+    "additional_process/2": "9",
+    "additional_process/3": "22",
+    "processtype": "-1",
+    "invisible": "1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141031",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/male/path/5": "{ Old = , New = cadena/M/8 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }",
+    "voice/female/path/5": "{ Old = , New = cadena/F/8 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141031_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141031_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141031_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/64141031_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141031_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141031_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

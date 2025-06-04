@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0393367-03:00",
+  "ChangeType": "Changed",
+  "Id": "63100002",
+  "Name": "Strike Arrow II",
+  "Job": "Kain",
+  "Desc": "Shoots arrows several times in a row after using Strike Arrow to effectively suppress enemies. Temporarily enables you to reuse the skill after using Strike Arrow and also activates Arrow Fragment.<br />Required Skills: <span style=\"font-weight:bold; color:orange;\">Strike Arrow Lv. 20 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 3rd Job skill, Strike Arrow III</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 14 MP and attacks up to 6 enemies at 160% Damage 5 times.<br />[Passive Effects: Strike Arrow Damage +89%p, Arrow Fragment +85%p]",
+      "New": "Consumes 14 MP and attacks up to 6 enemies at 160% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +89%p, Arrow Fragment +85%p]"
+    },
+    "h1": {
+      "Old": "Consumes 14 MP and attacks up to 6 enemies at 160% Damage 5 times.<br />[Passive Effects: Strike Arrow Damage +89%p, Arrow Fragment +85%p]",
+      "New": "Consumes 14 MP and attacks up to 6 enemies at 160% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +89%p, Arrow Fragment +85%p]"
+    }
+  },
+  "HFields": {
+    "h1": "Consumes 14 MP and attacks up to 6 enemies at 160% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +89%p, Arrow Fragment +85%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63100002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

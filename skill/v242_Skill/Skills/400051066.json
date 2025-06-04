@@ -1,0 +1,240 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1038579-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051066",
+  "Name": "Relentless Fury",
+  "Job": "5th (Pirate)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/0",
+      "New": "striker/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/1",
+      "New": "striker/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/2",
+      "New": "striker/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/3",
+      "New": "striker/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/4",
+      "New": "striker/M/4"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/5",
+      "New": "striker/M/5"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/6",
+      "New": "striker/M/6"
+    },
+    "voice/male/path/7": {
+      "Old": "striker/M/7",
+      "New": "striker/M/7"
+    },
+    "voice/male/path/8": {
+      "Old": "striker/M/8",
+      "New": "striker/M/8"
+    },
+    "voice/male/path/9": {
+      "Old": "striker/M/9",
+      "New": "striker/M/9"
+    },
+    "voice/male/path/10": {
+      "Old": "striker/M/10",
+      "New": "striker/M/10"
+    },
+    "voice/male/path/11": {
+      "Old": "striker/M/11",
+      "New": "striker/M/11"
+    },
+    "voice/male/path/12": {
+      "Old": "striker/M/12",
+      "New": "striker/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/11",
+      "New": "striker/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/7",
+      "New": "striker/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/3",
+      "New": "striker/F/3"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/15",
+      "New": "striker/F/15"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/16",
+      "New": "striker/F/16"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/21",
+      "New": "striker/F/21"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051066_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M9": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M9.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M8": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M8.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M10": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M10.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M11": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M11.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M12": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051066_voice_M12.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

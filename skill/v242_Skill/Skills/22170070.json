@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4073592-03:00",
+  "ChangeType": "Changed",
+  "Id": "22170070",
+  "Name": "Reinforced Magical Residue",
+  "Job": "Evan",
+  "Desc": "Generates reinforced magical residue. The Magical Residue can be activated to inflict damage on enemies around Evan. Deals greater damage when more Magical Residue is activated at once. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "115+x",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "3*x",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22201015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22170070_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.8440373-03:00",
+  "ChangeType": "Changed",
+  "Id": "2321052",
+  "Name": "Heaven's Door",
+  "Job": "Bishop",
+  "Desc": "Opens the gateway to Heaven, punishing enemies and giving party members a blessing of life.<br />Heaven's Door cannot be recast on the same party members for a set period.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 500 MP Casts a buff that attacks up to 15 enemies at 670% damage 8 times and provides surrounding party members a one-time protection against 0 HP. <br />Cooldown 60 sec.<br />Heaven's Door cannot be recast on the same party members for 600 sec.",
+      "New": "MP Cost: 500. Attacks up to 15 enemies at 670% Damage 8 times. This also casts a buff on allies, preventing them from dying one time when their HP is reduced to 0.<br />Cooldown: 60 sec.<br />Heaven's Door can't be recast on the same party members for 600 sec."
+    },
+    "h1": {
+      "Old": "Consumes 500 MP Casts a buff that attacks up to 15 enemies at 670% damage 8 times and provides surrounding party members a one-time protection against 0 HP. <br />Cooldown 60 sec.<br />Heaven's Door cannot be recast on the same party members for 600 sec.",
+      "New": "MP Cost: 500. Attacks up to 15 enemies at 670% Damage 8 times. This also casts a buff on allies, preventing them from dying one time when their HP is reduced to 0.<br />Cooldown: 60 sec.<br />Heaven's Door can't be recast on the same party members for 600 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "1200",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "180",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bishop/M/19",
+      "New": "bishop/M/19"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/20",
+      "New": "bishop/M/20"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/19",
+      "New": "bishop/F/19"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/20",
+      "New": "bishop/F/20"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2341011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 500. Attacks up to 15 enemies at 670% Damage 8 times. This also casts a buff on allies, preventing them from dying one time when their HP is reduced to 0.<br />Cooldown: 60 sec.<br />Heaven's Door can't be recast on the same party members for 600 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2321052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

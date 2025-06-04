@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2864702-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021063",
+  "Name": "Gramholder",
+  "Job": "5th (Magician)",
+  "Desc": "Summons a machine warrior that uses the Gods' Weapon, Gram.<br /> The Gramholder prepares to attack in the direction of the boss monster with the highest max HP in its attack range. If there are no boss monsters within the attack range, it prepares to attack in the direction of the most number of enemies.<br />If both right and left have equal priorities, it prepares to attack in the direction of Ilium, and does not change direction once it finishes preparing for attack.<br />When the Crystal charge is fulfilled up to a certain amount during the preparation for attack, it shoots a more powerful sword. The Gramholder does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/18",
+      "New": "illium/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "illium/M/19",
+      "New": "illium/M/19"
+    },
+    "voice/male/path/2": {
+      "Old": "illium/M/20",
+      "New": "illium/M/20"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/18",
+      "New": "illium/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "illium/F/19",
+      "New": "illium/F/19"
+    },
+    "voice/female/path/2": {
+      "Old": "illium/F/20",
+      "New": "illium/F/20"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021063_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021063_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

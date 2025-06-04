@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3594434-03:00",
+  "ChangeType": "Changed",
+  "Id": "5211014",
+  "Name": "Siege Bomber",
+  "Job": "Corsair",
+  "Desc": "Summons a fixed cannon that wildly shoots at surrounding enemies for a set period. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Siege Bomber first targets the enemy with the highest HP within range.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a fixed cannon that wildly shoots at surrounding enemies for a set period. This skill does not affect enemies in the Damage Reflection status. Siege Bomber first targets the enemy with the highest HP within range.",
+      "New": "Summons a fixed cannon that wildly shoots at surrounding enemies for a set period. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Siege Bomber first targets the enemy with the highest HP within range."
+    },
+    "hit/0/pos": {
+      "Old": null,
+      "New": "7"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5211014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

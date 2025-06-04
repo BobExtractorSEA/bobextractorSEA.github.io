@@ -1,0 +1,182 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6294345-03:00",
+  "ChangeType": "Added",
+  "Id": "22200014",
+  "Name": "Breath of Wind VI",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Breath</span>, responds to Evan's magic and shoots from his mouth a fire whirl that can instantly kill enemies. Breath of Wind does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /> This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Wind</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Breath</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Breath of Wind Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/22170066": "30",
+    "dragonAction/0": "6thDragonBreathWind",
+    "common/maxLevel": "30",
+    "common/damage": "223+12*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/x": "30",
+    "common/z": "65",
+    "common/variableRect/0/lt/x": -600,
+    "common/variableRect/0/lt/y": -260,
+    "common/variableRect/0/rb/x": 10,
+    "common/variableRect/0/rb/y": 60,
+    "common/variableRect/0/delay": "360",
+    "common/variableRect/1/lt/x": -600,
+    "common/variableRect/1/lt/y": -260,
+    "common/variableRect/1/rb/x": 10,
+    "common/variableRect/1/rb/y": 60,
+    "common/variableRect/1/delay": "360",
+    "common/variableRect/2/lt/x": -600,
+    "common/variableRect/2/lt/y": -260,
+    "common/variableRect/2/rb/x": 10,
+    "common/variableRect/2/rb/y": 60,
+    "common/variableRect/2/delay": "360",
+    "common/variableRect/3/lt/x": -600,
+    "common/variableRect/3/lt/y": -260,
+    "common/variableRect/3/rb/x": 10,
+    "common/variableRect/3/rb/y": 60,
+    "common/variableRect/3/delay": "360",
+    "common/variableRect/4/lt/x": -600,
+    "common/variableRect/4/lt/y": -260,
+    "common/variableRect/4/rb/x": 10,
+    "common/variableRect/4/rb/y": 60,
+    "common/variableRect/4/delay": "360",
+    "common/variableRect/5/lt/x": -600,
+    "common/variableRect/5/lt/y": -260,
+    "common/variableRect/5/rb/x": 10,
+    "common/variableRect/5/rb/y": 60,
+    "common/variableRect/5/delay": "360",
+    "common/variableRect/6/lt/x": -600,
+    "common/variableRect/6/lt/y": -260,
+    "common/variableRect/6/rb/x": 10,
+    "common/variableRect/6/rb/y": 60,
+    "common/variableRect/6/delay": "360",
+    "common/variableRect/7/lt/x": -600,
+    "common/variableRect/7/lt/y": -260,
+    "common/variableRect/7/rb/x": 10,
+    "common/variableRect/7/rb/y": 60,
+    "common/variableRect/7/delay": "360",
+    "common/mpCon": "80+u(x/3)",
+    "mixSkill/22111017/0": "22170064",
+    "skillList/0": "400021000",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/randomHitAngle": "1",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/randomHitAngle": "1",
+    "hit/3/useZ": "1",
+    "hit/3/z": "1",
+    "hit/3/randomHitOrigin": "30",
+    "hit/3/randomHitAngle": "1",
+    "hit/randomHit": "1",
+    "effect/z": "-1",
+    "special/z": "10",
+    "elemAttr": "f",
+    "id": "22200014",
+    "has_req": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = evan/M/15 }",
+    "voice/male/path/1": "{ Old = , New = evan/M/6 }",
+    "voice/male/path/2": "{ Old = , New = evan/M/5 }",
+    "voice/male/path/3": "{ Old = , New = evan/M/8 }",
+    "voice/female/path/0": "{ Old = , New = evan/F/15 }",
+    "voice/female/path/1": "{ Old = , New = evan/F/6 }",
+    "voice/female/path/2": "{ Old = , New = evan/F/5 }",
+    "voice/female/path/3": "{ Old = , New = evan/F/8 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 90. Attacks up to 8 enemies at 583% Damage 6 times. Lasts for 3.5 sec.<br />Damage +65%p on enemies with 30% or lower HP."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22200014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22200014_hit_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/22200014_effect_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/22200014_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

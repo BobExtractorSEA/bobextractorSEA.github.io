@@ -1,0 +1,225 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.6463896-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121016",
+  "Name": "Weapon Arts: Assault & Battery",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "340+10*x",
+      "New": "233+7*x"
+    },
+    "common/attackCount": {
+      "Old": "9",
+      "New": "13"
+    },
+    "PVPcommon/mpCon": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "255+10*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "PVPcommon/varianceDamage_IncRate": {
+      "Old": "5",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "masterLevel": {
+      "Old": "0",
+      "New": null
+    },
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001001"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001002"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64001001",
+      "New": "64001013"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64141000",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141000"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.378529-03:00",
+  "ChangeType": "Changed",
+  "Id": "63141008",
+  "Name": "Strike Arrow VI",
+  "Job": "Kain",
+  "Desc": "Fires multiple arrows at once to effectively suppress enemies. When the attack hits enemies, arrow fragments scatter and attack additional enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

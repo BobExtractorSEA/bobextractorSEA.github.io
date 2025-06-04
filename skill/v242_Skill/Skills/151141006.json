@@ -1,0 +1,39 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0045048-03:00",
+  "ChangeType": "Added",
+  "Id": "151141006",
+  "Name": "Creation VI",
+  "Job": "Adele",
+  "Desc": "Creates Ether Swords with your current Ether. The number of Ether Swords are automatically adjusted based on the level of current Ether.<br />Ether Swords automatically attack nearby enemies and do not cause you to take damage even when attacking enemies in the Damage Reflection Status. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Creation Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "51",
+    "req/151101006": "10",
+    "action/0": "6thCreation",
+    "common/maxLevel": "30",
+    "common/cooltimeMS": "500",
+    "common/y": "10",
+    "common/w": "780+8*x",
+    "common/z": "1",
+    "common/q": "30",
+    "common/t": "1.5",
+    "weapon": "213",
+    "subWeapon": "35",
+    "id": "151141006",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "When <span style=\"font-weight:bold; color:orange;\">Trigger skills hit</span>, attacks up to 10 enemies at 1020% Damage every 1.5 sec.<br />1 attacks per Ether Sword.<br />Attacks create a 30% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

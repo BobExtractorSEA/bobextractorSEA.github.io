@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.3812451-03:00",
+  "ChangeType": "Added",
+  "Id": "80012651",
+  "Name": "Petite Kalos Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level : 1]Move while riding petite Kalos. Push the Jump key twice while in town to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "effect0/z": "-2",
+    "level/1/hs": "h1",
+    "level/1/mpCon": "10",
+    "level/1/time": "2100000",
+    "level/1/pdd": "10",
+    "level/1/mdd": "10",
+    "level/1/x": "1",
+    "invisible": "1",
+    "disable": "1",
+    "timeLimited": "1",
+    "id": "80012651"
+  },
+  "HFields": {
+    "h1": "DEF: +10, MSPD: 170, Jump: 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80012651_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80012651_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/80012651_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

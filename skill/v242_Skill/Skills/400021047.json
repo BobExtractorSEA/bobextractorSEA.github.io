@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2709058-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021047",
+  "Name": "Black Magic Altar",
+  "Job": "5th (Magician)",
+  "Desc": "Places a black magic altar. If 2 or more altars are placed, the altar activates a curse.<br />The curse begins from the first altar and then moves on to the next altar in an order. The curse attacks any enemies that touches it, but it does not attack the same enemy again until it arrives at the next altar, and the travel time is always the same regardless of the distance between the altars.<br />When additional altars are placed, it can only be placed within a certain range from the last altar that was placed. Enemies that are attacked by the curse are marked with Darkness Emblem.<br />If there are no altars placed, use the skill with [Down] direction key to place 2 altars at once at your character's location and right in front.<br />Black Magic Altar doesn't affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "battlemage/M/63",
+      "New": "battlemage/M/63"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/64",
+      "New": "battlemage/M/64"
+    },
+    "voice/male/path/2": {
+      "Old": "battlemage/M/65",
+      "New": "battlemage/M/65"
+    },
+    "voice/male/path/3": {
+      "Old": "battlemage/M/66",
+      "New": "battlemage/M/66"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/53",
+      "New": "battlemage/F/53"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/54",
+      "New": "battlemage/F/54"
+    },
+    "voice/female/path/2": {
+      "Old": "battlemage/F/55",
+      "New": "battlemage/F/55"
+    },
+    "voice/female/path/3": {
+      "Old": "battlemage/F/56",
+      "New": "battlemage/F/56"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021047_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021047_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

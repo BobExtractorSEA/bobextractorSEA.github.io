@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5794362-03:00",
+  "ChangeType": "Changed",
+  "Id": "152120001",
+  "Name": "Invoke: Javelin II",
+  "Job": "Illium",
+  "Desc": "Enhances Invoke: Javelin. When Invoke: Javelin hits an enemy, it splits into smaller fragments to perform additional attacks.<br />It can be linked with Craft: Orb II and it is not affected by skill enhancement effects for multi-target skills. Javelin and Magic Missile prioritize tracking Boss Monsters with the highest Max HP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Javelin Level 20</span>,<span style=\"font-weight:bold; color:orange;\">Bless Mark Mastery Level 10</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/0": {
+      "Old": null,
+      "New": "152141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152120001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

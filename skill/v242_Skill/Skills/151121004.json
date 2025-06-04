@@ -1,0 +1,66 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3214577-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121004",
+  "Name": "Dike",
+  "Job": "Adele",
+  "Desc": "Rapidly spins the Ether Swords around you to block enemy attacks and attack at the same time. This skill isn't affected by cooldown reset effects.<br />Become immune to critical abnormal status while casting Dike, negating the damage if attacked right after casting and reducing the damage from attack even more afterwards. <span style=\"font-weight:bold; color:orange;\">May be used while using Trigger skills</span>except for Tread.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 150. Skill can be held down for up to 8 sec. During key-down, damage taken -40% including attacks that inflict damage based on Max HP.<br />If you are attacked immediately upon <span style=\"font-weight:bold; color:orange;\">using the skill</span>, damage from the attack is negated and the damage reduction increases to 55% for the duration of holding the key down afterwards.<br />When the skill ends, Cooldown 3.5 sec. for each second left on the key-down time.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>",
+      "New": "MP Cost: 150. Skill can be held down for up to 8 sec. During key-down, Damage TAKEN -40% including attacks that inflict damage based on Max HP.<br />If you're attacked <span style=\"font-weight:bold; color:orange;\">immediately upon using the skill</span>, damage from the attack is negated and the damage reduction increases to 55% for the duration of holding the key down afterward.<br />When the skill ends, cooldown -3.5 sec. for each sec. left on the key-down time.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 150. Skill can be held down for up to 8 sec. During key-down, damage taken -40% including attacks that inflict damage based on Max HP.<br />If you are attacked immediately upon <span style=\"font-weight:bold; color:orange;\">using the skill</span>, damage from the attack is negated and the damage reduction increases to 55% for the duration of holding the key down afterwards.<br />When the skill ends, Cooldown 3.5 sec. for each second left on the key-down time.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>",
+      "New": "MP Cost: 150. Skill can be held down for up to 8 sec. During key-down, Damage TAKEN -40% including attacks that inflict damage based on Max HP.<br />If you're attacked <span style=\"font-weight:bold; color:orange;\">immediately upon using the skill</span>, damage from the attack is negated and the damage reduction increases to 55% for the duration of holding the key down afterward.<br />When the skill ends, cooldown -3.5 sec. for each sec. left on the key-down time.<br />Cooldown: 60 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/34",
+      "New": "adele/M/34"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/35",
+      "New": "adele/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/31",
+      "New": "adele/F/31"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 150. Skill can be held down for up to 8 sec. During key-down, Damage TAKEN -40% including attacks that inflict damage based on Max HP.<br />If you're attacked <span style=\"font-weight:bold; color:orange;\">immediately upon using the skill</span>, damage from the attack is negated and the damage reduction increases to 55% for the duration of holding the key down afterward.<br />When the skill ends, cooldown -3.5 sec. for each sec. left on the key-down time.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7365241-03:00",
+  "ChangeType": "Added",
+  "Id": "1241010",
+  "Name": "Sanctuary VI",
+  "Job": "Paladin",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -440
+    },
+    "rb": {
+      "x": 400,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "10",
+    "req/1221011": "30",
+    "action/0": "6thSanctuary",
+    "common/maxLevel": "30",
+    "common/mobCount": "15",
+    "common/damage": "177+2*x",
+    "common/attackCount": "8",
+    "common/cooltime": "14",
+    "common/updatableTime": "3000",
+    "common/lt/x": -500,
+    "common/lt/y": -440,
+    "common/rb/x": 400,
+    "common/rb/y": 250,
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "180",
+    "multiAttackInfo/2/attackTime": "180",
+    "multiAttackInfo/3/attackTime": "180",
+    "skillList/0": "400011000",
+    "finalAttack/1200002/0": "30",
+    "finalAttack/1200002/1": "32",
+    "finalAttack/1200002/2": "40",
+    "finalAttack/1200002/3": "42",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "35",
+    "additional_process/4": "69",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "108",
+    "psd": "1",
+    "pairskill": "1",
+    "elemAttr": "h",
+    "weapon": "30",
+    "weapon2": "32",
+    "weapon3": "40",
+    "weapon4": "42",
+    "processtype": "-1",
+    "invisible": "1",
+    "id": "1241010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1241010_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/1241010_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1241010_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

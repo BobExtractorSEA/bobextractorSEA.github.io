@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7424074-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141004",
+  "Name": "Wrath of Enreal VI: Spirit Enchant",
+  "Job": "Mercedes",
+  "Desc": "The power of the Ancient Spirit enters the weapon, unleashing Enreal's wrath in all directions. Shares cooldown with Wrath of Enreal.<br />Casts a debuff that temporarily ignores collision when used against Boss monsters. Can be chained with Rising Rush, Stunning Strikes, Unicorn Spike, Spikes Royale, and Lightning Edge.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wrath of Enreal Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/7",
+      "New": "mercedes/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "addAttack/skillPlus/8": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "addAttack/skillPlus/9": {
+      "Old": null,
+      "New": "23141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

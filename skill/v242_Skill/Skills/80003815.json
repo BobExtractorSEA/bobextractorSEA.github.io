@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2809451-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003815",
+  "Name": "NEXT Warm-up: Ignore Monster DEF",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Ignore DEF</span> rate.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up : Monster DEF Ignore",
+      "New": "NEXT Warm-up: Ignore Monster DEF"
+    },
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Monster DEF Ignore</span> stat increases.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">Ignore DEF</span> rate."
+    },
+    "H": {
+      "Old": "Monster DEF Ignore + 20%",
+      "New": "Ignore DEF +20%"
+    },
+    "h1": {
+      "Old": "Monster DEF Ignore + 20%",
+      "New": "Ignore DEF +20%"
+    }
+  },
+  "HFields": {
+    "h1": "Ignore DEF +20%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003815_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

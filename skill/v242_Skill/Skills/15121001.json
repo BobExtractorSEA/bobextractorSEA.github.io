@@ -1,0 +1,207 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.4156453-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121001",
+  "Name": "Annihilation",
+  "Job": "Thunder Breaker",
+  "Desc": "Materializes the power of lightning to deal a fatal blow to the enemy in front. Does not trigger the Lightning buff. Can be linked with all skills except Thunderous Dive and itself. Can link faster with Crashing Wave. The casting motion cannot be canceled by linking with Crashing Wave in midair.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/54",
+      "New": "striker/M/54"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/55",
+      "New": "striker/M/55"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/56",
+      "New": "striker/M/56"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/57",
+      "New": "striker/M/57"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/58",
+      "New": "striker/M/58"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/3",
+      "New": "striker/M/3"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/5",
+      "New": "striker/M/5"
+    },
+    "voice/male/path/7": {
+      "Old": "striker/M/7",
+      "New": "striker/M/7"
+    },
+    "voice/male/path/8": {
+      "Old": "striker/M/12",
+      "New": "striker/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/75",
+      "New": "striker/F/75"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/76",
+      "New": "striker/F/76"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/77",
+      "New": "striker/F/77"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/78",
+      "New": "striker/F/78"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/79",
+      "New": "striker/F/79"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/4",
+      "New": "striker/F/4"
+    },
+    "voice/female/path/6": {
+      "Old": "striker/F/6",
+      "New": "striker/F/6"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M8": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M8.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

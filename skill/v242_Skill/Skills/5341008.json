@@ -1,0 +1,107 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3849827-03:00",
+  "ChangeType": "Added",
+  "Id": "5341008",
+  "Name": "Max Cannon Rainbow",
+  "Job": "Cannon Master",
+  "Desc": "Commands the Cannon Shooter's supporters to summon multiple cannons and concentrate fire on enemies in front. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/5321052": "1",
+    "action/0": "6thRollingCannon",
+    "common/maxLevel": "30",
+    "common/mpCon": "330",
+    "common/damage": "680+44*x",
+    "common/attackCount": "5",
+    "common/time": "10",
+    "common/subTime": "210",
+    "common/mobCount": "10",
+    "common/x": "230",
+    "summon/stand/repeat": "4",
+    "summon/attack1/info/range/lt/x": -650,
+    "summon/attack1/info/range/lt/y": -350,
+    "summon/attack1/info/range/rb/x": 30,
+    "summon/attack1/info/range/rb/y": 100,
+    "summon/attack1/info/mobCount": "10",
+    "summon/attack1/info/attackCount": "5",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "53",
+    "showSummonedBuffIcon": "2",
+    "syncSummonedBuffIcon": "1",
+    "applyHyper": "1",
+    "secondaryStatFreezeExcept": "1",
+    "invisible": "1",
+    "id": "5341008",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = cannonShooter/M/37 }",
+    "voice/male/path/1": "{ Old = , New = cannonShooter/M/38 }",
+    "voice/female/path/0": "{ Old = , New = cannonShooter/F/33 }",
+    "voice/female/path/1": "{ Old = , New = cannonShooter/F/34 }",
+    "voice/female/path/2": "{ Old = , New = cannonShooter/F/14 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5341008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5341008_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5341008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

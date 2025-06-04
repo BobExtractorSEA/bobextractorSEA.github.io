@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.9500155-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061000",
+  "Name": "Holy Unity",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Ties another party member nearby to self by sacred powers. The last tied party member is tied first.<br />Specific attack and buff skills you use are cast together with the bonded member. The bond automatically connects to the nearest party member that approaches you if there is no one else bonding.<br />If the party member moves away too far, or if Holy Unity is canceled, the bond also breaks and removes all of Paladin's buffs that were applied to that party member. Paladin and his party members are excluded.<br />You can select a party member to bond with using a number key if you use the skill again while the skill lasts. A number is assigned to each party member according to the location at the party UI. You cannot select a party member that is already bonded or cannot be bonded.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "paladin/M/12",
+      "New": "paladin/M/12"
+    },
+    "voice/male/path/1": {
+      "Old": "paladin/M/13",
+      "New": "paladin/M/13"
+    },
+    "voice/female/path/0": {
+      "Old": "paladin/F/28",
+      "New": "paladin/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "paladin/F/29",
+      "New": "paladin/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "paladin/F/30",
+      "New": "paladin/F/30"
+    },
+    "voice/female/path/3": {
+      "Old": "paladin/F/31",
+      "New": "paladin/F/31"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7447467-03:00",
+  "ChangeType": "Changed",
+  "Id": "101101100",
+  "Name": "Flash Cut",
+  "Job": "Zero",
+  "Desc": "Forcefully swing your long sword to attack multiple enemies in front of you.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/40",
+      "New": "zero/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/12",
+      "New": "zero/F/12"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/14",
+      "New": "zero/F/14"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/20",
+      "New": "zero/F/20"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/1",
+      "New": "zero/F/1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141021"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101101100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101101100_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101101100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101101100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101101100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101101100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

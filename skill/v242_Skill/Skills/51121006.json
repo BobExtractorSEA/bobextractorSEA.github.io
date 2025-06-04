@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1859009-03:00",
+  "ChangeType": "Changed",
+  "Id": "51121006",
+  "Name": "Roiling Soul",
+  "Job": "Mihile",
+  "Desc": "Focuses the power of Soul into sword and shield, allowing Mihile to attack enemies in a concentrated manner and increasing his offensive capabilities. Increases the Darkness chance of all Soul Light skills. Also, permanently increases FINAL DAMAGE.<br />Increases Orbital Flame I's moving distance.Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mikhail/M/87",
+      "New": "mikhail/M/87"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/88",
+      "New": "mikhail/M/88"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/54",
+      "New": "mikhail/M/54"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/55",
+      "New": "mikhail/M/55"
+    },
+    "voice/male/path/4": {
+      "Old": "mikhail/M/42",
+      "New": "mikhail/M/42"
+    },
+    "skillList/14": {
+      "Old": null,
+      "New": "51141013"
+    },
+    "skillList/15": {
+      "Old": null,
+      "New": "51141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_51121006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

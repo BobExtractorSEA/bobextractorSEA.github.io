@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.674268-03:00",
+  "ChangeType": "Added",
+  "Id": "2241008",
+  "Name": "Thunder Sphere VI",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Summons a ball of condensed lightning.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "condition": "attack",
+    "req/2211011": "20",
+    "action/0": "6thThunderSphere",
+    "common/maxLevel": "30",
+    "common/mpCon": "55+d(x/3)",
+    "common/cooltime": "30",
+    "common/damage": "407+6*x",
+    "common/time": "60",
+    "common/subTime": "1080",
+    "common/u2": "170+d(x/3)",
+    "summon/attack1/info/range/lt/x": -270,
+    "summon/attack1/info/range/lt/y": -350,
+    "summon/attack1/info/range/rb/x": 270,
+    "summon/attack1/info/range/rb/y": 80,
+    "summon/attack1/info/attackAfter": "60",
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "3",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "10",
+    "hit/0/randomHitAngle": "1",
+    "elemAttr": "l",
+    "weapon": "37",
+    "weapon2": "38",
+    "showSummonedBuffIcon": "2",
+    "invisible": "1",
+    "maintainSplitSummoned": "1",
+    "skillList/0": "400021000",
+    "secondaryStatFreezeExcept": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "2241008",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = archMageTC/M/3 }",
+    "voice/male/path/1": "{ Old = , New = archMageTC/M/27 }",
+    "voice/male/path/2": "{ Old = , New = archMageTC/M/35 }",
+    "voice/male/path/3": "{ Old = , New = archMageTC/M/39 }",
+    "voice/female/path/0": "{ Old = , New = archMageTC/F/3 }",
+    "voice/female/path/1": "{ Old = , New = archMageTC/F/27 }",
+    "voice/female/path/2": "{ Old = , New = archMageTC/F/29 }",
+    "voice/female/path/3": "{ Old = , New = archMageTC/F/39 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2241008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2241008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3403737-03:00",
+  "ChangeType": "Changed",
+  "Id": "5201012",
+  "Name": "Summon Crew",
+  "Job": "Corsair",
+  "Desc": "Summons a crew member of the Nautilus. The summoned member moves freely, firing bullets that track enemies, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. A crew first targets the enemy with the highest HP within range.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a crew member of the Nautilus. The summoned crewman moves of their own accord, shooting bullets to chase enemies, and does not affect enemies in the Damage Reflection status. A crew first targets the enemy with the highest HP within range.",
+      "New": "Summons a crew member of the Nautilus. The summoned member moves freely, firing bullets that track enemies, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. A crew first targets the enemy with the highest HP within range."
+    },
+    "skillList/12": {
+      "Old": "5221052",
+      "New": "5221026"
+    },
+    "skillList/13": {
+      "Old": "400051006",
+      "New": "5221052"
+    },
+    "skillList/14": {
+      "Old": "400051021",
+      "New": "400051006"
+    },
+    "skillList/15": {
+      "Old": "400051040",
+      "New": "400051021"
+    },
+    "skillList/16": {
+      "Old": "400051073",
+      "New": "400051040"
+    },
+    "skillList/17": {
+      "Old": "5241000",
+      "New": "400051073"
+    },
+    "skillList/18": {
+      "Old": "5241001",
+      "New": "5241000"
+    },
+    "skillList/19": {
+      "Old": "5241500",
+      "New": "5241001"
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/22",
+      "New": "captain/M/22"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/23",
+      "New": "captain/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/24",
+      "New": "captain/F/24"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/25",
+      "New": "captain/F/25"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "5241500"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "5241005"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "5241006"
+    },
+    "skillList/23": {
+      "Old": null,
+      "New": "5241007"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "5241008"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "5241017"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "5241018"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5201012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5201012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5201012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5201012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5201012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

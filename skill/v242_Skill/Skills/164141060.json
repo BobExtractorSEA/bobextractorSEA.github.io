@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.3442068-03:00",
+  "ChangeType": "Added",
+  "Id": "164141060",
+  "Name": "Fist Method: Sucking Vortex VI",
+  "Job": "Hoyoung",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -7791,
+      "y": -6223
+    },
+    "rb": {
+      "x": 8193,
+      "y": 2188
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/164121008": "30",
+    "common/maxLevel": "30",
+    "common/x": "5",
+    "common/lt/x": -7791,
+    "common/lt/y": -6223,
+    "common/rb/x": 8193,
+    "common/rb/y": 2188,
+    "processtype": "-1",
+    "invisible": "1",
+    "weapon": "29",
+    "subWeapon": "35",
+    "additional_process/0": "17",
+    "id": "164141060",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164141060_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

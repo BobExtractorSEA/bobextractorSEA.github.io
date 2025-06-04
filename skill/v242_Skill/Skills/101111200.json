@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8101301-03:00",
+  "ChangeType": "Changed",
+  "Id": "101111200",
+  "Name": "Rolling Cross",
+  "Job": "Zero",
+  "Desc": "Spins at very high speed, leaping forward and up, cutting through enemies in your path.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/46",
+      "New": "zero/M/46"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/47",
+      "New": "zero/M/47"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/6",
+      "New": "zero/M/6"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/7",
+      "New": "zero/M/7"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/8",
+      "New": "zero/M/8"
+    },
+    "voice/male/path/5": {
+      "Old": "zero/M/25",
+      "New": "zero/M/25"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101110200"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101111200_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101111200_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

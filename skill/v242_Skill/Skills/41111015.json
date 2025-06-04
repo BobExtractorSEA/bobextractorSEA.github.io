@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2266444-03:00",
+  "ChangeType": "Changed",
+  "Id": "41111015",
+  "Name": "Dankuusen",
+  "Job": "Hayato",
+  "Desc": "Dashes forward, attacking multiple enemies in his path. Use immediately after Shouryuusen to move toward airborne enemies. The <span style=\"font-weight:bold; color:orange;\">5th step in the 8-step Battoujutsu Combo sequence.</span> <br /><span style=\"font-weight:bold; color:orange;\">Chainable Skills: Shouryuusen, Surging Blade, Sweeping Sword, Whirlwind Cut, Sanrenzan, Hitokiri Strike, Falcon Dive and Rising Slash</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/12": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41111015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

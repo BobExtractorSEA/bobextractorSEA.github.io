@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4447967-03:00",
+  "ChangeType": "Changed",
+  "Id": "162120005",
+  "Name": "Absorption: Sound of Wind",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>, <span style=\"font-weight:bold; color:orange;\">Absorption Skill</span><br />When Spirit Sprinkling hits, the Aero Spirit quietly shows up to create a sound of wind that continuously attacks enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When Spirit Sprinkling hits for 90 sec, the Sound of Wind is created at one of the locations where the enemy was hit. Sound of Wind attacks up to 6 enemies with 250% damage for 3 times.<br />Cooldown: 2.5 sec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Sound of Wind is created at one of the locations where the enemy was hit, and continuously attacks up to 6 enemies at 250% Damage 3 times.<br />Cooldown: 2.5 sec."
+    },
+    "h1": {
+      "Old": "When Spirit Sprinkling hits for 90 sec, the Sound of Wind is created at one of the locations where the enemy was hit. Sound of Wind attacks up to 6 enemies with 250% damage for 3 times.<br />Cooldown: 2.5 sec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Sound of Wind is created at one of the locations where the enemy was hit, and continuously attacks up to 6 enemies at 250% Damage 3 times.<br />Cooldown: 2.5 sec."
+    },
+    "common/u": {
+      "Old": "7",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "When Spirit Sprinkling hits for 90 sec., the Sound of Wind is created at one of the locations where the enemy was hit, and continuously attacks up to 6 enemies at 250% Damage 3 times.<br />Cooldown: 2.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162120005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

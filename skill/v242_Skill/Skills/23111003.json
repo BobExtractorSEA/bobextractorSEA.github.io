@@ -1,0 +1,120 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6291496-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111003",
+  "Name": "Gust Dive",
+  "Job": "Mercedes",
+  "Desc": "Using the power of wind, quickly land from the air and attack multiple enemies around you. Requires 120 Jump. Perfectly resists Knockback for its duration. Can be chained with Rising Rush, Stunning Strikes, Leaf Tornado, Unicorn Spike, Spikes Royale, Lightning Edge, and Wrath of Enreal.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45, Damage: 280%, Number of Attacks: 4, Max Enemies Hit: 6",
+      "New": "MP Cost: 45. Attack up to 6 enemies at 280% Damage 4 times."
+    },
+    "Ph": {
+      "Old": "MP Cost: 45, Damage: 280%, Number of Attacks: 4, Max Enemies Hit: 6 <br />Cooldown: <span style=\"font-weight:bold; color:orange;\">ooltime sec</span>",
+      "New": "MP Cost: 45. Attacks up to 6 enemies at 280% damage 4 time(s).<br />Cooldown: <span style=\"font-weight:bold; color:orange;\">ooltime sec.</span>"
+    },
+    "h1": {
+      "Old": "MP Cost: 45, Damage: 280%, Number of Attacks: 4, Max Enemies Hit: 6",
+      "New": "MP Cost: 45. Attack up to 6 enemies at 280% Damage 4 times."
+    },
+    "common/y": {
+      "Old": "x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "25+5*u(x/5)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "95+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "27+4*u(x/3)",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mercedes/M/8",
+      "New": "mercedes/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "addAttack/skillPlus/16": {
+      "Old": null,
+      "New": "23141011"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "23141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Attack up to 6 enemies at 280% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": "Animations/Old/23111003_effect0_old.webp",
+      "New": null
+    },
+    "special": {
+      "Old": "Animations/Old/23111003_special_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

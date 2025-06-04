@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.587085-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001477",
+  "Name": "Reflective Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily amplifies a portion of all damage taken and reflects it. This skill isn't affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001477_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

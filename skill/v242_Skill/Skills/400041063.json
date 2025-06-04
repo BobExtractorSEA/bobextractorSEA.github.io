@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7739544-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041063",
+  "Name": "Mystic Energy: Illusion of Heaven, Earth and Human",
+  "Job": "5th (Thief)",
+  "Desc": "Become enlightened in the magical arts to create special illusions that can create a chain of different elements. When any direct attack skill by Ho Young hits an enemy (except False/True Skills), an illusion appears and attacks with a non-chained elemental attack to complete the chain.<br />While the active effect is applied, <span style=\"font-weight:bold; color:orange;\">reaching Elemental Chain Lv.3</span> resets one of the Heave/Earth/Human magic. If an element is selected, that element's skill cooldown is prioritized.<br />Mystic Energy: Illusion of Heaven, Earth and Human does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041063_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

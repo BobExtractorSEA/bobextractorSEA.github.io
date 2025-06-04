@@ -1,0 +1,153 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4233017-03:00",
+  "ChangeType": "Added",
+  "Id": "5341012",
+  "Name": "Monkey's Fury VI",
+  "Job": "Cannon Master",
+  "Desc": "Fires a special elastic cannonball that coats enemies ahead of you with gunpowder, dealing damage over time. Increases damage taken from Cannon Shooter's skills. Use the skill again to instantly detonate the bomb.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Monkey's Fury Lv. 20</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -196,
+      "y": -110
+    },
+    "rb": {
+      "x": 0,
+      "y": 10
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "req/5311010": "20",
+    "action/0": "6thMonkeyFurious",
+    "common/maxLevel": "30",
+    "common/mpCon": "70",
+    "common/damage": "194+4*x",
+    "common/mobCount": "10",
+    "common/attackCount": "3",
+    "common/prop": "100",
+    "common/cooltime": "10",
+    "common/dot": "216+4*x",
+    "common/dotInterval": "1",
+    "common/dotTime": "60",
+    "common/s": "7",
+    "common/v": "9",
+    "common/z": "40+d(x/2)",
+    "common/time": "5000",
+    "common/x": "120",
+    "common/y": "40",
+    "common/lt/x": -196,
+    "common/lt/y": -110,
+    "common/rb/x": 0,
+    "common/rb/y": 10,
+    "common/w": "420",
+    "common/s2": "-127",
+    "common/u2": "-95",
+    "common/w2": "5",
+    "common/s3": "194+4*x",
+    "common/u3": "10",
+    "common/w3": "3",
+    "effect/z": "-1",
+    "ball/radius": "35",
+    "ball/z": "-2",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "weapon": "53",
+    "finalAttack/5310004/0": "53",
+    "id": "5341012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 4,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = cannonShooter/M/27 }",
+    "voice/male/path/1": "{ Old = , New = cannonShooter/M/28 }",
+    "voice/male/path/2": "{ Old = , New = cannonShooter/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cannonShooter/M/1 }",
+    "voice/female/path/0": "{ Old = , New = cannonShooter/F/23 }",
+    "voice/female/path/1": "{ Old = , New = cannonShooter/F/24 }",
+    "voice/female/path/2": "{ Old = , New = cannonShooter/F/3 }"
+  },
+  "HFields": {
+    "h1": "MP 70. Attacks up to 10 enemies at 314% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">propA % chance of 336% DoT every 1 sec. for 60 sec. Damage +55% to the attacked enemies.</span><br /><span style=\"font-weight:bold; color:orange;\">Reuse the skill to instantly detonate and attack up to 10 enemies at 314% Damage 3 times.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec. If no enemy is hit, cooldown -5 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5341012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5341012_effect_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/5341012_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5341012_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/5341012_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5341012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

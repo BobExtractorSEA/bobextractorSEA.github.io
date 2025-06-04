@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7878044-03:00",
+  "ChangeType": "Changed",
+  "Id": "400004304",
+  "Name": "Twilight Nova Enhancement",
+  "Job": "5th",
+  "Desc": "Enhances Twilight Nova.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max Targets +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Morning Star Enhancement",
+      "New": "Twilight Nova Enhancement"
+    },
+    "Desc": {
+      "Old": "Enhances Morning Star.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max attackable target count +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Increases Monster defense rate ignorance by 20%</span>",
+      "New": "Enhances Twilight Nova.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Max Targets +1</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>"
+    },
+    "H": {
+      "Old": "Final Damage of Morning Star +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>",
+      "New": "Twilight Nova Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+    },
+    "h1": {
+      "Old": "Final Damage of Morning Star +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>",
+      "New": "Twilight Nova Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+    }
+  },
+  "HFields": {
+    "h1": "Twilight Nova Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400004304_icon.png",
+    "IconPathOld": "Icons/Old/v241_400004304_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

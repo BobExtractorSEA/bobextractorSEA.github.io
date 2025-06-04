@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.530421-03:00",
+  "ChangeType": "Changed",
+  "Id": "1310018",
+  "Name": "Beholder Shock II",
+  "Job": "Dark Knight",
+  "Desc": "Reinforces the Beholder shock, allowing you to use more powerful attacks.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Beholder Shock or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 effect: Can learn the 4th Job Skill, Beholder's Revenge</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with 90% chance of Stunning them for 5 sec.<br />Cooldown: 12 sec.",
+      "New": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec. on hit.<br />Cooldown: 12 sec."
+    },
+    "h1": {
+      "Old": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with 90% chance of Stunning them for 5 sec.<br />Cooldown: 12 sec.",
+      "New": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec. on hit.<br />Cooldown: 12 sec."
+    }
+  },
+  "HFields": {
+    "h1": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec. on hit.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1310018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9768189-03:00",
+  "ChangeType": "Changed",
+  "Id": "61120047",
+  "Name": "Inferno Breath - Ignore Guard",
+  "Job": "Kaiser",
+  "Desc": "Increases Inferno Breath's Ignore Monster DEF.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Inferno Breath - Burn",
+      "New": "Inferno Breath - Ignore Guard"
+    },
+    "Desc": {
+      "Old": "Increases the duration of Inferno Breath's flames.",
+      "New": "Increases Inferno Breath's Ignore Monster DEF."
+    },
+    "H": {
+      "Old": "Flame Duration +10 sec.",
+      "New": "Ignore DEF +20%"
+    },
+    "h1": {
+      "Old": "Flame Duration +10 sec.",
+      "New": "Ignore DEF +20%"
+    },
+    "common/time": {
+      "Old": "10",
+      "New": null
+    },
+    "common/ignoreMobpdpR": {
+      "Old": null,
+      "New": "20"
+    },
+    "psd": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Ignore DEF +20%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61120047_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

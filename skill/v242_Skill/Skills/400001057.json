@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8420962-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001057",
+  "Name": "Princess Sakuno's Blessing",
+  "Job": "5th",
+  "Desc": "Princess Sakuno's Blessing protects you against status effects and increases final damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/2"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001057_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001057_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001057_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

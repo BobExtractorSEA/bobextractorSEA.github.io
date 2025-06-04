@@ -1,0 +1,52 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.0031782-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003458",
+  "Name": "Tangyoon's Cooking: Authentic Force",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Authentic Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Authentic Force</span> quest after the 6th Job Advancement.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pidoll's Special Syrup: Normal Monster Damage",
+      "New": "Tangyoon's Cooking: Authentic Force"
+    },
+    "Desc": {
+      "Old": "Increases <span style=\"font-weight:bold; color:orange;\">damage on normal monsters</span>.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">Authentic Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Authentic Force</span> quest after the 6th Job Advancement."
+    },
+    "H": {
+      "Old": "Damage +20% on Normal monsters.",
+      "New": "Authentic Force +60"
+    },
+    "h1": {
+      "Old": "Damage +20% on Normal monsters.",
+      "New": "Authentic Force +60"
+    },
+    "common/maxLevel": {
+      "Old": "3",
+      "New": "6"
+    },
+    "common/nbdR": {
+      "Old": "5*x+5*(d(x/3))",
+      "New": null
+    },
+    "common/autX": {
+      "Old": null,
+      "New": "10*x"
+    }
+  },
+  "HFields": {
+    "h1": "Authentic Force +60"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003458_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003458_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

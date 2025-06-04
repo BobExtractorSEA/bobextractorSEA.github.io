@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2144536-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011138",
+  "Name": "Tachyons Slash",
+  "Job": "5th (Warrior)",
+  "Desc": "Use an ultimate sword skill to slash the enemies, leaving behind a flash of light. This skill can be activated even while using other skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/24": {
+      "Old": null,
+      "New": "41141005"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011138_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

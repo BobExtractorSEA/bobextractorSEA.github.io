@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9560397-03:00",
+  "ChangeType": "Changed",
+  "Id": "25001007",
+  "Name": "Mark of Protection",
+  "Job": "Shade",
+  "Desc": "Fox God's blessing temporarily increases ASPD.<br />Also, permanently increases ATT and DAMAGE. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/19",
+      "New": "eunwol/M/19"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/20",
+      "New": "eunwol/M/20"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/29",
+      "New": "eunwol/M/29"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/30",
+      "New": "eunwol/M/30"
+    },
+    "voice/male/path/4": {
+      "Old": "eunwol/M/31",
+      "New": "eunwol/M/31"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/10",
+      "New": "eunwol/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/22",
+      "New": "eunwol/F/22"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/29",
+      "New": "eunwol/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/30",
+      "New": "eunwol/F/30"
+    },
+    "voice/female/path/4": {
+      "Old": "eunwol/F/31",
+      "New": "eunwol/F/31"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25001007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25001007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

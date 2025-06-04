@@ -1,0 +1,51 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6849587-03:00",
+  "ChangeType": "Added",
+  "Id": "12141012",
+  "Name": "Phoenix Drive VI",
+  "Job": "Blaze Wizard",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "req/12121054": "1",
+    "common/maxLevel": "30",
+    "common/damage": "335+13*x",
+    "common/attackCount": "2",
+    "common/mobCount": "8",
+    "common/y": "120",
+    "common/u": "50",
+    "common/x": "50",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "invisible": "1",
+    "elemAttr": "f",
+    "id": "12141012",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/12141012_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

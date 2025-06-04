@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3161389-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121000",
+  "Name": "Infernal Concussion",
+  "Job": "Demon Slayer",
+  "Desc": "Inflicts lethal damage exploding the dark energy. The explosive damage achieves 100% Critical damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/16",
+      "New": "demonSlayer/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/18",
+      "New": "demonSlayer/M/18"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/39",
+      "New": "demonSlayer/M/39"
+    },
+    "voice/male/path/3": {
+      "Old": "demonSlayer/M/40",
+      "New": "demonSlayer/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/41",
+      "New": "demonSlayer/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/42",
+      "New": "demonSlayer/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/4",
+      "New": "demonSlayer/F/4"
+    },
+    "voice/female/path/3": {
+      "Old": "demonSlayer/F/3",
+      "New": "demonSlayer/F/3"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/2": {
+      "Old": null,
+      "New": "31141017"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

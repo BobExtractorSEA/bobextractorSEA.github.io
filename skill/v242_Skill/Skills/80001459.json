@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.4524922-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001459",
+  "Name": "Mana Cut Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily decreases Max MP and Ignores certain amount of DEF Rate. This skill isn't affected by Cooldown Reset effects and can't be used by classes that do not use MP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001459_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

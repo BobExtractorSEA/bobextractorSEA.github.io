@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7650869-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141007",
+  "Name": "Leaf Tornado VI",
+  "Job": "Mercedes",
+  "Desc": "Enables you to spin in midair while shooting arrows in all four directions. Only available in the air, this skill requires a certain height, and even <span style=\"font-weight:bold; color:orange;\">higher when used with Gust Dive</span>. <br />Periodically casts the power of the Ancient Spirit, enhancing to <span style=\"font-weight:bold; color:orange;\">Leaf Tornado VI: Spirit Enchant</span>.<br />Can be chained with Gust Dive, Spikes Royale, and Wrath of Enreal.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Leaf Tornado Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/0",
+      "New": "mercedes/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "mercedes/M/2",
+      "New": "mercedes/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/2",
+      "New": "mercedes/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/3",
+      "New": "mercedes/F/3"
+    },
+    "voice/female/path/2": {
+      "Old": "mercedes/F/4",
+      "New": "mercedes/F/4"
+    },
+    "addAttack/skillPlus/7": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

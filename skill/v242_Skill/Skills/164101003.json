@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.5691703-03:00",
+  "ChangeType": "Changed",
+  "Id": "164101003",
+  "Name": "Phantasmal Clone Talisman",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms a talisman into a clone and attacks the enemy from all sides. Summons a clone that attacks surrounding enemies when you attack.<br />Installation skills or attacks by summoners don't summon the clone.<span style=\"font-weight:bold; color:orange;\">Phantasmal Clone Talisman does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms a talisman into a clone and attacks the enemy from all sides. Summons a clone that attacks surrounding enemies when you attack.<br />Installation skills or attacks by summoners do not summon the clone.<br /><br /><span style=\"font-weight:bold; color:orange;\">Phantasmal Clone Talisman does not trigger returning damage from enemies with Damage Reflection and prioritizes tracking Boss monsters with the highest Max HP.</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms a talisman into a clone and attacks the enemy from all sides. Summons a clone that attacks surrounding enemies when you attack.<br />Installation skills or attacks by summoners don't summon the clone.<span style=\"font-weight:bold; color:orange;\">Phantasmal Clone Talisman does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>"
+    },
+    "H": {
+      "Old": "Talisman Power cost: 100. Summons 3 clones when you attack for 200 sec. Each clone attacks 4 times at 60% damage. +20% damage to normal monsters.<br />Clones can't be summoned for 1.5 sec. after being summoned once.",
+      "New": "Talisman Power Cost: 100. Summons 3 clones when you attack for 200 sec.<br />Each clone attacks at 60% Damage 4 times. Normal Monster Damage +20%.<br />Clones can't be re-summoned for 1.5 sec."
+    },
+    "h1": {
+      "Old": "Talisman Power cost: 100. Summons 3 clones when you attack for 200 sec. Each clone attacks 4 times at 60% damage. +20% damage to normal monsters.<br />Clones can't be summoned for 1.5 sec. after being summoned once.",
+      "New": "Talisman Power Cost: 100. Summons 3 clones when you attack for 200 sec.<br />Each clone attacks at 60% Damage 4 times. Normal Monster Damage +20%.<br />Clones can't be re-summoned for 1.5 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/8",
+      "New": "HoYoung/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/8",
+      "New": "HoYoung/F/8"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "164141054"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Talisman Power Cost: 100. Summons 3 clones when you attack for 200 sec.<br />Each clone attacks at 60% Damage 4 times. Normal Monster Damage +20%.<br />Clones can't be re-summoned for 1.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_164101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164101003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164101003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

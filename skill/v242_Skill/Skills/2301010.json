@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5593344-03:00",
+  "ChangeType": "Changed",
+  "Id": "2301010",
+  "Name": "Angelic Touch",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Sends down Angel and presents the Hand of Angel to the enemy. Enemies hit by Angel get weak, and their DEF rate decreases for a certain period of time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/3",
+      "New": "bishop/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/33",
+      "New": "bishop/M/33"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/41",
+      "New": "bishop/M/41"
+    },
+    "voice/male/path/3": {
+      "Old": "bishop/M/43",
+      "New": "bishop/M/43"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/3",
+      "New": "bishop/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/34",
+      "New": "bishop/F/34"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/39",
+      "New": "bishop/F/39"
+    },
+    "voice/female/path/3": {
+      "Old": "bishop/F/42",
+      "New": "bishop/F/42"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2341007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2301010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6941261-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001040",
+  "Name": "Spider in Mirror",
+  "Job": "5th",
+  "Desc": "Connects reality with the Mirror World to briefly summon the Mirror Spider.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001040_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

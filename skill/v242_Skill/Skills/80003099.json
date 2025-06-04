@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6790596-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003099",
+  "Name": "World Map Teleport (Thunder Flower Fox)",
+  "Job": "Etc",
+  "Desc": "World Map Teleport skill can be used while riding the Thunder Flower Fox Mount.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "ableTeleportWorldmap": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003099_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

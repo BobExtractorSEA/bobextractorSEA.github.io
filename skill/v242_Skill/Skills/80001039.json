@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8292764-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001039",
+  "Name": "Pegasus Riding",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Ride on a Pegasus that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Ride a Pegasus that can use the Double Jump skill to move <span style=\"font-weight:bold; color:orange;\">very quickly</span>. <span style=\"font-weight:bold; color:orange;\">Double-click the destination on the World Map</span> to fly there automatically. (Auto Pilot is only available on some continents, including Victoria Island. <span style=\"font-weight:bold; color:orange;\">Buy a Flight Permit from Instructor Irvin</span> to use the Smart Mount on more continents.)",
+      "New": "[Master Level: 1]<br />Ride on a Pegasus that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001039_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

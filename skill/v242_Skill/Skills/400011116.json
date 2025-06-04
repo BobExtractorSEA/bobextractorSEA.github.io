@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1318074-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011116",
+  "Name": "Phantasmal Wave",
+  "Job": "5th (Warrior)",
+  "Desc": "Launch a powerful attack to create a phantasmal shockwave that sweeps across the enemies. Image's attacks do not affect enemies in the Damage Reflection status. Skill can be canceled by using it again.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "blaster/M/44",
+      "New": "blaster/M/44"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/45",
+      "New": "blaster/M/45"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/51",
+      "New": "blaster/F/51"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/52",
+      "New": "blaster/F/52"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "37141009"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "37141010"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "37141011"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "37141015"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011116_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011116_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011116_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011116_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011116_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7672737-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041061",
+  "Name": "Explosive Shuriken",
+  "Job": "5th (Thief)",
+  "Desc": "Throw a shuriken attached with an explosive talisman. The talisman explodes with a delay if the shuriken hits and deals additional damage to nearby enemies. The explosion does not affect enemies with the Damage Reflection effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightLord/M/40",
+      "New": "nightLord/M/40"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/41",
+      "New": "nightLord/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/48",
+      "New": "nightLord/F/48"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/49",
+      "New": "nightLord/F/49"
+    },
+    "skillList/9": {
+      "Old": null,
+      "New": "4141005"
+    },
+    "skillList/10": {
+      "Old": null,
+      "New": "4141009"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "4141010"
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "4141013"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041061_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041061_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041061_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041061_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041061_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

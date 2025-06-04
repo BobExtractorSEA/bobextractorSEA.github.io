@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1966405-03:00",
+  "ChangeType": "Changed",
+  "Id": "22000015",
+  "Name": "Dragon Spark",
+  "Job": "Evan",
+  "Desc": "After using Evan's direct Attack skills, there's a chance for Mir to execute additional attacks.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 2nd Job skill, Advanced Dragon Spark.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "After using Evan's direct attack skills, there's a chance of using Mir to perform additional attacks.",
+      "New": "After using Evan's direct Attack skills, there's a chance for Mir to execute additional attacks.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 2nd Job skill, Advanced Dragon Spark.</span>"
+    },
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Dragon Spark with 100% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Advanced Dragon Spark that attacks at 100% Damage"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Dragon Spark with 100% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Advanced Dragon Spark that attacks at 100% Damage"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22200016"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "22110021"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Advanced Dragon Spark that attacks at 100% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22000015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

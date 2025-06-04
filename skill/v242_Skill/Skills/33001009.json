@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.7510372-03:00",
+  "ChangeType": "Changed",
+  "Id": "33001009",
+  "Name": "Summon Jaguar",
+  "Job": "Wild Hunter",
+  "Desc": "Summons a Jaguar to aid in combat. The Jaguar attacks your target first. You can command Jaguars to use <span style=\"font-weight:bold; color:orange;\">Jaguar skills</span>. Use Jaguar Mount to ride the Jaguar.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/q": {
+      "Old": "0",
+      "New": null
+    },
+    "common/q2": {
+      "Old": "0",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "33141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_33001009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

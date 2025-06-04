@@ -1,0 +1,150 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7449361-03:00",
+  "ChangeType": "Added",
+  "Id": "2341007",
+  "Name": "Angelic Touch VI",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Sends down an angel to present the Hand of Angel to enemies and creates a holy relic where it touches, weakening enemies over time.<br />Enemies hit by the angel or affected by the relic are weakened, losing DEF for a while.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Heal Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -330
+    },
+    "rb": {
+      "x": 100,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "31",
+    "massSpell": "1",
+    "magicDamage": "1",
+    "damagetoUndead": "1",
+    "req/2301002": "20",
+    "action/0": "6thAngelicTouch",
+    "common/maxLevel": "30",
+    "common/mpCon": "24+d(x/8)",
+    "common/damage": "350+8*x",
+    "common/mobCount": "6",
+    "common/attackCount": "7",
+    "common/lt/x": -480,
+    "common/lt/y": -330,
+    "common/rb/x": 100,
+    "common/rb/y": 120,
+    "common/time": "60",
+    "common/x": "-44",
+    "common/cooltime": "10",
+    "common/u": "44",
+    "common/s": "90",
+    "common/subTime": "10",
+    "common/q": "10",
+    "effect/fix": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "20",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "processtype": "-1",
+    "additional_process/0": "1",
+    "id": "2341007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = bishop/M/3 }",
+    "voice/male/path/1": "{ Old = , New = bishop/M/33 }",
+    "voice/male/path/2": "{ Old = , New = bishop/M/41 }",
+    "voice/male/path/3": "{ Old = , New = bishop/M/43 }",
+    "voice/female/path/0": "{ Old = , New = bishop/F/3 }",
+    "voice/female/path/1": "{ Old = , New = bishop/F/34 }",
+    "voice/female/path/2": "{ Old = , New = bishop/F/39 }",
+    "voice/female/path/3": "{ Old = , New = bishop/F/42 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 27. Attacks up to 6 enemies at 590% Damage 7 times.<br />Attacked enemies receive a debuff that decreases DEF by 44% for 60 sec.<br />Creates a holy relic where the angel attacks.<br /><span style=\"font-weight:bold; color:orange;\">Holy Relic</span>: Summoned for 90 sec. Applies the same debuff as Angelic Touch to up to 10 enemies for 10 sec. Can't stack with the Angelic Touch debuff.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2341007_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2341007_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/2341007_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

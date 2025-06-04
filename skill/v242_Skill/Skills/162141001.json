@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.53304-03:00",
+  "ChangeType": "Changed",
+  "Id": "162141001",
+  "Name": "Dragon Vein VI",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />Erupts the power dormant in the Dragon Vein by consuming the nearby Dragon Vein. Nature Spirits that correspond to the element with which Dragon Vein is imbued play by remaining at the place where they erupted.<br /><span style=\"font-weight:bold; color:orange;\">If an Eruption Skill or the Absorption Skill of the same element is activated while an Eruption Skill is already live, the original Eruption Skill ends.</span><br />Eruption Skills prioritize free Dragon Veins. If there is no free Dragon Veins, the skill consumes the closest Dragon Vein first. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Stance 100% is applied while casting.<br />While duration of the Eruption skill is not increased by SUMMONS DURATION INCREASE, the power becomes stronger in proportion. Also, permanently increases the Final Damage of the Absorption skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lord of the Moon Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />Erupts the power dormant in the Dragon Vein by consuming the nearby Dragon Vein. Nature Spirits that correspond to the element with which Dragon Vein is imbued play by remaining at the place where they erupted.<br /><span style=\"font-weight:bold; color:orange;\">If an Eruption Skill or the Absorption Skill of the same element is activated while an Eruption Skill is already live, the original Eruption Skill ends.</span><br />Eruption Skills prioritize free Dragon Veins. If there is no free Dragon Veins, the skill consumes the closest Dragon Vein first. Does not affect enemies in the Damage Reflection status. STANCE 100% is applied while casting.<br />While duration of the Eruption skill is not increased by the increase of Summon Duration, the power becomes stronger in proportion.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lord of the Moon Lv. 10 or higher</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />Erupts the power dormant in the Dragon Vein by consuming the nearby Dragon Vein. Nature Spirits that correspond to the element with which Dragon Vein is imbued play by remaining at the place where they erupted.<br /><span style=\"font-weight:bold; color:orange;\">If an Eruption Skill or the Absorption Skill of the same element is activated while an Eruption Skill is already live, the original Eruption Skill ends.</span><br />Eruption Skills prioritize free Dragon Veins. If there is no free Dragon Veins, the skill consumes the closest Dragon Vein first. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Stance 100% is applied while casting.<br />While duration of the Eruption skill is not increased by SUMMONS DURATION INCREASE, the power becomes stronger in proportion. Also, permanently increases the Final Damage of the Absorption skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lord of the Moon Lv. 10 or higher</span>"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

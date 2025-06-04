@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6649508-03:00",
+  "ChangeType": "Changed",
+  "Id": "152141502",
+  "Name": "Unlimited Crystal",
+  "Job": "Illium",
+  "Desc": "The Unlimited Crystal resonates with crystal reaction.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "additional_process/4": {
+      "Old": null,
+      "New": "68"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.1966438-03:00",
+  "ChangeType": "Changed",
+  "Id": "63120102",
+  "Name": "[Revelation] Falling Dust",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revelation Skill]</span><br />Great malice hits enemies again after a shock wave is generated. Only in the shock wave, Death Blessing grants the blessing of death, and Malice does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 95 MP to attack up to 12 enemies at 515% Damage 10 times and gushes out Malice to attack up to 15 enemies at 370% Damage 15 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 14 sec</span>",
+      "New": "MP Cost: 95. Attacks up to 12 enemies at 515% Damage 10 times and gushes out Malice to attack up to 15 enemies at 370 Damage 15 more times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 14 sec.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 95 MP to attack up to 12 enemies at 515% Damage 10 times and gushes out Malice to attack up to 15 enemies at 370% Damage 15 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 14 sec</span>",
+      "New": "MP Cost: 95. Attacks up to 12 enemies at 515% Damage 10 times and gushes out Malice to attack up to 15 enemies at 370 Damage 15 more times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 14 sec.</span>"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 95. Attacks up to 12 enemies at 515% Damage 10 times and gushes out Malice to attack up to 15 enemies at 370 Damage 15 more times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 14 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63120102_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,131 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7626165-03:00",
+  "ChangeType": "Added",
+  "Id": "37141011",
+  "Name": "Shockwave Drive VI",
+  "Job": "Blaster",
+  "Desc": "Delivers a corkscrew blow. Can be chained to Charging Arm: Bobbing, Charging Arm: Weaving, and Burning Breaker.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shockwave Drive Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -215
+    },
+    "rb": {
+      "x": 100,
+      "y": 115
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/37121000": "30",
+    "action/0": "6thShockWavePunch",
+    "common/maxLevel": "30",
+    "common/mpCon": "71+d(x/3)",
+    "common/damage": "195+4*x",
+    "common/attackCount": "6",
+    "common/mobCount": "6",
+    "common/lt/x": -400,
+    "common/lt/y": -215,
+    "common/rb/x": 100,
+    "common/rb/y": 115,
+    "common/nbdR": "230+5*x",
+    "rwCancelInfo/0/skill": "37101001",
+    "rwCancelInfo/0/cancelFrame": "4",
+    "rwCancelInfo/1/skill": "37111003",
+    "rwCancelInfo/1/cancelFrame": "4",
+    "rwCancelInfo/2/skill": "400011091",
+    "rwCancelInfo/2/cancelFrame": "4",
+    "skillList/0": "400011000",
+    "finalAttack/37000007/0": "58",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "58",
+    "subWeapon": "35",
+    "psd": "1",
+    "id": "37141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "20",
+    "voice/male/count": 3,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = blaster/M/3 }",
+    "voice/male/path/1": "{ Old = , New = blaster/M/8 }",
+    "voice/male/path/2": "{ Old = , New = blaster/M/21 }",
+    "voice/female/path/0": "{ Old = , New = blaster/F/7 }",
+    "voice/female/path/1": "{ Old = , New = blaster/F/9 }",
+    "voice/female/path/2": "{ Old = , New = blaster/F/11 }",
+    "voice/female/path/3": "{ Old = , New = blaster/F/28 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 81. Attacks up to 6 enemies at 315% Damage 6 times.<br />Normal Monster Damage +380%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/37141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/37141011_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

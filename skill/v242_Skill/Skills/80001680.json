@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.9641983-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001680",
+  "Name": "Pierre's Hat",
+  "Job": "Etc",
+  "Desc": "Pierre the Weird Monster throws his hat in all directions. The power of a Soul Weapon summons Pierre and Pierre throws his hat to stun nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001680_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2440548-03:00",
+  "ChangeType": "Changed",
+  "Id": "22110021",
+  "Name": "Advanced Dragon Spark",
+  "Job": "Evan",
+  "Desc": "After using Evan's direct Attack skills, there's a chance for Mir to execute additional attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "After using Evan's direct attack skills, there's a chance for Mir to execute additional enhanced attacks. ",
+      "New": "After using Evan's direct Attack skills, there's a chance for Mir to execute additional attacks."
+    },
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 100% chance of casting Dragon Spark with 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 100% chance of Advanced Dragon Spark that attacks at 150% Damage"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 100% chance of casting Dragon Spark with 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 100% chance of Advanced Dragon Spark that attacks at 150% Damage"
+    },
+    "req/22000015": {
+      "Old": null,
+      "New": "10"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22200016"
+    },
+    "has_req": {
+      "Old": null,
+      "New": "True"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 100% chance of Advanced Dragon Spark that attacks at 150% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22110021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,95 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2883664-03:00",
+  "ChangeType": "Changed",
+  "Id": "4121016",
+  "Name": "Sudden Raid",
+  "Job": "Night Lord",
+  "Desc": "Calls in a horde of friends to attack enemies. Sudden Raid is not affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 290. Consumes 1 throwing star. Attacks up to 15 enemies at 494% damage 7 times. 1% DoT every 1 sec. for 10 sec. Cooldown: 30 sec.",
+      "New": "Cost: 290 MP and 1 throwing star. Attacks up to 15 enemies at 494% Damage 7 times.<br />1% DoT every 1 for 10 sec.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 290. Consumes 1 throwing star. Attacks up to 15 enemies at 494% damage 7 times. 1% DoT every 1 sec. for 10 sec. Cooldown: 30 sec.",
+      "New": "Cost: 290 MP and 1 throwing star. Attacks up to 15 enemies at 494% Damage 7 times.<br />1% DoT every 1 for 10 sec.<br />Cooldown: 30 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "35+5*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "595+10*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "60-2*d(x/2)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "nightLord/M/11",
+      "New": "nightLord/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/17",
+      "New": "nightLord/F/17"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 290 MP and 1 throwing star. Attacks up to 15 enemies at 494% Damage 7 times.<br />1% DoT every 1 for 10 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1580896-03:00",
+  "ChangeType": "Changed",
+  "Id": "5110018",
+  "Name": "Serpent Assault",
+  "Job": "Buccaneer",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Assault Skill]</span><br />Attacks within a wide range with the powerful wave of Double Dragon. Does not affect enemies in the Damage Reflection state.<br />SP is not invested in the skill and can be used <span style=\"font-weight:bold; color:orange;\">when Serpent Stone skill is learned</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "extraSkillInfo/2/skill": {
+      "Old": null,
+      "New": "5141013"
+    },
+    "extraSkillInfo/2/delay": {
+      "Old": null,
+      "New": "240"
+    },
+    "extraSkillInfo/3/skill": {
+      "Old": null,
+      "New": "5141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5110018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

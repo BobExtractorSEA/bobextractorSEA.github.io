@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2431771-03:00",
+  "ChangeType": "Changed",
+  "Id": "151101005",
+  "Name": "Booster",
+  "Job": "Adele",
+  "Desc": "Temporarily increases Tuner ASPD by 2 levels at the cost of MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Mastery Lv. 5 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

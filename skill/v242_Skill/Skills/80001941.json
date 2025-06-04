@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.5499705-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001941",
+  "Name": "Scouter Skill",
+  "Job": "Etc",
+  "Desc": "Enables you to use the Scouter skill.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "",
+      "New": "Cooldown: 5 sec"
+    },
+    "h1": {
+      "Old": null,
+      "New": "Cooldown: 5 sec"
+    }
+  },
+  "HFields": {
+    "h1": "Cooldown: 5 sec"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001941_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

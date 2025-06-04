@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2093824-03:00",
+  "ChangeType": "Changed",
+  "Id": "35121053",
+  "Name": "Will of Liberty",
+  "Job": "Mechanic",
+  "Desc": "Draw power and inspiration from the resistance's dream of a free and liberated Maple World.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_35121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

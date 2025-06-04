@@ -1,0 +1,77 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3101194-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121001",
+  "Name": "Grave",
+  "Job": "Adele",
+  "Desc": "Embeds a Death Mark on the enemy with a cursed sword to weaken the enemy and target with Ether Swords, Shards, and Marker.<br />Using this skill again when there already is an enemy with the Death Mark, or embedding another enemy with Death Mark when skill is on cooldown, removes the mark.<br />Grave prioritizes attacking the enemy with highest Max HP within range and isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Order Lv. 20 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 5th Job Skill, Infinite</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 150. Attacks up to 1 enemies at 220% DAMAGE 10 times.<br />Additional IGNORE DEF +10% against enemies with the Death Mark.<br />If there is a marked enemy within range of ordered Ether Swords and Ether Swords, Shards, or Marker created from Infinite, attacks are focused upon that enemy.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 150. Attacks 1 enemies at 220% Damage 10 times.<br />Additional Ignore DEF +10% against enemies with the Death Mark.<br />If there is a marked enemy within range of ordered Ether Swords and Ether Swords, Shards, or Marker created from Infinite, attacks are focused upon that enemy.<br />Cooldown: 10 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 150. Attacks up to 1 enemies at 220% DAMAGE 10 times.<br />Additional IGNORE DEF +10% against enemies with the Death Mark.<br />If there is a marked enemy within range of ordered Ether Swords and Ether Swords, Shards, or Marker created from Infinite, attacks are focused upon that enemy.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 150. Attacks 1 enemies at 220% Damage 10 times.<br />Additional Ignore DEF +10% against enemies with the Death Mark.<br />If there is a marked enemy within range of ordered Ether Swords and Ether Swords, Shards, or Marker created from Infinite, attacks are focused upon that enemy.<br />Cooldown: 10 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/32",
+      "New": "adele/M/32"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/33",
+      "New": "adele/M/33"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/29",
+      "New": "adele/F/29"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/30",
+      "New": "adele/F/30"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 150. Attacks 1 enemies at 220% Damage 10 times.<br />Additional Ignore DEF +10% against enemies with the Death Mark.<br />If there is a marked enemy within range of ordered Ether Swords and Ether Swords, Shards, or Marker created from Infinite, attacks are focused upon that enemy.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

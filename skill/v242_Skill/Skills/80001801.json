@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.3897287-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001801",
+  "Name": "Palm Wind",
+  "Job": "Etc",
+  "Desc": "Dragon Rider shoots his palm energy to the front. The power of Soul Weapon summons Dragon Rider who gives damage to a certain area of the front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001801_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

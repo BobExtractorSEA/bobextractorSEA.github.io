@@ -1,0 +1,121 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1197019-03:00",
+  "ChangeType": "Added",
+  "Id": "152141014",
+  "Name": "Invoke: Longinus VI",
+  "Job": "Illium",
+  "Desc": "Draws and throws the Spear of God, Longinus. Longinus flies towards the Crystal, and deals massive damage to all enemies along its path. If there is no Crystal, it flies straight forward.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Longinus Lv. 30 or above</span>  \t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/152121004": "30",
+    "action/0": "6thLonginus",
+    "common/maxLevel": "30",
+    "common/damage": "950+28*x",
+    "common/mobCount": "10",
+    "common/attackCount": "12",
+    "common/cooltime": "15",
+    "common/mpCon": "150+x",
+    "common/cr": "100",
+    "common/x": "3",
+    "common/range": "1000",
+    "common/bdR": "20",
+    "common/u": "2",
+    "common/u2": "3",
+    "common/s": "20",
+    "addAttack/skill": "152001001",
+    "addAttack/type": "0",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skipActionFrame": "3",
+    "addAttack/patternType": "1",
+    "addAttack/permitTime": "450",
+    "addAttack/isCancelable": "1",
+    "addAttack/skillPlus/0": "152120003",
+    "addAttack/skillPlus/1": "152141000",
+    "addAttack/skillPlus/2": "152141002",
+    "addAttack/skillPlus/3": "152001002",
+    "addAttack/skillPlus/4": "152141004",
+    "addAttack/skillPlus/5": "152141005",
+    "addAttack/skillPlus/6": "152110004",
+    "addAttack/ignoreSetAddAttackDoingSkill/0": "80001155",
+    "addAttack/ignoreSetAddAttackDoingSkill/1": "80002633",
+    "addAttack/ignoreSetAddAttackDoingSkill/2": "152121010",
+    "addAttack/ignoreSetAddAttackDoingSkill/3": "152121043",
+    "addAttack/ignoreSetAddAttackDoingSkill/4": "400001009",
+    "shootobj/info/startDelay": "600",
+    "shootobj/info/start/x": -5,
+    "shootobj/info/start/y": -35,
+    "shootobj/info/bodyWH/x": 280,
+    "shootobj/info/bodyWH/y": 220,
+    "shootobj/info/DestSummonedID/0": "152101000",
+    "shootobj/info/noHitWhenMaxCount": "1",
+    "shootobj/info/deleteAlpha": "1",
+    "shootobj/info/deleteAlphaDelay": "-780",
+    "shootobj/moveList/p1/0/pos/x": -1000,
+    "shootobj/moveList/p1/0/pos/y": 0,
+    "shootobj/moveList/p1/0/v": "120",
+    "shootobj/moveList/p1/0/delay": "60",
+    "shootobj/moveList/p1/0/destSummoned": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "weapon": "28",
+    "subWeapon": "35",
+    "psd": "1",
+    "id": "152141014",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = illium/M/8 }",
+    "voice/female/path/0": "{ Old = , New = illium/F/8 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 180.<br />Attacks up to 10 enemies at 1790% Damage 12 times.<br />Hitting an enemy or the Crystal creates 2 Crystal Fragments of Invoke: Javelin VI and 3 Glorious Crystal Fragments of Glory Wing: Javelin VI.<br />Boss Monster Damage +20%. Additional Critical Rate: 100%.<br />During Crystal Skill: Glory Wing, additional Boss Monster Damage +20%<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/152141014_effect_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/152141014_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152141014_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/152141014_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

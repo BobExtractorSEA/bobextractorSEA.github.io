@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5306173-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221054",
+  "Name": "Untiring Nectar",
+  "Job": "Corsair",
+  "Desc": "The spirit of the captain enhances his body, temporarily strengthens his summons, and increases ASPD.<br />Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

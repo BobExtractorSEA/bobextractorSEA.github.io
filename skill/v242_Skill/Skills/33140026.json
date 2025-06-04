@@ -1,0 +1,43 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4527539-03:00",
+  "ChangeType": "Added",
+  "Id": "33140026",
+  "Name": "Final Attack VI",
+  "Job": "Wild Hunter",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Crossbow equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Final Attack Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/33120011": "30",
+    "common/maxLevel": "30",
+    "common/damage": "410+8*x",
+    "common/prop": "71",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "skillType": "3",
+    "id": "33140026",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 71% chance of Final Attack that attacks at 650% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33140026_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/33140026_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

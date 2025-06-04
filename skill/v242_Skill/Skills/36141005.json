@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3801532-03:00",
+  "ChangeType": "Changed",
+  "Id": "36141005",
+  "Name": "Hologram Graffiti: Stationmaster VI",
+  "Job": "Xenon",
+  "Desc": "Activates a Hologram Field to create an energy ball that causes damage to enemies in the field whenever it hits the field. Energy ball also does not affect enemies in the Damage Reflection status. You can change your mode through Multi Mode Linker.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hologram Graffiti Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/62",
+      "New": "xenon/M/62"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/63",
+      "New": "xenon/M/63"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/64",
+      "New": "xenon/M/64"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/61",
+      "New": "xenon/F/61"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/62",
+      "New": "xenon/F/62"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/63",
+      "New": "xenon/F/63"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "applyHighSkillSummonBonusTime": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

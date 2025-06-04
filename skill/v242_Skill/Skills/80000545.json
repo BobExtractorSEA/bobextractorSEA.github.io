@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8102448-03:00",
+  "ChangeType": "Changed",
+  "Id": "80000545",
+  "Name": "Challengers",
+  "Job": "Etc",
+  "Desc": "A special ability only applied in Challengers Worlds.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Burning",
+      "New": "Challengers"
+    },
+    "Desc": {
+      "Old": "Special talent that can be only used in Burning World.",
+      "New": "A special ability only applied in Challengers Worlds."
+    },
+    "H": {
+      "Old": "EXP Gain x1.5<br />ATT/MATT +50<br />Damage to Normal Monsters +30%<br />Damage to Boss Monsters +30%<br />Critical Rate +30%<br />Critical Damage +30%<br />Stance +100%<br />All Stats +50<br />Max HP/MP +2500",
+      "New": "EXP Obtained x1.5 times<br />ATT/MATT +50<br />Normal Monster Damage +30%<br />Boss Monster Damage +30%<br />Ignore DEF +30%<br />Critical Rate +30%<br />Critical Damage +30%<br />Buff duration +30%<br />Stance increased to 100%<br />All Stats +50<br />Max HP/MP +2,500"
+    },
+    "h1": {
+      "Old": "EXP Gain x1.5<br />ATT/MATT +50<br />Damage to Normal Monsters +30%<br />Damage to Boss Monsters +30%<br />Critical Rate +30%<br />Critical Damage +30%<br />Stance +100%<br />All Stats +50<br />Max HP/MP +2500",
+      "New": "EXP Obtained x1.5 times<br />ATT/MATT +50<br />Normal Monster Damage +30%<br />Boss Monster Damage +30%<br />Ignore DEF +30%<br />Critical Rate +30%<br />Critical Damage +30%<br />Buff duration +30%<br />Stance increased to 100%<br />All Stats +50<br />Max HP/MP +2,500"
+    },
+    "common/ignoreMobpdpR": {
+      "Old": null,
+      "New": "30"
+    },
+    "common/bufftimeR": {
+      "Old": null,
+      "New": "30"
+    }
+  },
+  "HFields": {
+    "h1": "EXP Obtained x1.5 times<br />ATT/MATT +50<br />Normal Monster Damage +30%<br />Boss Monster Damage +30%<br />Ignore DEF +30%<br />Critical Rate +30%<br />Critical Damage +30%<br />Buff duration +30%<br />Stance increased to 100%<br />All Stats +50<br />Max HP/MP +2,500"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80000545_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

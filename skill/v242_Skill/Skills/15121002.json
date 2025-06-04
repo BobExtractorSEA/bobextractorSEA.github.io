@@ -1,0 +1,174 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.4241681-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121002",
+  "Name": "Bolt Anchor",
+  "Job": "Thunder Breaker",
+  "Desc": "Invokes the power of Bolt that annihilates enemies in the vicinity. Can be linked with all skills except Thunderous Dive and itself. Can link faster with Crashing Wave.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/59",
+      "New": "striker/M/59"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/60",
+      "New": "striker/M/60"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/61",
+      "New": "striker/M/61"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/1",
+      "New": "striker/M/1"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/2",
+      "New": "striker/M/2"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/8",
+      "New": "striker/M/8"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/10",
+      "New": "striker/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/80",
+      "New": "striker/F/80"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/81",
+      "New": "striker/F/81"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/82",
+      "New": "striker/F/82"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/8",
+      "New": "striker/F/8"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/11",
+      "New": "striker/F/11"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/16",
+      "New": "striker/F/16"
+    },
+    "addAttack/skillPlus/11": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/12": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

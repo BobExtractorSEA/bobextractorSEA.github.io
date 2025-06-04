@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0478806-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121007",
+  "Name": "Entrancing Confinement",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "155141033"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

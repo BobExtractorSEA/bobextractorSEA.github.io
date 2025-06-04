@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.4424278-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121005",
+  "Name": "Speed Infusion",
+  "Job": "Thunder Breaker",
+  "Desc": "Increases ASPD of you and your party members. Can be used in conjunction with other Boosters. Enhances Sea Wave.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Knuckle Booster Lv. 5 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/3",
+      "New": "striker/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/6",
+      "New": "striker/M/6"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/8",
+      "New": "striker/M/8"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/14",
+      "New": "striker/M/14"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/16",
+      "New": "striker/M/16"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/15",
+      "New": "striker/F/15"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/19",
+      "New": "striker/F/19"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/21",
+      "New": "striker/F/21"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

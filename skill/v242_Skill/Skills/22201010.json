@@ -1,0 +1,126 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5987311-03:00",
+  "ChangeType": "Added",
+  "Id": "22201010",
+  "Name": "Circle of Wind VI",
+  "Job": "Evan",
+  "Desc": "Calls forth a twister that pushes enemies backward with damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Circle of Wind Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -420,
+      "y": -210
+    },
+    "rb": {
+      "x": 0,
+      "y": 35
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "pushTarget": "1",
+    "magicDamage": "1",
+    "req/22111011": "10",
+    "action/0": "6thEVcircleWind",
+    "specialAction/0": "6thEVcircleWindMix",
+    "common/maxLevel": "30",
+    "common/mobCount": "6",
+    "common/damage": "460+9*x",
+    "common/attackCount": "5",
+    "common/mpCon": "40+u(x/5)",
+    "common/x": "450",
+    "common/lt/x": -420,
+    "common/lt/y": -210,
+    "common/rb/x": 0,
+    "common/rb/y": 35,
+    "finalAttack/22110021/0": "37",
+    "finalAttack/22110021/1": "38",
+    "skillList/0": "400021000",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "15",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "37",
+    "weapon2": "38",
+    "id": "22201010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = evan/M/0 }",
+    "voice/male/path/1": "{ Old = , New = evan/M/1 }",
+    "voice/male/path/2": "{ Old = , New = evan/M/2 }",
+    "voice/female/path/0": "{ Old = , New = evan/F/0 }",
+    "voice/female/path/1": "{ Old = , New = evan/F/1 }",
+    "voice/female/path/2": "{ Old = , New = evan/F/2 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 46. Attacks up to 6 enemies at 730% Damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/22201010_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/22201010_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22201010_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1170551-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011122",
+  "Name": "Blizzard Tempest",
+  "Job": "5th (Warrior)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/26": {
+      "Old": null,
+      "New": "21141009"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "21141010"
+    },
+    "skillList/28": {
+      "Old": null,
+      "New": "21141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011122_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

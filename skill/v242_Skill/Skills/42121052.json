@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6737207-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121052",
+  "Name": "Veritable Pandemonium",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Unleash the power of the Clay Yaksha: Boss, which crushes all impure beings around her, bringing them to their knees and binding them.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kanna/M/0",
+      "New": "kanna/M/0"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/0",
+      "New": "kanna/F/0"
+    },
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

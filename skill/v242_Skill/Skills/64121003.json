@@ -1,0 +1,291 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.6378837-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121003",
+  "Name": "Weapon Arts: Assault & Battery",
+  "Job": "Cadena",
+  "Desc": "Summons a spiked bat to mercilessly strike down on the head. Can be used 3 times in a row, and can be used while moving forward with the directional key. Using an attack skill during the consecutive usage prevents further uses. Enemies hit by Needle Bat are temporarily inflicted with <span style=\"font-weight:bold; color:orange;\">Confusion</span>. Prevents being knocked back by any attack while casting a skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variety III Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 40.<br />1st Hit: Attacks up to 8 enemies at 495% damage 8 times.<br />2nd Hit: Attacks up to 8 enemies at 640% damage 7 times.<br />3rd Hit: Attacks up to 10 enemies at 915% damage 8 times.<br />While attacking, it has 100% chance to inflict Confusion for 30 sec, decreasing target's ATT -20%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 12 sec.</span>",
+      "New": "MP Cost: 40<br />1-hit: Attacks up to 8 enemies at 330% Damage 12 times.<br />2nd Hit: Attacks up to 8 enemies at 443% Damage 13 times<br />3rd Hit: Attacks up to 10 enemies at 653% Damage 14 times.<br />Attacks create a 100% chance of Confusion for 30 sec., decreasing enemy ATT -20%.<br />Cooldown: 12 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 40.<br />1st Hit: Attacks up to 8 enemies at 495% damage 8 times.<br />2nd Hit: Attacks up to 8 enemies at 640% damage 7 times.<br />3rd Hit: Attacks up to 10 enemies at 915% damage 8 times.<br />While attacking, it has 100% chance to inflict Confusion for 30 sec, decreasing target's ATT -20%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 12 sec.</span>",
+      "New": "MP Cost: 40<br />1-hit: Attacks up to 8 enemies at 330% Damage 12 times.<br />2nd Hit: Attacks up to 8 enemies at 443% Damage 13 times<br />3rd Hit: Attacks up to 10 enemies at 653% Damage 14 times.<br />Attacks create a 100% chance of Confusion for 30 sec., decreasing enemy ATT -20%.<br />Cooldown: 12 sec."
+    },
+    "common/damage": {
+      "Old": "195+10*x",
+      "New": "120+7*x"
+    },
+    "common/attackCount": {
+      "Old": "8",
+      "New": "12"
+    },
+    "common/x": {
+      "Old": "200",
+      "New": null
+    },
+    "common/y": {
+      "Old": "340+10*x",
+      "New": "233+7*x"
+    },
+    "common/w": {
+      "Old": "615+10*x",
+      "New": "443+7*x"
+    },
+    "common/q": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "150+10*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "200",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "255+10*x",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "415+10*x",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/s2": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/q": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "12",
+      "New": null
+    },
+    "PVPcommon/varianceDamage_IncRate": {
+      "Old": "5",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001001"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001002"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64001001",
+      "New": "64001013"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64141000",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "common/u2": {
+      "Old": null,
+      "New": "8"
+    },
+    "common/u3": {
+      "Old": null,
+      "New": "13"
+    },
+    "common/w2": {
+      "Old": null,
+      "New": "10"
+    },
+    "common/w3": {
+      "Old": null,
+      "New": "14"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141000"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141008"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 40<br />1-hit: Attacks up to 8 enemies at 330% Damage 12 times.<br />2nd Hit: Attacks up to 8 enemies at 443% Damage 13 times<br />3rd Hit: Attacks up to 10 enemies at 653% Damage 14 times.<br />Attacks create a 100% chance of Confusion for 30 sec., decreasing enemy ATT -20%.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

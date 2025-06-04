@@ -1,0 +1,184 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7284055-03:00",
+  "ChangeType": "Added",
+  "Id": "1241007",
+  "Name": "Sanctuary VI",
+  "Job": "Paladin",
+  "Desc": "Strikes the ground with a giant hammer, causing a shockwave that attacks multiple enemies. <br />Sanctuary VI inflicts extra damages on Boss Monster and prevents any Knockback effect from enemy attacks while being cast. Inflicts the Holy Stigma of Divine Judgment on enemies hit. Also, permanently increases the Damage of Blast VI and Divine Judgment VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sanctuary Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -440
+    },
+    "rb": {
+      "x": 400,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "10",
+    "req/1221011": "30",
+    "action/0": "6thSanctuary",
+    "common/maxLevel": "30",
+    "common/mpCon": "60+x",
+    "common/mobCount": "15",
+    "common/damage": "177+2*x",
+    "common/attackCount": "8",
+    "common/x": "4",
+    "common/y": "20+2*x",
+    "common/z": "230+6*x",
+    "common/bdR": "30",
+    "common/cooltime": "14",
+    "common/updatableTime": "3000",
+    "common/lt/x": -500,
+    "common/lt/y": -440,
+    "common/rb/x": 400,
+    "common/rb/y": 250,
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "180",
+    "multiAttackInfo/2/attackTime": "180",
+    "multiAttackInfo/3/attackTime": "180",
+    "skillList/0": "400011000",
+    "finalAttack/1200002/0": "30",
+    "finalAttack/1200002/1": "32",
+    "finalAttack/1200002/2": "40",
+    "finalAttack/1200002/3": "42",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "trembleEffect/delay": "390",
+    "trembleEffect/force": "7",
+    "trembleEffect/time": "690",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "35",
+    "additional_process/4": "69",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "108",
+    "psd": "1",
+    "pairskill": "1",
+    "elemAttr": "h",
+    "weapon": "30",
+    "weapon2": "32",
+    "weapon3": "40",
+    "weapon4": "42",
+    "processtype": "-1",
+    "id": "1241007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = paladin/M/29 }",
+    "voice/male/path/1": "{ Old = , New = paladin/M/30 }",
+    "voice/male/path/2": "{ Old = , New = paladin/M/5 }",
+    "voice/male/path/3": "{ Old = , New = paladin/M/7 }",
+    "voice/male/path/4": "{ Old = , New = paladin/M/8 }",
+    "voice/female/path/0": "{ Old = , New = paladin/F/19 }",
+    "voice/female/path/1": "{ Old = , New = paladin/F/20 }",
+    "voice/female/path/2": "{ Old = , New = paladin/F/8 }",
+    "voice/female/path/3": "{ Old = , New = paladin/F/9 }",
+    "voice/female/path/4": "{ Old = , New = paladin/F/10 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 90. Activates 4 shock waves that attack up to 15 enemies at 237% Damage 8 times. Boss Monster Damage +30%.<br />Cooldown: 14 sec.<br />[Passive Effects: Blast VI Damage +80%p and Divine Judgment VI Damage +410%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1241007_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/1241007_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1241007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1241007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

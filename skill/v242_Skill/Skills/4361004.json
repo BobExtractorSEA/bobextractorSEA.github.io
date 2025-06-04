@@ -1,0 +1,131 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1334425-03:00",
+  "ChangeType": "Added",
+  "Id": "4361004",
+  "Name": "Furious Jet",
+  "Job": "Dual Blade",
+  "Desc": "With the complete power of the secret technique of the Secret Flower Garden's tornado, quickly thrusts out swords with both hands to sweep away the surrounding enemies.<br />When using a custom command, use the skill with the Up key to activate Furious Jet.<br />Also, permanently enhances Phantom Blow VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blade Fury Lv. 30 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -430,
+      "y": -250
+    },
+    "rb": {
+      "x": 260,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/4341004": "30",
+    "action/0": "6thFuriousZ",
+    "common/maxLevel": "30",
+    "common/mpCon": "80+d(x/7)",
+    "common/cooltime": "6",
+    "common/lt/x": -430,
+    "common/lt/y": -250,
+    "common/rb/x": 260,
+    "common/rb/y": 80,
+    "common/damage": "380+7*x",
+    "common/attackCount": "6",
+    "common/mobCount": "12",
+    "common/x": "12+x",
+    "finalAttack/4341054/0": "33",
+    "extraSkillInfo/0/skill": "400041076",
+    "extraSkillInfo/0/delay": "240",
+    "extraSkillInfo/0/manual": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "33",
+    "subWeapon": "34",
+    "notCooltimeReset": "1",
+    "invisible": "1",
+    "id": "4361004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 3,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = dualBlade/M/23 }",
+    "voice/male/path/1": "{ Old = , New = dualBlade/M/24 }",
+    "voice/male/path/2": "{ Old = , New = dualBlade/M/9 }",
+    "voice/female/path/0": "{ Old = , New = dualBlade/F/24 }",
+    "voice/female/path/1": "{ Old = , New = dualBlade/F/25 }",
+    "voice/female/path/2": "{ Old = , New = dualBlade/F/8 }",
+    "voice/female/path/3": "{ Old = , New = dualBlade/F/3 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 84. Attacks up to 12 enemies at 590% Damage 6 times.<br />Cooldown: 6 sec.<br />[Passive Effects: Phantom Blow VI Damage +42%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4361004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4361004_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4361004_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

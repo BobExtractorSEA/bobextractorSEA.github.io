@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.9195296-03:00",
+  "ChangeType": "Changed",
+  "Id": "142121032",
+  "Name": "Mental Overdrive",
+  "Job": "Kinesis",
+  "Desc": "Cuts Psychic Point consumption in half when the Ultimate skills are used for a short time and gradually recovers Psychic Points.<br /><span style=\"font-weight:bold; color:orange;\">[Ultimate: B.P.M] remains unaffected by the Psychic Point consumption effects.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kinesis/M/35",
+      "New": "kinesis/M/35"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/36",
+      "New": "kinesis/M/36"
+    },
+    "voice/male/path/2": {
+      "Old": "kinesis/M/37",
+      "New": "kinesis/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/35",
+      "New": "kinesis/F/35"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/36",
+      "New": "kinesis/F/36"
+    },
+    "voice/female/path/2": {
+      "Old": "kinesis/F/37",
+      "New": "kinesis/F/37"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_142121032_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121032_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

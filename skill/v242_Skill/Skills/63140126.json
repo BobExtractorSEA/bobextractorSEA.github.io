@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6743665-03:00",
+  "ChangeType": "Added",
+  "Id": "63140126",
+  "Name": "[Revelation/Execution] Sneaky Sniping VI",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revelation/Execution Skill]</span><br />Shoots at enemies with arrows condensed with evil energy. Hold down the key and continue aiming at enemies to increase attack range. Release the key to deal a fatal blow to the enemies by penetrating them with a giant arrows. [Revelation/Execution] Sneaky Sniping <span style=\"font-weight:bold; color:orange;\">resets Shadow Step's cooldown</span> when defeating an enemy.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sneaky Sniping Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/63121040": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "308+8*x",
+    "common/mobCount": "12",
+    "common/attackCount": "12",
+    "common/cooltime": "60",
+    "common/t": "1.6",
+    "common/w": "5",
+    "disable": "1",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "applyHyper": "1",
+    "id": "63140126",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Key down for up to 1.6 sec. Generates impact 5 times that attacks up to 12 enemies at 548% Damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 60 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63140126_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

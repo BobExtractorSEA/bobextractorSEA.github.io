@@ -1,0 +1,59 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9476941-03:00",
+  "ChangeType": "Added",
+  "Id": "42141005",
+  "Name": "Celestial Fury VI",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Creates a giant paper shikigami that looks exactly like Kanna. The paper shikigami receives some of the Spiritual Energy that Kanna spends. When enough Spiritual Energy is accumulated, the shikigami burns up and attacks nearby enemies.<br /> In manual mode, the you have to use the skill again for the attack to be activated.<br /><span style=\"font-weight:bold; color:orange;\">Auto/Manual mode can be toggled with right click</span>.<br />Required skill : <span style=\"font-weight:bold; color:orange;\">Lv.20 Celestial Fury</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "number/align": "1",
+    "number/pos/x": 29,
+    "number/pos/y": 18,
+    "type": "15",
+    "action/0": "kannaBlood",
+    "common/maxLevel": "30",
+    "common/epCon": "0",
+    "common/x": "120",
+    "common/cooltime": "5",
+    "common/memo_PL": "w는 스트링작성용 더미 프로퍼티입니다.",
+    "common/w": "500+(2*x)",
+    "masterLevel": "30",
+    "notRemoved": "1",
+    "weapon": "55",
+    "req/42121104": "20",
+    "id": "42141005",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "When skill is learned accumulates the amount of Spiritual Energy consumed with each use. When the accrued Spiritual Energy reaches 120, attacks up to 8 enemies around Kanna at 560% damage 15 times for 2 times.<br />[Cooldown: 5 sec]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141005_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/42141005_effect0_new.webp"
+    },
+    "number": {
+      "Old": null,
+      "New": "Animations/New/42141005_number_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/42141005_repeat_new.webp"
+    }
+  },
+  "Voices": {}
+}

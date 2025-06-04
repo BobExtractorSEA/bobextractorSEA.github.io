@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7190846-03:00",
+  "ChangeType": "Changed",
+  "Id": "101001200",
+  "Name": "Moon Strike",
+  "Job": "Zero",
+  "Desc": "Draws enemies closer with a brutal attack. Some monsters have a resistance to the attack and cannot be pulled.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/36",
+      "New": "zero/M/36"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/37",
+      "New": "zero/M/37"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/0",
+      "New": "zero/M/0"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/1",
+      "New": "zero/M/1"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/2",
+      "New": "zero/M/2"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141029"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101001200_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101001200_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101001200_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101001200_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101001200_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101001200_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

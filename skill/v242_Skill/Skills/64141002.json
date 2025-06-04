@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7545321-03:00",
+  "ChangeType": "Changed",
+  "Id": "64141002",
+  "Name": "Chain Artz: Stroke VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001002"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001007"
+    },
+    "cancelableSkillID/3": {
+      "Old": "64001007",
+      "New": "64001008"
+    },
+    "cancelableSkillID/4": {
+      "Old": "64001008",
+      "New": "64101001"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141034"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

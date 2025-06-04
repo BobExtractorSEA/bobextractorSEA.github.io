@@ -1,0 +1,203 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.5400569-03:00",
+  "ChangeType": "Changed",
+  "Id": "162141002",
+  "Name": "Eruption: Rippling River VI",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein</span> Skill, <span style=\"font-weight:bold; color:orange;\">Eruption Skill</span><br />Nature Spirits of several rivers join and become huge, and then swell at regular intervals to attack the surroundings.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lord of the Moon Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "lara/M/16",
+      "New": "lara/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/17",
+      "New": "lara/M/17"
+    },
+    "voice/male/path/2": {
+      "Old": "lara/M/18",
+      "New": "lara/M/18"
+    },
+    "voice/male/path/3": {
+      "Old": "lara/M/19",
+      "New": "lara/M/19"
+    },
+    "voice/male/path/4": {
+      "Old": "lara/M/20",
+      "New": "lara/M/20"
+    },
+    "voice/male/path/5": {
+      "Old": "lara/M/21",
+      "New": "lara/M/21"
+    },
+    "voice/male/path/6": {
+      "Old": "lara/M/22",
+      "New": "lara/M/22"
+    },
+    "voice/male/path/7": {
+      "Old": "lara/M/23",
+      "New": "lara/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/27",
+      "New": "lara/F/27"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/28",
+      "New": "lara/F/28"
+    },
+    "voice/female/path/2": {
+      "Old": "lara/F/29",
+      "New": "lara/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "lara/F/30",
+      "New": "lara/F/30"
+    },
+    "voice/female/path/4": {
+      "Old": "lara/F/31",
+      "New": "lara/F/31"
+    },
+    "voice/female/path/5": {
+      "Old": "lara/F/32",
+      "New": "lara/F/32"
+    },
+    "voice/female/path/6": {
+      "Old": "lara/F/33",
+      "New": "lara/F/33"
+    },
+    "voice/female/path/7": {
+      "Old": "lara/F/34",
+      "New": "lara/F/34"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F7.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

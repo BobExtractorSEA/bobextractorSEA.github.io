@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6809393-03:00",
+  "ChangeType": "Added",
+  "Id": "36141009",
+  "Name": "Rocket System VI",
+  "Job": "Xenon",
+  "Desc": "Fires a rocket at enemies within range on an Attack Skill hit.<br />Requires a short time to prepare to fire, and is enhanced into Aegis System after a set number of activations. Rocket System VI does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also, permanently increases Fuzzy Rob Masquerade VI Damage. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System Final Enhancement Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/36120015": "10",
+    "common/maxLevel": "30",
+    "common/damage": "298+9*x",
+    "common/attackCount": "2",
+    "common/bulletCount": "4",
+    "common/x": "2",
+    "common/y": "3",
+    "common/nbdamPlus": "270+6*x",
+    "common/q": "315+9*x",
+    "common/q2": "7",
+    "common/q3": "2",
+    "common/w": "16+x",
+    "common/w2": "x",
+    "excl": "500",
+    "psd": "1",
+    "id": "36141009",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Direct Attack skill hits fire 4 rockets that attack at 568% Damage 2 times. Normal Monster Damage +450%p.<br />After 3 activations, the next Rocket System VI is enhanced into Aegis System.<br /><span style=\"font-weight:bold; color:orange;\">[Aegis System]</span>: Fires 7 enhanced rockets that attack at 585% Damage 2 times.<br />Cooldown: 2 sec.<br />[Passive Effects: Fuzzy Rob Masquerade: Shoot Damage +46%p and Fuzzy Rob Masquerade: Execution Damage +30%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/36141009_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

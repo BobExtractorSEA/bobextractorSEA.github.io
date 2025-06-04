@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7430702-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001065",
+  "Name": "Otherworldly Afterimage",
+  "Job": "5th",
+  "Desc": "Opens a portal that reflects the images of other worlds. Monsters reflected in this portal are forced to reveal their otherworldly, real, appearance. The portal prioritizes the Boss monster with the highest Max HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kinesis/M/50",
+      "New": "kinesis/M/50"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/51",
+      "New": "kinesis/M/51"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/50",
+      "New": "kinesis/F/50"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/51",
+      "New": "kinesis/F/51"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001065_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001065_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001065_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001065_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400001065_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

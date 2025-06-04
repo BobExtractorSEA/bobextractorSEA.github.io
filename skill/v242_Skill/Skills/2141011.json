@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5515472-03:00",
+  "ChangeType": "Added",
+  "Id": "2141011",
+  "Name": "Megido Flame VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/2121052": "1",
+    "action/0": "6thMegiddoFlame",
+    "common/maxLevel": "30",
+    "common/mpCon": "510+2*x",
+    "common/damage": "330+11*x",
+    "common/attackCount": "5",
+    "common/mobCount": "1",
+    "common/bulletCount": "3",
+    "common/prop": "20",
+    "common/cooltime": "50",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 400,
+    "common/rb/y": 200,
+    "common/u": "55",
+    "common/w2": "900",
+    "common/dot": "770+7*x",
+    "common/dotInterval": "1",
+    "common/dotTime": "30",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitFlip": "1",
+    "SecondAtom/atom/0/createDelay": "480",
+    "SecondAtom/atom/0/enableDelay": "720",
+    "SecondAtom/atom/0/expire": "6000",
+    "SecondAtom/atom/0/dataIndex": "86",
+    "SecondAtom/atom/0/pos/x": -151,
+    "SecondAtom/atom/0/pos/y": -241,
+    "SecondAtom/atom/1/createDelay": "480",
+    "SecondAtom/atom/1/enableDelay": "720",
+    "SecondAtom/atom/1/expire": "6000",
+    "SecondAtom/atom/1/dataIndex": "86",
+    "SecondAtom/atom/1/pos/x": -6,
+    "SecondAtom/atom/1/pos/y": -296,
+    "SecondAtom/atom/2/createDelay": "480",
+    "SecondAtom/atom/2/enableDelay": "720",
+    "SecondAtom/atom/2/expire": "6000",
+    "SecondAtom/atom/2/dataIndex": "86",
+    "SecondAtom/atom/2/pos/x": 150,
+    "SecondAtom/atom/2/pos/y": -231,
+    "skillList/0": "400021000",
+    "processtype": "-1",
+    "additional_process/0": "22",
+    "additional_process/1": "53",
+    "additional_process/2": "58",
+    "additional_process/3": "59",
+    "elemAttr": "f",
+    "invisible": "1",
+    "id": "2141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = archMageFP/M/15 }",
+    "voice/male/path/1": "{ Old = , New = archMageFP/M/16 }",
+    "voice/female/path/0": "{ Old = , New = archMageFP/F/15 }",
+    "voice/female/path/1": "{ Old = , New = archMageFP/F/16 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2141011_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/2141011_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2141011_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.57147-03:00",
+  "ChangeType": "Changed",
+  "Id": "13120003",
+  "Name": "Trifling Winds III",
+  "Job": "Wind Archer",
+  "Desc": "Collapses the body and spirit of the enemies because the wind spirit behaves much more capriciously. Spirit Energy occurs in an area towards where the Wind Breaker faces. But, when certain skills are used to attack, it occurs regardless of the direction it faces. Attacks by always including a boss monster with the highest Max HP within range.<br />This skill does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Trifling Winds II Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/87",
+      "New": "windBreaker/M/87"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/88",
+      "New": "windBreaker/M/88"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/89",
+      "New": "windBreaker/M/89"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/90",
+      "New": "windBreaker/M/90"
+    },
+    "voice/male/path/4": {
+      "Old": "windBreaker/M/91",
+      "New": "windBreaker/M/91"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/85",
+      "New": "windBreaker/F/85"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/86",
+      "New": "windBreaker/F/86"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/87",
+      "New": "windBreaker/F/87"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/88",
+      "New": "windBreaker/F/88"
+    },
+    "voice/female/path/4": {
+      "Old": "windBreaker/F/89",
+      "New": "windBreaker/F/89"
+    },
+    "voice/female/path/5": {
+      "Old": "windBreaker/F/90",
+      "New": "windBreaker/F/90"
+    },
+    "voice/female/path/6": {
+      "Old": "windBreaker/F/91",
+      "New": "windBreaker/F/91"
+    },
+    "voice/female/path/7": {
+      "Old": "windBreaker/F/92",
+      "New": "windBreaker/F/92"
+    },
+    "voice/female/path/8": {
+      "Old": "windBreaker/F/93",
+      "New": "windBreaker/F/93"
+    },
+    "voice/female/path/9": {
+      "Old": "windBreaker/F/94",
+      "New": "windBreaker/F/94"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "13141004"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13120003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F9": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F9.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F8": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F8.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F7.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13120003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

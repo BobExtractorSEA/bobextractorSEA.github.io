@@ -1,0 +1,113 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.2871594-03:00",
+  "ChangeType": "Changed",
+  "Id": "3111005",
+  "Name": "Phoenix",
+  "Job": "Bowmaster",
+  "Desc": "Temporarily summons the Phoenix of Fire Element. The Phoenix has a chance of Stunning enemies.<br />The Phoenix's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also increases DEF permanently.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Temporarily summons the Phoenix of Fire Element. The Phoenix attacks up to 4 enemies at once with a chance of Binding them. The Phoenix's attacks do not affect enemies in the Damage Reflection status. Also increases DEF permanently.",
+      "New": "Temporarily summons the Phoenix of Fire Element. The Phoenix has a chance of Stunning enemies.<br />The Phoenix's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also increases DEF permanently."
+    },
+    "H": {
+      "Old": "MP Cost: 70. Summons Phoenix for 220 sec. Attacks up to 4 enemies at 390% damage. 95% chance to Stun.<br />[Passive Effect: DEF +30%]",
+      "New": "MP Cost: 70. Summons a Phoenix for 220 sec.<br />The Phoenix attacks up to 4 enemies at 390% Damage, with a 95 chance of Stunning them.<br />[Passive Effects: DEF +30%]"
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Summons Phoenix for 220 sec. Attacks up to 4 enemies at 390% damage. 95% chance to Stun.<br />[Passive Effect: DEF +30%]",
+      "New": "MP Cost: 70. Summons a Phoenix for 220 sec.<br />The Phoenix attacks up to 4 enemies at 390% Damage, with a 95 chance of Stunning them.<br />[Passive Effects: DEF +30%]"
+    },
+    "common/x": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bowMaster/M/7",
+      "New": "bowMaster/M/7"
+    },
+    "voice/male/path/1": {
+      "Old": "bowMaster/M/8",
+      "New": "bowMaster/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "bowMaster/F/7",
+      "New": "bowMaster/F/7"
+    },
+    "voice/female/path/1": {
+      "Old": "bowMaster/F/8",
+      "New": "bowMaster/F/8"
+    },
+    "common/attackDelay": {
+      "Old": null,
+      "New": "3000"
+    },
+    "common/mobCount": {
+      "Old": null,
+      "New": "4"
+    },
+    "summon/attack1/info/rangeAttack": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Summons a Phoenix for 220 sec.<br />The Phoenix attacks up to 4 enemies at 390% Damage, with a 95 chance of Stunning them.<br />[Passive Effects: DEF +30%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3111005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3111005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3111005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3111005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3111005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

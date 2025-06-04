@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0802643-03:00",
+  "ChangeType": "Changed",
+  "Id": "63110001",
+  "Name": "Strike Arrow III",
+  "Job": "Kain",
+  "Desc": "Shoots arrows several times in a row after using Strike Arrow II to effectively suppress enemies. Temporarily enables you to reuse the skill after using Strike Arrow II and also activates Arrow Fragment.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Strike Arrow II or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 10 MP and attacks up to 6 enemies at 240% Damage 5 times.<br />[Passive Effects: Strike Arrow Damage +79%p, Strike Arrow II Damage +79%p, [Revelation] Strike Arrow Damage +120%p, Arrow Fragment +60%p]",
+      "New": "Consumes 10 MP and attacks up to 6 enemies at 240% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +79%p, Strike Arrow II Damage +79%p, [Revelation] Strike Arrow Damage +120%p, Arrow Fragment +60%p]"
+    },
+    "h1": {
+      "Old": "Consumes 10 MP and attacks up to 6 enemies at 240% Damage 5 times.<br />[Passive Effects: Strike Arrow Damage +79%p, Strike Arrow II Damage +79%p, [Revelation] Strike Arrow Damage +120%p, Arrow Fragment +60%p]",
+      "New": "Consumes 10 MP and attacks up to 6 enemies at 240% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +79%p, Strike Arrow II Damage +79%p, [Revelation] Strike Arrow Damage +120%p, Arrow Fragment +60%p]"
+    }
+  },
+  "HFields": {
+    "h1": "Consumes 10 MP and attacks up to 6 enemies at 240% Damage 5 times.<br />[Passive Effect: Strike Arrow Damage +79%p, Strike Arrow II Damage +79%p, [Revelation] Strike Arrow Damage +120%p, Arrow Fragment +60%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63110001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

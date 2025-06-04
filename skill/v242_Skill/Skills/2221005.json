@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4892526-03:00",
+  "ChangeType": "Changed",
+  "Id": "2221005",
+  "Name": "Elquines",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Temporarily summons Elquines of Ice Attribute that attack multiple enemies. Learning the Elquines skill permanently increases Mastery. Elquines's attacks do not affect enemies in the Damage Reflection state, but freezes enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Spell Mastery Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 120. Summons Elquines for 260 sec.<br />Elquines attacks up to 3 enemies at 127% Damage 3 times.<br />Permanently boosts Mastery increase rate to 70%.",
+      "New": "MP Cost: 120. Summons Elquines for 260 sec.<br />Elquines attacks up to 3 enemies at 127% Damage 3 times.<br />Permanently increases Mastery increase rate to 70%."
+    },
+    "h1": {
+      "Old": "MP Cost: 120. Summons Elquines for 260 sec.<br />Elquines attacks up to 3 enemies at 127% Damage 3 times.<br />Permanently boosts Mastery increase rate to 70%.",
+      "New": "MP Cost: 120. Summons Elquines for 260 sec.<br />Elquines attacks up to 3 enemies at 127% Damage 3 times.<br />Permanently increases Mastery increase rate to 70%."
+    },
+    "magicDamage": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageTC/M/27",
+      "New": "archMageTC/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageTC/M/42",
+      "New": "archMageTC/M/42"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageTC/F/29",
+      "New": "archMageTC/F/29"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageTC/F/30",
+      "New": "archMageTC/F/30"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2241009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 120. Summons Elquines for 260 sec.<br />Elquines attacks up to 3 enemies at 127% Damage 3 times.<br />Permanently increases Mastery increase rate to 70%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2221005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

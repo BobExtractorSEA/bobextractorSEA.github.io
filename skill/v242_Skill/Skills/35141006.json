@@ -1,0 +1,107 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6503968-03:00",
+  "ChangeType": "Added",
+  "Id": "35141006",
+  "Name": "Robot Launcher: RM7 VI",
+  "Job": "Mechanic",
+  "Desc": "Installs an RM7, a fixed artillery weapon with point-blank range. RM7 repeatedly fires toward the front, and then explodes itself after a set duration.<br />Affected by SUMMONS DURATION INCREASE.<br /><Robot Launcher: RM7> does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Robot Launcher: RM7 Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "selfDestructMinion": "1",
+    "info2/ignoreCounter": "1",
+    "req/35101012": "15",
+    "action/0": "6thRobotLauncher",
+    "common/maxLevel": "30",
+    "common/mpCon": "50+d(x/7)",
+    "common/damage": "395+7*x",
+    "common/selfDestruction": "525+10*x",
+    "common/attackCount": "3",
+    "common/mobCount": "2",
+    "common/time": "98",
+    "common/x": "1",
+    "common/y": "6",
+    "common/u": "3",
+    "summon/attack1/info/range/lt/x": -470,
+    "summon/attack1/info/range/lt/y": -150,
+    "summon/attack1/info/range/rb/x": 0,
+    "summon/attack1/info/range/rb/y": 0,
+    "summon/attack1/info/type": "1",
+    "summon/attack1/info/attackAfter": "30",
+    "summon/attack1/info/attackCount": "3",
+    "summon/attack1/info/mobCount": "2",
+    "summon/die/info/range/lt/x": -160,
+    "summon/die/info/range/lt/y": -140,
+    "summon/die/info/range/rb/x": 160,
+    "summon/die/info/range/rb/y": 50,
+    "summon/die/info/mobCount": "6",
+    "summon/die/info/attackAfter": "420",
+    "summon/die/info/attackCount": "3",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "49",
+    "showSummonedBuffIcon": "2",
+    "footholdInstallSummoned": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "35141006",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = mechanic/M/14 }",
+    "voice/male/path/1": "{ Old = , New = mechanic/M/15 }",
+    "voice/female/path/0": "{ Old = , New = mechanic/F/14 }",
+    "voice/female/path/1": "{ Old = , New = mechanic/F/15 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 54. Installs a Robo Launcher for 98 sec.<br />Periodically attacks up to 2 enemies at 605% Damage 3 times, and explodes upon expiration, attacking up to 6 enemies at 825% Damage 3 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

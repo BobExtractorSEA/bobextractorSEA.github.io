@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.6769439-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001984",
+  "Name": "Commence Hunting",
+  "Job": "Etc",
+  "Desc": "Damien's soul stays with you. The Soul Weapon's power temporarily summons Damien to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001984_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.5898819-03:00",
+  "ChangeType": "Changed",
+  "Id": "164111007",
+  "Name": "Chasing Ghost Talisman",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms talisman into goblin fire that tracks and attacks the enemy. The Goblin Fire stays still for a certain amount of time after the initial attack, and then resumes tracking and attacking enemies.<br /><span style=\"font-weight:bold; color:orange;\">Chasing Ghost Talisman does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms talisman into goblin fire that tracks and attacks the enemy. The Goblin Fire stays still for a certain amount of time after the initial attack, and then resumes tracking the nearest enemy again.<br /><br /><span style=\"font-weight:bold; color:orange;\">Chasing Ghost Talisman does not affect enemies in the Damage Reflection status and prioritizes tracking Boss monsters with the highest Max HP.</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Talisman Magic]</span> Transforms talisman into goblin fire that tracks and attacks the enemy. The Goblin Fire stays still for a certain amount of time after the initial attack, and then resumes tracking and attacking enemies.<br /><span style=\"font-weight:bold; color:orange;\">Chasing Ghost Talisman does not cause you to take damage even when attacking enemies in the Damage Reflection Status and prioritizes the Boss monster with the highest Max HP.</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/4",
+      "New": "HoYoung/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/5",
+      "New": "HoYoung/M/5"
+    },
+    "voice/male/path/2": {
+      "Old": "HoYoung/M/6",
+      "New": "HoYoung/M/6"
+    },
+    "voice/male/path/3": {
+      "Old": "HoYoung/M/7",
+      "New": "HoYoung/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/4",
+      "New": "HoYoung/F/4"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/5",
+      "New": "HoYoung/F/5"
+    },
+    "voice/female/path/2": {
+      "Old": "HoYoung/F/6",
+      "New": "HoYoung/F/6"
+    },
+    "voice/female/path/3": {
+      "Old": "HoYoung/F/7",
+      "New": "HoYoung/F/7"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "164141056"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164111007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/164111007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

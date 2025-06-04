@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7110651-03:00",
+  "ChangeType": "Added",
+  "Id": "36141013",
+  "Name": "Meltdown Explosion VI",
+  "Job": "Xenon",
+  "Desc": "Shoots a powerful laser beam from space, scorching everything on the ground. Temporarily increases damage after use. Not affected by COOLDOWN REDUCTION.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Meltdown Explosion Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/36121052": "1",
+    "common/maxLevel": "30",
+    "common/time": "25",
+    "common/cooltime": "50",
+    "common/indieDamR": "10",
+    "weapon": "24",
+    "invisible": "1",
+    "notRemoved": "1",
+    "notCooltimeReduce": "1",
+    "applyHyper": "1",
+    "id": "36141013",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

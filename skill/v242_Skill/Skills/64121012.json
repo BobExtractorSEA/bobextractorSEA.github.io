@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7059589-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121012",
+  "Name": "Chain Arts: Takedown",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "450+5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "720",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141020"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

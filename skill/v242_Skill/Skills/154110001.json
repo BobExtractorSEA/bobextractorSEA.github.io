@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7052308-03:00",
+  "ChangeType": "Changed",
+  "Id": "154110001",
+  "Name": "Resonate",
+  "Job": "Khali",
+  "Desc": "Enables Chakris, the powerful magical manifestations of your weapon, to move on their own. The Hex skills convert Chakris within range into Resonates, enabling them to follow and attack surrounding enemies. Resonates first target the Boss monster with the highest HP, and does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "154141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154110001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

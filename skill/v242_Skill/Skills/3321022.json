@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0775762-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321022",
+  "Name": "Sharp Eyes",
+  "Job": "Pathfinder",
+  "Desc": "Temporarily grants party members the ability to locate enemy's weak spot to deal fatal damage to that enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

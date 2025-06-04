@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1179378-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051071",
+  "Name": "Howling Fist",
+  "Job": "5th (Pirate)",
+  "Desc": "Gather the power of the rough seas to launch a devastating blow. You are invincible as you thrust your fist forward after a full charge. Thrust your fist forward while gathering power by using the skill again.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/49",
+      "New": "viper/M/49"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/50",
+      "New": "viper/M/50"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/44",
+      "New": "viper/F/44"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/45",
+      "New": "viper/F/45"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051071_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051071_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051071_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051071_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051071_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

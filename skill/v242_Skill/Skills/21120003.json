@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0847606-03:00",
+  "ChangeType": "Changed",
+  "Id": "21120003",
+  "Name": "Adrenaline Maximum",
+  "Job": "Aran",
+  "Desc": "Pushes the limits of Adrenaline Boost by unlocking the power of combos and the full power of Maha. <br />While in Adrenaline Boost, landing a certain number of attacks will enter the <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> mode, where Maha's full power can be unleashed.<br />While in Super Awakening, you can use the <span style=\"font-weight:bold; color:orange;\">Hyper Boost End skill</span> and Maha's power will turn into a <span style=\"font-weight:bold; color:orange;\">golden flash of light</span>, dealing additional DAMAGE to enemies.<br />The duration of Adrenaline Boost is not affected by the duration of Super Awakening.<br />Super Awakening is not affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Adrenaline Boost or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the Hyper skill, Hyper Boost End - Last Stand.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Enter <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> after landing 10 or more attacks during Adrenaline Boost.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 1.2 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 650% DAMAGE 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate.<br />[Passive Effects: Ice Wave DAMAGE +320%p]",
+      "New": "Enter <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> after landing 10 or more attacks during Adrenaline Boost.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 0.8 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 650% Damage 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate.<br />[Passive Effects: Ice Wave Damage +320%p]"
+    },
+    "h1": {
+      "Old": "Enter <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> after landing 10 or more attacks during Adrenaline Boost.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 1.2 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 650% DAMAGE 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate.<br />[Passive Effects: Ice Wave DAMAGE +320%p]",
+      "New": "Enter <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> after landing 10 or more attacks during Adrenaline Boost.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 0.8 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 650% Damage 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate.<br />[Passive Effects: Ice Wave Damage +320%p]"
+    },
+    "common/t": {
+      "Old": "1.2",
+      "New": "0.8"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Enter <span style=\"font-weight:bold; color:orange;\">Super Awakening</span> after landing 10 or more attacks during Adrenaline Boost.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 0.8 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 650% Damage 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate.<br />[Passive Effects: Ice Wave Damage +320%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21120003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

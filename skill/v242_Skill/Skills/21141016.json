@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.436036-03:00",
+  "ChangeType": "Added",
+  "Id": "21141016",
+  "Name": "Adrenaline Maximum VI: Ice Storm",
+  "Job": "Aran",
+  "Desc": "The extreme chill from Adrenaline Boost causes an <span style=\"font-weight:bold; color:orange;\">ice storm</span> to form periodically when she uses a direct Attack skill outside Adrenaline Boost.",
+  "Coordinates": {
+    "lt": {
+      "x": -325,
+      "y": -450
+    },
+    "rb": {
+      "x": 325,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/21120003": "30",
+    "common/maxLevel": "30",
+    "common/damage": "690+29*x",
+    "common/attackCount": "14",
+    "common/mobCount": "12",
+    "common/cooltime": "15",
+    "common/lt/x": -325,
+    "common/lt/y": -450,
+    "common/rb/x": 325,
+    "common/rb/y": 150,
+    "skillList/0": "21121005",
+    "skillList/1": "400011145",
+    "skillList/2": "400011146",
+    "skillList/3": "21141016",
+    "skillList/4": "21141017",
+    "extraSkillInfo/0/skill": "21141016",
+    "extraSkillInfo/0/delay": "180",
+    "effect/z": "2",
+    "effect/fix": "1",
+    "effect0/z": "-1",
+    "effect0/fix": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/delayedTimeActionSpeed": "510",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/4": "27",
+    "additional_process/5": "30",
+    "additional_process/6": "67",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "processtype": "-1",
+    "weapon": "44",
+    "invisible": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "21141016",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/21141016_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/21141016_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21141016_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

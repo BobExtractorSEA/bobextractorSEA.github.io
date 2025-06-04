@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.6249609-03:00",
+  "ChangeType": "Changed",
+  "Id": "100001005",
+  "Name": "Intensive time",
+  "Job": "Zero",
+  "Desc": "Increases ATT/MATT for all nearby characters with transcendent powers.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_100001005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

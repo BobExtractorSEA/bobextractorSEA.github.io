@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.5903753-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121005",
+  "Name": "Sharp Eyes",
+  "Job": "Wind Archer",
+  "Desc": "Temporarily grants party members the ability to locate an enemy's weak spot to deal fatal damage to that enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/24",
+      "New": "windBreaker/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/25",
+      "New": "windBreaker/M/25"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/44",
+      "New": "windBreaker/M/44"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/52",
+      "New": "windBreaker/M/52"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/58",
+      "New": "windBreaker/F/58"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/62",
+      "New": "windBreaker/F/62"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.3642476-03:00",
+  "ChangeType": "Changed",
+  "Id": "80012647",
+  "Name": "Memories To Orbis Mount",
+  "Job": "Etc",
+  "Desc": "[Master level: 1] Travel by riding the nostalgic Airship to Orbis, which enables High Altitude Flight. Press the Jump key twice in a row in the village to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "추억의 오르비스행 라이딩",
+      "New": "Memories To Orbis Mount"
+    },
+    "Desc": {
+      "Old": "[마스터 레벨 : 1] 추억의 오르비스행 배를 타고 이동합니다. 마을에서 점프 키를 두 번 연달아 누르면 고공 비행 스킬을 사용할 수 있다.",
+      "New": "[Master level: 1] Travel by riding the nostalgic Airship to Orbis, which enables High Altitude Flight. Press the Jump key twice in a row in the village to use High Altitude Flight."
+    },
+    "H": {
+      "Old": "방어력 10 증가, 이동속도 170, 점프력 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "방어력 10 증가, 이동속도 170, 점프력 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80012647_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

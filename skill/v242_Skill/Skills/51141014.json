@@ -1,0 +1,101 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1641591-03:00",
+  "ChangeType": "Added",
+  "Id": "51141014",
+  "Name": "Deadly Charge VI",
+  "Job": "Mihile",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Soul Light Skill]</span><br />Summons a Knight of Light capable of utilizing the power of Soul to make a deadly charge. Afterward, the Knight of Light shoots spirit swords with the enhanced power of Soul to further attack the enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Deadly Charge Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/51121052": "1",
+    "common/maxLevel": "30",
+    "common/y": "300+x",
+    "common/damage": "245+9*x",
+    "common/attackCount": "8",
+    "common/mobCount": "15",
+    "common/time": "60",
+    "common/cooltime": "35",
+    "common/u2": "15",
+    "common/u3": "890+27*x",
+    "common/u4": "10",
+    "common/v2": "5",
+    "common/x": "10",
+    "common/v": "50",
+    "common/subTime": "10",
+    "common/u": "30",
+    "common/prop": "100",
+    "shootobj/info/start/x": -140,
+    "shootobj/info/start/y": -155,
+    "shootobj/info/bodyWH/x": 350,
+    "shootobj/info/bodyWH/y": 450,
+    "shootobj/info/startDelay": "240",
+    "shootobj/info/deleteAlpha": "1",
+    "shootobj/info/deleteAlphaDelay": "-840",
+    "shootobj/info/hitLimitEveryMob": "5",
+    "shootobj/moveList/p1/0/v": "50",
+    "shootobj/moveList/p1/0/pos/x": -800,
+    "shootobj/moveList/p1/0/pos/y": 0,
+    "finalAttack/51100002/0": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitAngleRange/x": -60,
+    "hit/0/randomHitAngleRange/y": 45,
+    "mob/repeat": "1",
+    "mob/pos": "2",
+    "mob2/pos": "2",
+    "mob2/repeat": "1",
+    "additional_process/0": "4",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "applyHyper": "1",
+    "weapon": "30",
+    "invisible": "1",
+    "notCooltimeReset": "1",
+    "randomEffect": "3",
+    "id": "51141014",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 1700% Damage 10 times.<br />Enhances the next attack every 35 sec., activating additional spirit swords.<br /><span style=\"font-weight:bold; color:orange;\">Spirit Sword</span>: Attacks up to 15 enemies at 515% Damage 8 times.<br />Spirit swords can attack their target up to 5 times.<br />Attacked enemies receive an Abnormal Status debuff that increases Damage TAKEN from you and your party by 10% for 60 sec.<br />Attacks create a 50% chance of Blind, which lasts for 10 sec., decreasing the target's Accuracy -30%."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/51141014_effect_new.webp"
+    },
+    "effect2": {
+      "Old": null,
+      "New": "Animations/New/51141014_effect2_new.webp"
+    },
+    "effect3": {
+      "Old": null,
+      "New": "Animations/New/51141014_effect3_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/51141014_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/51141014_mob_new.webp"
+    },
+    "mob2": {
+      "Old": null,
+      "New": "Animations/New/51141014_mob2_new.webp"
+    }
+  },
+  "Voices": {}
+}

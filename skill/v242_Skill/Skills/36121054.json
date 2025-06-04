@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3610896-03:00",
+  "ChangeType": "Changed",
+  "Id": "36121054",
+  "Name": "Amarance Generator",
+  "Job": "Xenon",
+  "Desc": "Activates the Amarance Generator that provides limitless power. Energy is immediately charged to the max upon use, and it does not get reduced for a certain period of time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/68",
+      "New": "xenon/M/68"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/69",
+      "New": "xenon/M/69"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/68",
+      "New": "xenon/F/68"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

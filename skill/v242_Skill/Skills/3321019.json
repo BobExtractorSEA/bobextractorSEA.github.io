@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0563252-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321019",
+  "Name": "Combo Assault (Blast)",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "action/0": {
+      "Old": "PFComboAttack2",
+      "New": null
+    },
+    "common/x": {
+      "Old": null,
+      "New": "600"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

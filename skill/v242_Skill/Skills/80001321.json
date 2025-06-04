@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.0544116-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001321",
+  "Name": "Forehead Fish of Horror",
+  "Job": "Etc",
+  "Desc": "There is a scary scar on giant fish's forehead. When pianus, summoned by soul weapon's power, cries, slow effect is dealt to nearby monsters",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001321_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

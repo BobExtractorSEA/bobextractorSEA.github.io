@@ -1,0 +1,78 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.325719-03:00",
+  "ChangeType": "Added",
+  "Id": "5241015",
+  "Name": "Siege Bomber VI",
+  "Job": "Corsair",
+  "Desc": "Summons a fixed cannon that wildly shoots at surrounding enemies for a set period. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Siege Bomber prioritizes the enemy with the highest Max HP within range.<br />Placing a Sign of Bombard within range activates a bombardment at that location.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Siege Bomber Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -1000,
+      "y": -700
+    },
+    "rb": {
+      "x": 1000,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "minionAttack": "normal",
+    "info2/ignoreCounter": "1",
+    "req/5211014": "10",
+    "action/0": "6thSiegeBomber",
+    "common/maxLevel": "30",
+    "common/mpCon": "18+u(x/10)",
+    "common/damage": "345+9*x",
+    "common/time": "60",
+    "common/lt/x": -1000,
+    "common/lt/y": -700,
+    "common/rb/x": 1000,
+    "common/rb/y": 300,
+    "common/x": "3",
+    "common/w": "3",
+    "common/w2": "345+9*x",
+    "common/w3": "1",
+    "summon/attack1/info/range/lt/x": -380,
+    "summon/attack1/info/range/lt/y": -110,
+    "summon/attack1/info/range/rb/x": 0,
+    "summon/attack1/info/range/rb/y": 10,
+    "summon/attack1/info/mobCount": "3",
+    "summon/attack2/info/range/lt/x": 0,
+    "summon/attack2/info/range/lt/y": -110,
+    "summon/attack2/info/range/rb/x": 380,
+    "summon/attack2/info/range/rb/y": 10,
+    "summon/attack2/info/mobCount": "3",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/pos": "10",
+    "weapon": "49",
+    "showSummonedBuffIcon": "2",
+    "footholdInstallSummoned": "1",
+    "ignoreSpecialCore": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "5241015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 21. Summons a cannon for 60 sec. that attacks up to 3 enemies at 615% Damage.<br />Place a Sign of Bombard to activate a bombardment that attacks up to 3 enemies at 615% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241015_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

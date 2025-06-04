@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.7024365-03:00",
+  "ChangeType": "Changed",
+  "Id": "14001027",
+  "Name": "Shadow Bat",
+  "Job": "Night Walker",
+  "Desc": "Summons a servant made of shadow, Shadow Bat. Shadow Bats have a chance to attack the same targets when you attack with Throwing Stars. Attack chance is doubled when attacking enemies with the Mark of Darkness, and the number of attacking bats is increased based on the Mark's stacks.<br />This skill doesn't affect enemies in the Damage Reflection effect. This is a kind of Darkness Element attack.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Element: Darkness Lv. 1 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 2nd Job Skill Bat Affinity.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14001027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

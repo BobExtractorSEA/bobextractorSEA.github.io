@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3143852-03:00",
+  "ChangeType": "Changed",
+  "Id": "36121003",
+  "Name": "OOPArts Code",
+  "Job": "Xenon",
+  "Desc": "Temporarily pushes past its limits to increase damage and damage on Boss monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/55",
+      "New": "xenon/M/55"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/56",
+      "New": "xenon/M/56"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/57",
+      "New": "xenon/M/57"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/54",
+      "New": "xenon/F/54"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/55",
+      "New": "xenon/F/55"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/56",
+      "New": "xenon/F/56"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

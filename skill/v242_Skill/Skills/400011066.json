@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8602962-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011066",
+  "Name": "Steadfast Core",
+  "Job": "5th (Warrior)",
+  "Desc": "Your body reinforces with a steel resilience, resisting against Knockback effects from enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011066_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

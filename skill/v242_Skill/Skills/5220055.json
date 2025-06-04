@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4378891-03:00",
+  "ChangeType": "Changed",
+  "Id": "5220055",
+  "Name": "Quick Draw",
+  "Job": "Corsair",
+  "Desc": "When attacking, you have a chance to receive an effect that enhances the ATT of the next Brain Scrambler, Strange Bomb, Nautilus Strike, and Dead Eye.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/4": {
+      "Old": null,
+      "New": "5241005"
+    },
+    "skillList/5": {
+      "Old": null,
+      "New": "5241006"
+    },
+    "skillList/6": {
+      "Old": null,
+      "New": "5241017"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "5241018"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5220055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0696126-03:00",
+  "ChangeType": "Added",
+  "Id": "15140008",
+  "Name": "Sea Wave VI",
+  "Job": "Thunder Breaker",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Chain skill]</span><br />Use the skills in sequence to create the wave containing the power of lightning toward enemy. The wave flows toward the direction Striker is looking, and toward the direction where more enemies can be attacked within a certain range.<br />Attacks enemies it hits as it flows, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Also, permanently enhances Annihilation VI.<br /><span style=\"font-weight:bold; color:orange;\">Wave Activation Lock: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Sea Wave Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/15100027": "15",
+    "common/maxLevel": "30",
+    "common/cooltime": "12",
+    "common/damage": "410+20*x",
+    "common/attackCount": "5",
+    "common/mobCount": "5",
+    "common/x": "2700",
+    "common/s": "24",
+    "common/u": "1",
+    "common/mpCon": "80+d(x/2)",
+    "common/damPlus": "17+x",
+    "psd": "1",
+    "id": "15140008",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 95. Created if not in cooldown when you chain skills.<br />Flows in a constant direction, attacking up to 5 enemies at 1010% Damage 5 times.<br />Disappears after moving 2700 or attacking 24 enemies.<br />Only attacks each enemy up to 1 times.<br />Cooldown: 12 sec.<br />[Passive Effects: Annihilation VI Damage +47%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_15140008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

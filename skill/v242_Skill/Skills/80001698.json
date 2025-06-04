@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.1278813-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001698",
+  "Name": "Pierre's Surprise!",
+  "Job": "Etc",
+  "Desc": "Pierre is here! What kind of Pierre will I get? <br />Use a soul skill to summon <span style=\"font-weight:bold; color:orange;\">a red, blue, or purple Pierre</span>. Each Pierre has <span style=\"font-weight:bold; color:orange;\">its own attack patterns</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001698_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

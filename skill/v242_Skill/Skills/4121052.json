@@ -1,0 +1,135 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.305602-03:00",
+  "ChangeType": "Changed",
+  "Id": "4121052",
+  "Name": "Four Seasons",
+  "Job": "Night Lord",
+  "Desc": "Summons four daggers that combine into a huge, destructive dagger.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. Consumes 1 throwing star. Attacks 8 surrounding enemies at 358% Damage 7 times.<br />Cooldown: 14 sec.<br />[Passive Effect: Mark of Night Lord +100%p]",
+      "New": "Cost: 300 MP and 1 throwing star. Attacks up to 8 enemies at 358% Damage 7 times.<br />Cooldown: 14 sec.<br />[Passive Effects: Mark of Night Lord +100%p]"
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Consumes 1 throwing star. Attacks 8 surrounding enemies at 358% Damage 7 times.<br />Cooldown: 14 sec.<br />[Passive Effect: Mark of Night Lord +100%p]",
+      "New": "Cost: 300 MP and 1 throwing star. Attacks up to 8 enemies at 358% Damage 7 times.<br />Cooldown: 14 sec.<br />[Passive Effects: Mark of Night Lord +100%p]"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "358",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "8",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "nightLord/M/31",
+      "New": "nightLord/M/31"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/32",
+      "New": "nightLord/M/32"
+    },
+    "voice/male/path/2": {
+      "Old": "nightLord/M/11",
+      "New": "nightLord/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/40",
+      "New": "nightLord/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/41",
+      "New": "nightLord/F/41"
+    },
+    "voice/female/path/2": {
+      "Old": "nightLord/F/17",
+      "New": "nightLord/F/17"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 300 MP and 1 throwing star. Attacks up to 8 enemies at 358% Damage 7 times.<br />Cooldown: 14 sec.<br />[Passive Effects: Mark of Night Lord +100%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

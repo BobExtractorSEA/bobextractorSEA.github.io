@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1275738-03:00",
+  "ChangeType": "Changed",
+  "Id": "5101017",
+  "Name": "Sea Serpent",
+  "Job": "Buccaneer",
+  "Desc": "Obtain a clue about the Water Dragon sealed in the deep sea and become able to use the power.<br />When a fighting skill is activated at regular intervals, the power of the Water Dragon automatically attacks nearby enemies. Does not affect enemies in the Damage Reflection status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 3rd Job Skill Sea Serpent Enhancement I</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/39",
+      "New": "viper/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/40",
+      "New": "viper/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "viper/M/41",
+      "New": "viper/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/37",
+      "New": "viper/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/38",
+      "New": "viper/F/38"
+    },
+    "voice/female/path/2": {
+      "Old": "viper/F/40",
+      "New": "viper/F/40"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "5141015"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5101017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5101017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

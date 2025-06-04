@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.8919379-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003446",
+  "Name": "Tangyoon's Cooking: Buff Duration",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Buff Duration</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Chew Chew Special Slushie: Buff Duration",
+      "New": "Tangyoon's Cooking: Buff Duration"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003446_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003446_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

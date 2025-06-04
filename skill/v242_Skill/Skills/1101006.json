@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8600095-03:00",
+  "ChangeType": "Changed",
+  "Id": "1101006",
+  "Name": "Spirit Blade",
+  "Job": "Hero",
+  "Desc": "Unites the sword with soul to increase temporarily the ATT of all party members including self, amplifying and returning any damage sustained. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/24",
+      "New": "hero/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/25",
+      "New": "hero/M/25"
+    },
+    "voice/male/path/2": {
+      "Old": "hero/M/26",
+      "New": "hero/M/26"
+    },
+    "voice/male/path/3": {
+      "Old": "hero/M/30",
+      "New": "hero/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/28",
+      "New": "hero/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/31",
+      "New": "hero/F/31"
+    },
+    "voice/female/path/2": {
+      "Old": "hero/F/32",
+      "New": "hero/F/32"
+    },
+    "voice/female/path/3": {
+      "Old": "hero/F/33",
+      "New": "hero/F/33"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1101006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1101006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

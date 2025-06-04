@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8562204-03:00",
+  "ChangeType": "Added",
+  "Id": "4141007",
+  "Name": "Dark Flare VI",
+  "Job": "Night Lord",
+  "Desc": "Summons a giant shuriken that attacks nearby enemies releasing dark energy for a certain amount of time. Dark Flare VI is affected by SUMMONS DURATION INCREASE and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Permanently increases Quad Star VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Flare Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/4111007": "20",
+    "action/0": "6thDarkFlare",
+    "common/maxLevel": "30",
+    "common/mpCon": "130",
+    "common/damage": "395+14*x",
+    "common/q": "5",
+    "common/time": "60",
+    "common/subTime": "930",
+    "common/cooltime": "60",
+    "common/damPlus": "2*x",
+    "summon/attack1/info/mobCount": "5",
+    "summon/attack1/info/range/lt/x": -405,
+    "summon/attack1/info/range/lt/y": -290,
+    "summon/attack1/info/range/rb/x": 405,
+    "summon/attack1/info/range/rb/y": 145,
+    "summon/createDelay": "0",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "47",
+    "canSummonedAttackOnDarkSight": "1",
+    "secondaryStatFreezeExcept": "1",
+    "psd": "1",
+    "showSummonedBuffIcon": "1",
+    "id": "4141007",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 3,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = nightLord/M/23 }",
+    "voice/male/path/1": "{ Old = , New = nightLord/M/24 }",
+    "voice/male/path/2": "{ Old = , New = nightLord/M/11 }",
+    "voice/female/path/0": "{ Old = , New = nightLord/F/30 }",
+    "voice/female/path/1": "{ Old = , New = nightLord/F/31 }",
+    "voice/female/path/2": "{ Old = , New = nightLord/F/32 }",
+    "voice/female/path/3": "{ Old = , New = nightLord/F/14 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 130. Summons a giant shuriken for 60 sec.<br />Periodically attacks up to 5 enemies at 815% Damage.<br />Cooldown: 60 sec.<br />[Passive Effects: Quad Star VI Damage +60%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4141007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

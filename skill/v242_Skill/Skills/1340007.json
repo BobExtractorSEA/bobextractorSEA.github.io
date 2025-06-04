@@ -1,0 +1,43 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.8471301-03:00",
+  "ChangeType": "Added",
+  "Id": "1340007",
+  "Name": "Final Attack VI",
+  "Job": "Dark Knight",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Spear and Pole Arm equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/1300002": "20",
+    "common/maxLevel": "30",
+    "common/damage": "87+x",
+    "common/attackCount": "2",
+    "common/prop": "40+25*x/30",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "skillType": "3",
+    "id": "1340007",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 65% chance of Final Attack that attacks at 117% Damage 2 times"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1340007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1340007_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

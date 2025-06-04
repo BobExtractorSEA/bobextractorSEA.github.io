@@ -1,0 +1,151 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7474351-03:00",
+  "ChangeType": "Changed",
+  "Id": "4221017",
+  "Name": "Cruel Stab",
+  "Job": "Shadower",
+  "Desc": "Attacks enemies in front, penetrating with a Dagger. Only half of Pick Pocket's Coin Drop Rate is applied. This skill also increases the final damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 40. Attack 8 enemies at 250% damage 6 times.<br />[Passive Effects: Final Damage +25%]",
+      "New": "Consumes 40 MP and attacks up to 8 enemies at 250% Damage 6 times.<br />[Passive Effect: Final Damage +25%]"
+    },
+    "h1": {
+      "Old": "MP Cost: 40. Attack 8 enemies at 250% damage 6 times.<br />[Passive Effects: Final Damage +25%]",
+      "New": "Consumes 40 MP and attacks up to 8 enemies at 250% Damage 6 times.<br />[Passive Effect: Final Damage +25%]"
+    },
+    "voice/male/path/0": {
+      "Old": "shadower/M/5",
+      "New": "shadower/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "shadower/M/8",
+      "New": "shadower/M/8"
+    },
+    "voice/male/path/2": {
+      "Old": "shadower/M/9",
+      "New": "shadower/M/9"
+    },
+    "voice/male/path/3": {
+      "Old": "shadower/M/20",
+      "New": "shadower/M/20"
+    },
+    "voice/male/path/4": {
+      "Old": "shadower/M/21",
+      "New": "shadower/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "shadower/F/10",
+      "New": "shadower/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "shadower/F/12",
+      "New": "shadower/F/12"
+    },
+    "voice/female/path/2": {
+      "Old": "shadower/F/13",
+      "New": "shadower/F/13"
+    },
+    "voice/female/path/3": {
+      "Old": "shadower/F/22",
+      "New": "shadower/F/22"
+    },
+    "voice/female/path/4": {
+      "Old": "shadower/F/23",
+      "New": "shadower/F/23"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4241011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Consumes 40 MP and attacks up to 8 enemies at 250% Damage 6 times.<br />[Passive Effect: Final Damage +25%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4221017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4221017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1188017-03:00",
+  "ChangeType": "Changed",
+  "Id": "150038006",
+  "Name": "Decent Speed Infusion",
+  "Job": "Khali",
+  "Desc": "[Potential Skill]<br />Consumes HP and MP to gain ASPD +1 Level temporarily. Can be stacked with other buffs except Wind Booster.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_150038006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

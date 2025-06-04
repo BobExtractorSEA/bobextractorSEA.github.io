@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3095968-03:00",
+  "ChangeType": "Changed",
+  "Id": "1221015",
+  "Name": "Divine Blessing",
+  "Job": "Paladin",
+  "Desc": "Gets the Holy Blessing to increase Final Damage temporarily.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "paladin/M/5",
+      "New": "paladin/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "paladin/M/6",
+      "New": "paladin/M/6"
+    },
+    "voice/male/path/2": {
+      "Old": "paladin/M/7",
+      "New": "paladin/M/7"
+    },
+    "voice/male/path/3": {
+      "Old": "paladin/M/8",
+      "New": "paladin/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "paladin/F/6",
+      "New": "paladin/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "paladin/F/8",
+      "New": "paladin/F/8"
+    },
+    "voice/female/path/2": {
+      "Old": "paladin/F/9",
+      "New": "paladin/F/9"
+    },
+    "voice/female/path/3": {
+      "Old": "paladin/F/10",
+      "New": "paladin/F/10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1221015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1221015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

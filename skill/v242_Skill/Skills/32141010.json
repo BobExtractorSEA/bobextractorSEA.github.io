@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.2763589-03:00",
+  "ChangeType": "Added",
+  "Id": "32141010",
+  "Name": "Dark Genesis VI",
+  "Job": "Battle Mage",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/32121004": "30",
+    "common/maxLevel": "30",
+    "common/prop": "80",
+    "common/mobCount": "1",
+    "common/damage": "280+5*x",
+    "hit/0/z": "3",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngleRange/x": -20,
+    "hit/0/randomHitAngleRange/y": 20,
+    "hit/1/z": "3",
+    "hit/1/useZ": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/randomHitAngleRange/x": -20,
+    "hit/1/randomHitAngleRange/y": 20,
+    "hit/2/z": "3",
+    "hit/2/useZ": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/randomHitAngleRange/x": -20,
+    "hit/2/randomHitAngleRange/y": 20,
+    "invisible": "1",
+    "skillType": "3",
+    "elemAttr": "d",
+    "isExceptSetLastAttack": "1",
+    "id": "32141010",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/32141010_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

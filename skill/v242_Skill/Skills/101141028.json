@@ -1,0 +1,76 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5162114-03:00",
+  "ChangeType": "Added",
+  "Id": "101141028",
+  "Name": "Air Raid VI",
+  "Job": "Zero",
+  "Desc": "Generated outside the Air Raid VI range, attacking enemies with a chance of Stunning them. The shock waves do not affect enemies in the Damage Reflection state.",
+  "Coordinates": {
+    "lt": {
+      "x": -290,
+      "y": -370
+    },
+    "rb": {
+      "x": 80,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/type": "1",
+    "info2/mes": "stun",
+    "info2/ignoreCounter": "1",
+    "req/101000101": "20",
+    "action/0": "6thPowerStomp_shockWave",
+    "common/maxLevel": "30",
+    "common/damage": "342+3*x",
+    "common/mobCount": "6",
+    "common/attackCount": "9",
+    "common/lt/x": -290,
+    "common/lt/y": -370,
+    "common/rb/x": 80,
+    "common/rb/y": 100,
+    "common/time": "3",
+    "common/prop": "100",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "trembleEffect/force": "3",
+    "trembleEffect/time": "240",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "invisible": "1",
+    "skillType": "3",
+    "id": "101141028",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Attacks up to 6 enemies at 432% Damage 9 times,<br />with a 100% chance of Stunning them for 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141028_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141028_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/101141028_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

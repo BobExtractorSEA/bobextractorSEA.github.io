@@ -1,0 +1,90 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.520389-03:00",
+  "ChangeType": "Changed",
+  "Id": "162121043",
+  "Name": "Spirits' Paradise",
+  "Job": "Lara",
+  "Desc": "Opens up the Spirits' Paradise so that the Nature Spirits can run freely. If you're at the Spirits' Paradise, Stats greatly increase, and monsters are weakened by nature's pure energy. Not affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "lara/M/9",
+      "New": "lara/M/9"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/11",
+      "New": "lara/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/2",
+      "New": "lara/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/4",
+      "New": "lara/F/4"
+    },
+    "voice/female/path/2": {
+      "Old": "lara/F/6",
+      "New": "lara/F/6"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162121043_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121043_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121043_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121043_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121043_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121043_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9095365-03:00",
+  "ChangeType": "Added",
+  "Id": "4141008",
+  "Name": "Sudden Raid VI",
+  "Job": "Night Lord",
+  "Desc": "Calls in a horde of friends to attack enemies. Sudden Raid does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Permanently increases Mark of Assassin VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sudden Raid Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -375
+    },
+    "rb": {
+      "x": 400,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "dot": "1",
+    "dotType": "burn",
+    "info2/ignoreCounter": "1",
+    "req/4121016": "30",
+    "action/0": "6thSuddenRaid",
+    "common/maxLevel": "30",
+    "common/mpCon": "320",
+    "common/mobCount": "15",
+    "common/damage": "550+9*x",
+    "common/attackCount": "7",
+    "common/prop": "100",
+    "common/dot": "235+4*x",
+    "common/dotTime": "10",
+    "common/dotInterval": "1",
+    "common/cancelableTime": "210",
+    "common/cooltime": "14",
+    "common/lt/x": -400,
+    "common/lt/y": -375,
+    "common/rb/x": 400,
+    "common/rb/y": 250,
+    "common/damPlus": "2*x",
+    "cancelableSkillID/0": "4101015",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "30",
+    "effectFlash/0/alpha": "10",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "30",
+    "effectFlash/1/alpha": "20",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "60",
+    "effectFlash/2/alpha": "30",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "60",
+    "effectFlash/3/alpha": "40",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "600",
+    "effectFlash/4/alpha": "50",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "60",
+    "effectFlash/5/alpha": "40",
+    "effectFlash/5/color": "0",
+    "effectFlash/6/delay": "60",
+    "effectFlash/6/alpha": "30",
+    "effectFlash/6/color": "0",
+    "effectFlash/7/delay": "60",
+    "effectFlash/7/alpha": "15",
+    "effectFlash/7/color": "0",
+    "weapon": "47",
+    "psd": "1",
+    "id": "4141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "40",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = nightLord/M/11 }",
+    "voice/female/path/0": "{ Old = , New = nightLord/F/17 }"
+  },
+  "HFields": {
+    "h1": "Cost: 320 MP and 1 throwing star. Attacks up to 15 enemies at 820% Damage 7 times.<br />1% DoT every 1 for 10 sec.<br />Cooldown: 14 sec.<br />[Passive Effects: Mark of Assassin VI Damage +60%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4141008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/4141008_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4141008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

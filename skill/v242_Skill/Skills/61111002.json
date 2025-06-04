@@ -1,0 +1,194 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.8930361-03:00",
+  "ChangeType": "Changed",
+  "Id": "61111002",
+  "Name": "Stone Dragon",
+  "Job": "Kaiser",
+  "Desc": "Summon a dragon statue that pulls in enemies and attacks with a chance to Slow. Stone Dragon does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 35. Summons a Dragon Incarnate for 60 sec. Attacks 8 enemies at 400% damage. 75% chance to Slow for 3 sec.",
+      "New": "MP Cost: 35. Summons a dragon incarnate for 60 sec. that periodically attacks up to 8 enemies at 400% Damage <br />3 times.<br />A 75% chance of Slowing monsters except Bosses for 3 sec.<br />Normal Monster Damage +50%"
+    },
+    "h1": {
+      "Old": "MP Cost: 35. Summons a Dragon Incarnate for 60 sec. Attacks 8 enemies at 400% damage. 75% chance to Slow for 3 sec.",
+      "New": "MP Cost: 35. Summons a dragon incarnate for 60 sec. that periodically attacks up to 8 enemies at 400% Damage <br />3 times.<br />A 75% chance of Slowing monsters except Bosses for 3 sec.<br />Normal Monster Damage +50%"
+    },
+    "summon/attack1/info/attackAfter": {
+      "Old": "720",
+      "New": "600"
+    },
+    "summon/attack1/info/delay": {
+      "Old": "90",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "110+6*x",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+15",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "15+3*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "2",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "30+3*x",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "-30",
+      "New": null
+    },
+    "minionAbility": {
+      "Old": "taunt",
+      "New": null
+    },
+    "skillList/0": {
+      "Old": "61111220",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kaiser/M/67",
+      "New": "kaiser/M/67"
+    },
+    "voice/male/path/1": {
+      "Old": "kaiser/M/12",
+      "New": "kaiser/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/92",
+      "New": "kaiser/F/92"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/52",
+      "New": "kaiser/F/52"
+    },
+    "common/attackCount": {
+      "Old": null,
+      "New": "3"
+    },
+    "common/attackDelay": {
+      "Old": null,
+      "New": "1980"
+    },
+    "common/nbdR": {
+      "Old": null,
+      "New": "50"
+    },
+    "summon/attack1/info/attackCount": {
+      "Old": null,
+      "New": "3"
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": null,
+      "New": "15"
+    },
+    "hit/0/onlyOnce": {
+      "Old": null,
+      "New": "1"
+    },
+    "hit/1/randomHitOrigin": {
+      "Old": null,
+      "New": "15"
+    },
+    "hit/1/onlyOnce": {
+      "Old": null,
+      "New": "1"
+    },
+    "hit/2/randomHitOrigin": {
+      "Old": null,
+      "New": "15"
+    },
+    "hit/2/onlyOnce": {
+      "Old": null,
+      "New": "1"
+    },
+    "hit/randomHit": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "61141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "psd": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 35. Summons a dragon incarnate for 60 sec. that periodically attacks up to 8 enemies at 400% Damage <br />3 times.<br />A 75% chance of Slowing monsters except Bosses for 3 sec.<br />Normal Monster Damage +50%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/61111002_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.4095951-03:00",
+  "ChangeType": "Changed",
+  "Id": "13001021",
+  "Name": "Wind Walk",
+  "Job": "Wind Archer",
+  "Desc": "Borrow the power of the wind to charge forward quickly. Ignores collision with monsters when charging.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/20",
+      "New": "windBreaker/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/32",
+      "New": "windBreaker/M/32"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/34",
+      "New": "windBreaker/M/34"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/12",
+      "New": "windBreaker/F/12"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/15",
+      "New": "windBreaker/F/15"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/20",
+      "New": "windBreaker/F/20"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/31",
+      "New": "windBreaker/F/31"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13001021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13001021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

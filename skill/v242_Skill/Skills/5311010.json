@@ -1,0 +1,182 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5804912-03:00",
+  "ChangeType": "Changed",
+  "Id": "5311010",
+  "Name": "Monkey's Fury",
+  "Job": "Cannon Master",
+  "Desc": "Fires a special elastic cannonball that coats enemies ahead of you with gunpowder, dealing damage over time. Increases damage taken from Cannon Shooter's skills. Use the skill again to instantly detonate the bomb.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Barrel Bomb Lv. 20</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Fires a special elastic cannonball that coats enemies ahead of you with gunpowder, dealing damage over time. Increases damage taken from Cannon Shooter's skills. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Barrel Bomb</span>",
+      "New": "Fires a special elastic cannonball that coats enemies ahead of you with gunpowder, dealing damage over time. Increases damage taken from Cannon Shooter's skills. Use the skill again to instantly detonate the bomb.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Barrel Bomb Lv. 20</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 62 MP. Attacks 10 enemies at 180% damage 3 times. 100% chance of inflicting 200% damage every sec. for 60 sec. and increases Damage +40% against the targets.<br />Cooldown: 10 sec. Reduces Duration -5 sec. if there's no target hit.",
+      "New": "MP 62. Attacks up to 10 enemies at 180% Damage 3 times.<br />A 100% chance of 200% DoT every 1 sec. for 60 sec. Damage +40% to the attacked enemies.<br />Reuse the skill to instantly detonate and attack up to 8 enemies at 300% Damage 6 times.<br />Cooldown: 10 sec. If no enemy is hit, cooldown -5 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 62 MP. Attacks 10 enemies at 180% damage 3 times. 100% chance of inflicting 200% damage every sec. for 60 sec. and increases Damage +40% against the targets.<br />Cooldown: 10 sec. Reduces Duration -5 sec. if there's no target hit.",
+      "New": "MP 62. Attacks up to 10 enemies at 180% Damage 3 times.<br />A 100% chance of 200% DoT every 1 sec. for 60 sec. Damage +40% to the attacked enemies.<br />Reuse the skill to instantly detonate and attack up to 8 enemies at 300% Damage 6 times.<br />Cooldown: 10 sec. If no enemy is hit, cooldown -5 sec."
+    },
+    "common/finalattackrange": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+8*u(x/5)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "180+3*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "5+d(x/4)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "5+d(x/4)",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "20-d(x/2)",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cannonShooter/M/27",
+      "New": "cannonShooter/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "cannonShooter/M/28",
+      "New": "cannonShooter/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "cannonShooter/M/2",
+      "New": "cannonShooter/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cannonShooter/M/1",
+      "New": "cannonShooter/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "cannonShooter/F/23",
+      "New": "cannonShooter/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "cannonShooter/F/24",
+      "New": "cannonShooter/F/24"
+    },
+    "voice/female/path/2": {
+      "Old": "cannonShooter/F/3",
+      "New": "cannonShooter/F/3"
+    },
+    "common/s3": {
+      "Old": null,
+      "New": "240+3*x"
+    },
+    "common/u3": {
+      "Old": null,
+      "New": "8"
+    },
+    "common/w3": {
+      "Old": null,
+      "New": "6"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5341012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP 62. Attacks up to 10 enemies at 180% Damage 3 times.<br />A 100% chance of 200% DoT every 1 sec. for 60 sec. Damage +40% to the attacked enemies.<br />Reuse the skill to instantly detonate and attack up to 8 enemies at 300% Damage 6 times.<br />Cooldown: 10 sec. If no enemy is hit, cooldown -5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5311010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5311010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

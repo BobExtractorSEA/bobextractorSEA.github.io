@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4739141-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221029",
+  "Name": "Sign of Bombard",
+  "Job": "Corsair",
+  "Desc": "Places the Captain's Mark to direct the Battleship Bomber and Siege Bomber where to bomb. Installed mark will disappear if you press the [Down] arrow key.<br />In Auto Use Mode, Sign of Bombard is installed every time Parrotargetting hits in a hit location.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />SP is not invested in the skill, and shares <span style=\"font-weight:bold; color:orange;\">skill level with Battleship Bomber</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Places the Captain's Mark to direct the Battleship Bomber where to bomb. Installed mark will disappear if you press the [Down] arrow key.<br />In Auto Use Mode, Sign of Bombard is installed every time Parrotargetting hits in a hit location.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />SP is not invested in the skill, and shares <span style=\"font-weight:bold; color:orange;\">skill level with Battleship Bomber</span>.",
+      "New": "Places the Captain's Mark to direct the Battleship Bomber and Siege Bomber where to bomb. Installed mark will disappear if you press the [Down] arrow key.<br />In Auto Use Mode, Sign of Bombard is installed every time Parrotargetting hits in a hit location.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />SP is not invested in the skill, and shares <span style=\"font-weight:bold; color:orange;\">skill level with Battleship Bomber</span>."
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221029_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

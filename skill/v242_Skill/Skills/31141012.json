@@ -1,0 +1,146 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.031664-03:00",
+  "ChangeType": "Added",
+  "Id": "31141012",
+  "Name": "Demon Cry VI",
+  "Job": "Demon Slayer",
+  "Desc": "Instantly unleashes latent power to threaten surrounding enemies and inflict great damage. Blinds the target to reduce DEF, ATT, and Accuracy while increasing EXP Obtained and Item Drop Rate. Also, permanently enhances Demon Impact VI: Demon Chain.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Demon Cry Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -500
+    },
+    "rb": {
+      "x": 400,
+      "y": 190
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "mes": "reduceTargetDam&&reduceTargetPDP&&reduceTargetMDP&&reduceTargetACC ",
+    "areaAttack": "1",
+    "req/31121003": "30",
+    "action/0": "6thDevilCry",
+    "common/maxLevel": "30",
+    "common/forceCon": "30",
+    "common/hpCon": "400",
+    "common/cooltime": "6",
+    "common/lt/x": -400,
+    "common/lt/y": -500,
+    "common/rb/x": 400,
+    "common/rb/y": 190,
+    "common/damage": "565+10*x",
+    "common/attackCount": "7",
+    "common/mobCount": "15",
+    "common/time": "60",
+    "common/v": "-20",
+    "common/w": "20",
+    "common/x": "15",
+    "common/y": "-15",
+    "common/z": "20",
+    "common/u": "15",
+    "common/damPlus": "520+x",
+    "skillList/0": "400011000",
+    "trembleEffect/delay": "360",
+    "trembleEffect/force": "4",
+    "trembleEffect/time": "390",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-2",
+    "effectFlash/0/delay": "60",
+    "effectFlash/0/alpha": "0",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "60",
+    "effectFlash/1/alpha": "30",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "60",
+    "effectFlash/2/alpha": "60",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "60",
+    "effectFlash/3/alpha": "80",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "360",
+    "effectFlash/4/alpha": "80",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "60",
+    "effectFlash/5/alpha": "60",
+    "effectFlash/5/color": "0",
+    "effectFlash/6/delay": "60",
+    "effectFlash/6/alpha": "30",
+    "effectFlash/6/color": "0",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "weapon": "31",
+    "weapon2": "32",
+    "psd": "1",
+    "id": "31141012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = demonSlayer/M/45 }",
+    "voice/male/path/1": "{ Old = , New = demonSlayer/M/46 }",
+    "voice/female/path/0": "{ Old = , New = demonSlayer/F/47 }",
+    "voice/female/path/1": "{ Old = , New = demonSlayer/F/48 }"
+  },
+  "HFields": {
+    "h1": "HP Cost: 400. Force Cost: 30.<br />Threatens and attacks up to 15 enemies at 865% Damage 7 times.<br />Targets' ATT/Accuracy -20%, DEF -15%, EXP Obtained/Item Drop Rate +20% for 60 sec.<br />Cooldown: 6 sec.<br />[Passive Effects: Demon Impact VI: Demon Chain Damage +550%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31141012_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31141012_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/31141012_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

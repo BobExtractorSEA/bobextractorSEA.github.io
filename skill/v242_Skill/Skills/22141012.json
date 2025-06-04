@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2724797-03:00",
+  "ChangeType": "Changed",
+  "Id": "22141012",
+  "Name": "Dragon Dive",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Mir Skill]</span> Mir body-slams into enemies in front of Evan, and then flaps his wings, sending forth a shock wave. Dragon Dive does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Mir's Skills and the Fusion Skills aren't affected by ASPD Bonus effects.</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th job skill Dragon Breath.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Mir Skill</span> Mir body-slams into enemies in front of Evan, and then flaps his wings, sending forth a shock wave. Dragon Dive isn't affected by enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Mir's Skills and the Fusion Skills aren't affected by ASPD Bonus effects.</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn Dragon Breath.</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Mir Skill]</span> Mir body-slams into enemies in front of Evan, and then flaps his wings, sending forth a shock wave. Dragon Dive does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Mir's Skills and the Fusion Skills aren't affected by ASPD Bonus effects.</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th job skill Dragon Breath.</span>"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "18+4*d(x/5)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "25+2*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "59+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/24",
+      "New": "evan/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/24",
+      "New": "evan/F/24"
+    },
+    "mixSkill/22201002/0": {
+      "Old": null,
+      "New": "22140015"
+    },
+    "mixSkill/22201006/0": {
+      "Old": null,
+      "New": "22170067"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22201007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

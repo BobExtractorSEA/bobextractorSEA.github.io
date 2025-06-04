@@ -1,0 +1,215 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0238123-03:00",
+  "ChangeType": "Changed",
+  "Id": "63101001",
+  "Name": "Possession",
+  "Job": "Kain",
+  "Desc": "It enables you to realize your own ability and partially control Devil Dragon's power.<br />You can create Malice through hitting Breath Shooter's attack or periodically using your Malice. Whenever it reaches a certain amount, you get a <span style=\"font-weight:bold; color:orange;\">Malice Stone</span>. Using Malice Stones puts you into the <span style=\"font-weight:bold; color:orange;\">Possession</span> mode that reveals Devil Dragon's Malice.<br />While in possession, Breath Shooter is enhanced to a Revelation skill except some skills. It is removed when a Revelation skill is used once. The Revelation skill ignores remaining cartridge and cooldown and reactivation time will be applied when used. It cannot be used while in possession. If it is used while using other attack skills, it will be activated without the casting motion.<br />Strike Arrow will not trigger uncontrolled Malice since you will be able to control its power.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kain/M/17",
+      "New": "kain/M/17"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/18",
+      "New": "kain/M/18"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/19",
+      "New": "kain/M/19"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/20",
+      "New": "kain/M/20"
+    },
+    "voice/male/path/4": {
+      "Old": "kain/M/21",
+      "New": "kain/M/21"
+    },
+    "voice/male/path/5": {
+      "Old": "kain/M/22",
+      "New": "kain/M/22"
+    },
+    "voice/male/path/6": {
+      "Old": "kain/M/23",
+      "New": "kain/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/22",
+      "New": "kain/F/22"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/23",
+      "New": "kain/F/23"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/24",
+      "New": "kain/F/24"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/25",
+      "New": "kain/F/25"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/26",
+      "New": "kain/F/26"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "63141020"
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "63141025"
+    },
+    "skillList/13": {
+      "Old": null,
+      "New": "63141027"
+    },
+    "skillList2/10": {
+      "Old": null,
+      "New": "63141018"
+    },
+    "skillList2/11": {
+      "Old": null,
+      "New": "63141026"
+    },
+    "noActionInfo/applyActions/47": {
+      "Old": null,
+      "New": "6thNAshaftBreak"
+    },
+    "noActionInfo/applyActions/48": {
+      "Old": null,
+      "New": "6thNAshaftBreakEnchant"
+    },
+    "noActionInfo/applyActions/49": {
+      "Old": null,
+      "New": "6thNAphantomBlade"
+    },
+    "noActionInfo/applyActions/50": {
+      "Old": null,
+      "New": "6thChasingShot"
+    },
+    "noActionInfo/applyActions/51": {
+      "Old": null,
+      "New": "6thSneakySnipingPre"
+    },
+    "noActionInfo/applyActions/52": {
+      "Old": null,
+      "New": "6thSneakySnipingLoop"
+    },
+    "noActionInfo/applyActions/53": {
+      "Old": null,
+      "New": "6thSneakySnipingEnd"
+    },
+    "noActionInfo/applyActions/54": {
+      "Old": null,
+      "New": "6thSneakySnipingEnchantPre"
+    },
+    "noActionInfo/applyActions/55": {
+      "Old": null,
+      "New": "6thSneakySnipingEnchantLoop"
+    },
+    "noActionInfo/applyActions/56": {
+      "Old": null,
+      "New": "6thSneakySnipingEnchantEnd"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63101001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

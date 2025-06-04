@@ -1,0 +1,183 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.830692-03:00",
+  "ChangeType": "Changed",
+  "Id": "3311003",
+  "Name": "Cardinal Transition",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/6",
+      "New": "pathfinder/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/7",
+      "New": "pathfinder/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/38",
+      "New": "pathfinder/M/38"
+    },
+    "voice/male/path/3": {
+      "Old": "pathfinder/M/40",
+      "New": "pathfinder/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/6",
+      "New": "pathfinder/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/7",
+      "New": "pathfinder/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/38",
+      "New": "pathfinder/F/38"
+    },
+    "voice/female/path/3": {
+      "Old": "pathfinder/F/40",
+      "New": "pathfinder/F/40"
+    },
+    "cancelableSkillID/36": {
+      "Old": null,
+      "New": "3341006"
+    },
+    "cancelableSkillID/37": {
+      "Old": null,
+      "New": "3341007"
+    },
+    "cancelableSkillID/38": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "cancelableSkillID/39": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "cancelableSkillID/40": {
+      "Old": null,
+      "New": "3341012"
+    },
+    "cancelableSkillID/41": {
+      "Old": null,
+      "New": "3341013"
+    },
+    "cancelableSkillID/42": {
+      "Old": null,
+      "New": "3341014"
+    },
+    "cancelableSkillID/43": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "cancelableSkillID/44": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "cancelableSkillID/45": {
+      "Old": null,
+      "New": "3341017"
+    },
+    "cancelableSkillID/46": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "cancelableSkillID/47": {
+      "Old": null,
+      "New": "3341019"
+    },
+    "cancelableSkillID/48": {
+      "Old": null,
+      "New": "3341020"
+    },
+    "cancelableSkillID/49": {
+      "Old": null,
+      "New": "3341021"
+    },
+    "cancelableSkillID/50": {
+      "Old": null,
+      "New": "3341022"
+    },
+    "cancelableSkillID/51": {
+      "Old": null,
+      "New": "3341023"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3311003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

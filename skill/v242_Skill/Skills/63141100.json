@@ -1,0 +1,126 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.3215762-03:00",
+  "ChangeType": "Changed",
+  "Id": "63141100",
+  "Name": "[Revelation] Poison Needles VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/31",
+      "New": "kain/M/31"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/32",
+      "New": "kain/M/32"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/33",
+      "New": "kain/M/33"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/36",
+      "New": "kain/F/36"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/37",
+      "New": "kain/F/37"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/38",
+      "New": "kain/F/38"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/39",
+      "New": "kain/F/39"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/40",
+      "New": "kain/F/40"
+    },
+    "voice/female/path/5": {
+      "Old": "kain/F/41",
+      "New": "kain/F/41"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

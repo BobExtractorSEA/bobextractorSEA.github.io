@@ -1,0 +1,200 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.924073-03:00",
+  "ChangeType": "Added",
+  "Id": "142141005",
+  "Name": "Ultimate - Train VI",
+  "Job": "Kinesis",
+  "Desc": "Lifts up an empty train and keeps smashing it towards your front at an extremely high speed. Ultimate-Train does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ultimate - Train Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -210,
+      "y": -600
+    },
+    "rb": {
+      "x": 210,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/142111007": "10",
+    "action/0": "6thUltimateTrain",
+    "common/maxLevel": "30",
+    "common/attackCount": "6",
+    "common/ppCon": "13",
+    "common/mpCon": "1",
+    "common/mobCount": "5",
+    "common/damage": "250+4*x",
+    "common/lt/x": -210,
+    "common/lt/y": -600,
+    "common/rb/x": 210,
+    "common/rb/y": 30,
+    "common/attackDelay": "470",
+    "common/time": "9",
+    "common/bulletCount": "17",
+    "common/range": "350",
+    "common/x": "5",
+    "common/y": "600",
+    "skillList/0": "400021000",
+    "weapon": "26",
+    "subWeapon": "35",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/0/pos": "9",
+    "trembleEffect/delay": "1110",
+    "trembleEffect/force": "40",
+    "trembleEffect/remote": "0",
+    "trembleEffect/time": "2000",
+    "trembleEffect/reduction": "0,91",
+    "id": "142141005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 7,
+    "voice/female/count": 7,
+    "voice/male/path/0": "{ Old = , New = kinesis/M/25 }",
+    "voice/male/path/1": "{ Old = , New = kinesis/M/26 }",
+    "voice/male/path/2": "{ Old = , New = kinesis/M/27 }",
+    "voice/male/path/3": "{ Old = , New = kinesis/M/17 }",
+    "voice/male/path/4": "{ Old = , New = kinesis/M/18 }",
+    "voice/male/path/5": "{ Old = , New = kinesis/M/17 }",
+    "voice/male/path/6": "{ Old = , New = kinesis/M/18 }",
+    "voice/female/path/0": "{ Old = , New = kinesis/F/25 }",
+    "voice/female/path/1": "{ Old = , New = kinesis/F/26 }",
+    "voice/female/path/2": "{ Old = , New = kinesis/F/27 }",
+    "voice/female/path/3": "{ Old = , New = kinesis/F/76 }",
+    "voice/female/path/4": "{ Old = , New = kinesis/F/18 }",
+    "voice/female/path/5": "{ Old = , New = kinesis/F/76 }",
+    "voice/female/path/6": "{ Old = , New = kinesis/F/18 }"
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Psychic Point Cost: 13</span><br />Attacks up to 5 enemies at 370% Damage 6 times for 9 sec., decreasing Ultimate - Train Damage -5% as attacks continue."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_142141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/142141005_hit_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/142141005_effect_new.webp"
+    },
+    "effect_ple": {
+      "Old": null,
+      "New": "Animations/New/142141005_effect_ple_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/142141005_screen_new.webp"
+    }
+  },
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

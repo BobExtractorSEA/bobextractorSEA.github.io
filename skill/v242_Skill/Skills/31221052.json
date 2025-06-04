@@ -1,0 +1,162 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5160358-03:00",
+  "ChangeType": "Changed",
+  "Id": "31221052",
+  "Name": "Thousand Swords",
+  "Job": "Demon Avenger",
+  "Desc": "Fills the screen with darkness, and then slashes at enemies, its sword a blue flash of light. This skill puts so much strain on the character's body that it increases Overload.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "-15% of Max HP. Overload +5. Attacks up to 14 enemies at 500% Damage 8 times.<br />Cooldown: 8 sec",
+      "New": "Cost: 15% of Max HP. Exceed Overload +5.<br />Attacks up to 14 enemies at 500% Damage 8 times.<br />Cooldown: 8 sec."
+    },
+    "h1": {
+      "Old": "-15% of Max HP. Overload +5. Attacks up to 14 enemies at 500% Damage 8 times.<br />Cooldown: 8 sec",
+      "New": "Cost: 15% of Max HP. Exceed Overload +5.<br />Attacks up to 14 enemies at 500% Damage 8 times.<br />Cooldown: 8 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/58",
+      "New": "demonAvenger/M/58"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/59",
+      "New": "demonAvenger/M/59"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/60",
+      "New": "demonAvenger/M/60"
+    },
+    "voice/male/path/3": {
+      "Old": "demonAvenger/M/10",
+      "New": "demonAvenger/M/10"
+    },
+    "voice/male/path/4": {
+      "Old": "demonAvenger/M/12",
+      "New": "demonAvenger/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/60",
+      "New": "demonAvenger/F/60"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/61",
+      "New": "demonAvenger/F/61"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/62",
+      "New": "demonAvenger/F/62"
+    },
+    "voice/female/path/3": {
+      "Old": "demonAvenger/F/15",
+      "New": "demonAvenger/F/15"
+    },
+    "voice/female/path/4": {
+      "Old": "demonAvenger/F/14",
+      "New": "demonAvenger/F/14"
+    },
+    "voice/female/path/5": {
+      "Old": "demonAvenger/F/2",
+      "New": "demonAvenger/F/2"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31241012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 15% of Max HP. Exceed Overload +5.<br />Attacks up to 14 enemies at 500% Damage 8 times.<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31221052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31221052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

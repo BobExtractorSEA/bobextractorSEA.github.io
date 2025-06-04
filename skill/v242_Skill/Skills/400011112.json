@@ -1,0 +1,161 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1230757-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011112",
+  "Name": "Revenant",
+  "Job": "5th (Warrior)",
+  "Desc": "Becomes a specter that crosses the boundary of life and death with endless rage.<br />While in effect, your HP does not fall below 1, becomes immune to critical abnormal status, and all damage taken is stored as Rage. The stored Rage becomes materialized as thorns to attack nearby enemies, but once the skill ends, you suffer from the pain of the stored Rage.<br />The skill can be canceled during its effect. Thorns of Rage damages enemies in the Damage Reflection status, but the <span style=\"font-weight:bold; color:orange;\">reflected damage cannot be ignored.</span><br />Combat status is maintained while Revenant is active, and while receiving damage from the stored Rage afterward.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/73",
+      "New": "demonAvenger/M/73"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/74",
+      "New": "demonAvenger/M/74"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/75",
+      "New": "demonAvenger/M/75"
+    },
+    "voice/male/path/3": {
+      "Old": "demonAvenger/M/12",
+      "New": "demonAvenger/M/12"
+    },
+    "voice/male/path/4": {
+      "Old": "demonAvenger/M/14",
+      "New": "demonAvenger/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/74",
+      "New": "demonAvenger/F/74"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/75",
+      "New": "demonAvenger/F/75"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/76",
+      "New": "demonAvenger/F/76"
+    },
+    "voice/female/path/3": {
+      "Old": "demonAvenger/F/17",
+      "New": "demonAvenger/F/17"
+    },
+    "voice/female/path/4": {
+      "Old": "demonAvenger/F/18",
+      "New": "demonAvenger/F/18"
+    },
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "31241007"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "31241008"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "31241009"
+    },
+    "skillList/28": {
+      "Old": null,
+      "New": "31241010"
+    },
+    "skillList/29": {
+      "Old": null,
+      "New": "31241011"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011112_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011112_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

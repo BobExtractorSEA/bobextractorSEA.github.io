@@ -1,0 +1,152 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4327407-03:00",
+  "ChangeType": "Added",
+  "Id": "33141023",
+  "Name": "Assistant Hunting Unit VI",
+  "Job": "Wild Hunter",
+  "Desc": "Sends forth a unit that is created with the Resistance's technology to aid in hunting.<br />Assistant Hunting Unit does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Assistant Hunting Unit Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -585,
+      "y": -260
+    },
+    "rb": {
+      "x": -115,
+      "y": 140
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/33111013": "20",
+    "action/0": "6thAssistantHuntingUnit",
+    "common/maxLevel": "30",
+    "common/mpCon": "65+d(x/3)",
+    "common/cooltime": "8",
+    "common/lt/x": -585,
+    "common/lt/y": -260,
+    "common/rb/x": -115,
+    "common/rb/y": 140,
+    "common/damage": "162+3*x",
+    "common/attackCount": "3",
+    "common/mobCount": "8",
+    "common/z": "5",
+    "common/s": "2",
+    "common/time": "60",
+    "common/subTime": "300",
+    "common/attackDelay": "1020",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "46",
+    "excl": "500",
+    "ignoreSpecialCore": "1",
+    "secondaryStatFreezeExcept": "1",
+    "isExceptSetLastAttack": "1",
+    "resetByUnionCharTag": "1",
+    "id": "33141023",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = wildhunter/M/9 }",
+    "voice/male/path/1": "{ Old = , New = wildhunter/M/10 }",
+    "voice/male/path/2": "{ Old = , New = wildhunter/M/11 }",
+    "voice/male/path/3": "{ Old = , New = wildhunter/M/53 }",
+    "voice/female/path/0": "{ Old = , New = wildhunter/F/9 }",
+    "voice/female/path/1": "{ Old = , New = wildhunter/F/10 }",
+    "voice/female/path/2": "{ Old = , New = wildhunter/F/11 }",
+    "voice/female/path/3": "{ Old = , New = wildhunter/F/56 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 75. Lasts for 60 sec. Attacks for 5 sec., and then reloads repeatedly for 2 sec.<br />Each attack attacks up to 8 enemies at 252% Damage 3 times.<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33141023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/33141023_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/33141023_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/33141023_tile_new.webp"
+    },
+    "tile2": {
+      "Old": null,
+      "New": "Animations/New/33141023_tile2_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/33141023_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33141023_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

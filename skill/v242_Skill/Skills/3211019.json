@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5671132-03:00",
+  "ChangeType": "Changed",
+  "Id": "3211019",
+  "Name": "Bolt Flow",
+  "Job": "Marksman",
+  "Desc": "Installs special mark leading an arrow. Teleports to the location of mark through an arrow when <span style=\"font-weight:bold; color:orange;\">casting the skill again</span>. Re-installs mark by using the skill again with the [Down] key when a mark is installed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "marksman/M/11",
+      "New": "marksman/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/11",
+      "New": "marksman/F/11"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3211019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211019_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211019_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

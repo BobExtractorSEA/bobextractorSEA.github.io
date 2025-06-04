@@ -1,0 +1,74 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6522168-03:00",
+  "ChangeType": "Changed",
+  "Id": "152141004",
+  "Name": "Glory Wing: Javelin VI",
+  "Job": "Illium",
+  "Desc": "Throws a Javelin enhanced with the power of Glory Wings. The Javelin will automatically track enemies and explode to deal tremendous damage. When this skill is used, Magic Missiles will also be created to attack enemies.<br />Every time Javelin hits an enemy, you will acquire a Glory Crystal Fragment. When you have collected a certain number of Glory Crystal Fragments, you can use <span style=\"font-weight:bold; color:orange;\">Enchant Javelin</span>.<br />The Javelin and Magic Missiles will prioritize attacking the boss monster with the highest maximum HP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke : Javelin Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skill": {
+      "Old": null,
+      "New": "152141014"
+    },
+    "addAttack/type": {
+      "Old": null,
+      "New": "0"
+    },
+    "addAttack/reqCount": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/pattern": {
+      "Old": null,
+      "New": "151"
+    },
+    "addAttack/skipActionFrame": {
+      "Old": null,
+      "New": "3"
+    },
+    "addAttack/patternType": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/permitTime": {
+      "Old": null,
+      "New": "450"
+    },
+    "addAttack/isCancelable": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/0": {
+      "Old": null,
+      "New": "80001155"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/1": {
+      "Old": null,
+      "New": "80002633"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/2": {
+      "Old": null,
+      "New": "152121010"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/3": {
+      "Old": null,
+      "New": "152121043"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/4": {
+      "Old": null,
+      "New": "400001009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

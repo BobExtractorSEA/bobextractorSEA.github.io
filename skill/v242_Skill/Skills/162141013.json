@@ -1,0 +1,139 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2551748-03:00",
+  "ChangeType": "Added",
+  "Id": "162141013",
+  "Name": "Absorption: River Puddle Shower Power VI",
+  "Job": "Lara",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -590,
+      "y": -270
+    },
+    "rb": {
+      "x": 50,
+      "y": 95
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/162120002": "30",
+    "common/maxLevel": "30",
+    "common/mobCount": "6",
+    "common/damage": "567+5*x",
+    "common/attackCount": "10",
+    "common/u": "2500",
+    "common/x": "3",
+    "common/lt/x": -590,
+    "common/lt/y": -270,
+    "common/rb/x": 50,
+    "common/rb/y": 95,
+    "extraSkillInfo/0/skill": "162141013",
+    "skillList/0": "400021000",
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/delayedTime": "1080",
+    "hit/1/onlyOnce": "1",
+    "hit/1/useZ": "1",
+    "hit/1/z": "2",
+    "hit/1/delayedTime": "1080",
+    "hit/2/onlyOnce": "1",
+    "hit/2/useZ": "1",
+    "hit/2/z": "2",
+    "hit/2/delayedTime": "1080",
+    "additional_process/0": "2",
+    "additional_process/1": "19",
+    "additional_process/2": "22",
+    "additional_process/3": "27",
+    "additional_process/4": "35",
+    "additional_process/5": "67",
+    "additional_process/6": "69",
+    "additional_process/7": "30",
+    "additional_process/8": "18",
+    "additional_process/9": "68",
+    "invisible": "1",
+    "processtype": "-1",
+    "weapon": "37",
+    "subWeapon": "35",
+    "id": "162141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = lara/M/44 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/45 }",
+    "voice/male/path/2": "{ Old = , New = lara/M/46 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/55 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/56 }",
+    "voice/female/path/2": "{ Old = , New = lara/F/57 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/162141013_hit_new.webp"
+    },
+    "tile": {
+      "Old": null,
+      "New": "Animations/New/162141013_tile_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/162141013_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

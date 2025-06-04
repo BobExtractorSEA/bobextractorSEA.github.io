@@ -1,0 +1,62 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.600819-03:00",
+  "ChangeType": "Changed",
+  "Id": "64111012",
+  "Name": "Weapon Arts: Energy Bombs",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "175+12*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "casterMove": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "avaliableInJumpingState": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141029"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64111012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

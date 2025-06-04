@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5454068-03:00",
+  "ChangeType": "Added",
+  "Id": "101141032",
+  "Name": "Shadow Strike VI",
+  "Job": "Zero",
+  "Desc": "Generated when Shadow Strike VI is cast, traveling forward, penetrating enemies in a straight line. The spirit swords do not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {
+      "x": -780,
+      "y": -120
+    },
+    "rb": {
+      "x": 80,
+      "y": 70
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/101000201": "10",
+    "action/0": "6thShadowStrike_blade",
+    "common/maxLevel": "30",
+    "common/damage": "334+6*x",
+    "common/attackCount": "1",
+    "common/mobCount": "8",
+    "common/lt/x": -780,
+    "common/lt/y": -120,
+    "common/rb/x": 80,
+    "common/rb/y": 70,
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "invisible": "1",
+    "ignoreActionWhenAddAttackProc": "1",
+    "id": "101141032",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Attacks up to 8 enemies at 514% Damage 1 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141032_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/101141032_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141032_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

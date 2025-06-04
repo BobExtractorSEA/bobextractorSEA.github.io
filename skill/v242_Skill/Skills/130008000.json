@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.4191165-03:00",
+  "ChangeType": "Changed",
+  "Id": "130008000",
+  "Name": "Decent Haste",
+  "Job": "Pink Bean",
+  "Desc": "Potential Skill<br />Temporarily increases your MSPD and Jump.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_130008000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

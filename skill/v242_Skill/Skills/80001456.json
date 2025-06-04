@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.4204469-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001456",
+  "Name": "Ultimatum Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily sets your Highest ATT to 2 million. This skill isn't affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001456_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

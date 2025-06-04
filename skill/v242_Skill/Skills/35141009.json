@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6734304-03:00",
+  "ChangeType": "Added",
+  "Id": "35141009",
+  "Name": "Robo Factory: RM1 VI",
+  "Job": "Mechanic",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "selfDestructMinion": "1",
+    "info2/ignoreCounter": "1",
+    "req/35121009": "30",
+    "common/maxLevel": "30",
+    "common/selfDestruction": "525+10*x",
+    "common/time": "7",
+    "common/speed": "2",
+    "summon/attack1/info/range/lt/x": -110,
+    "summon/attack1/info/range/lt/y": -100,
+    "summon/attack1/info/range/rb/x": 110,
+    "summon/attack1/info/range/rb/y": 50,
+    "summon/attack1/info/attackAfter": "480",
+    "summon/attack1/info/mobCount": "4",
+    "summon/attack1/info/attackCount": "3",
+    "summon/die/info/range/lt/x": -110,
+    "summon/die/info/range/lt/y": -100,
+    "summon/die/info/range/rb/x": 110,
+    "summon/die/info/range/rb/y": 50,
+    "summon/die/info/attackAfter": "480",
+    "summon/die/info/mobCount": "4",
+    "summon/die/info/attackCount": "3",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "invisible": "1",
+    "footholdInstallSummoned": "1",
+    "id": "35141009",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_35141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/35141009_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

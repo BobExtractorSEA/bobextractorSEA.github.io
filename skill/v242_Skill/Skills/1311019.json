@@ -1,0 +1,77 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.5403297-03:00",
+  "ChangeType": "Changed",
+  "Id": "1311019",
+  "Name": "Beholder Shock II",
+  "Job": "Dark Knight",
+  "Desc": "The Beholder screams, binding and inflicting damage on surrounding enemies.<br />Does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Beholder Shock Lv. 10 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job skill, 'Beholder Revenge'</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with 90% chance of Binding them for 5 sec.<br />Cooldown: 12 sec.",
+      "New": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec.<br />Cooldown: 12 sec."
+    },
+    "h1": {
+      "Old": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with 90% chance of Binding them for 5 sec.<br />Cooldown: 12 sec.",
+      "New": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec.<br />Cooldown: 12 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/4",
+      "New": "darkKnight/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/5",
+      "New": "darkKnight/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/6",
+      "New": "darkKnight/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/7",
+      "New": "darkKnight/F/7"
+    }
+  },
+  "HFields": {
+    "h1": "The Beholder moves in front of you and attacks up to 10 enemies at 215% Damage 6 times, with a 90% chance of Stunning them for 5 sec.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1311019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1311019_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1311019_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1311019_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1311019_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

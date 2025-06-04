@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6704041-03:00",
+  "ChangeType": "Added",
+  "Id": "12141010",
+  "Name": "Phoenix Drive VI",
+  "Job": "Blaze Wizard",
+  "Desc": "With the incarnation of the Phoenix, opens the flow of flames to the extreme, enhancing Orbital Flame I. Using Orbital Flame I for this skill's duration causes an overflow of flame energy, resulting in an indiscriminate bombardment of flames.<br /><span style=\"font-weight:bold; color:orange;\">A different attack is activated based on the type of the summoned spirit.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Phoenix Drive Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "11",
+    "areaAttack": "1",
+    "magicDamage": "1",
+    "rectBasedOnTarget": "1",
+    "bodyAttack": "1",
+    "movingAttack": "1",
+    "invincible": "1",
+    "req/12121054": "1",
+    "action/0": "6thPhoenixDrive",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/time": "15",
+    "common/cooltime": "90",
+    "common/mobCount": "8",
+    "common/damage": "335+13*x",
+    "common/attackCount": "2",
+    "common/bulletCount": "3",
+    "common/x": "8",
+    "common/y": "465+19*x",
+    "common/w": "2",
+    "common/u": "4",
+    "common/u2": "50",
+    "common/nbdR": "40",
+    "effect0/z": "-1",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "applyHyper": "1",
+    "notCooltimeReset": "1",
+    "isSequenceOn": "1",
+    "psd": "1",
+    "id": "12141010",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = flameWizard/M/120 }",
+    "voice/male/path/1": "{ Old = , New = flameWizard/M/121 }",
+    "voice/male/path/2": "{ Old = , New = flameWizard/M/24 }",
+    "voice/male/path/3": "{ Old = , New = flameWizard/M/53 }",
+    "voice/female/path/0": "{ Old = , New = flameWizard/F/92 }",
+    "voice/female/path/1": "{ Old = , New = flameWizard/F/93 }",
+    "voice/female/path/2": "{ Old = , New = flameWizard/F/46 }",
+    "voice/female/path/3": "{ Old = , New = flameWizard/F/45 }",
+    "voice/female/path/4": "{ Old = , New = flameWizard/F/53 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Enhances Orbital Flame I for 15 sec.<br /><span style=\"font-weight:bold; color:orange;\">Fire Lion</span>: Fires 3 flames that attack up to 8 enemies at 725% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. Normal Monster Damage +40%<br /><span style=\"font-weight:bold; color:orange;\">Flame Fox</span>: Fires 4 flames that attack up to 8 enemies at 1035% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. <br />Cooldown: 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/12141010_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/12141010_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

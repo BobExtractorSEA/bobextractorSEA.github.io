@@ -1,0 +1,325 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5784631-03:00",
+  "ChangeType": "Changed",
+  "Id": "64111002",
+  "Name": "Weapon Arts: Shotgun Blaster",
+  "Job": "Cadena",
+  "Desc": "Summons a shotgun to fire off a buckshot towards the front in an arc direction. Closer enemies receive more damage. Jumps backward by using the recoil when firing. Prevents being knocked back by any attack while casting a skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variation II Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 30. Attacks up to 6 enemies 7 times.<br />Close Distance: 390% Damage<br />Normal Distance: 320% Damage<br />Far Distance: 275% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 5 sec.</span>",
+      "New": "MP Cost: 30.<br />Close Distance: Attacks up to 6 enemies at 390% Damage 7 times.<br />Middle Distance: Attacks up to 6 enemies at 320% Damage 7 times.<br />Long Distance: Attacks up to 6 enemies at 275% damage 7 times.<br />Cooldown 5 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 30. Attacks up to 6 enemies 7 times.<br />Close Distance: 390% Damage<br />Normal Distance: 320% Damage<br />Far Distance: 275% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 5 sec.</span>",
+      "New": "MP Cost: 30.<br />Close Distance: Attacks up to 6 enemies at 390% Damage 7 times.<br />Middle Distance: Attacks up to 6 enemies at 320% Damage 7 times.<br />Long Distance: Attacks up to 6 enemies at 275% damage 7 times.<br />Cooldown 5 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+u(x/2)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "250+7*x",
+      "New": null
+    },
+    "PVPcommon/lt2/x": {
+      "Old": "-285",
+      "New": null
+    },
+    "PVPcommon/lt2/y": {
+      "Old": "-165",
+      "New": null
+    },
+    "PVPcommon/rb2/x": {
+      "Old": "-185",
+      "New": null
+    },
+    "PVPcommon/rb2/y": {
+      "Old": "60",
+      "New": null
+    },
+    "PVPcommon/w2": {
+      "Old": "200+6*x",
+      "New": null
+    },
+    "PVPcommon/lt3/x": {
+      "Old": "-385",
+      "New": null
+    },
+    "PVPcommon/lt3/y": {
+      "Old": "-220",
+      "New": null
+    },
+    "PVPcommon/rb3/x": {
+      "Old": "-285",
+      "New": null
+    },
+    "PVPcommon/rb3/y": {
+      "Old": "105",
+      "New": null
+    },
+    "PVPcommon/q2": {
+      "Old": "175+5*x",
+      "New": null
+    },
+    "PVPcommon/updatableTime": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "400",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "650",
+      "New": null
+    },
+    "PVPcommon/cancelableTime": {
+      "Old": "150",
+      "New": null
+    },
+    "casterMove": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "avaliableInJumpingState": {
+      "Old": "1",
+      "New": null
+    },
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101001",
+      "New": "64001001"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64001000",
+      "New": "64001002"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64001001",
+      "New": "64001013"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64141000",
+      "New": "64101001"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/male/path/5": {
+      "Old": "cadena/M/9",
+      "New": "cadena/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "voice/female/path/5": {
+      "Old": "cadena/F/9",
+      "New": "cadena/F/9"
+    },
+    "common/u2": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/u3": {
+      "Old": null,
+      "New": "7"
+    },
+    "common/w3": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/w4": {
+      "Old": null,
+      "New": "7"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "64141000"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "64141031"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "64141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141022"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 30.<br />Close Distance: Attacks up to 6 enemies at 390% Damage 7 times.<br />Middle Distance: Attacks up to 6 enemies at 320% Damage 7 times.<br />Long Distance: Attacks up to 6 enemies at 275% damage 7 times.<br />Cooldown 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

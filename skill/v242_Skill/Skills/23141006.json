@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7575145-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141006",
+  "Name": "Spikes Royale VI: Spirit Enchant",
+  "Job": "Mercedes",
+  "Desc": "Leaps and drops a legendary spear imbued with the power of the Ancient Spirit to attack enemies. Shares cooldown with Spikes Royale.<br />Perfectly resists Knockback for its duration, and casts a debuff that ignores a certain amount of DEF on hit.<br />Can be chained with Leaf Tornado, Gust Dive, Rolling Moonsault, and Wrath of Enreal.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Spikes Royale Level 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/8",
+      "New": "mercedes/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/4",
+      "New": "mercedes/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "addAttack/skillPlus/11": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

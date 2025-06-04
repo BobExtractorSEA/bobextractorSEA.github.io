@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9848348-03:00",
+  "ChangeType": "Changed",
+  "Id": "61120048",
+  "Name": "Inferno Breath - Boss Killer",
+  "Job": "Kaiser",
+  "Desc": "Increases Inferno Breath's Boss Monster Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Inferno Breath - Blaze",
+      "New": "Inferno Breath - Boss Killer"
+    },
+    "Desc": {
+      "Old": "Increases the damage of Inferno Breath's flames.",
+      "New": "Increases Inferno Breath's Boss Monster Damage."
+    },
+    "H": {
+      "Old": "Flame Damage +20%",
+      "New": "Boss Monster Damage +10%"
+    },
+    "h1": {
+      "Old": "Flame Damage +20%",
+      "New": "Boss Monster Damage +10%"
+    },
+    "common/damR": {
+      "Old": "20",
+      "New": null
+    },
+    "common/bdR": {
+      "Old": null,
+      "New": "10"
+    }
+  },
+  "HFields": {
+    "h1": "Boss Monster Damage +10%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61120048_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

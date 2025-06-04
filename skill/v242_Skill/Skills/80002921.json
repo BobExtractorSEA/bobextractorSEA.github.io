@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.5577081-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002921",
+  "Name": "World Map Teleport (Thunderhorse)",
+  "Job": "Etc",
+  "Desc": "World Map Teleport skill usable when mounted on the Thunderhorse.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "ableTeleportWorldmap": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002921_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

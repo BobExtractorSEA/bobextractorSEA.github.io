@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9025619-03:00",
+  "ChangeType": "Changed",
+  "Id": "61111003",
+  "Name": "Cursebite",
+  "Job": "Kaiser",
+  "Desc": "Temporarily increases Abnormal Status Resistance and All Elemental Resistances. Final Damage increased against monster affected by Abnormal Status. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kaiser/M/2",
+      "New": "kaiser/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/2",
+      "New": "kaiser/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

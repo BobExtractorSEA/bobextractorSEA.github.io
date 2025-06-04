@@ -1,0 +1,103 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8765858-03:00",
+  "ChangeType": "Added",
+  "Id": "25141004",
+  "Name": "Bomb Punch VI",
+  "Job": "Shade",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -385,
+      "y": -290
+    },
+    "rb": {
+      "x": 15,
+      "y": 75
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/25121000": "30",
+    "action/0": "6thBombPunch1",
+    "common/maxLevel": "30",
+    "common/mpCon": "20+d(x/3)",
+    "common/mobCount": "8",
+    "common/damage": "251+5*x",
+    "common/attackCount": "4",
+    "common/u": "210+5*x",
+    "common/lt/x": -385,
+    "common/lt/y": -290,
+    "common/rb/x": 15,
+    "common/rb/y": 75,
+    "addAttack/skill": "25141005",
+    "addAttack/skipActionFrame": "4",
+    "addAttack/patternType": "2",
+    "addAttack/type": "1",
+    "addAttack/isAuto": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "invisible": "1",
+    "weapon": "48",
+    "subWeapon": "35",
+    "id": "25141004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = eunwol/M/91 }",
+    "voice/male/path/1": "{ Old = , New = eunwol/M/14 }",
+    "voice/female/path/0": "{ Old = , New = eunwol/F/91 }",
+    "voice/female/path/1": "{ Old = , New = eunwol/F/14 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/25141004_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/25141004_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

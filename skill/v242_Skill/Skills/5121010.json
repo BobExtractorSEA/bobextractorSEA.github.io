@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2583337-03:00",
+  "ChangeType": "Changed",
+  "Id": "5121010",
+  "Name": "Time Leap",
+  "Job": "Buccaneer",
+  "Desc": "Resets skill cooldown for you and your party members.<br />It doesn't have effect on skills not affected by Cooldown Reset effects.<br />Time Leap isn't affected by Cooldown Reset effects, and can't be recast on the same party members for a set period.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/39",
+      "New": "viper/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/40",
+      "New": "viper/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "viper/M/41",
+      "New": "viper/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/37",
+      "New": "viper/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/38",
+      "New": "viper/F/38"
+    },
+    "voice/female/path/2": {
+      "Old": "viper/F/40",
+      "New": "viper/F/40"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5121010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2036496-03:00",
+  "ChangeType": "Changed",
+  "Id": "2211011",
+  "Name": "Thunder Spear",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Summons lightning condensed sphere. The sphere attacks with lightning attribution by emitting high-voltage current. Reusing with down direction key will settle the sphere in place. Settled sphere is summoned for a certain time and attacks further range of enemies. Attack of the sphere doesn't decrease the frozen stack.<br />By using custom command. you can settle the sphere without pressing direction key.<br /><span style=\"font-weight:bold; color:orange;\">Custom command ON/OFF :Mouse right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/x": {
+      "Old": "800",
+      "New": "300"
+    },
+    "summonMinion": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageTC/M/3",
+      "New": "archMageTC/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageTC/M/27",
+      "New": "archMageTC/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageTC/M/35",
+      "New": "archMageTC/M/35"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageTC/M/39",
+      "New": "archMageTC/M/39"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageTC/F/3",
+      "New": "archMageTC/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageTC/F/27",
+      "New": "archMageTC/F/27"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageTC/F/29",
+      "New": "archMageTC/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageTC/F/39",
+      "New": "archMageTC/F/39"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2241007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2211011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2211011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

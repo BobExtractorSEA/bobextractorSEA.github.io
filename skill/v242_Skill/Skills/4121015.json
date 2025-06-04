@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2969731-03:00",
+  "ChangeType": "Changed",
+  "Id": "4121015",
+  "Name": "Frailty Curse",
+  "Job": "Night Lord",
+  "Desc": "Casts a barrier around you, decreasing ATT, MSPD and DEF of enemies that enter the barrier. Also permanently increases damage on Boss monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightLord/M/29",
+      "New": "nightLord/M/29"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/30",
+      "New": "nightLord/M/30"
+    },
+    "voice/male/path/2": {
+      "Old": "nightLord/M/10",
+      "New": "nightLord/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/38",
+      "New": "nightLord/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/39",
+      "New": "nightLord/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "nightLord/F/18",
+      "New": "nightLord/F/18"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4121015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4121015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8269481-03:00",
+  "ChangeType": "Added",
+  "Id": "41140006",
+  "Name": "Traces of Akatsuki VI",
+  "Job": "Hayato",
+  "Desc": "Fixed chance to activate an even more powerful additional attack, which leaves Akatsuki Trace, after hitting with Rai Sanrenzan, Iaigiri no Rai, or Shinsoku.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillType": "3",
+    "req/41120013": "20",
+    "common/maxLevel": "30",
+    "common/damage": "440",
+    "common/prop": "60",
+    "common/attackCount": "1",
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "skillList/0": "400011000",
+    "combatOrders": "1",
+    "id": "41140006",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Akatsuki Trace Attack Chance: 60%, Damage: 440%, Times Activated: 1"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_41140006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/41140006_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

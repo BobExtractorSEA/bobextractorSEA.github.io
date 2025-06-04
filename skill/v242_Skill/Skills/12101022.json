@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1089007-03:00",
+  "ChangeType": "Changed",
+  "Id": "12101022",
+  "Name": "Controlled Burn",
+  "Job": "Blaze Wizard",
+  "Desc": "Enables you to temporarily escape from the heat of battle and convert your inner flame into MP.<br />Gives a certain chance of absorbing the enemy's MP on magic attacks with the energy of Flame. Absorbs less amount of MP from Boss Monsters than common enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/16",
+      "New": "flameWizard/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/17",
+      "New": "flameWizard/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/16",
+      "New": "flameWizard/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/32",
+      "New": "flameWizard/F/32"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12101022_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101022_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101022_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101022_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101022_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

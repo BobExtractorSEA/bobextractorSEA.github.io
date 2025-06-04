@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.8089107-03:00",
+  "ChangeType": "Changed",
+  "Id": "4341002",
+  "Name": "Final Cut",
+  "Job": "Dual Blade",
+  "Desc": "Consumes a large amount of HP at once and forcefully attacks multiple enemies Use to temporarily deal greater damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "150-2*x",
+      "New": "93-x"
+    },
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/30",
+      "New": "dualBlade/M/30"
+    },
+    "voice/male/path/1": {
+      "Old": "dualBlade/M/31",
+      "New": "dualBlade/M/31"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/31",
+      "New": "dualBlade/F/31"
+    },
+    "voice/female/path/1": {
+      "Old": "dualBlade/F/32",
+      "New": "dualBlade/F/32"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4341002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

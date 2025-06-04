@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.4981529-03:00",
+  "ChangeType": "Added",
+  "Id": "61141017",
+  "Name": "Wing Beat VI",
+  "Job": "Kaiser",
+  "Desc": "Creates a whirlwind that attacks enemies until a fixed number of monsters are killed. The whirlwind will dissipate after a short distance or time. Wing Beat does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Up to 2 can be in place at a time.<br /><span style=\"font-weight:bold; color:orange;\">Command Skill: During Attack + Jump Key + Command</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wing Beat Lv. 20 or higher</span> ",
+  "Coordinates": {
+    "lt": {
+      "x": -110,
+      "y": -200
+    },
+    "rb": {
+      "x": 110,
+      "y": 10
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "info2/mes": "slow",
+    "info2/ignoreCounter": "1",
+    "req/61111100": "20",
+    "action/0": "6thWingBeat",
+    "common/maxLevel": "30",
+    "common/mpCon": "35+d(x/4)",
+    "common/damage": "214+6*x",
+    "common/attackCount": "40",
+    "common/mobCount": "8",
+    "common/lt/x": -110,
+    "common/lt/y": -200,
+    "common/rb/x": 110,
+    "common/rb/y": 10,
+    "common/z": "-75",
+    "common/prop": "40",
+    "common/x": "1000",
+    "common/time": "15000",
+    "common/subTime": "5",
+    "common/attackDelay": "330",
+    "finalAttack/61110009/0": "40",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "weapon": "40",
+    "subWeapon": "35",
+    "invisible": "1",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "isUsableKaiserDragon": "1",
+    "id": "61141017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "0",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = kaiser/M/42 }",
+    "voice/male/path/1": "{ Old = , New = kaiser/M/35 }",
+    "voice/female/path/0": "{ Old = , New = kaiser/F/60 }",
+    "voice/female/path/1": "{ Old = , New = kaiser/F/35 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 42. Attacks up to 8 enemies at 394% Damage up to 40 times. A 40% chance of Slowing monsters except Bosses for 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/61141017_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/61141017_effect0_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/61141017_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/61141017_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/61141017_special_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/61141017_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61141017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

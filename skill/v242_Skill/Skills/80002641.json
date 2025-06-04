@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.2855898-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002641",
+  "Name": "Ground Blast",
+  "Job": "Etc",
+  "Desc": "Summons the soul of Captain of the Guard Djunkel. The Soul Weapon's power temporarily summons Djunkel to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002641_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

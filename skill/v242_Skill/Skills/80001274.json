@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.9050304-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001274",
+  "Name": "Buring Totem Drop",
+  "Job": "Etc",
+  "Desc": "Zakum dops the burning Totems everywhere. Zakum summoned by the power of Soul Weapon gives burning totem to monsters in the vicinity.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001274_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

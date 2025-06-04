@@ -1,0 +1,107 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2583397-03:00",
+  "ChangeType": "Changed",
+  "Id": "36111006",
+  "Name": "Virtual Projection",
+  "Job": "Xenon",
+  "Desc": "Projects an Illusion of yourself. The Illusion deals a proportion of the damage you deal. It disappears upon receiving damage equal to a proportion of your HP, or when hit with an attack that alters its shape or limits its movement. The Illusion can't copy Rocket System, Summons, common 5th Advancement Skills and certain skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Projects an Illusion of yourself. The Illusion deals a proportion of the damage you deal. It disappears upon receiving damage equal to a proportion of your HP, or when hit with an attack that alters its shape or limits its movement. The Illusion can't copy Pinpoint Rocket, Aegis System, Summons, 5th Job Skills for all jobs and certain skills.",
+      "New": "Projects an Illusion of yourself. The Illusion deals a proportion of the damage you deal. It disappears upon receiving damage equal to a proportion of your HP, or when hit with an attack that alters its shape or limits its movement. The Illusion can't copy Rocket System, Summons, common 5th Advancement Skills and certain skills."
+    },
+    "H": {
+      "Old": "Consumes 100 MP to project an illusion that mimics your actions and inflicts 70% of final damage. The illusion disappears when it receives damage the equivalent of <span style=\"font-weight:bold; color:orange;\">x00% Max HP.</span>",
+      "New": "MP Cost: 100. Creates an illusion that acts as you do.<br />The illusion delivers an additional attack at 70% of Final Damage.<br />The illusion disappears after receiving damage equal to <span style=\"font-weight:bold; color:orange;\">x00% of Max HP.</span>"
+    },
+    "h1": {
+      "Old": "Consumes 100 MP to project an illusion that mimics your actions and inflicts 70% of final damage. The illusion disappears when it receives damage the equivalent of <span style=\"font-weight:bold; color:orange;\">x00% Max HP.</span>",
+      "New": "MP Cost: 100. Creates an illusion that acts as you do.<br />The illusion delivers an additional attack at 70% of Final Damage.<br />The illusion disappears after receiving damage equal to <span style=\"font-weight:bold; color:orange;\">x00% of Max HP.</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "xenon/M/42",
+      "New": "xenon/M/42"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/43",
+      "New": "xenon/M/43"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/44",
+      "New": "xenon/M/44"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/41",
+      "New": "xenon/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/42",
+      "New": "xenon/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/43",
+      "New": "xenon/F/43"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 100. Creates an illusion that acts as you do.<br />The illusion delivers an additional attack at 70% of Final Damage.<br />The illusion disappears after receiving damage equal to <span style=\"font-weight:bold; color:orange;\">x00% of Max HP.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36111006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36111006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

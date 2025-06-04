@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1114047-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051068",
+  "Name": "Mecha Carrier",
+  "Job": "5th (Pirate)",
+  "Desc": "Summon a flying aircraft carrier that was crafted with the core essences of Resistance technology. A sea plane attacks nearby enemies and then returns. As more attacks are dealt, more planes are sent out. The sea plane first targets the Boss monster with the highest Max HP within range.<br />Teleports back to you when it's far away from you. Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mechanic/M/45",
+      "New": "mechanic/M/45"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/46",
+      "New": "mechanic/M/46"
+    },
+    "voice/male/path/2": {
+      "Old": "mechanic/M/47",
+      "New": "mechanic/M/47"
+    },
+    "voice/male/path/3": {
+      "Old": "mechanic/M/63",
+      "New": "mechanic/M/63"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/45",
+      "New": "mechanic/F/45"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/46",
+      "New": "mechanic/F/46"
+    },
+    "voice/female/path/2": {
+      "Old": "mechanic/F/47",
+      "New": "mechanic/F/47"
+    },
+    "voice/female/path/3": {
+      "Old": "mechanic/F/64",
+      "New": "mechanic/F/64"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051068_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051068_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

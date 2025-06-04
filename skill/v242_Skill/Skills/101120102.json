@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8261598-03:00",
+  "ChangeType": "Changed",
+  "Id": "101120102",
+  "Name": "Earth Break",
+  "Job": "Zero",
+  "Desc": "Leaps high into the air and strikes the ground with Long Sword, cleaving it.<br />A shock wave is generated along the ground for additional damage. The shock waves do not affect enemies in the Damage Reflection state.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Jumping Crash or higher</span> <br />Command: Giga Crash followed by <span style=\"font-weight:bold; color:orange;\">Jumping Crash</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/50",
+      "New": "zero/F/50"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/51",
+      "New": "zero/F/51"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/29",
+      "New": "zero/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/3",
+      "New": "zero/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/22",
+      "New": "zero/F/22"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101120104"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101120102_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120102_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120102_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120102_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120102_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120102_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

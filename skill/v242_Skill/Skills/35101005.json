@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1488889-03:00",
+  "ChangeType": "Changed",
+  "Id": "35101005",
+  "Name": "Open Portal: GX-9",
+  "Job": "Mechanic",
+  "Desc": "Installs Portal <GX-9>. Up to two portals can be installed at once, and party members can freely move between them. However, portals will not work if they are too far apart, and it also requires using recharge time once. <br /><span style=\"font-weight:bold; color:orange;\">Party Member Available Mode On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mechanic/M/16",
+      "New": "mechanic/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/17",
+      "New": "mechanic/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/16",
+      "New": "mechanic/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/17",
+      "New": "mechanic/F/17"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_35101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35101005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

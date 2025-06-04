@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.3833894-03:00",
+  "ChangeType": "Changed",
+  "Id": "162101013",
+  "Name": "Wand Acceleration",
+  "Job": "Lara",
+  "Desc": "Temporarily increases Magic ASPD by 2 levels at the cost of MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wand Proficiency Lv. 5 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162101013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

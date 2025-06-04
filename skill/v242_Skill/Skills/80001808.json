@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.4473115-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001808",
+  "Name": "King's Raging Roar",
+  "Job": "Etc",
+  "Desc": "It's the King of Destruction! The power of Soul Weapon summons Ursus who lets out a raging roar and deals powerful damage to the front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001808_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

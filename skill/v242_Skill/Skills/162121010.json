@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4901573-03:00",
+  "ChangeType": "Changed",
+  "Id": "162121010",
+  "Name": "Absorption: Sunlight Bud",
+  "Job": "Lara",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "lara/M/52",
+      "New": "lara/M/52"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/53",
+      "New": "lara/M/53"
+    },
+    "voice/male/path/2": {
+      "Old": "lara/M/54",
+      "New": "lara/M/54"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/63",
+      "New": "lara/F/63"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/65",
+      "New": "lara/F/65"
+    },
+    "voice/female/path/2": {
+      "Old": "lara/F/66",
+      "New": "lara/F/66"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162121010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162121010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

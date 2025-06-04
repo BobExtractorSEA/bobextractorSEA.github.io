@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8675284-03:00",
+  "ChangeType": "Changed",
+  "Id": "1100002",
+  "Name": "Final Attack",
+  "Job": "Hero",
+  "Desc": "Attack skills have a chance of inflicting additional damage, prioritizing the Boss monster with the highest Max HP. Must have a Sword and Axe equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Weapon Mastery or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 effect: Can learn the 4th Job Skill \"Advanced Final Attack\".</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Attack skills have a chance of inflicting additional damage. Must have a Sword and Axe equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Weapon Mastery or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill, Advanced Final Attack</span>",
+      "New": "Attack skills have a chance of inflicting additional damage, prioritizing the Boss monster with the highest Max HP. Must have a Sword and Axe equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Weapon Mastery or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 effect: Can learn the 4th Job Skill \"Advanced Final Attack\".</span>"
+    },
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Final Attack that inflicts 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 40% chance of casting Final Attack that inflicts 150% damage.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> a 40% chance of Final Attack that attacks at 150% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1100002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9920366-03:00",
+  "ChangeType": "Changed",
+  "Id": "25121000",
+  "Name": "Bomb Punch",
+  "Job": "Shade",
+  "Desc": "Summons a nature spirit to attack multiple enemies in front.<br />Can be used 3 times in a row.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "eunwol/M/90",
+      "New": "eunwol/M/90"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/13",
+      "New": "eunwol/M/13"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/54",
+      "New": "eunwol/M/54"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/55",
+      "New": "eunwol/M/55"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/90",
+      "New": "eunwol/F/90"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/13",
+      "New": "eunwol/F/13"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/54",
+      "New": "eunwol/F/54"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/55",
+      "New": "eunwol/F/55"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "25141003"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

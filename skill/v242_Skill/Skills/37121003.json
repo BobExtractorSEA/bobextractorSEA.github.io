@@ -1,0 +1,167 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5567545-03:00",
+  "ChangeType": "Changed",
+  "Id": "37121003",
+  "Name": "Hurricane Blaster",
+  "Job": "Blaster",
+  "Desc": "Utilizing Weave, Charging Arm: Bobbing, and Charging Arm: Weaving, creates a storm that sweeps enemies in a broad area. Max stacks Combo Focusing on attack hits. Also permanently increases Charging Arm damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Charging Arm: Weaving Lv. 15 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 60. Attacks up to 12 enemies at 1250% Damage 5 times.<br />Max-stacks Combo Focusing on attack hits. Duration: 12 sec.<br />Cooldown: 15 sec.<br />[Passive Effect: Charging Arm damage +195%p (Shock wave excluded)]",
+      "New": "MP Cost: 60. Attacks up to 12 enemies at 1250% Damage 5 times.<br />Max-stacks Combo Focusing on hit and sets the duration to 12 sec.<br />Cooldown: 15 sec.<br />[Passive Effects: Charging Arm: Smash Damage +150%p]"
+    },
+    "h1": {
+      "Old": "MP Cost: 60. Attacks up to 12 enemies at 1250% Damage 5 times.<br />Max-stacks Combo Focusing on attack hits. Duration: 12 sec.<br />Cooldown: 15 sec.<br />[Passive Effect: Charging Arm damage +195%p (Shock wave excluded)]",
+      "New": "MP Cost: 60. Attacks up to 12 enemies at 1250% Damage 5 times.<br />Max-stacks Combo Focusing on hit and sets the duration to 12 sec.<br />Cooldown: 15 sec.<br />[Passive Effects: Charging Arm: Smash Damage +150%p]"
+    },
+    "common/damPlus": {
+      "Old": "135+2*x",
+      "New": "90+2*x"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "90+2*x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "100+15*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "12",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damPlus": {
+      "Old": "3*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "800",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/22",
+      "New": "blaster/M/22"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/23",
+      "New": "blaster/M/23"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/10",
+      "New": "blaster/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/20",
+      "New": "blaster/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/29",
+      "New": "blaster/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/30",
+      "New": "blaster/F/30"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "subWeapon": {
+      "Old": null,
+      "New": "35"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 60. Attacks up to 12 enemies at 1250% Damage 5 times.<br />Max-stacks Combo Focusing on hit and sets the duration to 12 sec.<br />Cooldown: 15 sec.<br />[Passive Effects: Charging Arm: Smash Damage +150%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

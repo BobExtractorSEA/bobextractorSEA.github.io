@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6341997-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121000",
+  "Name": "Vanquisher's Charm",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Quickly shoots yin-yang talismans at enemies in front. Hold down the skill key to shoot the talismans in a row.<br />Automatically casts the 5th skill, Spirit Pentacle, if you have learned it and it's not on cooldown.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

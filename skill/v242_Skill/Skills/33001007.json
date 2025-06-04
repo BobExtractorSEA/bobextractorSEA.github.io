@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.7350372-03:00",
+  "ChangeType": "Changed",
+  "Id": "33001007",
+  "Name": "Summon Jaguar",
+  "Job": "Wild Hunter",
+  "Desc": "Summons Jaguars to fight together. The Jaguars attack your target first. You can command them to use <span style=\"font-weight:bold; color:orange;\">[Jaguar skills]</span>. The <span style=\"font-weight:bold; color:orange;\">Jaguar skills target the Boss monster with the highest Max HP within range before everyone else</span>. If there's no Boss monster, then Jaguars attack in your facing direction.<br />While Jaguars are summoned, use this skill again with the Down key to keep the main Jaguar in place while fighting.<br />The fixed Jaguar attacks a Boss monster with the highest Max HP within range first and moves back to your location if it becomes too far away from you.<br />Use Jaguar Rider to ride a Jaguar.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 20. Summons a Jaguar that attacks up to 6 enemies at 170% damage<br />The Jaguar attacks with a 15% chance of casting the Another Bite debuff that stacks up to 3 times and lasts for 20 sec.<br />Another Bite: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacking enemies inflicted by the debuff with Crossbow skills performs an additional attack at 70% damage per stack.<br />Cooldown: 1 sec.<br />[Passive Effects: Critical Damage +8%, Status Resistance +30]",
+      "New": "MP Cost: 20. Summons a Jaguar that attacks up to 6 enemies at 170% Damage.<br />Jaguar attacks create a 15% chance of a debuff that stacks up to 3 times and lasts for 20 sec.<br />Another Bite: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Crossbow Skill attacks on debuffed enemies deliver an additional attack at 70% Damage per debuff stack.<br />Cooldown: 1 sec.<br />[Passive Effects: Critical Damage +8% and Status Resistance +30]"
+    },
+    "h1": {
+      "Old": "MP Cost: 20. Summons a Jaguar that attacks up to 6 enemies at 170% damage<br />The Jaguar attacks with a 15% chance of casting the Another Bite debuff that stacks up to 3 times and lasts for 20 sec.<br />Another Bite: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacking enemies inflicted by the debuff with Crossbow skills performs an additional attack at 70% damage per stack.<br />Cooldown: 1 sec.<br />[Passive Effects: Critical Damage +8%, Status Resistance +30]",
+      "New": "MP Cost: 20. Summons a Jaguar that attacks up to 6 enemies at 170% Damage.<br />Jaguar attacks create a 15% chance of a debuff that stacks up to 3 times and lasts for 20 sec.<br />Another Bite: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Crossbow Skill attacks on debuffed enemies deliver an additional attack at 70% Damage per debuff stack.<br />Cooldown: 1 sec.<br />[Passive Effects: Critical Damage +8% and Status Resistance +30]"
+    },
+    "common/q": {
+      "Old": "0",
+      "New": null
+    },
+    "common/q2": {
+      "Old": "0",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "wildhunter/M/0",
+      "New": "wildhunter/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "wildhunter/M/3",
+      "New": "wildhunter/M/3"
+    },
+    "voice/male/path/2": {
+      "Old": "wildhunter/M/4",
+      "New": "wildhunter/M/4"
+    },
+    "voice/male/path/3": {
+      "Old": "wildhunter/M/5",
+      "New": "wildhunter/M/5"
+    },
+    "voice/female/path/0": {
+      "Old": "wildhunter/F/0",
+      "New": "wildhunter/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "wildhunter/F/3",
+      "New": "wildhunter/F/3"
+    },
+    "voice/female/path/2": {
+      "Old": "wildhunter/F/4",
+      "New": "wildhunter/F/4"
+    },
+    "voice/female/path/3": {
+      "Old": "wildhunter/F/5",
+      "New": "wildhunter/F/5"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "33141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 20. Summons a Jaguar that attacks up to 6 enemies at 170% Damage.<br />Jaguar attacks create a 15% chance of a debuff that stacks up to 3 times and lasts for 20 sec.<br />Another Bite: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Crossbow Skill attacks on debuffed enemies deliver an additional attack at 70% Damage per debuff stack.<br />Cooldown: 1 sec.<br />[Passive Effects: Critical Damage +8% and Status Resistance +30]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_33001007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/33001007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

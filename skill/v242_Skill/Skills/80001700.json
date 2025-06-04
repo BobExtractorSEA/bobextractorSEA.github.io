@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.143894-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001700",
+  "Name": "Sanguis Regina",
+  "Job": "Etc",
+  "Desc": "The Crimson Queen has terrible mood swings. She changes her looks depending on how she feels. <br />Use a soul skill and you will see one of the following: <span style=\"font-weight:bold; color:orange;\">seductive Crimson Queen, joyful Crimson Queen, angry Crimson Queen, and sad Crimson Queen</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001700_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,142 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1564599-03:00",
+  "ChangeType": "Added",
+  "Id": "51141013",
+  "Name": "Deadly Charge VI",
+  "Job": "Mihile",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Soul Light Skill]</span><br />Summons a Knight of Light capable of utilizing the power of Soul to make a deadly charge. Periodically enhances the power of Soul, allowing the Knight of Light to shoot spirit swords after the charge attack.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Deadly Charge Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -400
+    },
+    "rb": {
+      "x": 100,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "action/0": "6thDeadlyCharge",
+    "req/51121052": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/damage": "890+27*x",
+    "common/attackCount": "10",
+    "common/mobCount": "15",
+    "common/prop": "100",
+    "common/x": "10",
+    "common/y": "35",
+    "common/u": "30",
+    "common/subTime": "10",
+    "common/v": "50",
+    "common/u2": "15",
+    "common/u3": "245+9*x",
+    "common/u4": "8",
+    "common/v2": "5",
+    "common/time": "60",
+    "common/cooltime": "15",
+    "common/lt/x": -500,
+    "common/lt/y": -400,
+    "common/rb/x": 100,
+    "common/rb/y": 80,
+    "finalAttack/51100002/0": "30",
+    "skillList/0": "400011000",
+    "extraSkillInfo/0/skill": "51141014",
+    "extraSkillInfo/0/delay": "420",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "mob/repeat": "1",
+    "mob/pos": "2",
+    "mob2/pos": "2",
+    "mob2/repeat": "1",
+    "applyHyper": "1",
+    "weapon": "30",
+    "id": "51141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 6,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = mikhail/M/90 }",
+    "voice/male/path/1": "{ Old = , New = mikhail/M/91 }",
+    "voice/male/path/2": "{ Old = , New = mikhail/M/53 }",
+    "voice/male/path/3": "{ Old = , New = mikhail/M/54 }",
+    "voice/male/path/4": "{ Old = , New = mikhail/M/63 }",
+    "voice/male/path/5": "{ Old = , New = mikhail/M/62 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 1700% Damage 10 times.<br />Enhances the next attack every 35 sec., activating additional spirit swords.<br /><span style=\"font-weight:bold; color:orange;\">Spirit Sword</span>: Attacks up to 15 enemies at 515% Damage 8 times. Spirit swords can attack their target up to 5 times.<br />Attacked enemies receive an Abnormal Status debuff that increases Damage TAKEN from you and your party by 10% for 60 sec.<br />Attacks create a 50% chance of Blind, which lasts for 10 sec., decreasing the target's Accuracy -30%.<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/51141013_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/51141013_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/51141013_mob_new.webp"
+    },
+    "mob2": {
+      "Old": null,
+      "New": "Animations/New/51141013_mob2_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

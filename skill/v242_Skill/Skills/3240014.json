@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.3035654-03:00",
+  "ChangeType": "Added",
+  "Id": "3240014",
+  "Name": "Final Attack VI",
+  "Job": "Marksman",
+  "Desc": "Direct Attack Skill hits create a chance of an additional attack. Must have a Crossbow equipped.<br />Also, permanently enhances Snipe VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Final Attack: Crossbow Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/3200001": "20",
+    "common/maxLevel": "30",
+    "common/prop": "60",
+    "common/damage": "220+4*x",
+    "common/v": "x",
+    "common/w": "x",
+    "common/x": "x",
+    "common/y": "x",
+    "common/z": "x",
+    "skillType": "3",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "id": "3240014",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 60% chance of Final Attack that attacks at 340% Damage.<br />[Passive Effects: Snipe VI Damage +30%p, Enhance Snipe VI Damage +30%p, Enhance Snipe VI additional attack damage +30%p, Ultimate Snipe VI Damage +30%p, Ultimate Snipe VI additional attack damage +30%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3240014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3240014_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

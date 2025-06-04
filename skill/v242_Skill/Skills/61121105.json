@@ -1,0 +1,149 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9397138-03:00",
+  "ChangeType": "Changed",
+  "Id": "61121105",
+  "Name": "Inferno Breath",
+  "Job": "Kaiser",
+  "Desc": "Summons an ancient dragon that breathes fire, leaving a trail of fire that deals continuous damage to those on it. The trail of fire does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 70. Creates several Trails of Fire after attacking up to 15 enemies at 300% damage 8 times.<br />Trail of Fire attacks up to 6 enemies at 200% damage at regular intervals for 20 sec.<br />Cooldown 20 sec",
+      "New": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then creates multiple flames.<br />The flames periodically attack up to 6 enemies at 240% Damage for 20 sec.<br />Cooldown: 20 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Creates several Trails of Fire after attacking up to 15 enemies at 300% damage 8 times.<br />Trail of Fire attacks up to 6 enemies at 200% damage at regular intervals for 20 sec.<br />Cooldown 20 sec",
+      "New": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then creates multiple flames.<br />The flames periodically attack up to 6 enemies at 240% Damage for 20 sec.<br />Cooldown: 20 sec."
+    },
+    "common/attackCount": {
+      "Old": "8",
+      "New": "14"
+    },
+    "common/damage": {
+      "Old": "220+4*x",
+      "New": "690+14*x"
+    },
+    "common/y": {
+      "Old": "140+3*x",
+      "New": "180+3*x"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "30+x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "220+4*x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "40-x",
+      "New": null
+    },
+    "PVPcommon/lt2/x": {
+      "Old": "-20",
+      "New": null
+    },
+    "PVPcommon/lt2/y": {
+      "Old": "-20",
+      "New": null
+    },
+    "PVPcommon/rb2/x": {
+      "Old": "40",
+      "New": null
+    },
+    "PVPcommon/rb2/y": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1200",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kaiser/M/54",
+      "New": "kaiser/M/54"
+    },
+    "voice/male/path/1": {
+      "Old": "kaiser/M/57",
+      "New": "kaiser/M/57"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/77",
+      "New": "kaiser/F/77"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/73",
+      "New": "kaiser/F/73"
+    },
+    "skillList/0": {
+      "Old": null,
+      "New": "400011000"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "61141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Attacks up to 15 enemies at 970% Damage 14 times, and then creates multiple flames.<br />The flames periodically attack up to 6 enemies at 240% Damage for 20 sec.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61121105_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121105_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121105_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121105_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121105_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

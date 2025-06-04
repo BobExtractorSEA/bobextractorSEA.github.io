@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1050386-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321040",
+  "Name": "Ancient Astra (Transition)",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Materializes an arrow of the legends to bombard enemies with a powerful attack.<br />Enables you to move forward and backward while attacking.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to strike 4 enemies at 360% damage 6 times.<br />Decrease shooting damage that includes the attack proportional to the max HP during the attack by 60%.<br />Cooldown 60 secs",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 4 enemies at 360% Damage 6 times in a row.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to strike 4 enemies at 360% damage 6 times.<br />Decrease shooting damage that includes the attack proportional to the max HP during the attack by 60%.<br />Cooldown 60 secs",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 4 enemies at 360% Damage 6 times in a row.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/19",
+      "New": "pathfinder/M/19"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/34",
+      "New": "pathfinder/M/34"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/35",
+      "New": "pathfinder/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/19",
+      "New": "pathfinder/F/19"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/34",
+      "New": "pathfinder/F/34"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/35",
+      "New": "pathfinder/F/35"
+    },
+    "common/s": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 4 enemies at 360% Damage 6 times in a row.<br />Damage TAKEN -60% including Max HP-based Damage<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321040_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321040_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5212935-03:00",
+  "ChangeType": "Changed",
+  "Id": "42110000",
+  "Name": "Bigger Brother Yaksha",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Summons the powerful oldest Yaksha and orders it to push back and attack enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Big Brother Yaksha Lv. 20.</span><br /><span style=\"font-weight:bold; color:orange;\">Must reach Lv. 20 to learn the Tier 4 skill, \"Clay Yaksha:Boss\"</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "2"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "2"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": null,
+      "New": "kanna/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": null,
+      "New": "kanna/F/4"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42110000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42110000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42110000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42110000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42110000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

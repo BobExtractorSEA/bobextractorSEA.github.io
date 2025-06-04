@@ -1,0 +1,154 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2768473-03:00",
+  "ChangeType": "Added",
+  "Id": "162141018",
+  "Name": "Absorption: Sunlight Bud VI",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>, <span style=\"font-weight:bold; color:orange;\">Absorption Skill</span><br />When Spirit Sprinkling hits, the Rthul Spirits are gathered to attack by chasing the enemies as the hot sun breathes condensed fireball. The fireball tracks the boss monster in range; and if there are many boss monsters, it tracks the monster with the highest HP first. Absorption: Sunlight Bud VI is affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Absorption: Sunlight Bud Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/162120008": "30",
+    "action/0": "6thAMabsorptionSun",
+    "common/maxLevel": "30",
+    "common/time": "95",
+    "common/damage": "290+3*x",
+    "common/attackCount": "6",
+    "common/bulletCount": "5",
+    "common/u": "2500",
+    "common/t": "2.5",
+    "common/x": "40",
+    "skillList/0": "162001000",
+    "skillList/1": "162001004",
+    "skillList/2": "162121021",
+    "skillList/3": "162111005",
+    "skillList/4": "162141000",
+    "skillList/5": "162141020",
+    "additional_process/0": "6",
+    "processtype": "-1",
+    "weapon": "37",
+    "subWeapon": "35",
+    "applySixthSkillIncBuffDuration": "1",
+    "id": "162141018",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = lara/M/38 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/39 }",
+    "voice/male/path/2": "{ Old = , New = lara/M/40 }",
+    "voice/male/path/3": "{ Old = , New = lara/M/41 }",
+    "voice/male/path/4": "{ Old = , New = lara/M/42 }",
+    "voice/male/path/5": "{ Old = , New = lara/M/51 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/49 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/50 }",
+    "voice/female/path/2": "{ Old = , New = lara/F/51 }",
+    "voice/female/path/3": "{ Old = , New = lara/F/52 }",
+    "voice/female/path/4": "{ Old = , New = lara/F/53 }",
+    "voice/female/path/5": "{ Old = , New = lara/F/64 }"
+  },
+  "HFields": {
+    "h1": "When Spirit Sprinkling hits for 95 sec., the Rthul Spirit appears to attack by breathing 5 fireballs, and the fireball tracks the surrounding enemies to attack at 380% Damage 6 times.<br />If a single enemy is attacked by multiple fireballs, Final Damage -40% for each subsequent fireballs after the first one.<br />Cooldown: 2.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/162141018_effect_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6630356-03:00",
+  "ChangeType": "Changed",
+  "Id": "3220015",
+  "Name": "Additional Bolt",
+  "Job": "Marksman",
+  "Desc": "Increases the attack count of all skills with the attack count of 2 or higher and Final Damage. Attack count increase does not apply to Summons, 5th Advancement Skill for all jobs, and certain skills.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillListDummy/19": {
+      "Old": null,
+      "New": "3241015"
+    },
+    "skillListDummy/20": {
+      "Old": null,
+      "New": "3241013"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3220015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,229 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7395121-03:00",
+  "ChangeType": "Changed",
+  "Id": "64141000",
+  "Name": "Chain Artz: Stroke VI",
+  "Job": "Cadena",
+  "Desc": "Presses the <span style=\"font-weight:bold; color:orange;\">Attack Key</span> to unleash a 2-hit combo. Gripping the chain like a whip, you swing it around once before delivering a powerful strike that sweeps through enemies in an instant. Enemies hit by the second strike are pushed back, and those touched by the chain are afflicted with the <span style=\"font-weight:bold; color:orange;\">Slow</span> status for a brief duration.<br />You can utilize the centrifugal force when spinning the chain to perform additional combo attacks between the first and second strikes, increasing the damage of the linked skill.<br />Periodically, you can swing the chain even harder to create a shockwave at the location of the second hit, but this shockwave only triggers if it hits an enemy during the second strike.<br />You can use this skill even while using other skills.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Chain Arts: Stroke Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "cancelableSkillID/0": {
+      "Old": "64001002",
+      "New": "64001000"
+    },
+    "cancelableSkillID/1": {
+      "Old": "64101002",
+      "New": "64001002"
+    },
+    "cancelableSkillID/2": {
+      "Old": "64121021",
+      "New": "64001007"
+    },
+    "cancelableSkillID/3": {
+      "Old": "64111002",
+      "New": "64001008"
+    },
+    "cancelableSkillID/4": {
+      "Old": "64111003",
+      "New": "64101001"
+    },
+    "cancelableSkillID/5": {
+      "Old": "64111004",
+      "New": "64101002"
+    },
+    "cancelableSkillID/6": {
+      "Old": "64121001",
+      "New": "64111002"
+    },
+    "cancelableSkillID/7": {
+      "Old": "64121002",
+      "New": "64111003"
+    },
+    "cancelableSkillID/8": {
+      "Old": "64121003",
+      "New": "64111004"
+    },
+    "cancelableSkillID/9": {
+      "Old": "64001000",
+      "New": "64121001"
+    },
+    "cancelableSkillID/10": {
+      "Old": "64001007",
+      "New": "64121002"
+    },
+    "cancelableSkillID/11": {
+      "Old": "64121022",
+      "New": "64121003"
+    },
+    "cancelableSkillID/12": {
+      "Old": "64001008",
+      "New": "64121021"
+    },
+    "cancelableSkillID/13": {
+      "Old": "64101001",
+      "New": "64121022"
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/0",
+      "New": "cadena/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/1",
+      "New": "cadena/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/2",
+      "New": "cadena/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/3",
+      "New": "cadena/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "cadena/M/10",
+      "New": "cadena/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/0",
+      "New": "cadena/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/1",
+      "New": "cadena/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/2",
+      "New": "cadena/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/3",
+      "New": "cadena/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "cadena/F/10",
+      "New": "cadena/F/10"
+    },
+    "cancelableSkillID/14": {
+      "Old": null,
+      "New": "64141008"
+    },
+    "cancelableSkillID/15": {
+      "Old": null,
+      "New": "64141013"
+    },
+    "cancelableSkillID/16": {
+      "Old": null,
+      "New": "64141022"
+    },
+    "cancelableSkillID/17": {
+      "Old": null,
+      "New": "64141023"
+    },
+    "cancelableSkillID/18": {
+      "Old": null,
+      "New": "64141024"
+    },
+    "cancelableSkillID/19": {
+      "Old": null,
+      "New": "64141027"
+    },
+    "cancelableSkillID/20": {
+      "Old": null,
+      "New": "64141028"
+    },
+    "cancelableSkillID/21": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/22": {
+      "Old": null,
+      "New": "64141032"
+    },
+    "cancelableSkillID/23": {
+      "Old": null,
+      "New": "64141034"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

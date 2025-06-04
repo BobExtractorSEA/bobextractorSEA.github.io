@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1185022-03:00",
+  "ChangeType": "Changed",
+  "Id": "12120021",
+  "Name": "Orbital Flame IV",
+  "Job": "Blaze Wizard",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/5": {
+      "Old": null,
+      "New": "12141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12120021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

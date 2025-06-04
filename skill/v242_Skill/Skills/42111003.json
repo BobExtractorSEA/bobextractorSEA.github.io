@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5304557-03:00",
+  "ChangeType": "Changed",
+  "Id": "42111003",
+  "Name": "Kishin Shoukan",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Summons the earthbound spirits, Hana and Yuki. Hana and Yuki throw orbs at each other, attacking enemies in between them. Permanently receives 10% additional EXP.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 or above required to learn the 4th skill, Rock Yaksha.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kanna/M/9",
+      "New": "kanna/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/9",
+      "New": "kanna/F/9"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "42141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

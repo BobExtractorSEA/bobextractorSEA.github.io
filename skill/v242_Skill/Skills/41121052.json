@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.2538175-03:00",
+  "ChangeType": "Changed",
+  "Id": "41121052",
+  "Name": "Falcon's Honor",
+  "Job": "Hayato",
+  "Desc": "Call upon the powers of Hayato's ancestors to unleash a furious barrage of attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hayato/M/0",
+      "New": "hayato/M/0"
+    },
+    "voice/female/path/0": {
+      "Old": "hayato/F/0",
+      "New": "hayato/F/0"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "41141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

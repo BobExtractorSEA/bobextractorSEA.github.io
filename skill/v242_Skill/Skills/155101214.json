@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9181524-03:00",
+  "ChangeType": "Changed",
+  "Id": "155101214",
+  "Name": "Unstoppable Instinct",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/6",
+      "New": "ark/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/7",
+      "New": "ark/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/6",
+      "New": "ark/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/7",
+      "New": "ark/F/7"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "155141036"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155101214_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101214_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101214_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101214_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155101214_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

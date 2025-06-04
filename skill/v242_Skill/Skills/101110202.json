@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8171385-03:00",
+  "ChangeType": "Changed",
+  "Id": "101110202",
+  "Name": "Rolling Assault",
+  "Job": "Zero",
+  "Desc": "Spins at very high speed, moving forward, cutting through enemies in your path. Some monsters have a resistance to the attack and cannot be knocked back. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Rolling Cross or higher</span><br /> Command: While Rolling Cross is active use <span style=\"font-weight:bold; color:orange;\">Rolling Cross</span> again",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/48",
+      "New": "zero/M/48"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/49",
+      "New": "zero/M/49"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/15",
+      "New": "zero/M/15"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/17",
+      "New": "zero/M/17"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/22",
+      "New": "zero/M/22"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101110203"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101110202_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110202_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110202_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110202_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110202_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110202_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0313344-03:00",
+  "ChangeType": "Changed",
+  "Id": "63101005",
+  "Name": "Dragon Fang",
+  "Job": "Kain",
+  "Desc": "The remains of Devil Dragon drawn by the Smell of Death get materialized as fangs, and spread more deaths. Dragon Fang is summoned when a certain number of Kaine's direct attacks hit. It does not affect enemies in the Damage Reflection status and first targets the enemy with the highest HP.<br />It follows Kaine when moving out of range. It is removed upon moving maps, but it gains the required attack hits for creation based on the remaining duration.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off.</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 5th Job skill, Grip of Agony</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Summon for 40 sec.<br />When Kaine's direct attack hits, changes to attack mode and moves towards target enemies and triggers Dragon Bite, attacking enemies at 110% Damage 4 times. After activating attack mode, casts Dragon Bite up to 7 times and returns dealing 50% more damage on normal monsters.<br />Can summon up to 3.<br />Attack Mode Cooldown: 3 sec.",
+      "New": "Summoned for 40 sec.<br />When Kaine's direct Attack skill hits, enters Attack mode, moves to a target, and activates Dragon Bite that attacks at 110% Damage 4 times. After entering Attack mode, casts Dragon Bite up to 7 times before returning. Normal Monster Damage +50%.<br />Up to 3 can be summoned.<br />Attack Mode Cooldown: 3 sec."
+    },
+    "h1": {
+      "Old": "Summon for 40 sec.<br />When Kaine's direct attack hits, changes to attack mode and moves towards target enemies and triggers Dragon Bite, attacking enemies at 110% Damage 4 times. After activating attack mode, casts Dragon Bite up to 7 times and returns dealing 50% more damage on normal monsters.<br />Can summon up to 3.<br />Attack Mode Cooldown: 3 sec.",
+      "New": "Summoned for 40 sec.<br />When Kaine's direct Attack skill hits, enters Attack mode, moves to a target, and activates Dragon Bite that attacks at 110% Damage 4 times. After entering Attack mode, casts Dragon Bite up to 7 times before returning. Normal Monster Damage +50%.<br />Up to 3 can be summoned.<br />Attack Mode Cooldown: 3 sec."
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "63141018"
+    },
+    "skillList/37": {
+      "Old": null,
+      "New": "63141020"
+    },
+    "skillList/38": {
+      "Old": null,
+      "New": "63141118"
+    },
+    "skillList/39": {
+      "Old": null,
+      "New": "63141120"
+    },
+    "skillList/40": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "skillList/41": {
+      "Old": null,
+      "New": "63141027"
+    },
+    "skillList/42": {
+      "Old": null,
+      "New": "63141127"
+    },
+    "skillList2/5": {
+      "Old": null,
+      "New": "63141004"
+    },
+    "skillList2/6": {
+      "Old": null,
+      "New": "63141121"
+    },
+    "skillList2/7": {
+      "Old": null,
+      "New": "63141025"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Summoned for 40 sec.<br />When Kaine's direct Attack skill hits, enters Attack mode, moves to a target, and activates Dragon Bite that attacks at 110% Damage 4 times. After entering Attack mode, casts Dragon Bite up to 7 times before returning. Normal Monster Damage +50%.<br />Up to 3 can be summoned.<br />Attack Mode Cooldown: 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

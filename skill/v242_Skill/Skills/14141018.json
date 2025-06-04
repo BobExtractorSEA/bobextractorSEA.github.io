@@ -1,0 +1,155 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9043061-03:00",
+  "ChangeType": "Added",
+  "Id": "14141018",
+  "Name": "Dominion VI",
+  "Job": "Night Walker",
+  "Desc": "Maximizes the power of darkness, turning the surrounding area into your domain. A Dark Element attack.<br /><span style=\"font-weight:bold; color:orange;\">Gray Effect On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Dominion Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -600,
+      "y": -400
+    },
+    "rb": {
+      "x": 600,
+      "y": 400
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "cannotCancelByRButton": "1",
+    "info2/ignoreCounter": "1",
+    "req/14121052": "1",
+    "action/0": "6thDominion",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "1070+31*x",
+    "common/attackCount": "10",
+    "common/mobCount": "15",
+    "common/time": "30",
+    "common/cooltime": "180",
+    "common/lt/x": -600,
+    "common/lt/y": -400,
+    "common/rb/x": 600,
+    "common/rb/y": 400,
+    "common/y": "1710",
+    "common/z": "31710",
+    "common/x": "700",
+    "common/u": "5100",
+    "common/w": "3",
+    "common/subTime": "6030",
+    "common/indieCr": "100",
+    "common/indiePMdR": "20",
+    "effect/z": "9",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/delayedTimeActionSpeed": "120",
+    "hit/0/delayShowDamage": "120",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/force": "70",
+    "trembleEffect/time": "2000",
+    "trembleEffect/term": "120",
+    "trembleEffect/delay": "0",
+    "trembleEffect/remote": "0",
+    "grayTintEffectInfo/target/0": "3",
+    "grayTintEffectInfo/delay": "1710",
+    "grayTintEffectInfo/duration": "30000",
+    "grayTintEffectInfo/r": "226",
+    "grayTintEffectInfo/g": "213",
+    "grayTintEffectInfo/b": "255",
+    "grayTintEffectInfo/gray": "255",
+    "grayTintEffectInfo/interpolationType": "Polynomial",
+    "grayTintEffectInfo/interpolationTime": "210",
+    "map": "924050004",
+    "bgm": "Bgm36/Dominion",
+    "elemAttr": "d",
+    "preloadEff": "1",
+    "applyHyper": "1",
+    "id": "14141018",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = nightWalker/M/23 }",
+    "voice/male/path/1": "{ Old = , New = nightWalker/M/24 }",
+    "voice/male/path/2": "{ Old = , New = nightWalker/M/25 }",
+    "voice/female/path/0": "{ Old = , New = nightWalker/F/23 }",
+    "voice/female/path/1": "{ Old = , New = nightWalker/F/24 }",
+    "voice/female/path/2": "{ Old = , New = nightWalker/F/25 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Attacks up to <span style=\"font-weight:bold; color:orange;\">mobCountenemies at 2000% Damage 10 times. Makes you Invincible while it's cast.</span><br /><span style=\"font-weight:bold; color:orange;\">For 30 sec. after attacking, Throwing Star skills add the maximum stacks of Mark of Darkness on their targets, increase Shadow/Ravenous Bat max summon limit +3, and continuously summon Bats.</span><br /><span style=\"font-weight:bold; color:orange;\">Final Damage +20% and Critical Rate +100% for its duration. Duration renewed if Dominion is ended after Shadow Momentum's momentum is maxed out.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 180 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_14141018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/14141018_effect0_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/14141018_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/14141018_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/14141018_screen_new.webp"
+    },
+    "screen2": {
+      "Old": null,
+      "New": "Animations/New/14141018_screen2_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

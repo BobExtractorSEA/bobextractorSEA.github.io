@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.6383858-03:00",
+  "ChangeType": "Changed",
+  "Id": "164140001",
+  "Name": "Conflagration Chain: True/False VI",
+  "Job": "Hoyoung",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">This is a chain skill that shares its skill level with Conflagration Chain: Heaven.</span> After using Conflagration Chain: Sky, jumps into the air with a blaze.<br />Conflagration Chain: False does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">This is a chain skill that shares its skill level with Conflagration Chain: False Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "This is a chain skill that shares its skill level with <span style=\"font-weight:bold; color:orange;\">Conflagration Chain: Heaven.</span> After using Conflagration Chain: Heaven, Ho Young jumps into the air with a blaze.<br /><br /><span style=\"font-weight:bold; color:orange;\">Conflagration Chain: False does not affect enemies in the Damage Reflection status.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Conflagration Chain: Heaven Lv. 30 or above</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">This is a chain skill that shares its skill level with Conflagration Chain: Heaven.</span> After using Conflagration Chain: Sky, jumps into the air with a blaze.<br />Conflagration Chain: False does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">This is a chain skill that shares its skill level with Conflagration Chain: False Lv. 30 or higher</span>"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164140001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

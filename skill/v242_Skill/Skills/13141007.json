@@ -1,0 +1,165 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7922364-03:00",
+  "ChangeType": "Added",
+  "Id": "13141007",
+  "Name": "Anemoi",
+  "Job": "Wind Archer",
+  "Desc": "Moved by the fighting spirit of the wind spirits, the Great Spirit appears and brings the wind of victory. Anemoi periodically waves her hand to summon a powerful gust of wind to attack.<br />Anemoi's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Great Spirit Transparency Setting On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -430
+    },
+    "rb": {
+      "x": 480,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "avaliableInJumpingState": "1",
+    "action/0": "6thAnemoi",
+    "common/maxLevel": "30",
+    "common/mpCon": "35+d(x/5)",
+    "common/damage": "923+27*x",
+    "common/attackCount": "15",
+    "common/mobCount": "12",
+    "common/cooltime": "60",
+    "common/lt/x": -480,
+    "common/lt/y": -430,
+    "common/rb/x": 480,
+    "common/rb/y": 100,
+    "common/u": "20",
+    "common/v": "949+31*x",
+    "common/x": "10",
+    "common/y": "10",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "notCooltimeReset": "1",
+    "id": "13141007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "voice/prop": "70",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = windBreaker/M/51 }",
+    "voice/male/path/1": "{ Old = , New = windBreaker/M/42 }",
+    "voice/male/path/2": "{ Old = , New = windBreaker/M/44 }",
+    "voice/male/path/3": "{ Old = , New = windBreaker/M/45 }",
+    "voice/male/path/4": "{ Old = , New = windBreaker/M/47 }",
+    "voice/male/path/5": "{ Old = , New = windBreaker/M/68 }",
+    "voice/female/path/0": "{ Old = , New = windBreaker/F/80 }",
+    "voice/female/path/1": "{ Old = , New = windBreaker/F/39 }",
+    "voice/female/path/2": "{ Old = , New = windBreaker/F/43 }",
+    "voice/female/path/3": "{ Old = , New = windBreaker/F/51 }",
+    "voice/female/path/4": "{ Old = , New = windBreaker/F/56 }",
+    "voice/female/path/5": "{ Old = , New = windBreaker/F/65 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 41. Anemoi appears and attacks up to 12 enemies at 1733% Damage 15 times. Afterward, periodically attacks up to 10 enemies at 1879% Damage 10 times for 20 sec.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/13141007_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/13141007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

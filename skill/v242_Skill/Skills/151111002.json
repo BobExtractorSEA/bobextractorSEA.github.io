@@ -1,0 +1,78 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2572018-03:00",
+  "ChangeType": "Changed",
+  "Id": "151111002",
+  "Name": "Gathering",
+  "Job": "Adele",
+  "Desc": "Orders all Ether Swords to return to you. All Ether Swords return to the location where the skill was used in a straight line, attacking all enemies along the way and briefly staying at that location. Can only be used when <span style=\"font-weight:bold; color:orange;\">there is an Ether Sword tracking an enemy with Order</span>.<br />While Gathering, the Ether Sword's duration is not reduced. Gathering doesn't affect enemies in the Damage Reflection status and isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Order Lv. 5 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 5th Job Skill, Storm</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 50. Attacks up to 10 enemies at 260% damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF 10+% against that enemy.<br />When attack hits, there is 40% chance to create an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 12 sec.</span>",
+      "New": "MP Cost: 50. Attacks up to 10 enemies at 260% Damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF +10% against them.<br />Successful attacks create a 40% chance of creating an Ether Crystal.<br />Cooldown: 12 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 50. Attacks up to 10 enemies at 260% damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF 10+% against that enemy.<br />When attack hits, there is 40% chance to create an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 12 sec.</span>",
+      "New": "MP Cost: 50. Attacks up to 10 enemies at 260% Damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF +10% against them.<br />Successful attacks create a 40% chance of creating an Ether Crystal.<br />Cooldown: 12 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/24",
+      "New": "adele/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/17",
+      "New": "adele/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/18",
+      "New": "adele/F/18"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. Attacks up to 10 enemies at 260% Damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF +10% against them.<br />Successful attacks create a 40% chance of creating an Ether Crystal.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

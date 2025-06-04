@@ -1,0 +1,154 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.367389-03:00",
+  "ChangeType": "Changed",
+  "Id": "22170065",
+  "Name": "Breath of Earth",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Breath</span>, responds to Evan's magic and stands on the ground, belching plumes of fire that follow their targets. Breath of Earth improves in proportion to Dragon Breath's skill and does not affect enemies with the Damage Reflection effect. This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Earth</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Breath</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/10",
+      "New": "evan/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/11",
+      "New": "evan/M/11"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/6",
+      "New": "evan/M/6"
+    },
+    "voice/male/path/3": {
+      "Old": "evan/M/5",
+      "New": "evan/M/5"
+    },
+    "voice/male/path/4": {
+      "Old": "evan/M/8",
+      "New": "evan/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/10",
+      "New": "evan/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/11",
+      "New": "evan/F/11"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/6",
+      "New": "evan/F/6"
+    },
+    "voice/female/path/3": {
+      "Old": "evan/F/5",
+      "New": "evan/F/5"
+    },
+    "voice/female/path/4": {
+      "Old": "evan/F/8",
+      "New": "evan/F/8"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22200012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22170065_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/22170065_ball_old.webp",
+      "New": null
+    },
+    "hit": {
+      "Old": "Animations/Old/22170065_hit_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22170065_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

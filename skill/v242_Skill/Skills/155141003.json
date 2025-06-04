@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1151093-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141003",
+  "Name": "Plain Buff VI",
+  "Job": "Ark",
+  "Desc": "When Plain Spell hits, increases MSPD and stance probability.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "applySixthSkillIncBuffDuration": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

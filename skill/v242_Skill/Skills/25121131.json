@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0410374-03:00",
+  "ChangeType": "Changed",
+  "Id": "25121131",
+  "Name": "Fox Race",
+  "Job": "Shade",
+  "Desc": "Unlocks the power of the Fox God contained in a fox marble.<br />The power of the unlocked fox marble upgrades fox spirits into summoned fox spirits for a while. In response to the turbulent fox marble,<br />the guardian spirit manifests itself and creates a Spirit Ward.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/21",
+      "New": "eunwol/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/17",
+      "New": "eunwol/M/17"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/70",
+      "New": "eunwol/M/70"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/71",
+      "New": "eunwol/M/71"
+    },
+    "voice/male/path/4": {
+      "Old": "eunwol/M/72",
+      "New": "eunwol/M/72"
+    },
+    "voice/male/path/5": {
+      "Old": "eunwol/M/73",
+      "New": "eunwol/M/73"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/12",
+      "New": "eunwol/F/12"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/15",
+      "New": "eunwol/F/15"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/70",
+      "New": "eunwol/F/70"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/71",
+      "New": "eunwol/F/71"
+    },
+    "voice/female/path/4": {
+      "Old": "eunwol/F/72",
+      "New": "eunwol/F/72"
+    },
+    "voice/female/path/5": {
+      "Old": "eunwol/F/73",
+      "New": "eunwol/F/73"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25121131_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121131_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

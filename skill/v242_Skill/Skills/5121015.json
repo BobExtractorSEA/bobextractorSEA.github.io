@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2502847-03:00",
+  "ChangeType": "Changed",
+  "Id": "5121015",
+  "Name": "Crossbones",
+  "Job": "Buccaneer",
+  "Desc": "Summons the soul of the Water Dragon to increase ATT. Also, increases all Abnormal Status Resistance, Elemental Resistance, Knuckle Mastery, and Final Damage as Passive effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Knuckle Mastery Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/39",
+      "New": "viper/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/40",
+      "New": "viper/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "viper/M/41",
+      "New": "viper/M/41"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/37",
+      "New": "viper/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/38",
+      "New": "viper/F/38"
+    },
+    "voice/female/path/2": {
+      "Old": "viper/F/40",
+      "New": "viper/F/40"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5121015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

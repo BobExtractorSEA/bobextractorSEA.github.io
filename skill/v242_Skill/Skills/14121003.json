@@ -1,0 +1,233 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.7734981-03:00",
+  "ChangeType": "Changed",
+  "Id": "14121003",
+  "Name": "Dark Omen",
+  "Job": "Night Walker",
+  "Desc": "Summons a swarm of bats that attack the enemies for a certain period of time. Use this skill during Shadow Bat to summon a swarm of weakened bats for a longer duration.<br />Summons Shadow and Ravenous Bats based on the number of enemies hit by the bats. Darkness Omen does not affect by enemies in the Damage Reflection status and protects you against the Knockback effect by enemy attacks while being cast. A Dark Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a swarm of Shadow Bats that attack the enemies for a certain period of time. The number of summoned Shadow Bats is proportional to the number of enemies being attacked. Dark attacks, except Shadow Bat and Dark Omen, decrease this skill's cooldown upon hitting enemies. Darkness Omen does not affect by enemies in the Damage Reflection status and protects you against the Knockback effect by enemy attacks while being cast. This is a kind of Darkness Element attack.",
+      "New": "Summons a swarm of bats that attack the enemies for a certain period of time. Use this skill during Shadow Bat to summon a swarm of weakened bats for a longer duration.<br />Summons Shadow and Ravenous Bats based on the number of enemies hit by the bats. Darkness Omen does not affect by enemies in the Damage Reflection status and protects you against the Knockback effect by enemy attacks while being cast. A Dark Element attack."
+    },
+    "H": {
+      "Old": "MP cost: 110. For <span style=\"font-weight:bold; color:orange;\">times, up to 6 enemies are hit for 500% damage every 0.3s.</span><br /><span style=\"font-weight:bold; color:orange;\">Summons 1 Shadow Bat and Ravenous Bat for every 3 enemies hit. Up to 2 can be summoned.</span><br /><span style=\"font-weight:bold; color:orange;\">Darkness Element attacks, except Shadow Bat, Ravenous Bat, and Dark Omen, decreases this skill's cooldown by 0.5 sec. upon hitting enemies.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 20 sec.</span>",
+      "New": "MP Cost: 110. Summons a swarm of bats that attack up to 6 enemies at 370% Damage 6 times every 0.3 sec. for 7 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Shadow Bat</span>, summons a swarm of weakened bats that attack up to 6 enemies at 300% Damage 2 times every 1.5 sec. for 60 sec.<br />Summons 1 Shadow and Ravenous Bats for every 3 enemies hit.<br />Up to 1 can be summoned within the map.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP cost: 110. For <span style=\"font-weight:bold; color:orange;\">times, up to 6 enemies are hit for 500% damage every 0.3s.</span><br /><span style=\"font-weight:bold; color:orange;\">Summons 1 Shadow Bat and Ravenous Bat for every 3 enemies hit. Up to 2 can be summoned.</span><br /><span style=\"font-weight:bold; color:orange;\">Darkness Element attacks, except Shadow Bat, Ravenous Bat, and Dark Omen, decreases this skill's cooldown by 0.5 sec. upon hitting enemies.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 20 sec.</span>",
+      "New": "MP Cost: 110. Summons a swarm of bats that attack up to 6 enemies at 370% Damage 6 times every 0.3 sec. for 7 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Shadow Bat</span>, summons a swarm of weakened bats that attack up to 6 enemies at 300% Damage 2 times every 1.5 sec. for 60 sec.<br />Summons 1 Shadow and Ravenous Bats for every 3 enemies hit.<br />Up to 1 can be summoned within the map.<br />Cooldown: 60 sec."
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "zoneType": {
+      "Old": "invincible",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "350+5*x",
+      "New": "250+4*x"
+    },
+    "common/time": {
+      "Old": "5",
+      "New": "7"
+    },
+    "common/cooltime": {
+      "Old": "20",
+      "New": "60"
+    },
+    "common/y": {
+      "Old": "500",
+      "New": "1"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "40+x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "44+3*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "3+u(x/4)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "30",
+      "New": null
+    },
+    "summon/attack1/info/attackCount": {
+      "Old": "1",
+      "New": "6"
+    },
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/18",
+      "New": "nightWalker/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/19",
+      "New": "nightWalker/M/19"
+    },
+    "voice/male/path/2": {
+      "Old": "nightWalker/M/50",
+      "New": "nightWalker/M/50"
+    },
+    "voice/male/path/3": {
+      "Old": "nightWalker/M/51",
+      "New": "nightWalker/M/51"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/18",
+      "New": "nightWalker/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/19",
+      "New": "nightWalker/F/19"
+    },
+    "voice/female/path/2": {
+      "Old": "nightWalker/F/50",
+      "New": "nightWalker/F/50"
+    },
+    "voice/female/path/3": {
+      "Old": "nightWalker/F/51",
+      "New": "nightWalker/F/51"
+    },
+    "common/attackCount": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/t": {
+      "Old": null,
+      "New": "0.3"
+    },
+    "common/u": {
+      "Old": null,
+      "New": "1"
+    },
+    "common/s": {
+      "Old": null,
+      "New": "60"
+    },
+    "common/t2": {
+      "Old": null,
+      "New": "1.5"
+    },
+    "common/w": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/w2": {
+      "Old": null,
+      "New": "180+4*x"
+    },
+    "common/w3": {
+      "Old": null,
+      "New": "2"
+    },
+    "hit/0/onlyOnce": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "14141017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "showSummonedBuffIcon": {
+      "Old": null,
+      "New": "1"
+    },
+    "maintainSplitSummoned": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 110. Summons a swarm of bats that attack up to 6 enemies at 370% Damage 6 times every 0.3 sec. for 7 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Shadow Bat</span>, summons a swarm of weakened bats that attack up to 6 enemies at 300% Damage 2 times every 1.5 sec. for 60 sec.<br />Summons 1 Shadow and Ravenous Bats for every 3 enemies hit.<br />Up to 1 can be summoned within the map.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_14121003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

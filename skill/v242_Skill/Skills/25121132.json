@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0350334-03:00",
+  "ChangeType": "Changed",
+  "Id": "25121132",
+  "Name": "Heroic Memories",
+  "Job": "Shade",
+  "Desc": "Remembers the oath made by the Heroes of Maple World to achieve greater damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/7",
+      "New": "eunwol/M/7"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/8",
+      "New": "eunwol/M/8"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/9",
+      "New": "eunwol/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/7",
+      "New": "eunwol/F/7"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/8",
+      "New": "eunwol/F/8"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/9",
+      "New": "eunwol/F/9"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25121132_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121132_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

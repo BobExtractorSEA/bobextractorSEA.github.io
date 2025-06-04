@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2664979-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003813",
+  "Name": "NEXT Warm-up",
+  "Job": "Etc",
+  "Desc": "Some unknown force of unknown origin.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up",
+      "New": "NEXT Warm-up"
+    },
+    "Desc": {
+      "Old": "A strange power that is impossible to figure out.",
+      "New": "Some unknown force of unknown origin."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003813_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

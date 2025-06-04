@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.268148-03:00",
+  "ChangeType": "Changed",
+  "Id": "3100010",
+  "Name": "Quiver Cartridge",
+  "Job": "Bowmaster",
+  "Desc": "Uses special Arrow Head. When obtaining <span style=\"font-weight:bold; color:orange;\">Advanced Quiver</span>, additional Arrow Head and replacement Arrow Head are available.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3100010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

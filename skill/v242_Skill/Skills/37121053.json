@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5841455-03:00",
+  "ChangeType": "Changed",
+  "Id": "37121053",
+  "Name": "Will of Liberty",
+  "Job": "Blaster",
+  "Desc": "Realizes the Resistance's wish for the liberation of Maple World.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

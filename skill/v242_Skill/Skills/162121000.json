@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4111937-03:00",
+  "ChangeType": "Changed",
+  "Id": "162121000",
+  "Name": "Dragon Vein Absorption",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />Absorbs the power dormant in the Dragon Vein by consuming the nearby Dragon Vein. As the power of the Dragon Vein's element gets absorbed into Lara, the Nature Spirits of the absorbed element appear to help Lara when Spirit Sprinkling or Waking Up hits. <span style=\"font-weight:bold; color:orange;\">If an Eruption Skill of the same element is activated while an Absorption Skill is already live, the original Absorption Skill ends.</span> Absorption Skills prioritize free Dragon Veins. If there are no free Dragon Veins, the skill consumes the closest Dragon Vein first. Even when attacking an enemy with Damage Reflection, you take no damage and Stance 100% is applied while casting.<br />Required skill: <span style=\"font-weight:bold; color:orange;\">An Absorption skill at Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "162141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

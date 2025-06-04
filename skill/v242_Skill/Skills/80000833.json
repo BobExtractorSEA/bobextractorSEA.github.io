@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.820758-03:00",
+  "ChangeType": "Changed",
+  "Id": "80000833",
+  "Name": "Petite Demon Slayer Corps Power Lv. 3",
+  "Job": "Etc",
+  "Desc": "The power of the Petite Demon Slayer Corps increases ATT/MATT by 18, and expands your <span style=\"font-weight:bold; color:orange;\">item drop area</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Increases ATT and MATT by 12 using the power of the Petite Demon Slayer Corps.",
+      "New": "The power of the Petite Demon Slayer Corps increases ATT/MATT by 18, and expands your <span style=\"font-weight:bold; color:orange;\">item drop area</span>."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80000833_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

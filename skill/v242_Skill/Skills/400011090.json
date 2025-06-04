@@ -1,0 +1,181 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0525334-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011090",
+  "Name": "Dimension Sword",
+  "Job": "5th (Warrior)",
+  "Desc": "Amplifies the power of Desperado and brings an intangible sword to realization. Its swing also affects enemies in the Ignore Attack or Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/68",
+      "New": "demonAvenger/M/68"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/69",
+      "New": "demonAvenger/M/69"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/70",
+      "New": "demonAvenger/M/70"
+    },
+    "voice/male/path/3": {
+      "Old": "demonAvenger/M/71",
+      "New": "demonAvenger/M/71"
+    },
+    "voice/male/path/4": {
+      "Old": "demonAvenger/M/72",
+      "New": "demonAvenger/M/72"
+    },
+    "voice/male/path/5": {
+      "Old": "demonAvenger/M/8",
+      "New": "demonAvenger/M/8"
+    },
+    "voice/male/path/6": {
+      "Old": "demonAvenger/M/3",
+      "New": "demonAvenger/M/3"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/69",
+      "New": "demonAvenger/F/69"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/70",
+      "New": "demonAvenger/F/70"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/71",
+      "New": "demonAvenger/F/71"
+    },
+    "voice/female/path/3": {
+      "Old": "demonAvenger/F/72",
+      "New": "demonAvenger/F/72"
+    },
+    "voice/female/path/4": {
+      "Old": "demonAvenger/F/73",
+      "New": "demonAvenger/F/73"
+    },
+    "voice/female/path/5": {
+      "Old": "demonAvenger/F/16",
+      "New": "demonAvenger/F/16"
+    },
+    "voice/female/path/6": {
+      "Old": "demonAvenger/F/15",
+      "New": "demonAvenger/F/15"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011090_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011090_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9300838-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051016",
+  "Name": "Shark Missile",
+  "Job": "5th (Pirate)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Continuous Assault Skill]</span> Blasts the energy of a shark to attack multiple enemies in front. Can be linked with all skills except Thunderous Dive and itself. This skill is not affected by enemies in the Damage Reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/74",
+      "New": "striker/M/74"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/75",
+      "New": "striker/M/75"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/76",
+      "New": "striker/M/76"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/77",
+      "New": "striker/M/77"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/14",
+      "New": "striker/M/14"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/15",
+      "New": "striker/M/15"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/26",
+      "New": "striker/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/95",
+      "New": "striker/F/95"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/96",
+      "New": "striker/F/96"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/97",
+      "New": "striker/F/97"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/98",
+      "New": "striker/F/98"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/36",
+      "New": "striker/F/36"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/45",
+      "New": "striker/F/45"
+    },
+    "voice/female/path/6": {
+      "Old": "striker/F/49",
+      "New": "striker/F/49"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

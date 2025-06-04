@@ -1,0 +1,165 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.66307-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111011",
+  "Name": "Elemental Knight",
+  "Job": "Mercedes",
+  "Desc": "Randomly summons an Ice Spirit, Flame Spirit, or Darkness Spirit to aid you in battle. Elemental Knights do not take damage from attacking enemies’ with Damage Reflect<br />Ice Spirit : Has a chance to freeze enemies<br />Flame Spirit : Has a chance of dealing fire element damage over time to enemies.<br />Darkness Spirit : Deals damage more powerful than Flame Spirit and Darkness Spirit",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/hcSubTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "140-8*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "20+4*x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "130+6*x",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "80-4*x",
+      "New": null
+    },
+    "PVPcommon/v": {
+      "Old": "130+6*x",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "2*u(x/5)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "30+2*x",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "23141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "2"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "4"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "mercedes/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": null,
+      "New": "mercedes/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "mercedes/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": null,
+      "New": "mercedes/F/9"
+    },
+    "voice/female/path/2": {
+      "Old": null,
+      "New": "mercedes/F/10"
+    },
+    "voice/female/path/3": {
+      "Old": null,
+      "New": "mercedes/F/11"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

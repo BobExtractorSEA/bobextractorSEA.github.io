@@ -1,0 +1,191 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5200698-03:00",
+  "ChangeType": "Removed",
+  "Id": "37110002",
+  "Name": "Charging Arm: Smash",
+  "Job": "Blaster",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "effect0/z": {
+      "Old": "-1",
+      "New": null
+    },
+    "hit/0/onlyOnce": {
+      "Old": "1",
+      "New": null
+    },
+    "common/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "150",
+      "New": null
+    },
+    "common/attackCount": {
+      "Old": "2",
+      "New": null
+    },
+    "common/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "common/x": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "common/y": {
+      "Old": "30",
+      "New": null
+    },
+    "common/time": {
+      "Old": "5",
+      "New": null
+    },
+    "common/lt/x": {
+      "Old": "-225",
+      "New": null
+    },
+    "common/lt/y": {
+      "Old": "-80",
+      "New": null
+    },
+    "common/rb/x": {
+      "Old": "115",
+      "New": null
+    },
+    "common/rb/y": {
+      "Old": "0",
+      "New": null
+    },
+    "common/subTime": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "350",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "u(x/10)",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "5+d(x/4)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "PVPcommon/lt/x": {
+      "Old": "-190",
+      "New": null
+    },
+    "PVPcommon/lt/y": {
+      "Old": "-80",
+      "New": null
+    },
+    "PVPcommon/rb/x": {
+      "Old": "190",
+      "New": null
+    },
+    "PVPcommon/rb/y": {
+      "Old": "0",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1000",
+      "New": null
+    },
+    "type": {
+      "Old": "2",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/ignoreCounter": {
+      "Old": "1",
+      "New": null
+    },
+    "mob/pos": {
+      "Old": "2",
+      "New": null
+    },
+    "mob/repeat": {
+      "Old": "1",
+      "New": null
+    },
+    "invisible": {
+      "Old": "1",
+      "New": null
+    },
+    "weapon": {
+      "Old": "58",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "id": {
+      "Old": "37110002",
+      "New": null
+    },
+    "common/lt": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "common/rb": {
+      "Old": "WzComparerR2.WzLib.Wz_Vector",
+      "New": null
+    },
+    "has_weapon": {
+      "Old": "True",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": null
+    },
+    "effect0": {
+      "Old": null,
+      "New": null
+    },
+    "hit": {
+      "Old": null,
+      "New": null
+    },
+    "mob": {
+      "Old": null,
+      "New": null
+    }
+  },
+  "Voices": {}
+}

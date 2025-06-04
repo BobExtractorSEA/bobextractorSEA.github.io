@@ -1,0 +1,150 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7175704-03:00",
+  "ChangeType": "Added",
+  "Id": "36141014",
+  "Name": "Blade Dancing VI",
+  "Job": "Xenon",
+  "Desc": "Extends the energy sword and swings it around in a dancing motion, attacking multiple enemies. Also, summons a robot that periodically projects illusions based on Xenon's combat memory.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blade Dancing Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -250,
+      "y": -180
+    },
+    "rb": {
+      "x": 250,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/36121000": "30",
+    "action/0": "6thBladeDancingPre",
+    "common/maxLevel": "30",
+    "common/mpCon": "10+u(x/6)",
+    "common/mobCount": "8",
+    "common/damage": "284+6*x",
+    "common/attackCount": "1",
+    "common/x": "120",
+    "common/w": "10",
+    "common/w2": "10",
+    "common/w3": "10",
+    "common/s": "3",
+    "common/s2": "15",
+    "common/s3": "120+3*x",
+    "common/s4": "7",
+    "common/q": "6",
+    "common/lt/x": -250,
+    "common/lt/y": -180,
+    "common/rb/x": 250,
+    "common/rb/y": 80,
+    "prepare/action": "6thBladeDancingPre",
+    "prepare/time": "360",
+    "keydown/action": "6thBladeDancing",
+    "keydownend/action": "6thBladeDancingEnd",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "24",
+    "id": "36141014",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "0",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = xenon/M/25 }",
+    "voice/male/path/1": "{ Old = , New = xenon/M/26 }",
+    "voice/male/path/2": "{ Old = , New = xenon/M/27 }",
+    "voice/male/path/3": "{ Old = , New = xenon/M/28 }",
+    "voice/female/path/0": "{ Old = , New = xenon/F/25 }",
+    "voice/female/path/1": "{ Old = , New = xenon/F/26 }",
+    "voice/female/path/2": "{ Old = , New = xenon/F/27 }",
+    "voice/female/path/3": "{ Old = , New = xenon/F/28 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 15 per attack. Attacks up to 8 enemies at 464% Damage 1 times.<br />Attack skills summon a projection robot for 10 sec.<br />The robot periodically projects Memory Dancing 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Memory Dancing</span>: Activates 6 strikes that attack up to 15 enemies at 210% Damage 7 times.<br />Memory Dancing Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/36141014_keydown_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/36141014_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/36141014_prepare_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/36141014_keydownend_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36141014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

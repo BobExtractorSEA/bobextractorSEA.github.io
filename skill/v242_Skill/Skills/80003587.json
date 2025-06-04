@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.058259-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003587",
+  "Name": "Thunder Beast Mount",
+  "Job": "Etc",
+  "Desc": "Mastery Level: 1]<br />A legendary thunder beast with a golden glow.<br />Travel by riding the Thunder Beast Mount, which enables High Altitude Flight. Push the Jump key twice while in town to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "relationSkill/type": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/skillID": {
+      "Old": "80003591",
+      "New": null
+    },
+    "relationSkill/level": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/periodMin": {
+      "Old": "129600",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003587_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

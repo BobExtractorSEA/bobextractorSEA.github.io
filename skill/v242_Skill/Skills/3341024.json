@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6130845-03:00",
+  "ChangeType": "Added",
+  "Id": "3341024",
+  "Name": "Raven VI",
+  "Job": "Pathfinder",
+  "Desc": "Temporarily summons Raven of Dark Attribute.<br />Raven's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Raven Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/3311009": "10",
+    "common/maxLevel": "30",
+    "common/mpCon": "70+u(x/5)",
+    "common/time": "270",
+    "common/damage": "435+5*x",
+    "common/attackDelay": "3000",
+    "common/s": "6",
+    "action/0": "6thRaven",
+    "summon/attack1/info/range/lt/x": -560,
+    "summon/attack1/info/range/lt/y": -200,
+    "summon/attack1/info/range/rb/x": 100,
+    "summon/attack1/info/range/rb/y": 50,
+    "summon/attack1/info/range/sp/x": 0,
+    "summon/attack1/info/range/sp/y": 25,
+    "summon/attack1/info/range/r": "140",
+    "summon/attack1/info/type": "0",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/attackAfter": "540",
+    "summon/attack1/info/mobCount": "6",
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "59",
+    "showSummonedBuffIcon": "2",
+    "elemAttr": "d",
+    "isSequenceOn": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "3341024",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/8 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/9 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/8 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/9 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 76. Summons Raven for 270 sec.<br />Attacks up to 6 enemies at 585% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341024_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

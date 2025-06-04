@@ -1,0 +1,225 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.3421097-03:00",
+  "ChangeType": "Changed",
+  "Id": "63141004",
+  "Name": "[Execution] Poison Needles VI",
+  "Job": "Kain",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Execution Skill]</span><br />Swiftly rotates forward to slash through enemies, then perform a mid-air somersault, releasing poison needles in all directions. After expelling all the needles, deliver a powerful finishing strike in a diagonal motion. When used in mid-air, you can hover while expelling needles, unaffected by attack speed increase buffs. Death's Blessing can only be realized with slashing attacks and finishing strikes.  Defeating enemies with [Execution] Poison Needles resets the cooldown of <span style=\"font-weight:bold; color:orange;\">Shadow Step</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">[Execution] Poison Needles Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/63",
+      "New": "kain/M/63"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/64",
+      "New": "kain/M/64"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/65",
+      "New": "kain/M/65"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/66",
+      "New": "kain/M/66"
+    },
+    "voice/male/path/4": {
+      "Old": "kain/M/67",
+      "New": "kain/M/67"
+    },
+    "voice/male/path/5": {
+      "Old": "kain/M/68",
+      "New": "kain/M/68"
+    },
+    "voice/male/path/6": {
+      "Old": "kain/M/69",
+      "New": "kain/M/69"
+    },
+    "voice/male/path/7": {
+      "Old": "kain/M/70",
+      "New": "kain/M/70"
+    },
+    "voice/male/path/8": {
+      "Old": "kain/M/71",
+      "New": "kain/M/71"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/72",
+      "New": "kain/F/72"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/73",
+      "New": "kain/F/73"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/74",
+      "New": "kain/F/74"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/75",
+      "New": "kain/F/75"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/76",
+      "New": "kain/F/76"
+    },
+    "voice/female/path/5": {
+      "Old": "kain/F/77",
+      "New": "kain/F/77"
+    },
+    "voice/female/path/6": {
+      "Old": "kain/F/78",
+      "New": "kain/F/78"
+    },
+    "voice/female/path/7": {
+      "Old": "kain/F/79",
+      "New": "kain/F/79"
+    },
+    "voice/female/path/8": {
+      "Old": "kain/F/80",
+      "New": "kain/F/80"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M8": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M8.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F8": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F8.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F7.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

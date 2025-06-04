@@ -1,0 +1,66 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3509184-03:00",
+  "ChangeType": "Changed",
+  "Id": "5201017",
+  "Name": "Summon Crew",
+  "Job": "Corsair",
+  "Desc": "Summons a crew member of the Nautilus. The summoned member moves freely, firing bullets that track enemies, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. A crew first targets the enemy with the highest HP within range.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a crew member of the Nautilus. The summoned crewman moves of its own accord, shooting bullets to chase enemies, and does not affect enemies in the Damage Reflection status. A crew first targets the enemy with the highest HP within range.",
+      "New": "Summons a crew member of the Nautilus. The summoned member moves freely, firing bullets that track enemies, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. A crew first targets the enemy with the highest HP within range."
+    },
+    "common/lt2/x": {
+      "Old": "-600",
+      "New": null
+    },
+    "common/lt2/y": {
+      "Old": "-200",
+      "New": null
+    },
+    "common/rb2/x": {
+      "Old": "0",
+      "New": null
+    },
+    "common/rb2/y": {
+      "Old": "150",
+      "New": null
+    },
+    "skillList/16": {
+      "Old": null,
+      "New": "5241007"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "5241010"
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "5241015"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "5241016"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241011"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5201017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

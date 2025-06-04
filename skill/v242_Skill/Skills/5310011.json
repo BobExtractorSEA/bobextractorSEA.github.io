@@ -1,0 +1,83 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.6012189-03:00",
+  "ChangeType": "Changed",
+  "Id": "5310011",
+  "Name": "Monkey's Fury",
+  "Job": "Cannon Master",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/finalattackrange": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "185+3*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "common/attackCount": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "common/dot": {
+      "Old": null,
+      "New": "100+5*x"
+    },
+    "common/dotInterval": {
+      "Old": null,
+      "New": "1"
+    },
+    "common/dotTime": {
+      "Old": null,
+      "New": "40+x"
+    },
+    "common/w2": {
+      "Old": null,
+      "New": "5"
+    },
+    "mob/pos": {
+      "Old": null,
+      "New": "2"
+    },
+    "mob/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5341013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5310011_icon.png",
+    "IconPathOld": "Icons/Old/v241_5310011_icon_old.png"
+  },
+  "Animations": {
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/5310011_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

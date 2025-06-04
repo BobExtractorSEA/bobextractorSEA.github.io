@@ -1,0 +1,37 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.264652-03:00",
+  "ChangeType": "Added",
+  "Id": "80003859",
+  "Name": "Champion Double Up",
+  "Job": "Etc",
+  "Desc": "Characters designated as <span style=\"font-weight:bold; color:orange;\">Followers</span> will follow the Champion Leader.<br /><br /><span style=\"font-weight:bold; color:orange;\">Right-click to toggle On/Off in the Skill window.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "level/1/hs": "h1",
+    "invisible": "1",
+    "disable": "1",
+    "notRemoved": "1",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "isUsableKaiserDragon": "1",
+    "isUsableSylphdia": "1",
+    "canJobRidingUse": "1",
+    "timeLimited": "1",
+    "isUsableExpressionRiver": "1",
+    "id": "80003859"
+  },
+  "HFields": {
+    "h1": "The designated characters will follow you around.<br />Select Off to hide their following."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003859_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,126 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.065617-03:00",
+  "ChangeType": "Added",
+  "Id": "31141013",
+  "Name": "Cerburus VI",
+  "Job": "Demon Slayer",
+  "Desc": "Defeat enemies and steal their spirits with the power of the guardian of the netherworld. The guardian of the netherworld fully awakens at certain times, transforming into <span style=\"font-weight:bold; color:orange;\">Cerburus VI: Tartarian Cerburus</span> and devouring everything in its path.<br />During <span style=\"font-weight:bold; color:orange;\">Demon Awakening</span>, Cerburus VI can't be changed and the auto-activated Cerburus changes to <span style=\"font-weight:bold; color:orange;\">Cerburus VI: Tartarian Cerburus</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Cerburus Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -360,
+      "y": -420
+    },
+    "rb": {
+      "x": 60,
+      "y": 50
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/31121052": "1",
+    "action/0": "6thCerberus",
+    "common/maxLevel": "30",
+    "common/hpCon": "300",
+    "common/cooltime": "5",
+    "common/lt/x": -360,
+    "common/lt/y": -420,
+    "common/rb/x": 60,
+    "common/rb/y": 50,
+    "common/damage": "486+9*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/bdR": "50",
+    "common/ignoreMobpdpR": "50",
+    "common/x": "50",
+    "common/u": "15",
+    "common/y": "300",
+    "common/z": "10",
+    "common/w": "260+5*x",
+    "common/w2": "7",
+    "common/w3": "4",
+    "skillList/0": "400011000",
+    "psd": "1",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/delayedTime": "690",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "applyHyper": "1",
+    "id": "31141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "50",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = demonSlayer/M/7 }",
+    "voice/male/path/1": "{ Old = , New = demonSlayer/M/56 }",
+    "voice/male/path/2": "{ Old = , New = demonSlayer/M/57 }",
+    "voice/female/path/0": "{ Old = , New = demonSlayer/F/58 }",
+    "voice/female/path/1": "{ Old = , New = demonSlayer/F/59 }",
+    "voice/female/path/2": "{ Old = , New = demonSlayer/F/13 }"
+  },
+  "HFields": {
+    "h1": "HP Cost: 300. Attacks up to 8 enemies at 756% Damage 6 times.<br />Boss Monster Damage +50%, additional Ignore Monster DEF +50%, and 50 additional Force absorption while attacking<br />Cooldown: 5 sec.<br />Every 15 sec., enhanced into <span style=\"font-weight:bold; color:orange;\">Cerburus VI: Tartarian Cerburus</span>. Can't be enhanced during Demon Awakening.<br /><span style=\"font-weight:bold; color:orange;\">Cerburus VI: Tartarian Cerburus</span>: HP Cost: 300. Activates Watcher's Wrath 4 times that attacks up to 10 enemies at 410% Damage 7 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31141013_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31141013_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5868063-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121104",
+  "Name": "Celestial Fury",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Creates a giant paper shikigami that looks exactly like Kanna. The paper shikigami receives some of the Spiritual Energy that Kanna spends. When enough Spiritual Energy is accumulated, the shikigami burns up and attacks nearby enemies.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>. (Using the skill activates the effects, and using the skill again deactivates the effects.)",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "42141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121104_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

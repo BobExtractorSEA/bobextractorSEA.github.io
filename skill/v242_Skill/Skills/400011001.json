@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8745393-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011001",
+  "Name": "Sword of Burning Soul",
+  "Job": "5th (Warrior)",
+  "Desc": "Creates a burning soul in the shape of a sword. Even if you attack an enemy that is in attack reflection mode, you will not take damage. When used with the down arrow key, you can summon it in a stationary state.<br />If you use a custom command, you can immediately summon it in a stationary state just by using the skill key without inputting the arrow key.<br /><span style=\"font-weight:bold; color:orange;\">Custom command ON/OFF: Right-click</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Raging Blow or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/14",
+      "New": "hero/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/15",
+      "New": "hero/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/14",
+      "New": "hero/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/15",
+      "New": "hero/F/15"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

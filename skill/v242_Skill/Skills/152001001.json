@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5182046-03:00",
+  "ChangeType": "Changed",
+  "Id": "152001001",
+  "Name": "Invoke: Javelin",
+  "Job": "Illium",
+  "Desc": "Throws a sharp magic javelin that attacks while flying between enemies.It  prioritizes tracking Boss Monsters with the highest Max HP.<br />It can be linked with Invoke: Orb, and it does not affect skill enhancement effects from multi-target skills.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 2nd Job Skill, Reaction: Destruction, and 4th Job Skill, Invoke: Javelin II.</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/1": {
+      "Old": null,
+      "New": "152141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152001001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

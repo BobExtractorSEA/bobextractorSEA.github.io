@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9976484-03:00",
+  "ChangeType": "Changed",
+  "Id": "11141002",
+  "Name": "Cosmic Shower VI",
+  "Job": "Dawn Warrior",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cosmic]</span><br />Creates a meteor shower that continuously attacks the surrounding area for a period of time using the power latent in the orbs. Consumes all Cosmic Orbs when used and increases in duration based on the number of Cosmic Orbs consumed. Cosmic Shower can be used without the casting action during Solar Slash, Lunar Divide, and Soul Cleaving.<br />Cosmic Shower's duration doesn't increase with Summon duration extensions, and it does not affect enemies in the Damage Reflection status. <br />Luna Stance's attack count bonus doesn't apply.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Cosmic Shower Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/8",
+      "New": "soulMaster/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/9",
+      "New": "soulMaster/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/8",
+      "New": "soulMaster/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/9",
+      "New": "soulMaster/F/9"
+    },
+    "voice/female/path/2": {
+      "Old": "soulMaster/F/10",
+      "New": "soulMaster/F/10"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

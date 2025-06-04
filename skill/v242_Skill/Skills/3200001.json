@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5380353-03:00",
+  "ChangeType": "Changed",
+  "Id": "3200001",
+  "Name": "Final Attack : Crossbow",
+  "Job": "Marksman",
+  "Desc": "Direct Attack Skill hits create a chance of an additional attack. Must have a Crossbow equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Crossbow Mastery or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Attack skills have a chance of inflicting additional damage. Must have a Crossbow equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Crossbow Mastery or above</span>",
+      "New": "Direct Attack Skill hits create a chance of an additional attack. Must have a Crossbow equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Crossbow Mastery or above</span>"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3240014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3200001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,63 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6250912-03:00",
+  "ChangeType": "Changed",
+  "Id": "152121041",
+  "Name": "Longinus Zone",
+  "Job": "Illium",
+  "Desc": "Draws 6 Spear of God, Longinus and bombards a large area with attacks.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Craft: Longinus Lv. 30 or above</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 200. Causes <span style=\"font-weight:bold; color:orange;\">4 explosions</span>, each attacking up to 12 enemies at 1500% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while being cast.</span><br />Cooldown: 120 sec.\t",
+      "New": "MP Cost: 200. Activates 4 explosions that attack up to 12 enemies at 1500% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while it's cast.</span><br />Cooldown: 120 sec.\t"
+    },
+    "h1": {
+      "Old": "MP Cost: 200. Causes <span style=\"font-weight:bold; color:orange;\">4 explosions</span>, each attacking up to 12 enemies at 1500% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while being cast.</span><br />Cooldown: 120 sec.\t",
+      "New": "MP Cost: 200. Activates 4 explosions that attack up to 12 enemies at 1500% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while it's cast.</span><br />Cooldown: 120 sec.\t"
+    },
+    "voice/male/path/0": {
+      "Old": "illium/M/10",
+      "New": "illium/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/10",
+      "New": "illium/F/10"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "152141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Activates 4 explosions that attack up to 12 enemies at 1500% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Makes you Invincible while it's cast.</span><br />Cooldown: 120 sec.\t"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152121041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152121041_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152121041_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

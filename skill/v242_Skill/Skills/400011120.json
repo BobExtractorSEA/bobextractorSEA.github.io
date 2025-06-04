@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1454883-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011120",
+  "Name": "Dragon Inferno",
+  "Job": "5th (Warrior)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/39": {
+      "Old": null,
+      "New": "61141009"
+    },
+    "skillList/40": {
+      "Old": null,
+      "New": "61141010"
+    },
+    "skillList/41": {
+      "Old": null,
+      "New": "61141011"
+    },
+    "skillList/42": {
+      "Old": null,
+      "New": "61141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011120_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

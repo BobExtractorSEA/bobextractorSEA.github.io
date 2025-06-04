@@ -1,0 +1,94 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6883518-03:00",
+  "ChangeType": "Added",
+  "Id": "23141011",
+  "Name": "Unicorn Spike VI",
+  "Job": "Mercedes",
+  "Desc": "Summons a sacred unicorn that attacks multiple enemies and temporarily weakens them. Weakened enemies receive more damage from all types of attack. Can be chained with Rising Rush, Stunning Strikes, Spikes Royale, Lightning Edge, and Wrath of Enreal. Each chained skill decreases this skill's cooldown -1 sec.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Unicorn Spike Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -520,
+      "y": -180
+    },
+    "rb": {
+      "x": 0,
+      "y": 50
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "mes": "amplifyDamage",
+    "req/23111002": "20",
+    "action/0": "6thUnicornSpike",
+    "common/maxLevel": "30",
+    "common/mpCon": "64+d(x/5)",
+    "common/cooltime": "9",
+    "common/lt/x": -520,
+    "common/lt/y": -180,
+    "common/rb/x": 0,
+    "common/rb/y": 50,
+    "common/damage": "608+11*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/time": "60",
+    "common/x": "30",
+    "common/prop": "100",
+    "common/cr": "100",
+    "finalAttack/23100006/0": "52",
+    "addAttack/skill": "23101001",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skillPlus/0": "23111000",
+    "addAttack/skillPlus/1": "23121002",
+    "addAttack/skillPlus/2": "23121003",
+    "addAttack/skillPlus/3": "23120013",
+    "addAttack/skillPlus/4": "23121052",
+    "addAttack/skillPlus/5": "23101007",
+    "addAttack/skillPlus/6": "23141005",
+    "addAttack/skillPlus/7": "23141006",
+    "addAttack/skillPlus/8": "23141003",
+    "addAttack/skillPlus/9": "23141004",
+    "addAttack/skillPlus/10": "23141010",
+    "addAttack/skipActionFrame": "2",
+    "psd": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "hit/0/delayedTime": "360",
+    "hit/0/randomHitOrigin": "15",
+    "hit/1/delayedTime": "360",
+    "hit/1/randomHitOrigin": "15",
+    "hit/randomHit": "1",
+    "weapon": "52",
+    "subWeapon": "35",
+    "canJobRidingUse": "1",
+    "id": "23141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Critically attacks up to 8 enemies at 938% Damage 6 times, with a 100% chance of a debuff that deals 30% more Damage for 60 sec.<br />Cooldown: 9 sec.<br />Cooldown -1 sec. for using Chain skills"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/23141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/23141011_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/23141011_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

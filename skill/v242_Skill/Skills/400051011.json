@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9090507-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051011",
+  "Name": "Energy Burst",
+  "Job": "5th (Pirate)",
+  "Desc": "Gathers everyone's love for the Battleground Idol and intensifies the energy of the Relic, causing it to explode.<br />The power of love lingers after the energy burst as a protection, negating all damage for a period of time. Energy Burst does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/35",
+      "New": "angelicBurster/F/35"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/36",
+      "New": "angelicBurster/F/36"
+    },
+    "voice/female/path/2": {
+      "Old": "angelicBurster/F/37",
+      "New": "angelicBurster/F/37"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

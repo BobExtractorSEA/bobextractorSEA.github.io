@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.5588051-03:00",
+  "ChangeType": "Changed",
+  "Id": "152111003",
+  "Name": "Crystal Skill: Glory Wing",
+  "Job": "Illium",
+  "Desc": "Imbues the full power of magic from the Crystal to the wings. Enhances Invoke: Javelin to <span style=\"font-weight:bold; color:orange;\">Glory Wing: Javelin</span>, making it prioritize tracking Boss Monsters with the highest Max HP and explode.<br />During Glory Wing, <span style=\"font-weight:bold; color:orange;\">using Crystal Portal with a directional key</span> quickly teleports you in the selected direction. To cancel this skill's effect, <span style=\"font-weight:bold; color:orange;\">use it again</span>.<br />Glory Wing isn't affected by Buff Duration Bonuses and automatically summons Crystal and Makina at the end of its duration.<br /><span style=\"font-weight:bold; color:orange;\">Required Crystal Charge: 150</span>\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/9",
+      "New": "illium/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/9",
+      "New": "illium/F/9"
+    },
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

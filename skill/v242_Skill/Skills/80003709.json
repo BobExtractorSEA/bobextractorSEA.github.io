@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1889004-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003709",
+  "Name": "Starlight Illusion: Bounty Hunter/Flame Wolf Additional EXP",
+  "Job": "Etc",
+  "Desc": "Increases Polo and Frito, Especia, and Flame Wolf<br /><span style=\"font-weight:bold; color:orange;\">EXP</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Bounty Hunter/Flame Wolf Additional EXP",
+      "New": "Starlight Illusion: Bounty Hunter/Flame Wolf Additional EXP"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003709_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

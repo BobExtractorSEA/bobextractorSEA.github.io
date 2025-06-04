@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9860869-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051024",
+  "Name": "ICBM",
+  "Job": "5th (Pirate)",
+  "Desc": "Fires a ballistic missile in an arc to attack enemies in a large area. While pressing the skill key, use the [Up] and [Down] keys to adjust your firing angle, then release the skill key to fire. The missiles do not attack enemies directly. Instead, they must hit the platform to explode and inflict damage. Negates the Knockback effect from enemy attacks while its angle is adjusted, and leaves you Invincible before and after casting. This skill does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cannonShooter/M/41",
+      "New": "cannonShooter/M/41"
+    },
+    "voice/male/path/1": {
+      "Old": "cannonShooter/M/42",
+      "New": "cannonShooter/M/42"
+    },
+    "voice/female/path/0": {
+      "Old": "cannonShooter/F/37",
+      "New": "cannonShooter/F/37"
+    },
+    "voice/female/path/1": {
+      "Old": "cannonShooter/F/38",
+      "New": "cannonShooter/F/38"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

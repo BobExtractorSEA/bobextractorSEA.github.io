@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8571438-03:00",
+  "ChangeType": "Changed",
+  "Id": "14141502",
+  "Name": "Silence",
+  "Job": "Night Walker",
+  "Desc": "Draws upon the infinite pitch black power of the Shadow Bats to silence enemies in fear.<br />For a certain period of time, when your attacks hit an enemy, the Shadow Bats will form into giant shadow stars and continuously track and attack enemies. The shadow stars will activate Element: Darkness, Shadow Bats, and Ravenous Bats’ effects every attack.<br />The shadow stars will prioritize tracking the boss monster with the highest maximum HP. If Silence hits an enemy using Damage Reflect, you will not take damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14141502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7310345-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001050",
+  "Name": "Other World Goddess's Blessing",
+  "Job": "5th",
+  "Desc": "The unruly Other World Goddess gives a random blessing at regular intervals. Receives a Cooldown Reduction effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001050_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

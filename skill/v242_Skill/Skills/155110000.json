@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9358477-03:00",
+  "ChangeType": "Changed",
+  "Id": "155110000",
+  "Name": "Reviving Nightmare",
+  "Job": "Ark",
+  "Desc": "Enhances Unforgettable Nightmare.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Unforgettable Nightmare or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th skill, Endless Nightmare.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "HP Cost: 50. Attacks 6 enemies at 270% damage 6 times.<br />Cooldown: 2 sec",
+      "New": "HP Cost: 50. Attacks up to 6 enemies at 270% Damage 6 times.<br />Cooldown: 2 sec."
+    },
+    "h1": {
+      "Old": "HP Cost: 50. Attacks 6 enemies at 270% damage 6 times.<br />Cooldown: 2 sec",
+      "New": "HP Cost: 50. Attacks up to 6 enemies at 270% Damage 6 times.<br />Cooldown: 2 sec."
+    },
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 50. Attacks up to 6 enemies at 270% Damage 6 times.<br />Cooldown: 2 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155110000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

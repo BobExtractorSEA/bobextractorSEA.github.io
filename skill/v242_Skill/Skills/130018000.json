@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.4734596-03:00",
+  "ChangeType": "Changed",
+  "Id": "130018000",
+  "Name": "Decent Haste",
+  "Job": "Yeti",
+  "Desc": "Potential Skill<br />Temporarily increases your MSPD and Jump.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_130018000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

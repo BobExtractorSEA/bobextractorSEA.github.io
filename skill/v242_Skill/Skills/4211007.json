@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.3622689-03:00",
+  "ChangeType": "Changed",
+  "Id": "4211007",
+  "Name": "Dark Flare",
+  "Job": "Shadower",
+  "Desc": "Summons a giant shuriken that attacks nearby enemies releasing dark energy for a certain amount of time. Dark Flare is not affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "minionAbility": {
+      "Old": "PADReflect&&MADReflect",
+      "New": null
+    },
+    "condition": {
+      "Old": "damaged",
+      "New": null
+    },
+    "common/hcReflect": {
+      "Old": "60+10*x",
+      "New": null
+    },
+    "common/hcTime": {
+      "Old": "10+x",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+8*d(x/4)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "2*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "5+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "230-40*d(x/4)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "200+8*x",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "900",
+      "New": null
+    },
+    "summon/enableDelay": {
+      "Old": "660",
+      "New": null
+    },
+    "common/mobCount": {
+      "Old": null,
+      "New": "3"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "showSummonedBuffIcon": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4241012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4211007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/4211007_ball_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.420839-03:00",
+  "ChangeType": "Changed",
+  "Id": "91001025",
+  "Name": "Big Hit",
+  "Job": "Etc",
+  "Desc": "Temporarily increases Critical Damage by a certain percentage.<br />Can't be used in Boss Battle maps.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Temporarily increases Critical Damage.",
+      "New": "Temporarily increases Critical Damage by a certain percentage.<br />Can't be used in Boss Battle maps."
+    },
+    "common/cooltime": {
+      "Old": "3600",
+      "New": "300"
+    },
+    "common/u": {
+      "Old": "3000",
+      "New": "500"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_91001025_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

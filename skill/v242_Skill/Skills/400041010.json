@@ -1,0 +1,31 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6652348-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041010",
+  "Name": "Joker",
+  "Job": "5th (Thief)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": "Animations/Old/400041010_hit_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

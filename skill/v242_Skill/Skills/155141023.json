@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.2014651-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141023",
+  "Name": "Unfading Scar VI",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/0",
+      "New": "ark/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/8",
+      "New": "ark/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/0",
+      "New": "ark/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/8",
+      "New": "ark/F/8"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "155141036"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141023_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141023_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141023_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141023_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

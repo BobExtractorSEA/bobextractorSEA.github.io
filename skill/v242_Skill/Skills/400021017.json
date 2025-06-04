@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4000714-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021017",
+  "Name": "Summon Yuki-onna",
+  "Job": "5th (Magician)",
+  "Desc": "Summons a wintry ghost known as the Yuki-onna. The Yuki-onna helps Kanna attack enemies and boosts her spiritual abilities. Yuki-onna's attacks do not affect enemies in the Damage Reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "90-d(x/2)",
+      "New": "90-x"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/11"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

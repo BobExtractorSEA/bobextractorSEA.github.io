@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5030373-03:00",
+  "ChangeType": "Changed",
+  "Id": "64000004",
+  "Name": "Agent Steps",
+  "Job": "Cadena",
+  "Desc": "Learns the unique combat maneuver of Shadow Merchants to permanently increase MSPD, Jump, Max MSPD, and Evade.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/er": {
+      "Old": "3*u(x/2)",
+      "New": null
+    },
+    "PVPcommon/speedMax": {
+      "Old": "2*x",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64000004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,180 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8919984-03:00",
+  "ChangeType": "Changed",
+  "Id": "142110011",
+  "Name": "Tele Kinesis",
+  "Job": "Kinesis",
+  "Desc": "Kinesis's attacks have a chance of creating a nearby object on hit. The object prioritizes the Boss monster with the highest Max HP among the targets hit by the attack. <br /><span style=\"font-weight:bold; color:orange;\">Can't be activated by Psychic Force, Psychic Drain, Psychic Shot, Mental Tempest, or Ultimate - B.P.M.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Kinesis has a chance to make an additional attack with PK powers whenever an attack lands. <span style=\"font-weight:bold; color:orange;\">The additional attack is not triggered by Ultimate Skills, Psychic Force, Psychic Shot, Psychic Drain and Mental Tempest.</span>",
+      "New": "Kinesis's attacks have a chance of creating a nearby object on hit. The object prioritizes the Boss monster with the highest Max HP among the targets hit by the attack. <br /><span style=\"font-weight:bold; color:orange;\">Can't be activated by Psychic Force, Psychic Drain, Psychic Shot, Mental Tempest, or Ultimate - B.P.M.</span>"
+    },
+    "H": {
+      "Old": "70% chance to automatically attack nearby enemies with surrounding objects for 350% damage when attack hits.",
+      "New": "Successful attacks create a 70% chance of creating a nearby object that attacks enemies at 350% Damage."
+    },
+    "h1": {
+      "Old": "70% chance to automatically attack nearby enemies with surrounding objects for 350% damage when attack hits.",
+      "New": "Successful attacks create a 70% chance of creating a nearby object that attacks enemies at 350% Damage."
+    },
+    "skillList/0": {
+      "Old": null,
+      "New": "140001289"
+    },
+    "skillList/1": {
+      "Old": null,
+      "New": "142001001"
+    },
+    "skillList/2": {
+      "Old": null,
+      "New": "142101002"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "142110003"
+    },
+    "skillList/4": {
+      "Old": null,
+      "New": "142110015"
+    },
+    "skillList/5": {
+      "Old": null,
+      "New": "142120001"
+    },
+    "skillList/6": {
+      "Old": null,
+      "New": "142121031"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "400001008"
+    },
+    "skillList/8": {
+      "Old": null,
+      "New": "400001036"
+    },
+    "skillList/9": {
+      "Old": null,
+      "New": "400001055"
+    },
+    "skillList/10": {
+      "Old": null,
+      "New": "400001039"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "400001059"
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "400021096"
+    },
+    "skillList/13": {
+      "Old": null,
+      "New": "400021098"
+    },
+    "skillList/14": {
+      "Old": null,
+      "New": "400021097"
+    },
+    "skillList/15": {
+      "Old": null,
+      "New": "400021008"
+    },
+    "skillList/16": {
+      "Old": null,
+      "New": "400021009"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "400020009"
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "400021010"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "400020010"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "400021011"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "400020011"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "142141500"
+    },
+    "skillList/23": {
+      "Old": null,
+      "New": "142141501"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "142140002"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "142001002"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "142141000"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "142111007"
+    },
+    "skillList/28": {
+      "Old": null,
+      "New": "142141005"
+    },
+    "skillList/29": {
+      "Old": null,
+      "New": "142101003"
+    },
+    "skillList/30": {
+      "Old": null,
+      "New": "400021074"
+    },
+    "skillList/31": {
+      "Old": null,
+      "New": "400021075"
+    },
+    "skillList/32": {
+      "Old": null,
+      "New": "400021048"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "400021053"
+    },
+    "skillList/34": {
+      "Old": null,
+      "New": "142120003"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "142140007"
+    }
+  },
+  "HFields": {
+    "h1": "Successful attacks create a 70% chance of creating a nearby object that attacks enemies at 350% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_142110011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

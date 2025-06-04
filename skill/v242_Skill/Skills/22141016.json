@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.3052968-03:00",
+  "ChangeType": "Changed",
+  "Id": "22141016",
+  "Name": "Elemental Rest",
+  "Job": "Evan",
+  "Desc": "Temporarily decreases elemental resistances for all your attack spells. Also permanently increases Final Damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

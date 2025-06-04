@@ -1,0 +1,59 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.3226168-03:00",
+  "ChangeType": "Added",
+  "Id": "80003866",
+  "Name": "Oath's Blow",
+  "Job": "Etc",
+  "Desc": "Summons the soul of Baldrix. Baldrix summoned by the power of your Soul Weapon temporarily attacks surrounding monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "cannotCancelByRButton": "1",
+    "action/0": "soulSkillMugongJP",
+    "common/maxLevel": "2",
+    "common/soulmpCon": "250",
+    "common/time": "120",
+    "common/damage": "1400+400*x",
+    "common/attackCount": "1",
+    "common/mobCount": "8+2*x",
+    "common/x": "2600",
+    "common/cooltime": "150",
+    "summon/attack1/info/range/lt/x": -470,
+    "summon/attack1/info/range/lt/y": -490,
+    "summon/attack1/info/range/rb/x": 280,
+    "summon/attack1/info/range/rb/y": 30,
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/attackAfter": "840",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngleRange/x": -65,
+    "hit/0/randomHitAngleRange/y": 65,
+    "disableNextLevelInfo": "1",
+    "disable": "1",
+    "invisible": "1",
+    "canJobRidingUse": "1",
+    "isUsableKaiserDragon": "1",
+    "showSummonedBuffIcon": "1",
+    "resetByUnionCharTag": "1",
+    "id": "80003866"
+  },
+  "HFields": {
+    "h1": "Soul Cost: 250. Summons the soul of Baldrix that periodically attacks up to 12 enemies at 2200% Damage for 120 sec.<br />Soul Weapon minions' damage is calculated separately from yours.<br />Cooldown: 150 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003866_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/80003866_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

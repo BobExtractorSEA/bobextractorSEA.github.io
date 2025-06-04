@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5606075-03:00",
+  "ChangeType": "Changed",
+  "Id": "3211018",
+  "Name": "Bolt Flash",
+  "Job": "Marksman",
+  "Desc": "Fires an arrow in all directions to attack multiple enemies nearby.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "info2/mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "common/attackDelay": {
+      "Old": "420",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "marksman/M/9",
+      "New": "marksman/M/9"
+    },
+    "voice/male/path/1": {
+      "Old": "marksman/M/37",
+      "New": "marksman/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/9",
+      "New": "marksman/F/9"
+    },
+    "voice/female/path/1": {
+      "Old": "marksman/F/38",
+      "New": "marksman/F/38"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3241013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3211018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3211018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

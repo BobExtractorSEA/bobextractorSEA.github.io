@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6885416-03:00",
+  "ChangeType": "Added",
+  "Id": "36141010",
+  "Name": "Rocket System VI",
+  "Job": "Xenon",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -500
+    },
+    "rb": {
+      "x": 500,
+      "y": 500
+    }
+  },
+  "Fields": {
+    "info2/ignoreCounter": "1",
+    "req/36120015": "10",
+    "common/maxLevel": "30",
+    "common/mobCount": "4",
+    "common/damage": "298+9*x",
+    "common/attackCount": "2",
+    "common/bulletCount": "4",
+    "common/lt/x": -500,
+    "common/lt/y": -500,
+    "common/rb/x": 500,
+    "common/rb/y": 500,
+    "SecondAtom/dataIndex": "103",
+    "SecondAtom/atom/0/rotate": "90",
+    "SecondAtom/atom/0/pos/x": -86,
+    "SecondAtom/atom/0/pos/y": -113,
+    "SecondAtom/atom/0/createDelay": "0",
+    "SecondAtom/atom/0/enableDelay": "300",
+    "SecondAtom/atom/0/expire": "5000",
+    "SecondAtom/atom/0/firstAngleStart": "-105",
+    "SecondAtom/atom/0/firstAngleRange": "30",
+    "SecondAtom/atom/1/rotate": "90",
+    "SecondAtom/atom/1/pos/x": -138,
+    "SecondAtom/atom/1/pos/y": -73,
+    "SecondAtom/atom/1/createDelay": "60",
+    "SecondAtom/atom/1/enableDelay": "360",
+    "SecondAtom/atom/1/expire": "5000",
+    "SecondAtom/atom/1/firstAngleStart": "-105",
+    "SecondAtom/atom/1/firstAngleRange": "30",
+    "SecondAtom/atom/2/rotate": "90",
+    "SecondAtom/atom/2/pos/x": -100,
+    "SecondAtom/atom/2/pos/y": -9,
+    "SecondAtom/atom/2/createDelay": "120",
+    "SecondAtom/atom/2/enableDelay": "420",
+    "SecondAtom/atom/2/expire": "5000",
+    "SecondAtom/atom/2/firstAngleStart": "-105",
+    "SecondAtom/atom/2/firstAngleRange": "30",
+    "SecondAtom/atom/3/rotate": "90",
+    "SecondAtom/atom/3/pos/x": -64,
+    "SecondAtom/atom/3/pos/y": -53,
+    "SecondAtom/atom/3/createDelay": "180",
+    "SecondAtom/atom/3/enableDelay": "480",
+    "SecondAtom/atom/3/expire": "5000",
+    "SecondAtom/atom/3/firstAngleStart": "-105",
+    "SecondAtom/atom/3/firstAngleRange": "30",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "invisible": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "36141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/36141010_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

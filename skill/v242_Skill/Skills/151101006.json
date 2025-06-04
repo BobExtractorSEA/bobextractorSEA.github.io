@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1965351-03:00",
+  "ChangeType": "Changed",
+  "Id": "151101006",
+  "Name": "Creation",
+  "Job": "Adele",
+  "Desc": "Creates Ether Swords with your current Ether. The number of Ether Swords are automatically adjusted based on the level of current Ether.<br />Ether Swords automatically attack nearby enemies and aren't affected by enemies in the Damage Reflection status. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>. <span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn Order.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When <span style=\"font-weight:bold; color:orange;\">Trigger Skills hit</span>, attacks up to 10 enemies at 200% damage every 9.5 sec. Upon 3rd/4th Job Advancement, delay between attacks are reduced by 4 sec.<br />1 attacks per Ether Sword.<br />When attack hits, 30% chance to create an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 500 sec.</span>",
+      "New": "When <span style=\"font-weight:bold; color:orange;\">Trigger skills hit</span>, attacks up to 10 enemies at 200% Damage every 9.5 sec. Upon 3rd/4th Job Advancement, delay between attacks are reduced by 4 sec.<br />1 attacks per Ether Sword.<br />Attacks create a 30% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+    },
+    "h1": {
+      "Old": "When <span style=\"font-weight:bold; color:orange;\">Trigger Skills hit</span>, attacks up to 10 enemies at 200% damage every 9.5 sec. Upon 3rd/4th Job Advancement, delay between attacks are reduced by 4 sec.<br />1 attacks per Ether Sword.<br />When attack hits, 30% chance to create an Ether Crystal.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 500 sec.</span>",
+      "New": "When <span style=\"font-weight:bold; color:orange;\">Trigger skills hit</span>, attacks up to 10 enemies at 200% Damage every 9.5 sec. Upon 3rd/4th Job Advancement, delay between attacks are reduced by 4 sec.<br />1 attacks per Ether Sword.<br />Attacks create a 30% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "When <span style=\"font-weight:bold; color:orange;\">Trigger skills hit</span>, attacks up to 10 enemies at 200% Damage every 9.5 sec. Upon 3rd/4th Job Advancement, delay between attacks are reduced by 4 sec.<br />1 attacks per Ether Sword.<br />Attacks create a 30% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151101006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

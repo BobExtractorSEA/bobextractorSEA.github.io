@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6494159-03:00",
+  "ChangeType": "Changed",
+  "Id": "1321015",
+  "Name": "Dark Resonance",
+  "Job": "Dark Knight",
+  "Desc": "Resonates with the Beholder to unleash the pure Power of Darkness. Lets you recover HP quickly, temporarily inflict final damage and ignore DEF, inflict greater damage on Boss monsters, and permanently increase Ignore DEF.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/13",
+      "New": "darkKnight/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/14",
+      "New": "darkKnight/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/14",
+      "New": "darkKnight/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/15",
+      "New": "darkKnight/F/15"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1321015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1321015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1321015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1321015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1321015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

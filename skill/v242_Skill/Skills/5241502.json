@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5674508-03:00",
+  "ChangeType": "Changed",
+  "Id": "5241502",
+  "Name": "Dreadnought",
+  "Job": "Corsair",
+  "Desc": "Under the fearless captain's command, a colossal battleship emerges, cutting through uncharted waters. The ship indiscriminately bombards nearby enemies, with priority given to the boss monster with the highest maximum HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

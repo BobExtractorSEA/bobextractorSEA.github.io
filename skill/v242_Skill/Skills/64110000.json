@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5724616-03:00",
+  "ChangeType": "Changed",
+  "Id": "64110000",
+  "Name": "Chain Arts: Stroke 2nd Enhancement",
+  "Job": "Cadena",
+  "Desc": "Improves Chain Arts: Stroke's 2nd Hit damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Chain Arts: Stroke 1st Enhancement</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn 4th Skill, Chain Arts: Stroke Final Enhancement</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "64141030"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "64141034"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64110000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

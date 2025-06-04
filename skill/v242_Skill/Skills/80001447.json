@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.3748475-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001447",
+  "Name": "Devil Lucifer Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Become Lucifer, the devil himself, on a ship that can use the Double Jump skill to move <span style=\"font-weight:bold; color:orange;\">very quickly</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Become Lucifer, the devil himself, on a ship that can use the Double Jump skill to move <span style=\"font-weight:bold; color:orange;\">very quickly</span>. <span style=\"font-weight:bold; color:orange;\">Double-click the destination on the World Map</span> to fly there automatically. (Auto Pilot is only available on some continents, including Victoria Island. <span style=\"font-weight:bold; color:orange;\">Buy a Flight Permit from Instructor Irvin</span> to use the Smart Mount on more continents.) ",
+      "New": "[Master Level: 1]<br />Become Lucifer, the devil himself, on a ship that can use the Double Jump skill to move <span style=\"font-weight:bold; color:orange;\">very quickly</span>."
+    },
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001447_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

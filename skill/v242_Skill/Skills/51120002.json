@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1999658-03:00",
+  "ChangeType": "Changed",
+  "Id": "51120002",
+  "Name": "Advanced Final Attack",
+  "Job": "Mihile",
+  "Desc": "Permanently increases Attack, and significantly increases Final Attack's activation rate and damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Permanently increases Attack +30. <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 75% chance of casting Final Attack that inflicts 95% damage 4 times.",
+      "New": "Permanently increases ATT +30<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 95% Damage 4 times."
+    },
+    "h1": {
+      "Old": "Permanently increases Attack +30. <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 75% chance of casting Final Attack that inflicts 95% damage 4 times.",
+      "New": "Permanently increases ATT +30<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 95% Damage 4 times."
+    },
+    "finalAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "condition": {
+      "Old": "attack",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "51140018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Permanently increases ATT +30<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 95% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51120002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

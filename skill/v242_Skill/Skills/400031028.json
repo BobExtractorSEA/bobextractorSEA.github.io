@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.5184364-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031028",
+  "Name": "Full Burst Quiver",
+  "Job": "5th (Bowman)",
+  "Desc": "Uses all types of Arrow Heads at once along with a special explosive Arrow Head. Fire Arrow Heads first target the enemy with the highest HP, and does not affect enemies in the Damage Reflection status. A limited amount of Fire Arrow Heads are prepared. Cannot attack when all of them are used.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bowMaster/M/17",
+      "New": "bowMaster/M/17"
+    },
+    "voice/male/path/1": {
+      "Old": "bowMaster/M/18",
+      "New": "bowMaster/M/18"
+    },
+    "voice/female/path/0": {
+      "Old": "bowMaster/F/17",
+      "New": "bowMaster/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "bowMaster/F/18",
+      "New": "bowMaster/F/18"
+    },
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031028_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031028_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031028_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031028_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3644286-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021095",
+  "Name": "Mana Tornado",
+  "Job": "5th (Magician)",
+  "Desc": "Utilize the Circle of Mana to create a tornado out of mana to attack the enemy. Can be used during Circle of Mana IV and VI.<br />Only 1 Mana Tornado can exist at a time and does not affect enemies in the Damage Reflection status.<br />Use a custom command to cast Circle of Mana again with the Down key after the first hit of Circle of Mana IV or VI.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Circle of Mana IV or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021095_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

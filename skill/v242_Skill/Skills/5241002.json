@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5386201-03:00",
+  "ChangeType": "Changed",
+  "Id": "5241002",
+  "Name": "Battleship Bomber VI",
+  "Job": "Corsair",
+  "Desc": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Bombs the location by placing a Sign of Bombard in a certain area.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Battleship Bomber Lv. 15 or higher and Ahoy Mateys Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not affect enemies in the Damage Reflection status.<br />Bombs the location by placing a Sign of Bombard in a certain area.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Battleship Bomber Lv. 15 or higher</span>",
+      "New": "Summons a battleship with Nautilus sailors. The battleship's cannon attack does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Bombs the location by placing a Sign of Bombard in a certain area.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Battleship Bomber Lv. 15 or higher and Ahoy Mateys Lv. 15 or higher</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/4",
+      "New": "captain/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/12",
+      "New": "captain/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/10",
+      "New": "captain/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/5",
+      "New": "captain/F/5"
+    },
+    "req/5220019": {
+      "Old": null,
+      "New": "15"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

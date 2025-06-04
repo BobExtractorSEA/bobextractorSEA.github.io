@@ -1,0 +1,148 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.0411745-03:00",
+  "ChangeType": "Added",
+  "Id": "31141009",
+  "Name": "Dark Metamorphosis VI",
+  "Job": "Demon Slayer",
+  "Desc": "Temporarily unleashes his demonic energy to the extreme, marking enemies within range with the Mark of a Demon. Hitting enemies with the Mark of a Demon with your direct Attack skills deals additional attacks with the powerful demonic energy. Also, permanently enhances Demon Impact VI.<br />The demonic energy attacks by Dark Metamorphosis VI are not affected by the Blue Blood effect.<br />Affected by Buff Duration Bonus effects. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Metamorphosis Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "11",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/31121005": "30",
+    "action/0": "6thDevilishPower",
+    "common/maxLevel": "30",
+    "common/forceCon": "40",
+    "common/hpCon": "300",
+    "common/cooltime": "92",
+    "common/damage": "700+13*x",
+    "common/mobCount": "10",
+    "common/time": "184",
+    "common/u": "1",
+    "common/u2": "4",
+    "common/indieDamR": "45",
+    "common/x": "1",
+    "common/damPlus": "u(x/2)",
+    "skillList/0": "31101003",
+    "skillList/1": "31121005",
+    "skillList/2": "31141502",
+    "skillList/3": "31141015",
+    "skillList/4": "31140016",
+    "skillList/5": "31141017",
+    "skillList/6": "400001008",
+    "skillList/7": "400001036",
+    "skillList/8": "400001064",
+    "skillList/9": "31141006",
+    "skillList/10": "400001040",
+    "skillList/11": "400001041",
+    "skillList/12": "500001004",
+    "skillList/13": "400001060",
+    "skillList/14": "400010000",
+    "skillList/15": "400011006",
+    "skillList/16": "400011057",
+    "skillList/17": "400011077",
+    "skillList/18": "400011078",
+    "skillList/19": "500001001",
+    "skillList/20": "500001002",
+    "skillList/21": "500001003",
+    "effect0/z": "-2",
+    "special0/repeat": "0",
+    "weapon": "31",
+    "weapon2": "32",
+    "notRemoved": "1",
+    "isPetAutoBuff": "1",
+    "ignoreSpecialCore": "1",
+    "applySixthSkillIncBuffDuration": "1",
+    "psd": "1",
+    "id": "31141009",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = demonSlayer/M/14 }",
+    "voice/male/path/1": "{ Old = , New = demonSlayer/M/48 }",
+    "voice/male/path/2": "{ Old = , New = demonSlayer/M/49 }",
+    "voice/female/path/0": "{ Old = , New = demonSlayer/F/50 }",
+    "voice/female/path/1": "{ Old = , New = demonSlayer/F/51 }",
+    "voice/female/path/2": "{ Old = , New = demonSlayer/F/8 }"
+  },
+  "HFields": {
+    "h1": "HP Cost: 300. Force Cost: 40. Makes you Invincible while it's cast.<br />Damage +45% for 184 sec.<br />Places Marks of a Demon on up to 10 enemies within range for a set duration.<br />Direct Attack Skill hits on enemies with the Mark of a Demon generates demonic energy that attacks at 1090% Damage 4 times.<br />Demonic Energy Cooldown: 1 sec. Cooldown: 92 sec.<br />[Passive Effects: Demon Impact VI Damage +15%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31141009_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/31141009_effect0_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/31141009_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/31141009_special0_new.webp"
+    },
+    "end0": {
+      "Old": null,
+      "New": "Animations/New/31141009_end0_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

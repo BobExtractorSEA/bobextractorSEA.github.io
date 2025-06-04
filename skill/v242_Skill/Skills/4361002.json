@@ -1,0 +1,89 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1111545-03:00",
+  "ChangeType": "Added",
+  "Id": "4361002",
+  "Name": "Hidden Blade VI",
+  "Job": "Dual Blade",
+  "Desc": "Summons a dagger that exists in the Secret Flower Garden's Book Ghost to add powerful bonus damage to all your attacks. Also, increases Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hidden Blade Lv. 1 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lock Activation Effect: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "11",
+    "finalAttack": "1",
+    "condition": "attack",
+    "info2/ignoreCounter": "1",
+    "req/4341054": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "215+d(x/2)",
+    "common/damage": "300+6*x",
+    "common/indieDamR": "10",
+    "common/time": "90",
+    "common/prop": "100",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "3",
+    "hit/1/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "3",
+    "hit/2/randomHitOrigin": "30",
+    "skillType": "3",
+    "applyHyper": "1",
+    "notRemoved": "1",
+    "disabledDuringAction": "1",
+    "isPetAutoBuff": "1",
+    "isSequenceOn": "1",
+    "id": "4361002",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = dualBlade/M/32 }",
+    "voice/female/path/0": "{ Old = , New = dualBlade/F/33 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 230. Damage +10%.<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 100% chance of an additional attack at 480% Damage for 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4361002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4361002_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4361002_hit_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/4361002_repeat_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/4361002_end_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4361002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9553314-03:00",
+  "ChangeType": "Changed",
+  "Id": "155111102",
+  "Name": "Gust Charge Drive",
+  "Job": "Ark",
+  "Desc": "Envelope yourself in a gust of wind from the air to strike down upon enemies. Gust Spell charges up when attacks hit.<br />Changes to Endless Hunger in Spectral Form.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/9",
+      "New": "ark/M/9"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/9",
+      "New": "ark/F/9"
+    },
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155111102_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155111102_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155111102_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

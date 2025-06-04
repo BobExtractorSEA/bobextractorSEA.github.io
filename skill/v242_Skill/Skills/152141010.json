@@ -1,0 +1,108 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0915221-03:00",
+  "ChangeType": "Added",
+  "Id": "152141010",
+  "Name": "Liyo VI",
+  "Job": "Illium",
+  "Desc": "Summons your trusty mechanical friend, Liyo. Liyo <span style=\"font-weight:bold; color:orange;\">attacks a single enemy for a while</span>.<br />Liyo does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Liyo Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -500
+    },
+    "rb": {
+      "x": 500,
+      "y": 500
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/152001003": "20",
+    "action/0": "6thRio",
+    "common/maxLevel": "30",
+    "common/time": "180+3*x",
+    "common/mpCon": "90+d(x/2)",
+    "common/speed": "10",
+    "common/damage": "264+8*x",
+    "common/z": "3",
+    "common/lt/x": -500,
+    "common/lt/y": -500,
+    "common/rb/x": 500,
+    "common/rb/y": 500,
+    "common/lt2/x": -700,
+    "common/lt2/y": -700,
+    "common/rb2/x": 700,
+    "common/rb2/y": 700,
+    "common/u": "40",
+    "summon/attack1/info/x": "450",
+    "summon/attack1/info/y": "60000",
+    "summon/attack1/info/magicAttack": "1",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/attackCount": "1",
+    "summon/attack1/info/mobCount": "1",
+    "summon/attack1/info/range/lt/x": -50,
+    "summon/attack1/info/range/lt/y": -50,
+    "summon/attack1/info/range/rb/x": 50,
+    "summon/attack1/info/range/rb/y": 50,
+    "summon/attack1/repeat": "11",
+    "summon/activeDelay": "1380",
+    "summon/createDelay": "420",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "showSummonedBuffIcon": "2",
+    "weapon": "28",
+    "subWeapon": "35",
+    "isSequenceOn": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "152141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = illium/M/3 }",
+    "voice/female/path/0": "{ Old = , New = illium/F/3 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 105. Summoned for 270 sec. Moves to a target and periodically attacks at 504% Damage for a while.<br />Stops after 40 attacks."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/152141010_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152141010_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

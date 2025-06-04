@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0134197-03:00",
+  "ChangeType": "Changed",
+  "Id": "25121006",
+  "Name": "Death Mark",
+  "Job": "Shade",
+  "Desc": "Summons a death spirit to attack multiple enemies in front of you and marks them.<br />The marked enemies receive DoT. Absorbs a portion of the marked damage as HP.<br />Death Mark does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "eunwol/M/1",
+      "New": "eunwol/M/1"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/10",
+      "New": "eunwol/M/10"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/61",
+      "New": "eunwol/M/61"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/62",
+      "New": "eunwol/M/62"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/3",
+      "New": "eunwol/F/3"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/18",
+      "New": "eunwol/F/18"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/61",
+      "New": "eunwol/F/61"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/62",
+      "New": "eunwol/F/62"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "25141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25121006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25121006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

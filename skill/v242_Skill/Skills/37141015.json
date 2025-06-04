@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8009281-03:00",
+  "ChangeType": "Added",
+  "Id": "37141015",
+  "Name": "Hurricane Blaster VI",
+  "Job": "Blaster",
+  "Desc": "Utilizing Weave, Charging Arm: Bobbing, and Charging Arm: Weaving, creates a storm that sweeps enemies in a broad area. Max-stacks Combo Focusing on attack hits.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hurricane Blaster Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -580,
+      "y": -385
+    },
+    "rb": {
+      "x": 220,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "52",
+    "req/37121003": "30",
+    "action/0": "6thRollingHurricane",
+    "common/maxLevel": "30",
+    "common/mpCon": "61+d(x/3)",
+    "common/damage": "1350+39*x",
+    "common/attackCount": "5",
+    "common/mobCount": "12",
+    "common/lt/x": -580,
+    "common/lt/y": -385,
+    "common/rb/x": 220,
+    "common/rb/y": 200,
+    "common/cooltime": "15-d(x/6)",
+    "common/v": "12000",
+    "common/v2": "12",
+    "skillList/0": "400011000",
+    "finalAttack/37000007/0": "58",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "additional_process/0": "22",
+    "weapon": "58",
+    "subWeapon": "35",
+    "processtype": "1",
+    "id": "37141015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "80",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = blaster/M/22 }",
+    "voice/male/path/1": "{ Old = , New = blaster/M/23 }",
+    "voice/male/path/2": "{ Old = , New = blaster/M/10 }",
+    "voice/female/path/0": "{ Old = , New = blaster/F/20 }",
+    "voice/female/path/1": "{ Old = , New = blaster/F/29 }",
+    "voice/female/path/2": "{ Old = , New = blaster/F/30 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 71. Attacks up to 12 enemies at 2520% Damage 5 times.<br />Max-stacks Combo Focusing on hit and sets the duration to 12 sec.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/37141015_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/37141015_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/37141015_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

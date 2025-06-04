@@ -1,0 +1,95 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6565142-03:00",
+  "ChangeType": "Added",
+  "Id": "12141015",
+  "Name": "Orbital Explosion VI",
+  "Job": "Blaze Wizard",
+  "Desc": "Understands the essence of flame and unleashes it. <br />Hitting a certain number of times with Orbital Flame I, Phoenix Drive, Blazing Orbital Flame, Infinite Flame Circle, and Eternity grants an additional Fire attack to your next attack. <br />The additional Fire attack does not cause you to take damage even when attacking enemies in the Damage Reflection Status. <br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Orbital Explosion Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "10",
+    "dot": "1",
+    "condition": "attack",
+    "dotType": "invenom",
+    "req/12101024": "10",
+    "action/0": "alert6",
+    "common/maxLevel": "30",
+    "common/mpCon": "13+d(x/15)",
+    "common/damage": "90+8*x",
+    "common/attackCount": "3",
+    "common/x": "10",
+    "effect0/z": "-1",
+    "weapon": "37",
+    "weapon2": "38",
+    "elemAttr": "f",
+    "id": "12141015",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "80",
+    "voice/male/count": 2,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = flameWizard/M/96 }",
+    "voice/male/path/1": "{ Old = , New = flameWizard/M/97 }",
+    "voice/female/path/0": "{ Old = , New = flameWizard/F/66 }",
+    "voice/female/path/1": "{ Old = , New = flameWizard/F/67 }",
+    "voice/female/path/2": "{ Old = , New = flameWizard/F/68 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 15<br />Hit Orbital Flame I, Phoenix Drive, Blazing Orbital Flame, Infinite Flame Circle, and Eternity 10 times to grant the next Orbital Flame-type skill, Infinite Flame Circle, or Eternity attack an additional attack that attacks at 330% Damage 3 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/12141015_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/12141015_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

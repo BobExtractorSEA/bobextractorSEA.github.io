@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2594756-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003751",
+  "Name": "Beast Breathing Fifth Fang: Crazy Cutting",
+  "Job": "Etc",
+  "Desc": "Inosuke appears, leaping into the air and slashing enemies in all directions.<br />This skill is purely cosmetic and has no actual offensive effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Can be used once per day",
+      "New": "A cosmetic skill with no offensive effect.<br />Cooldown: 600 sec."
+    },
+    "h1": {
+      "Old": "Can be used once per day",
+      "New": "A cosmetic skill with no offensive effect.<br />Cooldown: 600 sec."
+    }
+  },
+  "HFields": {
+    "h1": "A cosmetic skill with no offensive effect.<br />Cooldown: 600 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003751_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

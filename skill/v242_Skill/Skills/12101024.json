@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0806992-03:00",
+  "ChangeType": "Changed",
+  "Id": "12101024",
+  "Name": "Orbital Explosion",
+  "Job": "Blaze Wizard",
+  "Desc": "Understands and releases the essence of the flame.<br />When Orbital Flame, Phoenix Drive, Blazing Orbital Flame, Infinity Flame Circle, or Eternity lands a certain number of times, the next attack will be a fire element's flame energy additional hit. <br /> The additional hit of flame aura does not inflict damage when attacking an enemy in reflect status. <br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/96",
+      "New": "flameWizard/M/96"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/97",
+      "New": "flameWizard/M/97"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/66",
+      "New": "flameWizard/F/66"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/67",
+      "New": "flameWizard/F/67"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/68",
+      "New": "flameWizard/F/68"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12101024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101024_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101024_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12101024_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

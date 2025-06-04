@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5210952-03:00",
+  "ChangeType": "Changed",
+  "Id": "22201001",
+  "Name": "Circle of Mana VI",
+  "Job": "Evan",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "22201006"
+    },
+    "addAttack/skillPlus/15": {
+      "Old": null,
+      "New": "22201007"
+    },
+    "addAttack/skillPlus/16": {
+      "Old": null,
+      "New": "22201010"
+    },
+    "addAttack/skillPlus/17": {
+      "Old": null,
+      "New": "22201011"
+    },
+    "addAttack/skillPlus/18": {
+      "Old": null,
+      "New": "22140022"
+    },
+    "addAttack/skillPlus/19": {
+      "Old": null,
+      "New": "22201007"
+    },
+    "addAttack/skillPlus/20": {
+      "Old": null,
+      "New": "22201011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

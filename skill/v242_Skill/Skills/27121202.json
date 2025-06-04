@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.082103-03:00",
+  "ChangeType": "Changed",
+  "Id": "27121202",
+  "Name": "Apocalypse",
+  "Job": "Luminous",
+  "Desc": "[Dark Magic]<br />Opens the Abyssal Rift under enemies to flood them with void energy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "luminous/M/16",
+      "New": "luminous/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/15",
+      "New": "luminous/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/18",
+      "New": "luminous/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/17",
+      "New": "luminous/F/17"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "27141004"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27121202_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121202_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121202_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121202_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121202_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

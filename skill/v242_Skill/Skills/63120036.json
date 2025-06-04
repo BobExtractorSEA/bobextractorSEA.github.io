@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.2456223-03:00",
+  "ChangeType": "Changed",
+  "Id": "63120036",
+  "Name": "Execution - Enhancement",
+  "Job": "Kain",
+  "Desc": "Adds a special ability to final damage increase of Death Blessing.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/16": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "63141127"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63120036_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

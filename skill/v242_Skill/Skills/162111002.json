@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.3919514-03:00",
+  "ChangeType": "Changed",
+  "Id": "162111002",
+  "Name": "Revelation: Where the River Flows",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>, <span style=\"font-weight:bold; color:orange;\">Revelation Skill</span><br />The power of the river within the Dragon Vein is revealed. You can move along the flowing river. You can designate the arrival point of the river if you reuse the skill within a certain amount of time after using the skill. Once the arrival point is designated, the river continues to flow between starting point and arrival point so Lara can move along the river by pressing the Up arrow key at the starting or arrival point. The arrival point can't be designated at the locations with portals and at some other locations.<span style=\"font-weight:bold; color:orange;\">It can't be used in some maps that aren't hunting maps.</span> Revelation Skills prioritize free Dragon Veins. It there is no free Dragon Veins, it consumes the closest Dragon Vein first. STANCE 100% is applied while casting. Revelation While Moving Along the River: The skills that consume a Dragon Vein can be used once, except for places where a river flows. The range that can be consumed increases. You can use additional skills that consume Dragon Veins in proportion to the traveled distance.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Eruption: Lv. 20 Rippling River or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 or higher is required to learn the 4th Job Skill, Lord of the Moon.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "lara/M/31",
+      "New": "lara/M/31"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/32",
+      "New": "lara/M/32"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/43",
+      "New": "lara/F/43"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/44",
+      "New": "lara/F/44"
+    },
+    "skillList/67": {
+      "Old": null,
+      "New": "162141010"
+    },
+    "skillList/68": {
+      "Old": null,
+      "New": "162141012"
+    },
+    "skillList/69": {
+      "Old": null,
+      "New": "162141013"
+    },
+    "skillList/70": {
+      "Old": null,
+      "New": "162141015"
+    },
+    "skillList/71": {
+      "Old": null,
+      "New": "162141016"
+    },
+    "skillList/72": {
+      "Old": null,
+      "New": "162141018"
+    },
+    "skillList/73": {
+      "Old": null,
+      "New": "162141019"
+    },
+    "skillList/74": {
+      "Old": null,
+      "New": "162141020"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

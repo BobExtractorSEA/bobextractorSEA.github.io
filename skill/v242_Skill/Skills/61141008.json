@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0087545-03:00",
+  "ChangeType": "Changed",
+  "Id": "61141008",
+  "Name": "Tempest Blades VI",
+  "Job": "Kaiser",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/61120007": {
+      "Old": null,
+      "New": "30"
+    },
+    "has_req": {
+      "Old": null,
+      "New": "True"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

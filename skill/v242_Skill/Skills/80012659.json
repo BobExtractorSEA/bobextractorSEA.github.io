@@ -1,0 +1,29 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.4118118-03:00",
+  "ChangeType": "Added",
+  "Id": "80012659",
+  "Name": null,
+  "Job": "Etc",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "action/0": "NextSpecialPartyDance",
+    "level/1/time": "600",
+    "repeatDance": "1",
+    "timeLimited": "1",
+    "invisible": "1",
+    "id": "80012659"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80012659_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1730717-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121004",
+  "Name": "Fires of Creation",
+  "Job": "Blaze Wizard",
+  "Desc": "Summons the Flame Incarnate. Summons a Fire Lion. Use with the Down key to summon a Flame Fox. Use a custom command to summon a Flame Fox by using the skill and summon a Fire Lion by using it with the Down key.<br />The Incarnate's blessing temporarily increases MP cost, but makes <span style=\"font-weight:bold; color:orange;\">all your attacks ignore a certain amount of DEF</span>.<br />Depending on the type of the summoned Incarnate, <span style=\"font-weight:bold; color:orange;\">Orbital Flame I, Inferno Rise, and Blazing Extinction</span> activate a different attack.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 Effect: Can learn the 4 Job skill, Inferno Rise</span>.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span> ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons the Flame Incarnate. Summons a Fire Lion. Use with the Down key to summon a Flame Fox.<br />The Incarnate's blessing temporarily increases MP cost, but makes <span style=\"font-weight:bold; color:orange;\">all your attacks ignore a certain amount of DEF</span>.<br />Depending on the type of the summoned Incarnate, <span style=\"font-weight:bold; color:orange;\">Orbital Flame I, Inferno Rise, and Blazing Extinction</span> activate a different attack.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 Effect: Can learn the 4th Job skill, Inferno Rise.</span> ",
+      "New": "Summons the Flame Incarnate. Summons a Fire Lion. Use with the Down key to summon a Flame Fox. Use a custom command to summon a Flame Fox by using the skill and summon a Fire Lion by using it with the Down key.<br />The Incarnate's blessing temporarily increases MP cost, but makes <span style=\"font-weight:bold; color:orange;\">all your attacks ignore a certain amount of DEF</span>.<br />Depending on the type of the summoned Incarnate, <span style=\"font-weight:bold; color:orange;\">Orbital Flame I, Inferno Rise, and Blazing Extinction</span> activate a different attack.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 Effect: Can learn the 4 Job skill, Inferno Rise</span>.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span> "
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

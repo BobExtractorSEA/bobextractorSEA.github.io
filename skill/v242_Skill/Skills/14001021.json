@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6969133-03:00",
+  "ChangeType": "Changed",
+  "Id": "14001021",
+  "Name": "Element Infusion I: Darkness",
+  "Job": "Night Walker",
+  "Desc": "Summons a dark elemental that grants you its powers.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 2nd Job Skill, Adaptive Darkness</span> ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Hitting an enemy with a throwing star skill has a 20% chance to place a Mark of Darkness that may stack up to 2 times. Marked enemies receive 80% DoT per stack every second for 5 sec. and have 4% DEF ignored per stack.",
+      "New": "Hitting an enemy with a throwing star skill has a 20% chance of placing a Mark of Darkness that stacks up to 2 times. The marked enemy receives 80% DoT every sec. per stack for 15 sec., and the Night Walker's attacks on the enemy ignore 4% of its DEF per stack."
+    },
+    "h1": {
+      "Old": "Hitting an enemy with a throwing star skill has a 20% chance to place a Mark of Darkness that may stack up to 2 times. Marked enemies receive 80% DoT per stack every second for 5 sec. and have 4% DEF ignored per stack.",
+      "New": "Hitting an enemy with a throwing star skill has a 20% chance of placing a Mark of Darkness that stacks up to 2 times. The marked enemy receives 80% DoT every sec. per stack for 15 sec., and the Night Walker's attacks on the enemy ignore 4% of its DEF per stack."
+    },
+    "common/dotTime": {
+      "Old": "5",
+      "New": "15"
+    }
+  },
+  "HFields": {
+    "h1": "Hitting an enemy with a throwing star skill has a 20% chance of placing a Mark of Darkness that stacks up to 2 times. The marked enemy receives 80% DoT every sec. per stack for 15 sec., and the Night Walker's attacks on the enemy ignore 4% of its DEF per stack."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_14001021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

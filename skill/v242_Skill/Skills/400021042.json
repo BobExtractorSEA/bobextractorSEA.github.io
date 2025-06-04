@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2568303-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021042",
+  "Name": "Incarnate's Anger",
+  "Job": "5th (Magician)",
+  "Desc": "Gathers fire to unleash the Flame Incarnate. Can only be used when Fires of Creation is summoned, and a different attack is activated based on the type of incarnate summoned. Use with the Down key to activate an attack suitable for an Incarnate that is not currently summoned. Lock the command to activate an attack that matches the summoned spirit by using the skill with the Down key.<br />All Flames are consumed when used, and the attack is enhanced based on the number of consumed Flames. A Fire Element attack.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Gathers fire to unleash the Flame Incarnate. Can only be used when Fires of Creation is summoned. A different attack is activated based on the type of the summoned spirit. Using this skill while pressing the [Down] arrow key activates attacks matched with Incarnation that is not summoned.<br />All Flames are consumed when used, and the attack is enhanced based on the number of consumed Flames. This is a kind of Fire Element attack.<br />It does not affect enemies in the Damage Reflection status.",
+      "New": "Gathers fire to unleash the Flame Incarnate. Can only be used when Fires of Creation is summoned, and a different attack is activated based on the type of incarnate summoned. Use with the Down key to activate an attack suitable for an Incarnate that is not currently summoned. Lock the command to activate an attack that matches the summoned spirit by using the skill with the Down key.<br />All Flames are consumed when used, and the attack is enhanced based on the number of consumed Flames. A Fire Element attack.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>"
+    },
+    "skillList2/32": {
+      "Old": null,
+      "New": "12141012"
+    },
+    "skillList2/33": {
+      "Old": null,
+      "New": "12141014"
+    },
+    "skillList2/34": {
+      "Old": null,
+      "New": "12141017"
+    },
+    "skillList2/35": {
+      "Old": null,
+      "New": "12141018"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021042_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

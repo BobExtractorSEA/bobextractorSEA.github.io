@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9394069-03:00",
+  "ChangeType": "Changed",
+  "Id": "11120019",
+  "Name": "Soul Blessing III",
+  "Job": "Dawn Warrior",
+  "Desc": "Draws the soul’s power to the limit. Element Infusion: Soul is enhanced. Element: Soul, Soul Blessing, and Soul Blessing II’s effects are applied additively. Combat Orders does not apply.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Soul Blessing II Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11120019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

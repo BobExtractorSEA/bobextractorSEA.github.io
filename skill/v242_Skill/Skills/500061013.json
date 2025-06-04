@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.9929279-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061013",
+  "Name": "Infinity Spell",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Gains infinite MP at the cost of HP. Additionally produced Abyss Vigor made with Infinity Spell chases boss monsters with the highest max HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/39",
+      "New": "ark/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/40",
+      "New": "ark/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/43",
+      "New": "ark/F/43"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/44",
+      "New": "ark/F/44"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

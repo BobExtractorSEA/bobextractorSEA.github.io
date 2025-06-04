@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6210201-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121100",
+  "Name": "Unleash Orochi",
+  "Job": "Kanna",
+  "Desc": "Temporarily lifts the seal from the Shikigami Orochi to burn enemies within a wide range through the Orochi's nefarious power.<br />Can be used in mid-air. Stance is fixed to 100% while casting.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "90",
+      "New": "60"
+    },
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/12"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121100_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

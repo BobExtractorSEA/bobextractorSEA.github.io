@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8332028-03:00",
+  "ChangeType": "Changed",
+  "Id": "101120202",
+  "Name": "Storm Break",
+  "Job": "Zero",
+  "Desc": "Attacks enemies in front and generates a whirlwind that moves forward, attacking enemies in its path. The whirlwind does not affect enemies in the Damage Reflection state. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Wind Strike or higher</span> <br />Command: Wind Cutter followed by <span style=\"font-weight:bold; color:orange;\">Wind Strike</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/54",
+      "New": "zero/M/54"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/55",
+      "New": "zero/M/55"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/22",
+      "New": "zero/M/22"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/23",
+      "New": "zero/M/23"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/4",
+      "New": "zero/M/4"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101120204"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101120202_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120202_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120202_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120202_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120202_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101120202_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

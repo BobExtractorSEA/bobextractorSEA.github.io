@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.7345111-03:00",
+  "ChangeType": "Changed",
+  "Id": "64121055",
+  "Name": "Professionalism",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/w2": {
+      "Old": "100",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "64141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64121055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": "Animations/Old/64121055_hit_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,149 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3027433-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021068",
+  "Name": "Crystal of Soul",
+  "Job": "5th (Magician)",
+  "Desc": "Imitates the power of Crystal and generates Crystal of Soul. Crystal of the Soul can activate a reaction skill.<br />The down key can use up all the crystal shards and place a Crystal of the Soul at once. Lock the command to use the skill key without the direction keys to consume all of your Crystal Fragments and place Crystals of Soul at once.<br />Craft: Javelin does not consume attackable enemy count.<br />Can't be used during Glory Wing.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Reaction: Destruction II Lv. 1 or higher</span> and <span style=\"font-weight:bold; color:orange;\">Reaction: Domination II Lv. 1 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Imitates the power of Crystal and generates Crystal of Soul. Crystal of the Soul can activate a reaction skill.<br />The Down key can use up all the crystal shards and place a Crystal of the Soul at once. <br />Activates reaction skills with Crystals of Soul. Invoke: Javelin does not consume attackable enemy numbers.<br />Cannot be used while Glory Wing is in use.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Reaction: Destruction II Lv.1 and higher</span>, <span style=\"font-weight:bold; color:orange;\">Reaction: Damage of Domination II Lv.1 and higher</span>",
+      "New": "Imitates the power of Crystal and generates Crystal of Soul. Crystal of the Soul can activate a reaction skill.<br />The down key can use up all the crystal shards and place a Crystal of the Soul at once. Lock the command to use the skill key without the direction keys to consume all of your Crystal Fragments and place Crystals of Soul at once.<br />Craft: Javelin does not consume attackable enemy count.<br />Can't be used during Glory Wing.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Reaction: Destruction II Lv. 1 or higher</span> and <span style=\"font-weight:bold; color:orange;\">Reaction: Domination II Lv. 1 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "illium/M/24",
+      "New": "illium/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "illium/M/25",
+      "New": "illium/M/25"
+    },
+    "voice/male/path/2": {
+      "Old": "illium/M/26",
+      "New": "illium/M/26"
+    },
+    "voice/male/path/3": {
+      "Old": "illium/M/27",
+      "New": "illium/M/27"
+    },
+    "voice/male/path/4": {
+      "Old": "illium/M/28",
+      "New": "illium/M/28"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/24",
+      "New": "illium/F/24"
+    },
+    "voice/female/path/1": {
+      "Old": "illium/F/25",
+      "New": "illium/F/25"
+    },
+    "voice/female/path/2": {
+      "Old": "illium/F/26",
+      "New": "illium/F/26"
+    },
+    "voice/female/path/3": {
+      "Old": "illium/F/27",
+      "New": "illium/F/27"
+    },
+    "voice/female/path/4": {
+      "Old": "illium/F/28",
+      "New": "illium/F/28"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021068_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021068_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

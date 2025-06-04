@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.206756-03:00",
+  "ChangeType": "Added",
+  "Id": "80003850",
+  "Name": "Bifrost",
+  "Job": "Etc",
+  "Desc": "Open Bifrost to create a portal to a Shadowland for a while. Can't move to Shadowlands occupied by other players. The cooldown is shared by the party and starts after the portal is used.<br />Can be used with the <span style=\"font-weight:bold; color:orange;\">NPC/Collect hotkey</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "common/time": "10",
+    "common/cooltime": "10",
+    "effect0/z": "-1",
+    "fixLevel": "1",
+    "invisible": "1",
+    "id": "80003850"
+  },
+  "HFields": {
+    "h1": "Creates a portal to a Shadowland for 10 sec.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003850_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80003850_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/80003850_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8969812-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001273",
+  "Name": "Goat Commando Attack",
+  "Job": "Etc",
+  "Desc": "Xerxes' Goat Commando dashes. Xerxes summoned by the power of Soul Weapon attacks the front with his Goat Commando.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001273_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

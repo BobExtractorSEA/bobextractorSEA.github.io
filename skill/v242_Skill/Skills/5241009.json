@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2722302-03:00",
+  "ChangeType": "Added",
+  "Id": "5241009",
+  "Name": "Sign of Bombard VI",
+  "Job": "Corsair",
+  "Desc": "Places the Captain's Mark to direct the Battleship Bomber and Siege Bomber where to bomb. Installed mark will disappear if you press the [Down] arrow key.<br />In Auto Use Mode, Sign of Bombard is installed every time Parrotargetting hits in a hit location.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Sign of Bombard Lv. 15 or higher and Ahoy Mateys Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -330,
+      "y": -350
+    },
+    "rb": {
+      "x": 330,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "35",
+    "req/5220019": "15",
+    "req/5221029": "15",
+    "action/0": "6thBombardSign",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+u(x/4)",
+    "common/time": "64",
+    "common/cooltime": "1",
+    "common/lt/x": -330,
+    "common/lt/y": -350,
+    "common/rb/x": 330,
+    "common/rb/y": 90,
+    "weapon": "49",
+    "showSummonedBuffIcon": "2",
+    "footholdInstallSummoned": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "isSequenceOn": "1",
+    "id": "5241009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 48. Installed for 64 sec. Up to 1 can be installed at the same time.<br />Battleship Bomber and Siege Bomber auto-bomb enemies around the marker, prioritizing Parrotargetting targets. If no Parrotargetting target is available, they attack Boss monsters first."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241009_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

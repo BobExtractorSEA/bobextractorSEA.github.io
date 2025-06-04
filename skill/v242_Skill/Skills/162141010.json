@@ -1,0 +1,247 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2398553-03:00",
+  "ChangeType": "Added",
+  "Id": "162141010",
+  "Name": "Dragon Vein Absorption VI",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />Absorbs the power dormant in the Dragon Vein by consuming the nearby Dragon Vein. As the power matching the Dragon Vein's element gets absorbed into Lara, the Nature Spirits of the absorbed element appear when Spirit Sprinkling or Waking Up hits to help Lara. <span style=\"font-weight:bold; color:orange;\">If an Eruption Skill of the same element is activated while an Absorption Skill is already live, the original Absorption Skill ends.</span> Absorption Skills prioritize free Dragon Veins. If there are no free Dragon Veins, the skill consumes the closest Dragon Vein first. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Stance 100% is applied. Also, permanently increases the Final Damage of the Eruption VI skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Absorption: River Puddle Shower Power, Absorption: Sound of Wind, and Absorption: Sunlight Bud Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -350,
+      "y": -180
+    },
+    "rb": {
+      "x": 80,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "req/162120002": "30",
+    "req/162120005": "30",
+    "req/162120008": "30",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+d(x/2)",
+    "common/u": "180",
+    "common/x": "270",
+    "common/w": "270",
+    "common/range": "330",
+    "common/mdR": "5+u(x/2)",
+    "common/cooltimeMS": "300",
+    "common/lt/x": -350,
+    "common/lt/y": -180,
+    "common/rb/x": 80,
+    "common/rb/y": 150,
+    "actionList/0": "HY16212artificialEarthVein",
+    "skillList/0": "400021000",
+    "effect/z": "2",
+    "effect0/z": "-1",
+    "special1/z": "-1",
+    "special3/z": "-1",
+    "special7/z": "-1",
+    "special5/z": "-1",
+    "special9/z": "-1",
+    "special11/z": "-1",
+    "special13/z": "-1",
+    "weapon": "37",
+    "subWeapon": "35",
+    "processtype": "-1",
+    "psd": "1",
+    "id": "162141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = lara/M/38 }",
+    "voice/male/path/1": "{ Old = , New = lara/M/39 }",
+    "voice/male/path/2": "{ Old = , New = lara/M/40 }",
+    "voice/male/path/3": "{ Old = , New = lara/M/41 }",
+    "voice/male/path/4": "{ Old = , New = lara/M/42 }",
+    "voice/male/path/5": "{ Old = , New = lara/M/43 }",
+    "voice/female/path/0": "{ Old = , New = lara/F/49 }",
+    "voice/female/path/1": "{ Old = , New = lara/F/50 }",
+    "voice/female/path/2": "{ Old = , New = lara/F/51 }",
+    "voice/female/path/3": "{ Old = , New = lara/F/52 }",
+    "voice/female/path/4": "{ Old = , New = lara/F/53 }",
+    "voice/female/path/5": "{ Old = , New = lara/F/54 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Activates the appropriate Absorption skill for the Dragon Vein element.<br />Cooldown: 300 sec.<br />[Passive Effects: Eruption VI Final Damage +20%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/162141010_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/162141010_effect0_new.webp"
+    },
+    "specialAffected": {
+      "Old": null,
+      "New": "Animations/New/162141010_specialAffected_new.webp"
+    },
+    "specialAffected1": {
+      "Old": null,
+      "New": "Animations/New/162141010_specialAffected1_new.webp"
+    },
+    "specialAffected2": {
+      "Old": null,
+      "New": "Animations/New/162141010_specialAffected2_new.webp"
+    },
+    "specialAffected3": {
+      "Old": null,
+      "New": "Animations/New/162141010_specialAffected3_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/162141010_special_new.webp"
+    },
+    "special1": {
+      "Old": null,
+      "New": "Animations/New/162141010_special1_new.webp"
+    },
+    "special2": {
+      "Old": null,
+      "New": "Animations/New/162141010_special2_new.webp"
+    },
+    "special3": {
+      "Old": null,
+      "New": "Animations/New/162141010_special3_new.webp"
+    },
+    "special6": {
+      "Old": null,
+      "New": "Animations/New/162141010_special6_new.webp"
+    },
+    "special7": {
+      "Old": null,
+      "New": "Animations/New/162141010_special7_new.webp"
+    },
+    "special4": {
+      "Old": null,
+      "New": "Animations/New/162141010_special4_new.webp"
+    },
+    "special5": {
+      "Old": null,
+      "New": "Animations/New/162141010_special5_new.webp"
+    },
+    "special8": {
+      "Old": null,
+      "New": "Animations/New/162141010_special8_new.webp"
+    },
+    "special9": {
+      "Old": null,
+      "New": "Animations/New/162141010_special9_new.webp"
+    },
+    "special10": {
+      "Old": null,
+      "New": "Animations/New/162141010_special10_new.webp"
+    },
+    "special11": {
+      "Old": null,
+      "New": "Animations/New/162141010_special11_new.webp"
+    },
+    "special12": {
+      "Old": null,
+      "New": "Animations/New/162141010_special12_new.webp"
+    },
+    "special13": {
+      "Old": null,
+      "New": "Animations/New/162141010_special13_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

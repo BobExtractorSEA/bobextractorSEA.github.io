@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.4014929-03:00",
+  "ChangeType": "Changed",
+  "Id": "91001023",
+  "Name": "Undeterred",
+  "Job": "Etc",
+  "Desc": "Temporarily increases Ignore Monster DEF.<br />Can't be used in Boss Battle maps.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Temporarily increases Ignore DEF.",
+      "New": "Temporarily increases Ignore Monster DEF.<br />Can't be used in Boss Battle maps."
+    },
+    "H": {
+      "Old": "Gain Ignore DEF +30% for 30 min. Cooldown: 60 min.",
+      "New": "Ignore Monster DEF +30% for 30 min. Cooldown: 5 min."
+    },
+    "h1": {
+      "Old": "Gain Ignore DEF +30% for 30 min. Cooldown: 60 min.",
+      "New": "Ignore Monster DEF +30% for 30 min. Cooldown: 5 min."
+    },
+    "common/cooltime": {
+      "Old": "3600",
+      "New": "300"
+    },
+    "common/u": {
+      "Old": "3000",
+      "New": "500"
+    }
+  },
+  "HFields": {
+    "h1": "Ignore Monster DEF +30% for 30 min. Cooldown: 5 min."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_91001023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

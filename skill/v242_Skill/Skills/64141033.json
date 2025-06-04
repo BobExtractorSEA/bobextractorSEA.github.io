@@ -1,0 +1,59 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7274138-03:00",
+  "ChangeType": "Added",
+  "Id": "64141033",
+  "Name": "Weapon Arts: Shuriken Bomb VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -240,
+      "y": -275
+    },
+    "rb": {
+      "x": 240,
+      "y": 40
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/64101002": "19",
+    "common/maxLevel": "30",
+    "common/damage": "783+17*x",
+    "common/attackCount": "3",
+    "common/mobCount": "8",
+    "common/lt/x": -240,
+    "common/lt/y": -275,
+    "common/rb/x": 240,
+    "common/rb/y": 40,
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "invisible": "1",
+    "footholdAffectedArea": "1",
+    "notResetDarkSight": "1",
+    "id": "64141033",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141033_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141033_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/64141033_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

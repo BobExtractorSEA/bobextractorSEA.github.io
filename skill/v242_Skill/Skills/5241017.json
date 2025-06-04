@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3462055-03:00",
+  "ChangeType": "Added",
+  "Id": "5241017",
+  "Name": "Strange Bomb VI",
+  "Job": "Corsair",
+  "Desc": "Throws a huge bomb, made with unknown technology, to enemies in front.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Strange Bomb Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -470,
+      "y": -540
+    },
+    "rb": {
+      "x": 70,
+      "y": 110
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/5221052": "1",
+    "action/0": "6thBigFatBoy",
+    "common/maxLevel": "30",
+    "common/mpCon": "500+3*x",
+    "common/damage": "450+5*x",
+    "common/attackCount": "12",
+    "common/mobCount": "15",
+    "common/cooltime": "15",
+    "common/lt/x": -470,
+    "common/lt/y": -540,
+    "common/rb/x": 70,
+    "common/rb/y": 110,
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "trembleEffect/delay": "330",
+    "trembleEffect/force": "7",
+    "trembleEffect/time": "450",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "applyHyper": "1",
+    "id": "5241017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 590. Attacks up to 15 enemies at 600% damage 12 time(s).<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241017_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241017_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

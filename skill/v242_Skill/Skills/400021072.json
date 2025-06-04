@@ -1,0 +1,138 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3234925-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021072",
+  "Name": "Infinite Flame Circle",
+  "Job": "5th (Magician)",
+  "Desc": "Generates an Endless Cycle of Phoenix. This is a kind of Fire Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 75 and 1 Feather of Phoenix per sec.<br />Periodically attacks up to 12 enemies at 1100% damage 8 times. Critical Rate +50% and Ignore DEF +50%.<br />1 Feather of Phoenix is generated every 12 sec. Can have up to 10 Feathers.<br />Cooldown: 2500 sec.",
+      "New": "Cost: 75 MP and 1 Feather of Phoenix per sec.<br />Periodically attacks up to 12 enemies at 1100% Damage 8 times. Additional Critical Rate: 50%. Additional Ignore Monster DEF: 50%.<br />1 Feather of Phoenix is ready every 12 sec. and up to 10 can be carried.<br />If <span style=\"font-weight:bold; color:orange;\">used while a Flame Fox is summoned</span>, Feather of Phoenix cost per sec. x2 times and skill Final Damage +100%.<br />Cooldown: 2500 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 75 and 1 Feather of Phoenix per sec.<br />Periodically attacks up to 12 enemies at 1100% damage 8 times. Critical Rate +50% and Ignore DEF +50%.<br />1 Feather of Phoenix is generated every 12 sec. Can have up to 10 Feathers.<br />Cooldown: 2500 sec.",
+      "New": "Cost: 75 MP and 1 Feather of Phoenix per sec.<br />Periodically attacks up to 12 enemies at 1100% Damage 8 times. Additional Critical Rate: 50%. Additional Ignore Monster DEF: 50%.<br />1 Feather of Phoenix is ready every 12 sec. and up to 10 can be carried.<br />If <span style=\"font-weight:bold; color:orange;\">used while a Flame Fox is summoned</span>, Feather of Phoenix cost per sec. x2 times and skill Final Damage +100%.<br />Cooldown: 2500 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/131",
+      "New": "flameWizard/M/131"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/132",
+      "New": "flameWizard/M/132"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/133",
+      "New": "flameWizard/M/133"
+    },
+    "voice/male/path/3": {
+      "Old": "flameWizard/M/58",
+      "New": "flameWizard/M/58"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/104",
+      "New": "flameWizard/F/104"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/105",
+      "New": "flameWizard/F/105"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/106",
+      "New": "flameWizard/F/106"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/107",
+      "New": "flameWizard/F/107"
+    },
+    "common/q": {
+      "Old": null,
+      "New": "2"
+    },
+    "common/q2": {
+      "Old": null,
+      "New": "100"
+    },
+    "special/pos": {
+      "Old": null,
+      "New": "2"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 75 MP and 1 Feather of Phoenix per sec.<br />Periodically attacks up to 12 enemies at 1100% Damage 8 times. Additional Critical Rate: 50%. Additional Ignore Monster DEF: 50%.<br />1 Feather of Phoenix is ready every 12 sec. and up to 10 can be carried.<br />If <span style=\"font-weight:bold; color:orange;\">used while a Flame Fox is summoned</span>, Feather of Phoenix cost per sec. x2 times and skill Final Damage +100%.<br />Cooldown: 2500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021072_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "special": {
+      "Old": null,
+      "New": "Animations/New/400021072_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021072_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

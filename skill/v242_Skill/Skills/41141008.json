@@ -1,0 +1,91 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8477153-03:00",
+  "ChangeType": "Added",
+  "Id": "41141008",
+  "Name": "Skewed Hitokiri Strike VI",
+  "Job": "Hayato",
+  "Desc": "Rushes enemies in front of you with amazing speed, slashing anything in the way with your more powerful sword.",
+  "Coordinates": {
+    "lt": {
+      "x": -365,
+      "y": -365
+    },
+    "rb": {
+      "x": 10,
+      "y": 10
+    }
+  },
+  "Fields": {
+    "effect0/z": "-1",
+    "common/maxLevel": "30",
+    "common/damage": "500",
+    "common/attackCount": "8",
+    "common/mobCount": "15",
+    "common/cooltime": "6",
+    "common/lt2/x": -400,
+    "common/lt2/y": 0,
+    "common/rb2/x": 0,
+    "common/rb2/y": 400,
+    "common/mpCon": "30+3*u(x/5)",
+    "common/lt/x": -365,
+    "common/lt/y": -365,
+    "common/rb/x": 10,
+    "common/rb/y": 10,
+    "type": "12",
+    "areaAttack": "1",
+    "pvp": "0",
+    "action/0": "6thkenjiitsen2",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "100",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/0/distance/gap": "4",
+    "rush/elem/0/distance/applyX": "1",
+    "rush/elem/0/distance/applyY": "1",
+    "rush/ignoreFoothold": "1",
+    "rush/action": "0",
+    "processtype": "-1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "22",
+    "weapon": "54",
+    "invisible": "1",
+    "combatOrders": "1",
+    "rwCancelInfo/0/skill": "400011138",
+    "rwCancelInfo/0/cancelFrame": "5",
+    "id": "41141008",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 48. Deals a critical attack on up to 15 enemies at 500% damage 8 times while moving diagonally.<br />Cooldown: 6 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_41141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/41141008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/41141008_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/41141008_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/41141008_screen_new.webp"
+    }
+  },
+  "Voices": {}
+}

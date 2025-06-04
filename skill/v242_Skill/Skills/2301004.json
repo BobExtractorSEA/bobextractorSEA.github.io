@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5674352-03:00",
+  "ChangeType": "Changed",
+  "Id": "2301004",
+  "Name": "Bless",
+  "Job": "Bishop",
+  "Desc": "Temporarily increases the ATT, MATT, and DEF of nearby party members including self. Can be stacked with all other buffs.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invincible Level 5 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Level 10 required to learn 4th Job Skill - Advanced Blessing.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/37",
+      "New": "bishop/M/37"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/39",
+      "New": "bishop/M/39"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/40",
+      "New": "bishop/M/40"
+    },
+    "voice/male/path/3": {
+      "Old": "bishop/M/42",
+      "New": "bishop/M/42"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/38",
+      "New": "bishop/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/39",
+      "New": "bishop/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/40",
+      "New": "bishop/F/40"
+    },
+    "voice/female/path/3": {
+      "Old": "bishop/F/43",
+      "New": "bishop/F/43"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2301004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2301004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

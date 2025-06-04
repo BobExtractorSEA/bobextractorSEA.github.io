@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0951079-03:00",
+  "ChangeType": "Changed",
+  "Id": "27121053",
+  "Name": "Heroic Memories",
+  "Job": "Luminous",
+  "Desc": "Remembers the oath made by the Heroes of Maple World to achieve greater damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "luminous/M/45",
+      "New": "luminous/M/45"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/46",
+      "New": "luminous/M/46"
+    },
+    "voice/male/path/2": {
+      "Old": "luminous/M/51",
+      "New": "luminous/M/51"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/42",
+      "New": "luminous/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/43",
+      "New": "luminous/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "luminous/F/47",
+      "New": "luminous/F/47"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27121053_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

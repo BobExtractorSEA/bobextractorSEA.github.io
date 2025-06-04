@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1374583-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051080",
+  "Name": "Ravenous Beast",
+  "Job": "5th (Pirate)",
+  "Desc": "Opens a passage connected to the deepest part of the abyss to call upon a hungering beast which devours all. The beast appears with a delay after the passage is opened. Using attack skills that utilize the Specter's power hastens the beast's appearance. Attacks by the Ravenous Beast do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/43",
+      "New": "ark/M/43"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/44",
+      "New": "ark/M/44"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/46",
+      "New": "ark/F/46"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/47",
+      "New": "ark/F/47"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "155141021"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "155141022"
+    },
+    "skillList/23": {
+      "Old": null,
+      "New": "155141023"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "155141025"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "155141026"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "155141027"
+    },
+    "skillList/27": {
+      "Old": null,
+      "New": "155141028"
+    },
+    "skillList/28": {
+      "Old": null,
+      "New": "155141035"
+    },
+    "skillList/29": {
+      "Old": null,
+      "New": "155141036"
+    },
+    "skillList2/8": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "skillList2/9": {
+      "Old": null,
+      "New": "155141032"
+    },
+    "skillList2/10": {
+      "Old": null,
+      "New": "155141033"
+    },
+    "skillList2/11": {
+      "Old": null,
+      "New": "155141034"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051080_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051080_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051080_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051080_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051080_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

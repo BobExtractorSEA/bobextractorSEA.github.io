@@ -1,0 +1,57 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9385937-03:00",
+  "ChangeType": "Added",
+  "Id": "4141013",
+  "Name": "Four Seasons VI",
+  "Job": "Night Lord",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -330,
+      "y": -340
+    },
+    "rb": {
+      "x": 330,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "common/maxLevel": "30",
+    "common/mobCount": "8",
+    "common/damage": "250+18*x",
+    "common/attackCount": "7",
+    "common/lt/x": -330,
+    "common/lt/y": -340,
+    "common/rb/x": 330,
+    "common/rb/y": 100,
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "27",
+    "additional_process/1": "30",
+    "additional_process/2": "35",
+    "additional_process/3": "69",
+    "additional_process/4": "77",
+    "additional_process/5": "55",
+    "processtype": "-1",
+    "invisible": "1",
+    "id": "4141013",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4141013_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

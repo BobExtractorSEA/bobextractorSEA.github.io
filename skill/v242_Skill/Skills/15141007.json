@@ -1,0 +1,229 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0629096-03:00",
+  "ChangeType": "Added",
+  "Id": "15141007",
+  "Name": "Tidal Wave VI",
+  "Job": "Thunder Breaker",
+  "Desc": "A giant God of the Sea rises to shower the enemies with its dignity. Can be chained to Thunder and all skills that don't target yourself. It can also be chained to Crashing Wave more quickly than to other skills. Not affected by COOLDOWN REDUCTION.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Tidal Wave Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -330
+    },
+    "rb": {
+      "x": 550,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/15121052": "1",
+    "action/0": "6thGodOfTheSea",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "930+15*x",
+    "common/attackCount": "7",
+    "common/mobCount": "15",
+    "common/cooltime": "45",
+    "common/lt/x": -550,
+    "common/lt/y": -330,
+    "common/rb/x": 550,
+    "common/rb/y": 300,
+    "addAttack/skill": "15001020",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skillPlus/0": "15001021",
+    "addAttack/skillPlus/1": "15101020",
+    "addAttack/skillPlus/2": "15101021",
+    "addAttack/skillPlus/3": "15111020",
+    "addAttack/skillPlus/4": "15111022",
+    "addAttack/skillPlus/5": "15121001",
+    "addAttack/skillPlus/6": "15121002",
+    "addAttack/skillPlus/7": "400051016",
+    "addAttack/skillPlus/8": "400051058",
+    "addAttack/skillPlus/9": "400051044",
+    "addAttack/skillPlus/10": "15141000",
+    "addAttack/skillPlus/11": "15141003",
+    "addAttack/skillPlus/12": "15141004",
+    "addAttack/skillPlus/13": "15141006",
+    "addAttack/skipActionFrame": "6",
+    "addAttack/type": "1",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFramePlus/15101021": "4",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "60",
+    "effectFlash/0/alpha": "20",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "60",
+    "effectFlash/1/alpha": "40",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "120",
+    "effectFlash/2/alpha": "55",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "180",
+    "effectFlash/3/alpha": "70",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "120",
+    "effectFlash/4/alpha": "90",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "120",
+    "effectFlash/5/alpha": "70",
+    "effectFlash/5/color": "ffffff",
+    "effectFlash/6/delay": "60",
+    "effectFlash/6/alpha": "50",
+    "effectFlash/6/color": "ffffff",
+    "effectFlash/7/delay": "60",
+    "effectFlash/7/alpha": "30",
+    "effectFlash/7/color": "ffffff",
+    "hit/0/randomHitOrigin": "40",
+    "notCooltimeReduce": "1",
+    "preloadEff": "1",
+    "applyHyper": "1",
+    "id": "15141007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 7,
+    "voice/female/count": 7,
+    "voice/male/path/0": "{ Old = , New = striker/M/65 }",
+    "voice/male/path/1": "{ Old = , New = striker/M/66 }",
+    "voice/male/path/2": "{ Old = , New = striker/M/67 }",
+    "voice/male/path/3": "{ Old = , New = striker/M/68 }",
+    "voice/male/path/4": "{ Old = , New = striker/M/13 }",
+    "voice/male/path/5": "{ Old = , New = striker/M/15 }",
+    "voice/male/path/6": "{ Old = , New = striker/M/16 }",
+    "voice/female/path/0": "{ Old = , New = striker/F/86 }",
+    "voice/female/path/1": "{ Old = , New = striker/F/87 }",
+    "voice/female/path/2": "{ Old = , New = striker/F/88 }",
+    "voice/female/path/3": "{ Old = , New = striker/F/89 }",
+    "voice/female/path/4": "{ Old = , New = striker/F/32 }",
+    "voice/female/path/5": "{ Old = , New = striker/F/35 }",
+    "voice/female/path/6": "{ Old = , New = striker/F/36 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Attacks up to 15 enemies at 1380% Damage 7 times. Makes you Invincible while it's cast.<br />Cooldown: 45 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_15141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/15141007_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/15141007_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/15141007_screen_new.webp"
+    }
+  },
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

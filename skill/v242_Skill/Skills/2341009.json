@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7760907-03:00",
+  "ChangeType": "Added",
+  "Id": "2341009",
+  "Name": "Genesis VI",
+  "Job": "Bishop",
+  "Desc": "Drops a pillar of divine light from the sky to deliver a powerful Holy element attack. Also, permanently makes direct Attack skills create a <span style=\"font-weight:bold; color:orange;\">chance of delivering angelic punishment</span> to enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Genesis Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -460,
+      "y": -450
+    },
+    "rb": {
+      "x": 460,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "req/2321008": "30",
+    "action/0": "6thGenesis",
+    "common/maxLevel": "30",
+    "common/mpCon": "290+4*d(x/3)",
+    "common/damage": "345+16*x",
+    "common/cr": "20",
+    "common/lt/x": -460,
+    "common/lt/y": -450,
+    "common/rb/x": 460,
+    "common/rb/y": 250,
+    "common/mobCount": "15",
+    "common/cooltime": "30",
+    "common/attackCount": "10",
+    "common/prop": "60+d(x/6)",
+    "common/x": "195+7*x",
+    "common/y": "180",
+    "effect/fix": "1",
+    "effect0/z": "-1",
+    "effect0/fix": "1",
+    "special/z": "-2",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/delayedTimeActionSpeed": "900",
+    "skillList/0": "400021000",
+    "psd": "1",
+    "weapon": "37",
+    "weapon2": "38",
+    "elemAttr": "h",
+    "id": "2341009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = bishop/M/13 }",
+    "voice/male/path/1": "{ Old = , New = bishop/M/14 }",
+    "voice/male/path/2": "{ Old = , New = bishop/M/31 }",
+    "voice/female/path/0": "{ Old = , New = bishop/F/13 }",
+    "voice/female/path/1": "{ Old = , New = bishop/F/14 }",
+    "voice/female/path/2": "{ Old = , New = bishop/F/31 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 825% Damage 10 times. Additional Critical Rate: 20%<br />Cooldown: 30 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 65% chance of delivering angelic punishment that attacks at 405% Damage.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2341009_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/2341009_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2341009_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/2341009_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341009_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

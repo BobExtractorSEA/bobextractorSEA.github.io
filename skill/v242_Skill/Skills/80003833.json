@@ -1,0 +1,33 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.109407-03:00",
+  "ChangeType": "Added",
+  "Id": "80003833",
+  "Name": "Dawnlight Illusion: Authentic Force",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Authentic Force</span>.<br /><br />Only applies after completing <span style=\"font-weight:bold; color:orange;\">Another Power: Authentic Force</span> quest after the 6th Job Advancement.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "6",
+    "common/autX": "10*x",
+    "invisible": "1",
+    "disable": "1",
+    "psd": "1",
+    "type": "50",
+    "invisibleEvenSkillLevel": "1",
+    "notCanceled": "1",
+    "id": "80003833"
+  },
+  "HFields": {
+    "h1": "Authentic Force +60"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003833_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

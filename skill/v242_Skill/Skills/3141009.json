@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1964942-03:00",
+  "ChangeType": "Added",
+  "Id": "3141009",
+  "Name": "Extra Quiver Cartridge",
+  "Job": "Bowmaster",
+  "Desc": "Expands the quiver cartridge to load special arrowheads. When you use an arrow from the Quiver Cartridge, special arrowheads are loaded into another Quiver Cartridge that is not currently in use.<br />Using an Extra Quiver Cartridge fires the loaded special arrowhead on a direct Attack skill hit.<br />In Auto Use mode, the skill is automatically used when the total number of loaded arrows in all cartridges is equal to or greater than a certain number.<br />Extra Quiver Cartridges can be used during skills, and can't be loaded with special arrowheads while in use.<br />Special arrowheads do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Advanced Quiver Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/3120022": "10",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+3*x",
+    "common/time": "30",
+    "common/cooltime": "30",
+    "common/s": "580+24*x",
+    "common/w": "50",
+    "common/w2": "50",
+    "skillList/0": "3100001",
+    "skillList/1": "3120008",
+    "skillList/2": "95001000",
+    "skillList/3": "95001016",
+    "skillList/4": "3140010",
+    "skillList/5": "3140011",
+    "effect0/z": "-1",
+    "processtype": "6",
+    "additional_process/0": "22",
+    "additional_process/1": "23",
+    "additional_process/2": "27",
+    "notRemoved": "1",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "isBeneficial": "1",
+    "weapon": "45",
+    "id": "3141009",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 120. Additionally enables special arrowheads for 30 sec. Ends automatically when arrowheads are exhausted.<br /><span style=\"font-weight:bold; color:orange;\">Special Arrows</span>: Attack at 1300% Damage. Up to 50 can be charged per Quiver Cartridge.<br />In Auto Use mode, Extra Quiver Cartridge is automatically activated when the total number of loaded arrows in all cartridges is equal to or greater than 50.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3141009_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/3141009_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

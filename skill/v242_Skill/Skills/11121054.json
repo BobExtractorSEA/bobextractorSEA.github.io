@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9630045-03:00",
+  "ChangeType": "Changed",
+  "Id": "11121054",
+  "Name": "Cosmic Forge",
+  "Job": "Dawn Warrior",
+  "Desc": "Sharpens the blade with celestial energy to temporarily maximize combat ability and handle even more cosmic orbs at once. Not affected by cooldown reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Element Infusion: Soul Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/20",
+      "New": "soulMaster/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/21",
+      "New": "soulMaster/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/20",
+      "New": "soulMaster/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/21",
+      "New": "soulMaster/F/21"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

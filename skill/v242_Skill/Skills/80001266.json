@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.8548073-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001266",
+  "Name": "Flame Empress",
+  "Job": "Etc",
+  "Desc": "The grandeur of Cygnus unfolds like a flame. Cygnus summoned by the power of Soul Weapon starts hot attacks to the monsters in the vicinity.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001266_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.9599054-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011028",
+  "Name": "Vulcan Punch",
+  "Job": "5th (Warrior)",
+  "Desc": "Rapidly releases countless punches in front. While in use, this skill activates Guard, protecting you against the Knockback effect from enemy attacks and avoids Critical Abnormal Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "425+17*x",
+      "New": "500+20*x"
+    },
+    "common/w": {
+      "Old": "500+20*x",
+      "New": "600+24*x"
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/38",
+      "New": "blaster/M/38"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/39",
+      "New": "blaster/M/39"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/40",
+      "New": "blaster/M/40"
+    },
+    "voice/male/path/3": {
+      "Old": "blaster/M/52",
+      "New": "blaster/M/52"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/45",
+      "New": "blaster/F/45"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/46",
+      "New": "blaster/F/46"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/47",
+      "New": "blaster/F/47"
+    },
+    "voice/female/path/3": {
+      "Old": "blaster/F/19",
+      "New": "blaster/F/19"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011028_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

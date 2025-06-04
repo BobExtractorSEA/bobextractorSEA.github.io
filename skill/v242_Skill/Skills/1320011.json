@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.6569482-03:00",
+  "ChangeType": "Changed",
+  "Id": "1320011",
+  "Name": "Beholder's Revenge",
+  "Job": "Dark Knight",
+  "Desc": "The Beholder counterattacks the enemy. The Beholder marks the Revenge Stigma on the enemies, inflicting damage on them whom the Dark Knight directly attacks at regular intervals.<br />In addition, the Beholder Shock is reinforced by connecting more deeply with the Beholder.<br />The Beholder's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Beholder Shock II Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "The Beholder counterattacks the enemy. The Beholder marks the Revenge Stigma on the enemies, inflicting damage on them whom the Dark Knight directly attacks at regular intervals. In addition, the Beholder Shock is reinforced by connecting more deeply with the Beholder.<br />The Beholder's attacks do not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Beholder Shock II or higher</span>",
+      "New": "The Beholder counterattacks the enemy. The Beholder marks the Revenge Stigma on the enemies, inflicting damage on them whom the Dark Knight directly attacks at regular intervals.<br />In addition, the Beholder Shock is reinforced by connecting more deeply with the Beholder.<br />The Beholder's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Beholder Shock II Lv. 20 or higher</span>"
+    },
+    "H": {
+      "Old": "Attacks 10 enemies at 309% Damage 7 times after the Dark Knight attacks them directly.<br />Cooldown: 5 sec.<br /><span style=\"font-weight:bold; color:orange;\">Beholder Shock III</span>: Attacks up to 10 enemies at 630% Damage 7 times, and shoots condensed Dark Aura x4 to attack up to 3 enemies additionally at 423% Damage 5 times.<br />Cooldown: 10 sec.",
+      "New": "Attacks up to 10 enemies at 309% Damage 7 times after the Dark Knight attacks them directly.<br />Cooldown: 5 sec.<br /><span style=\"font-weight:bold; color:orange;\">Beholder Shock III</span>: Attacks up to 10 enemies at 630% Damage 7 times, and shoots condensed Dark Aura x4 to attack up to 3 enemies additionally at 423% Damage 5 times.<br />Cooldown: 10 sec."
+    },
+    "h1": {
+      "Old": "Attacks 10 enemies at 309% Damage 7 times after the Dark Knight attacks them directly.<br />Cooldown: 5 sec.<br /><span style=\"font-weight:bold; color:orange;\">Beholder Shock III</span>: Attacks up to 10 enemies at 630% Damage 7 times, and shoots condensed Dark Aura x4 to attack up to 3 enemies additionally at 423% Damage 5 times.<br />Cooldown: 10 sec.",
+      "New": "Attacks up to 10 enemies at 309% Damage 7 times after the Dark Knight attacks them directly.<br />Cooldown: 5 sec.<br /><span style=\"font-weight:bold; color:orange;\">Beholder Shock III</span>: Attacks up to 10 enemies at 630% Damage 7 times, and shoots condensed Dark Aura x4 to attack up to 3 enemies additionally at 423% Damage 5 times.<br />Cooldown: 10 sec."
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "1340004"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Attacks up to 10 enemies at 309% Damage 7 times after the Dark Knight attacks them directly.<br />Cooldown: 5 sec.<br /><span style=\"font-weight:bold; color:orange;\">Beholder Shock III</span>: Attacks up to 10 enemies at 630% Damage 7 times, and shoots condensed Dark Aura x4 to attack up to 3 enemies additionally at 423% Damage 5 times.<br />Cooldown: 10 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1320011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

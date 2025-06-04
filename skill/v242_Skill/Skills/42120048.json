@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6547928-03:00",
+  "ChangeType": "Changed",
+  "Id": "42120048",
+  "Name": "Bellflower Barrier - Spread",
+  "Job": "Kanna",
+  "Desc": "Decreases Bellflower Barrier cooldown.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/coolTimeR": {
+      "Old": "80",
+      "New": "40"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42120048_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

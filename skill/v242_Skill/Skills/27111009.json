@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0540727-03:00",
+  "ChangeType": "Changed",
+  "Id": "27111009",
+  "Name": "Equilibrium Liberation",
+  "Job": "Luminous",
+  "Desc": "Harnesses the power of light and darkness at your will. Enables you to enter Equilibrium mode when Light and Dark are full, and triggers Equilibrium when you use Equilibrium Liberation. Light/Dark magic increases Light and Dark even without hitting enemies.<br />In Auto Use mode, you can also use the Equilibrium skills, The Gate of Truth, Punishing Resonator, and Equinox Exorcism to enter Equilibrium mode when Light and Dark are full.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "skillList/10": {
+      "Old": null,
+      "New": "27121315"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "27141009"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27111009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

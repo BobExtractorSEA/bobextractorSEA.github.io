@@ -1,0 +1,116 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2294989-03:00",
+  "ChangeType": "Changed",
+  "Id": "151101003",
+  "Name": "Resonance",
+  "Job": "Adele",
+  "Desc": "Creates a broad sword made of magic to resonate with an Ether Crystal and charge towards the crystal. Swords can be sent flying towards the nearest crystal in <span style=\"font-weight:bold; color:orange;\">8 directions</span> by using the skill with the directional keys.<br />Can only be used with an Ether Crystal in range or chained with Impale.<br />Linking with Impale reduces the creation time of the Broad Sword and charges towards the direction of the Ether Sword.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Impale of above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn Marker.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 502% DAMAGE 6 times.<br />Casts a buff that increases FINAL DAMAGE +10% and IGNORE DEF +10% for 30 sec. on hit.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 105% Damage 6 times.<br />Casts a buff that increases Final Damage +10% and Ignore DEF +10% for 30 sec. on hit."
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 502% DAMAGE 6 times.<br />Casts a buff that increases FINAL DAMAGE +10% and IGNORE DEF +10% for 30 sec. on hit.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 105% Damage 6 times.<br />Casts a buff that increases Final Damage +10% and Ignore DEF +10% for 30 sec. on hit."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "462+4*x",
+      "New": "75+3*x"
+    },
+    "morph": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "pvp": {
+      "Old": "0",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/8",
+      "New": "adele/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/9",
+      "New": "adele/M/9"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/10",
+      "New": "adele/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/7",
+      "New": "adele/F/7"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/8",
+      "New": "adele/F/8"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 105% Damage 6 times.<br />Casts a buff that increases Final Damage +10% and Ignore DEF +10% for 30 sec. on hit."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151101003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7891504-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041074",
+  "Name": "Chain Nirvana",
+  "Job": "5th (Thief)",
+  "Desc": "Allows the use of an additional enhanced attack with maximum weapon mastery. Chain Nirvana does not affect enemies in the Damage Reflection status and Dark Sight isn't be released. Cooldown is reduced when specific attack skills hit.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Variation III Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cadena/M/33",
+      "New": "cadena/M/33"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/34",
+      "New": "cadena/M/34"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/35",
+      "New": "cadena/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/34",
+      "New": "cadena/F/34"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/35",
+      "New": "cadena/F/35"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/36",
+      "New": "cadena/F/36"
+    },
+    "skillList/11": {
+      "Old": null,
+      "New": "64141013"
+    },
+    "skillList/12": {
+      "Old": null,
+      "New": "64141014"
+    },
+    "skillList/13": {
+      "Old": null,
+      "New": "64141015"
+    },
+    "skillList/14": {
+      "Old": null,
+      "New": "64141016"
+    },
+    "skillList/15": {
+      "Old": null,
+      "New": "64141017"
+    },
+    "skillList/16": {
+      "Old": null,
+      "New": "64141018"
+    },
+    "skillList/17": {
+      "Old": null,
+      "New": "64141019"
+    },
+    "skillList/18": {
+      "Old": null,
+      "New": "64141020"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "64141021"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041074_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041074_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

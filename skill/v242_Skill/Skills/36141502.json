@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4087926-03:00",
+  "ChangeType": "Changed",
+  "Id": "36141502",
+  "Name": "High Altitude Flight",
+  "Job": "Xenon",
+  "Desc": "Activate the booster to fly freely for a certain duration. While in Evolution state, it is enhanced, allowing the use of some buffs and attack skills, and it increases flight speed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/28": {
+      "Old": null,
+      "New": "36141012"
+    },
+    "skillList/29": {
+      "Old": null,
+      "New": "36141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36141502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8040754-03:00",
+  "ChangeType": "Changed",
+  "Id": "14121052",
+  "Name": "Dominion",
+  "Job": "Night Walker",
+  "Desc": "Maximize the power of darkness to make it part of your domain. This is a kind of Darkness Element attack.<br /><span style=\"font-weight:bold; color:orange;\">Gray Effect On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "350",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "860",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "7",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/23",
+      "New": "nightWalker/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/24",
+      "New": "nightWalker/M/24"
+    },
+    "voice/male/path/2": {
+      "Old": "nightWalker/M/25",
+      "New": "nightWalker/M/25"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/23",
+      "New": "nightWalker/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/24",
+      "New": "nightWalker/F/24"
+    },
+    "voice/female/path/2": {
+      "Old": "nightWalker/F/25",
+      "New": "nightWalker/F/25"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "14141018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

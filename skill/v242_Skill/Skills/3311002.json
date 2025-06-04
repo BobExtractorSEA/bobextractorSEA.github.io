@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.8190368-03:00",
+  "ChangeType": "Changed",
+  "Id": "3311002",
+  "Name": "Cardinal Transition",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cardinal Force]</span><br />An archery skill used on the move. By activating the Swift Wind stored in the weapon, you quickly move to the target location and swing the weapon at the arrival point to attack surrounding enemies.<br />You can move the character forward or upward by using the directional keys during skill cast. If you do not specify a direction, you will swing the weapon in place.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th skill, Advanced Cardinal Force</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Cost: 20 MP and 1 Swift Wind.<br />Attacks up to 6 enemies at the arrival point at 400% damage, 5 times.<br />Swift Wind recharges every sec. 7 and up to 5 can be stored.",
+      "New": "Cost: 20 MP and 1 Swift Wind.<br />Attacks up to 6 enemies around the arrival point at 400% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored."
+    },
+    "h1": {
+      "Old": "Cost: 20 MP and 1 Swift Wind.<br />Attacks up to 6 enemies at the arrival point at 400% damage, 5 times.<br />Swift Wind recharges every sec. 7 and up to 5 can be stored.",
+      "New": "Cost: 20 MP and 1 Swift Wind.<br />Attacks up to 6 enemies around the arrival point at 400% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored."
+    },
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/6",
+      "New": "pathfinder/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/7",
+      "New": "pathfinder/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/38",
+      "New": "pathfinder/M/38"
+    },
+    "voice/male/path/3": {
+      "Old": "pathfinder/M/40",
+      "New": "pathfinder/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/6",
+      "New": "pathfinder/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/7",
+      "New": "pathfinder/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/38",
+      "New": "pathfinder/F/38"
+    },
+    "voice/female/path/3": {
+      "Old": "pathfinder/F/41",
+      "New": "pathfinder/F/41"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Cost: 20 MP and 1 Swift Wind.<br />Attacks up to 6 enemies around the arrival point at 400% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3311002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3311002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

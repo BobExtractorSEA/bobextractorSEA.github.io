@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.9993052-03:00",
+  "ChangeType": "Added",
+  "Id": "80000858",
+  "Name": "Animal Cupcake Lv.2",
+  "Job": "Etc",
+  "Desc": "The power of the sweet cupcake increases ATT/MATT by 7.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "invisible": "1",
+    "setItemPartsCount": "2",
+    "setItemReason": "1000",
+    "disable": "1",
+    "type": "50",
+    "magicSteal": "1",
+    "common/padX": "7",
+    "common/madX": "7",
+    "common/maxLevel": "1",
+    "psd": "1",
+    "petPassive": "1",
+    "id": "80000858"
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">ATT +7, MATT +7</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80000858_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

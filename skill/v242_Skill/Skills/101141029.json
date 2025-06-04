@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5232729-03:00",
+  "ChangeType": "Added",
+  "Id": "101141029",
+  "Name": "Moon Strike VI",
+  "Job": "Zero",
+  "Desc": "Draws enemies closer with a brutal attack. Certain monsters are able to resist the pull.<br />Becomes more proficient at Transcendence, increasing the Damage of Wind Cutter, Wind Strike, and Storm Break.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shadow Strike Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -330,
+      "y": -150
+    },
+    "rb": {
+      "x": 150,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/101000201": "10",
+    "action/0": "6thMoonStrike",
+    "common/maxLevel": "30",
+    "common/forceCon": "3",
+    "common/damage": "131+2*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/x": "150",
+    "common/lt/x": -330,
+    "common/lt/y": -150,
+    "common/rb/x": 150,
+    "common/rb/y": 90,
+    "common/u": "x",
+    "common/u2": "x",
+    "common/v": "x",
+    "common/w": "2*x",
+    "common/w2": "2*x",
+    "common/damPlus": "2*x",
+    "addAttack/skill": "101141030",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFrame": "4",
+    "addAttack/toolTipDesc": "1",
+    "addAttack/toolTipDescSkill": "101141030",
+    "assistSkillLink/skill": "101001100",
+    "cancleType/0": "1",
+    "hit/0/randomHitOriginX": "45",
+    "hit/0/randomHitOriginY": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "57",
+    "skillList/0": "400011000",
+    "psd": "1",
+    "id": "101141029",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "10",
+    "voice/male/count": 5,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = zero/M/36 }",
+    "voice/male/path/1": "{ Old = , New = zero/M/37 }",
+    "voice/male/path/2": "{ Old = , New = zero/M/0 }",
+    "voice/male/path/3": "{ Old = , New = zero/M/1 }",
+    "voice/male/path/4": "{ Old = , New = zero/M/2 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 3. Attacks up to 8 enemies at 191% Damage 6 times.<br />[Passive Effects: Wind Cutter VI Damage +30%p, Wind Cutter VI twister Damage +30%p, Wind Strike Damage +30%p, Storm Break VI Damage +60%p, Storm Break VI twister Damage +60%p, and Storm Break VI electric field Damage +60%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141029_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141029_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141029_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141029_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141029_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141029_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141029_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141029_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

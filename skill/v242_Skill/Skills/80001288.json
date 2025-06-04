@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.9574089-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001288",
+  "Name": "Floating Balloon Riding",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Float high in the air on a balloon at <span style=\"font-weight:bold; color:orange;\">a slightly faster speed</span>.<br />Travel by riding a Floating Balloon.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />fly the sky on a floating ballon in <span style=\"font-weight:bold; color:orange;\">a bit faster speed</span>. <span style=\"font-weight:bold; color:orange;\">Double click the desired destination on the world map</span> and automatically fly to the designated location via navigation. (Auto pilot is available only in some continents including victoria island. <span style=\"font-weight:bold; color:orange;\">Purchase flight permit from Instructor Irvin</span> and expand the number of continents available for smart riding.)",
+      "New": "[Master Level: 1]<br />Float high in the air on a balloon at <span style=\"font-weight:bold; color:orange;\">a slightly faster speed</span>.<br />Travel by riding a Floating Balloon."
+    },
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001288_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

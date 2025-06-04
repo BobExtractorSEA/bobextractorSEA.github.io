@@ -1,0 +1,184 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.2172688-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121054",
+  "Name": "Phoenix Drive",
+  "Job": "Blaze Wizard",
+  "Desc": "All of the flame flowing within the caster is unleashed for a brief duration, bombarding a single target in front, to be followed by a final, focused blow.<br /><span style=\"font-weight:bold; color:orange;\">Attack varies based on the Fire Essence summoned.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Orbital Flame IV Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. For 15 sec, enhances Orbital Flame<br />[Fire Lion]: Attacks up to 8 enemies at 315% damage 2 times with 3 attacking flames. When multiple flames attack a single monster, starting with the second flame, decreases Final Damage by 50%, and increases damage against normal monsters by 40%<br />[Flame Fox]: Attacks up to 8 enemies at 450% damage 2 times with 4 attacking flames. When multiple flames attack a single monster, starting with the second flame, decreases Final Damage by -50%<br />Cooldown: 90 sec",
+      "New": "MP Cost: 300. Enhances Orbital Flame I for 15 sec.<br /><span style=\"font-weight:bold; color:orange;\">Fire Lion</span>: Fires 3 flames that attack up to 8 enemies at 315% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. Normal Monster Damage +40%<br /><span style=\"font-weight:bold; color:orange;\">Flame Fox</span>: Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. <br />Cooldown: 90 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 300. For 15 sec, enhances Orbital Flame<br />[Fire Lion]: Attacks up to 8 enemies at 315% damage 2 times with 3 attacking flames. When multiple flames attack a single monster, starting with the second flame, decreases Final Damage by 50%, and increases damage against normal monsters by 40%<br />[Flame Fox]: Attacks up to 8 enemies at 450% damage 2 times with 4 attacking flames. When multiple flames attack a single monster, starting with the second flame, decreases Final Damage by -50%<br />Cooldown: 90 sec",
+      "New": "MP Cost: 300. Enhances Orbital Flame I for 15 sec.<br /><span style=\"font-weight:bold; color:orange;\">Fire Lion</span>: Fires 3 flames that attack up to 8 enemies at 315% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. Normal Monster Damage +40%<br /><span style=\"font-weight:bold; color:orange;\">Flame Fox</span>: Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. <br />Cooldown: 90 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "500",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90",
+      "New": null
+    },
+    "PVPcommon/MDamageOver": {
+      "Old": "9999999",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/120",
+      "New": "flameWizard/M/120"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/121",
+      "New": "flameWizard/M/121"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/24",
+      "New": "flameWizard/M/24"
+    },
+    "voice/male/path/3": {
+      "Old": "flameWizard/M/53",
+      "New": "flameWizard/M/53"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/92",
+      "New": "flameWizard/F/92"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/93",
+      "New": "flameWizard/F/93"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/46",
+      "New": "flameWizard/F/46"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/45",
+      "New": "flameWizard/F/45"
+    },
+    "voice/female/path/4": {
+      "Old": "flameWizard/F/53",
+      "New": "flameWizard/F/53"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Enhances Orbital Flame I for 15 sec.<br /><span style=\"font-weight:bold; color:orange;\">Fire Lion</span>: Fires 3 flames that attack up to 8 enemies at 315% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. Normal Monster Damage +40%<br /><span style=\"font-weight:bold; color:orange;\">Flame Fox</span>: Fires 4 flames that attack up to 8 enemies at 450% Damage 2 times. If multiple flames attack a single enemy, Final Damage -50% for each subsequent flame after the first one. <br />Cooldown: 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

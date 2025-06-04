@@ -1,0 +1,201 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.7280355-03:00",
+  "ChangeType": "Changed",
+  "Id": "3301003",
+  "Name": "Cardinal Blast",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cardinal Force]</span><br />Fires an arrow concentrated with explosive energy that flies straight forward. The fired arrow explodes when it touches the enemy or when it reaches the maximum range. <br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 3rd skill, Cardinal Blast Enhancement</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/2",
+      "New": "pathfinder/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/3",
+      "New": "pathfinder/M/3"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/41",
+      "New": "pathfinder/M/41"
+    },
+    "voice/male/path/3": {
+      "Old": "pathfinder/M/42",
+      "New": "pathfinder/M/42"
+    },
+    "voice/male/path/4": {
+      "Old": "pathfinder/M/46",
+      "New": "pathfinder/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/2",
+      "New": "pathfinder/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/3",
+      "New": "pathfinder/F/3"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/37",
+      "New": "pathfinder/F/37"
+    },
+    "voice/female/path/3": {
+      "Old": "pathfinder/F/41",
+      "New": "pathfinder/F/41"
+    },
+    "voice/female/path/4": {
+      "Old": "pathfinder/F/45",
+      "New": "pathfinder/F/45"
+    },
+    "cancelableSkillID/34": {
+      "Old": null,
+      "New": "3341006"
+    },
+    "cancelableSkillID/35": {
+      "Old": null,
+      "New": "3341007"
+    },
+    "cancelableSkillID/36": {
+      "Old": null,
+      "New": "3341008"
+    },
+    "cancelableSkillID/37": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "cancelableSkillID/38": {
+      "Old": null,
+      "New": "3341011"
+    },
+    "cancelableSkillID/39": {
+      "Old": null,
+      "New": "3341012"
+    },
+    "cancelableSkillID/40": {
+      "Old": null,
+      "New": "3341013"
+    },
+    "cancelableSkillID/41": {
+      "Old": null,
+      "New": "3341014"
+    },
+    "cancelableSkillID/42": {
+      "Old": null,
+      "New": "3341015"
+    },
+    "cancelableSkillID/43": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "cancelableSkillID/44": {
+      "Old": null,
+      "New": "3341017"
+    },
+    "cancelableSkillID/45": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "cancelableSkillID/46": {
+      "Old": null,
+      "New": "3341019"
+    },
+    "cancelableSkillID/47": {
+      "Old": null,
+      "New": "3341020"
+    },
+    "cancelableSkillID/48": {
+      "Old": null,
+      "New": "3341021"
+    },
+    "cancelableSkillID/49": {
+      "Old": null,
+      "New": "3341022"
+    },
+    "cancelableSkillID/50": {
+      "Old": null,
+      "New": "3341023"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3301003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3301003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

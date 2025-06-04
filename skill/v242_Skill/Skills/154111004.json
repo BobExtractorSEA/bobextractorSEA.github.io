@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7117461-03:00",
+  "ChangeType": "Changed",
+  "Id": "154111004",
+  "Name": "Void Rush",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Void]</span><br />Move quickly in one direction until only your afterimages are visible. Can be used in the left or right direction. Use with an arrow key to move in that direction. Void Rush is not affected by Cooldown Reset effects.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 2nd skill, Insanity I.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "khali/M/86",
+      "New": "khali/M/86"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/88",
+      "New": "khali/M/88"
+    },
+    "voice/male/path/2": {
+      "Old": "khali/M/92",
+      "New": "khali/M/92"
+    },
+    "voice/male/path/3": {
+      "Old": "khali/M/89",
+      "New": "khali/M/89"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/123",
+      "New": "khali/F/123"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/126",
+      "New": "khali/F/126"
+    },
+    "voice/female/path/2": {
+      "Old": "khali/F/127",
+      "New": "khali/F/127"
+    },
+    "voice/female/path/3": {
+      "Old": "khali/F/121",
+      "New": "khali/F/121"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "skillList/6": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "154141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154111004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154111004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.279127-03:00",
+  "ChangeType": "Added",
+  "Id": "80003861",
+  "Name": "Champion Double Up Leader",
+  "Job": "Etc",
+  "Desc": "",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "common/expRPerM": "1500*x",
+    "invisible": "1",
+    "disable": "1",
+    "psd": "1",
+    "type": "50",
+    "invisibleEvenSkillLevel": "1",
+    "notCanceled": "1",
+    "id": "80003861"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003861_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

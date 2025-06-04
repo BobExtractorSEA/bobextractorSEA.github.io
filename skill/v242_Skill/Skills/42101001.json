@@ -1,0 +1,57 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4370279-03:00",
+  "ChangeType": "Changed",
+  "Id": "42101001",
+  "Name": "Shikigami Charm",
+  "Job": "Kanna",
+  "Desc": "Zips past enemies, leaving a paper charm behind. The charm draws enemies near, slowing them down. The charm explodes after 5 seconds or after using Shikigami Haunting.  Also permanently decreases incoming damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/count": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/female/count": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kanna/M/5",
+      "New": null
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/5",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42101001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": "Voices/Old/42101001_voice_M0_old.mp3",
+      "NewPath": null,
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": "Voices/Old/42101001_voice_F0_old.mp3",
+      "NewPath": null,
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": false
+    }
+  }
+}

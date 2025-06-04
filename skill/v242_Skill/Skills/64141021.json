@@ -1,0 +1,140 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7597253-03:00",
+  "ChangeType": "Added",
+  "Id": "64141021",
+  "Name": "Chain Arts: Crush VI",
+  "Job": "Cadena",
+  "Desc": "Throws out multiple chains at the enemy from the air to the ground at once to crush them. Max-stacks Weapon Variation on hit.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Chain Arts: Crush Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -550
+    },
+    "rb": {
+      "x": 400,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/type": "1",
+    "req/64121052": "1",
+    "action/0": "6thPeacock",
+    "common/maxLevel": "30",
+    "common/mpCon": "300+x",
+    "common/damage": "547+14*x",
+    "common/attackCount": "15",
+    "common/mobCount": "15",
+    "common/cooltime": "30",
+    "common/x": "15",
+    "common/lt/x": -400,
+    "common/lt/y": -550,
+    "common/rb/x": 400,
+    "common/rb/y": 80,
+    "effect0/z": "-1",
+    "hit/0/randomHitAngleRange/x": -15,
+    "hit/0/randomHitAngleRange/y": 20,
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "trembleEffectList/0/delay": "450",
+    "trembleEffectList/0/force": "9",
+    "trembleEffectList/0/time": "150",
+    "trembleEffectList/0/reduction": "1",
+    "trembleEffectList/0/remote": "0",
+    "trembleEffectList/1/delay": "0",
+    "trembleEffectList/1/force": "6",
+    "trembleEffectList/1/time": "120",
+    "trembleEffectList/1/reduction": "1",
+    "trembleEffectList/1/remote": "0",
+    "trembleEffectList/2/delay": "0",
+    "trembleEffectList/2/force": "3",
+    "trembleEffectList/2/time": "90",
+    "trembleEffectList/2/reduction": "1",
+    "trembleEffectList/2/remote": "0",
+    "processtype": "1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "id": "64141021",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = cadena/M/6 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/7 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/9 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/6 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/7 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/9 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 330. Attacks up to 15 enemies at 967% Damage 15 times.<br />Max-stacks Weapon Variation on hit and sets the duration to 15 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141021_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/64141021_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/64141021_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141021_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

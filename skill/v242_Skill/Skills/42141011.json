@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.0026136-03:00",
+  "ChangeType": "Added",
+  "Id": "42141011",
+  "Name": "Kishin Shoukan Ⅵ",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Summons the earthbound spirits, Hana and Yuki. Hana and Yuki throw orbs at each other, attacking enemies in between them. Permanently receives 10% additional EXP.<br />Required skill : <span style=\"font-weight:bold; color:orange;\">Lv.20 Kishin Shoukan</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "summon/attack1/info/range/lt/x": -290,
+    "summon/attack1/info/range/lt/y": -360,
+    "summon/attack1/info/range/rb/x": 290,
+    "summon/attack1/info/range/rb/y": 70,
+    "summon/attack1/info/mobCount": "10",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/hit/onlyOnce": "1",
+    "summon/attack1/info/hit/randomHitOrigin": "30",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/activeDelay": "1530",
+    "type": "33",
+    "action/0": "alert2",
+    "common/maxLevel": "30",
+    "common/cooltime": "30",
+    "common/epCon": "20",
+    "common/time": "6",
+    "common/damage": "550+5*x",
+    "common/attackCount": "4",
+    "common/mobCount": "10",
+    "common/expR": "10",
+    "common/attackDelay": "350",
+    "weapon": "55",
+    "psd": "1",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "skillList/0": "400021000",
+    "req/42111003": "20",
+    "additional_process/0": "7",
+    "additional_process/1": "32",
+    "additional_process/2": "33",
+    "processtype": "-1",
+    "showSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "info2/ignoreCounter": "1",
+    "id": "42141011",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = kanna/M/9 }",
+    "voice/female/path/0": "{ Old = , New = kanna/F/9 }"
+  },
+  "HFields": {
+    "h1": "Spiritual Energy Cost: 20. Summons the earthbound spirits, Hana and Yuki, for <span style=\"font-weight:bold; color:orange;\">6 seconds</span>.<br />While summoned, these two spirits shoot orbs that attack up to <span style=\"font-weight:bold; color:orange;\">10</span> enemies in between them at <span style=\"font-weight:bold; color:orange;\">700%</span> damage <span style=\"font-weight:bold; color:orange;\">4 times</span>.<br /><span style=\"font-weight:bold; color:orange;\">[Cooldown: 30 sec]</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141011_effect_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

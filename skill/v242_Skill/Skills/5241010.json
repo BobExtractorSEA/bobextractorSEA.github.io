@@ -1,0 +1,130 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2787448-03:00",
+  "ChangeType": "Added",
+  "Id": "5241010",
+  "Name": "Summon Crew VI",
+  "Job": "Corsair",
+  "Desc": "Summons a crew member of the Nautilus. The summoned member moves freely, firing bullets that track enemies, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. The member prioritizes the enemy with the highest Max HP within range.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ahoy Mateys Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "condition": "attack",
+    "summonMinion": "1",
+    "info2/ignoreCounter": "1",
+    "action/0": "6thAssembleCrew",
+    "req/5220019": "15",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+u(x/4)",
+    "common/cooltime": "45",
+    "common/x": "515+15*x",
+    "common/time": "120",
+    "common/subTime": "3000",
+    "common/speed": "150",
+    "common/z": "258+7*x",
+    "common/u": "4",
+    "common/w": "4",
+    "common/u2": "3",
+    "common/w2": "2",
+    "skillList/0": "5001002",
+    "skillList/1": "5001003",
+    "skillList/2": "5201001",
+    "skillList/3": "5201006",
+    "skillList/4": "5201018",
+    "skillList/5": "5211008",
+    "skillList/6": "5211010",
+    "skillList/7": "5221004",
+    "skillList/8": "5221016",
+    "skillList/9": "5221015",
+    "skillList/10": "5221013",
+    "skillList/11": "5221017",
+    "skillList/12": "5221026",
+    "skillList/13": "5221052",
+    "skillList/14": "400051006",
+    "skillList/15": "400051021",
+    "skillList/16": "400051040",
+    "skillList/17": "400051073",
+    "skillList/18": "5241000",
+    "skillList/19": "5241001",
+    "skillList/20": "5241500",
+    "skillList/21": "5241005",
+    "skillList/22": "5241006",
+    "skillList/23": "5241007",
+    "skillList/24": "5241008",
+    "skillList/25": "5241017",
+    "skillList/26": "5241018",
+    "repeat/z": "2",
+    "repeat0/z": "-2",
+    "summon/skill1/info/attackAfter": "480",
+    "summon/skill1/info/delay": "120",
+    "summon/activeDelay": "720",
+    "weapon": "49",
+    "showSummonedBuffIcon": "2",
+    "ignoreSpecialCore": "1",
+    "isSequenceOn": "1",
+    "id": "5241010",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "80",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = captain/M/22 }",
+    "voice/male/path/1": "{ Old = , New = captain/M/23 }",
+    "voice/female/path/0": "{ Old = , New = captain/F/24 }",
+    "voice/female/path/1": "{ Old = , New = captain/F/25 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 48. Summons 2 brave crew members to fight with you for 120 sec.<br /><span style=\"font-weight:bold; color:orange;\">Dual Pistol Crew</span>: Fires 2 bullets that attack at 965% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Sharpshooter Crew</span>: Fires a bomb that attacks up to 4 enemies at 468% Damage 4 times.<br />One of the crew members will take an Abnormal Status attack for you. That member will take no more Abnormal Status attacks for you until re-summoned.<br />Cooldown: 45 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241010_effect_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/5241010_repeat_new.webp"
+    },
+    "repeat0": {
+      "Old": null,
+      "New": "Animations/New/5241010_repeat0_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

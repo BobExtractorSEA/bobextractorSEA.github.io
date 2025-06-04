@@ -1,0 +1,189 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.452214-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121052",
+  "Name": "Tidal Wave",
+  "Job": "Thunder Breaker",
+  "Desc": "A giant God of the Sea rises to shower the enemies with its dignity. Can be linked with all skills except Thunderous Dive and itself. Can link faster with Crashing Wave. Cannot receive a Cooldown Reduction effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/65",
+      "New": "striker/M/65"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/66",
+      "New": "striker/M/66"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/67",
+      "New": "striker/M/67"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/68",
+      "New": "striker/M/68"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/13",
+      "New": "striker/M/13"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/15",
+      "New": "striker/M/15"
+    },
+    "voice/male/path/6": {
+      "Old": "striker/M/16",
+      "New": "striker/M/16"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/86",
+      "New": "striker/F/86"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/87",
+      "New": "striker/F/87"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/88",
+      "New": "striker/F/88"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/89",
+      "New": "striker/F/89"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/32",
+      "New": "striker/F/32"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/35",
+      "New": "striker/F/35"
+    },
+    "voice/female/path/6": {
+      "Old": "striker/F/36",
+      "New": "striker/F/36"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "15141007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

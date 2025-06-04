@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.8562119-03:00",
+  "ChangeType": "Added",
+  "Id": "1341008",
+  "Name": "Beholder Shock VI",
+  "Job": "Dark Knight",
+  "Desc": "The Beholder screams to bind nearby enemies and inflict damage on them. The Beholder shoots condensed Dark Aura to inflict extra damages on the enemies.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Beholder's Revenge Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -295,
+      "y": -295
+    },
+    "rb": {
+      "x": 295,
+      "y": 190
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "mes": "stun",
+    "info2/type": "1",
+    "info2/areaAttack": "1",
+    "info2/mes": "stun",
+    "info2/ignoreCounter": "1",
+    "req/1320011": "30",
+    "common/damage": "680+20*x",
+    "common/attackCount": "7",
+    "common/mobCount": "10",
+    "common/prop": "90",
+    "common/time": "5",
+    "common/cooltime": "10",
+    "common/lt/x": -295,
+    "common/lt/y": -295,
+    "common/rb/x": 295,
+    "common/rb/y": 190,
+    "common/maxLevel": "30",
+    "common/attackDelay": "360",
+    "common/z": "470+13*x",
+    "common/u": "5",
+    "common/x": "3",
+    "common/s": "37+9*x",
+    "common/v": "7+3*x/3",
+    "common/w": "15+4*x/3",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/pos": "2",
+    "mob/repeat": "1",
+    "weapon": "43",
+    "weapon2": "44",
+    "id": "1341008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = darkKnight/M/4 }",
+    "voice/male/path/1": "{ Old = , New = darkKnight/M/5 }",
+    "voice/female/path/0": "{ Old = , New = darkKnight/F/6 }",
+    "voice/female/path/1": "{ Old = , New = darkKnight/F/7 }"
+  },
+  "HFields": {
+    "h1": "The Beholder moves in front of you and attacks up to 10 enemies at 1280% Damage 7 times, with a 90% chance of Stunning them for 5 sec. on hit.<br />Shoots 4 Darkness Auras synchronously with attack to deliver 5 extra attacks against up to 3 enemies at 860% Damage.<br />Cooldown: 10 sec.<br /> <span style=\"font-weight:bold; color:orange;\">[Dark Synthesis VI] Damage +307%p</span><br /> <span style=\"font-weight:bold; color:orange;\">[Beholder's Revenge VI] Damage +37%p</span><br /> <span style=\"font-weight:bold; color:orange;\">[Beholder Punishment] Damage +55%p</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1341008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/1341008_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1341008_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/1341008_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1341008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1341008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1341008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1341008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

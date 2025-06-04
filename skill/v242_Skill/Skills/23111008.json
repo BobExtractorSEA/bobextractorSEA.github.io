@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6417191-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111008",
+  "Name": "Elemental Knights",
+  "Job": "Mercedes",
+  "Desc": "Summons one of an Ice Spirit, Fire Spirit, and Shadow Spirits to aid in battle. Can summon the spirit when hitting the attack during Elemental Knight activation. Elemental Knight attacks do not affect enemies in the Damage Reflection status. <br />Ice Spirit: Has a chance to freeze enemies.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 60. Summons 1 of the 3 Spirits for 210 sec. Up to 2 Spirits can be active at once.<br />Ice Spirit: Attacks at 435% damage with 90% chance to Freeze the target for 5 sec.<br />Fire Spirit: Attacks at 435% damage, 110% DoT every 1 sec. for 5 sec.<br />Shadow Spirit: Attacks at 548% damage.<br />Cooldown: 120 sec.",
+      "New": "Successful attacks consume 60 MP and summon 1 spirit for 210 sec. Up to 2 can be summoned.<br />Ice Spirit: Attacks at 435% Damage, with a 90% chance of Freezing the target for 5 sec.<br />Fire Spirit: Attacks at 435% Damage, with 110% DoT on the target every 1 sec. for 5 sec.<br />Shadow Spirit: Attacks at 548% Damage.<br />Re-summon Cooldown: 120 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 60. Summons 1 of the 3 Spirits for 210 sec. Up to 2 Spirits can be active at once.<br />Ice Spirit: Attacks at 435% damage with 90% chance to Freeze the target for 5 sec.<br />Fire Spirit: Attacks at 435% damage, 110% DoT every 1 sec. for 5 sec.<br />Shadow Spirit: Attacks at 548% damage.<br />Cooldown: 120 sec.",
+      "New": "Successful attacks consume 60 MP and summon 1 spirit for 210 sec. Up to 2 can be summoned.<br />Ice Spirit: Attacks at 435% Damage, with a 90% chance of Freezing the target for 5 sec.<br />Fire Spirit: Attacks at 435% Damage, with 110% DoT on the target every 1 sec. for 5 sec.<br />Shadow Spirit: Attacks at 548% Damage.<br />Re-summon Cooldown: 120 sec."
+    },
+    "common/hcSubTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mercedes/M/10",
+      "New": "mercedes/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/11",
+      "New": "mercedes/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/8",
+      "New": "mercedes/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/9",
+      "New": "mercedes/F/9"
+    },
+    "voice/female/path/2": {
+      "Old": "mercedes/F/10",
+      "New": "mercedes/F/10"
+    },
+    "voice/female/path/3": {
+      "Old": "mercedes/F/11",
+      "New": "mercedes/F/11"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "23141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Successful attacks consume 60 MP and summon 1 spirit for 210 sec. Up to 2 can be summoned.<br />Ice Spirit: Attacks at 435% Damage, with a 90% chance of Freezing the target for 5 sec.<br />Fire Spirit: Attacks at 435% Damage, with 110% DoT on the target every 1 sec. for 5 sec.<br />Shadow Spirit: Attacks at 548% Damage.<br />Re-summon Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

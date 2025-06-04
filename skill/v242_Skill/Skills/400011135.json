@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1862645-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011135",
+  "Name": "Ego Weapon",
+  "Job": "5th (Warrior)",
+  "Desc": "Your weapon attacks enemies with free will. Activates when Zero's attack skills hit. Alpha and Beta's reactivation are separate. Ego Weapon does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/33",
+      "New": "zero/F/33"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/34",
+      "New": "zero/F/34"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "101141021"
+    },
+    "skillList/34": {
+      "Old": null,
+      "New": "101141022"
+    },
+    "skillList/35": {
+      "Old": null,
+      "New": "101141026"
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "101141027"
+    },
+    "skillList/37": {
+      "Old": null,
+      "New": "101141033"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011135_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011135_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011135_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

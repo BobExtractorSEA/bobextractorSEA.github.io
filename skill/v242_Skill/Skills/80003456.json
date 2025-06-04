@@ -1,0 +1,96 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.9858548-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003456",
+  "Name": "Ano's Cooking: Grandis Daily Mission Reward",
+  "Job": "Etc",
+  "Desc": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Grandis Daily</span><br /><span style=\"font-weight:bold; color:orange;\">quests</span>. <br /><br /><span style=\"font-weight:bold; color:orange;\">The effect only applies to Daily quests in Cernium, Hotel Arcs, Odium, Shangri-La, Arteria, and Carcion</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pidoll's Special Syrup: Buff Duration",
+      "New": "Ano's Cooking: Grandis Daily Mission Reward"
+    },
+    "Desc": {
+      "Old": "Increases <span style=\"font-weight:bold; color:orange;\">Buff Duration</span>.",
+      "New": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Grandis Daily</span><br /><span style=\"font-weight:bold; color:orange;\">quests</span>. <br /><br /><span style=\"font-weight:bold; color:orange;\">The effect only applies to Daily quests in Cernium, Hotel Arcs, Odium, Shangri-La, Arteria, and Carcion</span>."
+    },
+    "H": {
+      "Old": "Buff Duration +15%",
+      "New": "Grandis Daily quest completion EXP Obtained +50% and Symbols +6"
+    },
+    "h1": {
+      "Old": "Buff Duration +15%",
+      "New": "Grandis Daily quest completion EXP Obtained +50% and Symbols +6"
+    },
+    "common/maxLevel": {
+      "Old": "3",
+      "New": "6"
+    },
+    "common/bufftimeR": {
+      "Old": "5*x",
+      "New": null
+    },
+    "level/1/authQuestR": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/1/x": {
+      "Old": null,
+      "New": "1"
+    },
+    "level/2/authQuestR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/2/x": {
+      "Old": null,
+      "New": "2"
+    },
+    "level/3/authQuestR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/3/x": {
+      "Old": null,
+      "New": "3"
+    },
+    "level/4/authQuestR": {
+      "Old": null,
+      "New": "30"
+    },
+    "level/4/x": {
+      "Old": null,
+      "New": "4"
+    },
+    "level/5/authQuestR": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/5/x": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/6/authQuestR": {
+      "Old": null,
+      "New": "50"
+    },
+    "level/6/x": {
+      "Old": null,
+      "New": "6"
+    }
+  },
+  "HFields": {
+    "h1": "Grandis Daily quest completion EXP Obtained +50% and Symbols +6"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003456_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003456_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

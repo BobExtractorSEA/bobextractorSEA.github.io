@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.6045634-03:00",
+  "ChangeType": "Added",
+  "Id": "3341023",
+  "Name": "Combo Assault VI (Transition)",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -420
+    },
+    "rb": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "req/3321014": "30",
+    "common/maxLevel": "30",
+    "common/damage": "720+9*x",
+    "common/mobCount": "10",
+    "common/attackCount": "5",
+    "common/x": "600",
+    "common/lt/x": -400,
+    "common/lt/y": -420,
+    "common/rb/x": 400,
+    "common/rb/y": 200,
+    "effect/fix": "1",
+    "effect/z": "-1",
+    "effect0/fix": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "invisible": "1",
+    "processtype": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "id": "3341023",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341023_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/3341023_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341023_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

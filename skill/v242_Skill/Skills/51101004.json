@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1641701-03:00",
+  "ChangeType": "Changed",
+  "Id": "51101004",
+  "Name": "Encourage",
+  "Job": "Mihile",
+  "Desc": "Periodically encourages allies to increase ATT of party members including yourself. Additionally increases Damage of Royal Guard 1st/2nd/3rd step's conterattacks.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 3rd Job Skill, Advanced Royal Guard</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mikhail/M/18",
+      "New": "mikhail/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/27",
+      "New": "mikhail/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/37",
+      "New": "mikhail/M/37"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/24",
+      "New": "mikhail/M/24"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_51101004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51101004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51101004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51101004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51101004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

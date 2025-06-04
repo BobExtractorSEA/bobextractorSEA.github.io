@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6118842-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031055",
+  "Name": "Piercing Cartridge",
+  "Job": "5th (Bowman)",
+  "Desc": "Uses a special cartridge that allows you to fire multiple bolts at once. Use the skill again to cast Full Burst Shot that utilizes a cartridge. Full Burst Shot is guided at your target within range and attacks the Boss monster with the highest Max HP before everyone else. Full Burst Shot casts the Focus On buff on hit.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "marksman/M/34",
+      "New": "marksman/M/34"
+    },
+    "voice/male/path/1": {
+      "Old": "marksman/M/35",
+      "New": "marksman/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/35",
+      "New": "marksman/F/35"
+    },
+    "voice/female/path/1": {
+      "Old": "marksman/F/36",
+      "New": "marksman/F/36"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031055_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031055_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031055_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031055_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

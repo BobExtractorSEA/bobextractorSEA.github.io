@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.9310866-03:00",
+  "ChangeType": "Changed",
+  "Id": "20048005",
+  "Name": "Decent Advanced Blessing",
+  "Job": "Luminous",
+  "Desc": "[Potential Skill]<br />Temporarily increases your ATT, MATT, DEF, and Max HP/MP significantly. Stacks with all Buff skills except Bless and Advanced Bless.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_20048005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

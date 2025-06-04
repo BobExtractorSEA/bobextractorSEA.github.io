@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.2702505-03:00",
+  "ChangeType": "Changed",
+  "Id": "151111005",
+  "Name": "Nobility",
+  "Job": "Adele",
+  "Desc": "Act upon the nobility to sacrifice your life for another. Receives partial damage for party members including yourself while inside the domain your created and creates a shield based on the damage.<br />This skill isn't affected by the Buff Duration Bonus effect and is immediately canceled upon using again.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 5th Advancement Skill, Restore.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Act upon the nobility to sacrifice your life for another. Receives partial damage for party members including yourself while inside the domain your created and creates a shield based on the damage.<br />This skill isn't affected by the Buff Duration increase effect and is immediately canceled upon using again.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 5th Advancement skill, Restore.</span>",
+      "New": "Act upon the nobility to sacrifice your life for another. Receives partial damage for party members including yourself while inside the domain your created and creates a shield based on the damage.<br />This skill isn't affected by the Buff Duration Bonus effect and is immediately canceled upon using again.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 5th Advancement Skill, Restore.</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 200. Creates a domain for 20 sec.<br />Receives 30% of the damage dealt to party members inside the domain in their place and creates a shield for 80% of that damage<br />You cannot receive if the damage received instead is greater than the remaining HP.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown 180 sec.</span>",
+      "New": "MP Cost: 200. Creates a domain for 20 sec.<br />Receives 30% of the damage dealt to party members inside the domain in their place and creates a shield for 80% of that damage.<br />Can't receive damage that's greater than your remaining HP.<br />Cooldown: 180 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 200. Creates a domain for 20 sec.<br />Receives 30% of the damage dealt to party members inside the domain in their place and creates a shield for 80% of that damage<br />You cannot receive if the damage received instead is greater than the remaining HP.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown 180 sec.</span>",
+      "New": "MP Cost: 200. Creates a domain for 20 sec.<br />Receives 30% of the damage dealt to party members inside the domain in their place and creates a shield for 80% of that damage.<br />Can't receive damage that's greater than your remaining HP.<br />Cooldown: 180 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/27",
+      "New": "adele/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/28",
+      "New": "adele/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/29",
+      "New": "adele/M/29"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/21",
+      "New": "adele/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/22",
+      "New": "adele/F/22"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/23",
+      "New": "adele/F/23"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/24",
+      "New": "adele/F/24"
+    },
+    "voice/female/path/4": {
+      "Old": "adele/F/25",
+      "New": "adele/F/25"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Creates a domain for 20 sec.<br />Receives 30% of the damage dealt to party members inside the domain in their place and creates a shield for 80% of that damage.<br />Can't receive damage that's greater than your remaining HP.<br />Cooldown: 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151111005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

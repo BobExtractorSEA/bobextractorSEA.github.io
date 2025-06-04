@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.295587-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002650",
+  "Name": "K-Car Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Ride on a K-Car mount that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Ride on K-Car Mount, which enables double jump<span style=\"font-weight:bold; color:orange;\">and travel at a noticeably fast speed</span>. <span style=\"font-weight:bold; color:orange;\">Double-click your destination on the World Map</span> and you will automatically fly toward it along the navigation route. (Auto flight is only available on certain continents, including Victoria Island. <span style=\"font-weight:bold; color:orange;\">You can expand your Smart Mount-permitted continents by buying</span> Flight Permits from Instructor Irvin.)",
+      "New": "[Master Level: 1]<br />Ride on a K-Car mount that can double-jump <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002650_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

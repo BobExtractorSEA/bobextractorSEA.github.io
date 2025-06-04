@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1750855-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141001",
+  "Name": "Awakened Abyss",
+  "Job": "Ark",
+  "Desc": "Your enhanced body and willpower allow you to draw on more of the Spectre’s power, giving you Abyss Energy when you successfully link attacks. When you attack in Spectre mode, the energy is consumed to create <span style=\"font-weight:bold; color:orange;\">additional attacks with powerful Abyss Blades.</span><br />When you use Infinity Spell, instantly create Abyss Energy from the infinite magic.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/32": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "skillList/33": {
+      "Old": null,
+      "New": "155141030"
+    },
+    "skillList/34": {
+      "Old": null,
+      "New": "155141032"
+    },
+    "skillList/35": {
+      "Old": null,
+      "New": "155141033"
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "155141036"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

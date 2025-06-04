@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.4263227-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031023",
+  "Name": "Critical Reinforce",
+  "Job": "5th (Bowman)",
+  "Desc": "Seeks out the enemy's weakness during a critical attack to deal more damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

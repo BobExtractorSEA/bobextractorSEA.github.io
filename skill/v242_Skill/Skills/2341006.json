@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7610699-03:00",
+  "ChangeType": "Added",
+  "Id": "2341006",
+  "Name": "Fountain for Angel VI",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Summons an object that punishes the surrounding enemies with Holy Power. Emits Holy Power from the object at regular intervals to attack the enemy. Fountain for Angel VI is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Holy Fountain Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "31",
+    "req/2311011": "10",
+    "action/0": "6thFountainForAngel",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+d(x/6)",
+    "common/damage": "190+4*x",
+    "common/time": "60",
+    "common/cooltime": "30",
+    "common/attackDelay": "2000",
+    "common/mobCount": "8",
+    "common/attackCount": "5",
+    "summon/attack1/info/range/lt/x": -290,
+    "summon/attack1/info/range/lt/y": -300,
+    "summon/attack1/info/range/rb/x": 290,
+    "summon/attack1/info/range/rb/y": 110,
+    "summon/attack1/info/mobCount": "8",
+    "summon/attack1/info/attackCount": "5",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/info/magicAttack": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "notIncBuffDuration": "1",
+    "additional_process/0": "7",
+    "additional_process/1": "32",
+    "additional_process/2": "33",
+    "maintainSplitSummoned": "1",
+    "showSummonedBuffIcon": "1",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "2341006",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = bishop/M/7 }",
+    "voice/female/path/0": "{ Old = , New = bishop/F/7 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Lasts for 60 sec.<br />Attacks up to 8 enemies at regular intervals 5 times, delivering 310% damage to them<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2341006_effect_new.webp"
+    },
+    "effect_ple": {
+      "Old": null,
+      "New": "Animations/New/2341006_effect_ple_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2341006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

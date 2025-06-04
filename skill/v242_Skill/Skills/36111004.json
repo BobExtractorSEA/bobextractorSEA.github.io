@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2440011-03:00",
+  "ChangeType": "Removed",
+  "Id": "36111004",
+  "Name": "Aegis System",
+  "Job": "Xenon",
+  "Desc": "Fixed chance to launch a missile toward the enemy when you are attacked or evading the attack. The launched missile also affects enemies in the Ignore Attacks or Damage Reflection status. Requires a short prep time before launching. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job Skill, Instant Shirk</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "common/prop": {
+      "Old": "10*x",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "100+2*x",
+      "New": null
+    },
+    "common/x": {
+      "Old": "1+d(x/5)",
+      "New": null
+    },
+    "common/y": {
+      "Old": "1500",
+      "New": null
+    },
+    "type": {
+      "Old": "51",
+      "New": null
+    },
+    "condition": {
+      "Old": "damaged",
+      "New": null
+    },
+    "counter": {
+      "Old": "damaged",
+      "New": null
+    },
+    "notRemoved": {
+      "Old": "1",
+      "New": null
+    },
+    "excl": {
+      "Old": "500",
+      "New": null
+    },
+    "id": {
+      "Old": "36111004",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "When attacked/evading, 3 missiles are launched with a 100% chance, inflicting 120% damage on the attacker. Cooldown: 1.5 sec"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

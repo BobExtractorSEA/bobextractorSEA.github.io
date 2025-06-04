@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.239365-03:00",
+  "ChangeType": "Changed",
+  "Id": "41120013",
+  "Name": "Akatsuki Trace",
+  "Job": "Hayato",
+  "Desc": "Fixed chance to activate an additional attack, which leaves traces of akatsuki, after hitting with Rai Sanrenzan, Iaigiri no Rai, or Shinsoku.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "psd": {
+      "Old": "1",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "41140006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41120013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

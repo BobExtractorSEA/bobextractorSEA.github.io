@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0831396-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321035",
+  "Name": "Ancient Astra",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Materializes an arrow of the legends to bombard enemies with a powerful attack.<br /><span style=\"font-weight:bold; color:orange;\">Discharge Enhancement</span><br />Additional magic arrows are created from hit enemies.<br /><span style=\"font-weight:bold; color:orange;\">Blast Enhancement</span><br />Aims and shoots a significantly powerful arrow at the enemy.<br /><span style=\"font-weight:bold; color:orange;\">Transition Enhancement</span><br />Enables movement while attacking.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to attack up to 7 enemies at 320% damage 6 times.<br />Cooldown: 60 sec.",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 320% Damage 6 times in a row.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "Relic Gauge Cost: 65 per sec. Hold the Skill key to attack up to 7 enemies at 320% damage 6 times.<br />Cooldown: 60 sec.",
+      "New": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 320% Damage 6 times in a row.<br />Cooldown: 60 sec."
+    },
+    "common/s": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 65 per 1 sec. Periodically attacks up to 7 enemies at 320% Damage 6 times in a row.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321035_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

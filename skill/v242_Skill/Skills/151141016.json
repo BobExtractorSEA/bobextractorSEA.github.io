@@ -1,0 +1,111 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9954661-03:00",
+  "ChangeType": "Added",
+  "Id": "151141016",
+  "Name": "Blossom VI",
+  "Job": "Adele",
+  "Desc": "Orders all Ether Swords to spin and blossom magic. Can only be used when <span style=\"font-weight:bold; color:orange;\">there is an Ether Sword tracking an enemy with Order</span>.<br />During Blossom, Ether Swords that return from Gathering without expiring can't be blossomed.<br />This skill doesn't affect enemies in the Damage Reflection status and isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blossom Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -200,
+      "y": -200
+    },
+    "rb": {
+      "x": 200,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/151121003": "30",
+    "action/0": "6thBlossom",
+    "common/maxLevel": "30",
+    "common/mpCon": "81+d(x/3)",
+    "common/damage": "710+13*x",
+    "common/attackCount": "8",
+    "common/mobCount": "8",
+    "common/cooltime": "20",
+    "common/x": "25",
+    "common/lt/x": -200,
+    "common/lt/y": -200,
+    "common/rb/x": 200,
+    "common/rb/y": 200,
+    "common/y": "1800",
+    "common/z": "360",
+    "common/prop": "50",
+    "hit/0/z": "2",
+    "hit/0/randomHitOrigin": "40",
+    "weapon": "213",
+    "subWeapon": "35",
+    "notCooltimeReset": "1",
+    "id": "151141016",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = adele/M/30 }",
+    "voice/male/path/1": "{ Old = , New = adele/M/31 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/26 }",
+    "voice/female/path/1": "{ Old = , New = adele/F/27 }",
+    "voice/female/path/2": "{ Old = , New = adele/F/28 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 91. Each Ether Sword attacks up to 8 enemies at 1100% Damage 8 times.<br />If a single enemy is attacked by multiple blossoms, the blossom's Final Damage -25% on that enemy.<br />Successful attacks create a 50% chance of creating an Ether Crystal.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/151141016_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141016_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

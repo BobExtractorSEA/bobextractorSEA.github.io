@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9224318-03:00",
+  "ChangeType": "Changed",
+  "Id": "11121018",
+  "Name": "Cosmic Burst",
+  "Job": "Dawn Warrior",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cosmic]</span><br />Releases the Cosmic Orbs to attack. Upon use, consume all Cosmic Orbs and reduce the cooldown based on the number of Cosmic Orbs consumed. While using Solar Slash, Luna Divide, and Soul Cleaving, you can use Cosmic Burst without cast action. The released Cosmic Orbs will prioritize tracking the boss monster with the highest maximum HP and you do not take damage from attacking enemies’ with Damage Reflect. Cosmic Burst is not affected by cooldown reduction and cooldown reset effects.<br />In Auto Use Mode, when you have the maximum number of Cosmic Orbs and the skill is not in cooldown, Cosmic Burst will be used automatically when Solar Slash, Lunar Divide, or Soul Cleaving hits an enemy.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Element Infusion: Soul Lv. 10 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Toggle Auto Mode: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 50. Consumes all Cosmic Orbs to release Cosmic Orbs.<br />The released Cosmic Orbs will each track 1 enemy, dealing 450% damage 4 times.<br />If multiple Cosmic Orbs hit a single enemy, the later Orbs will have -30% final damage.<br />For every 1 consumed Cosmic Orb, cooldown will be reduced by 1 sec.<br />Cooldown 15 sec.<br />[Passive Effect: Cosmic Shower's Damage +60%p]",
+      "New": "MP Cost: 50. Consumes all Cosmic Orbs to release them.<br />Each released Cosmic Orb tracks 1 enemy and attacks at 450% Damage 4 times.<br />If a single enemy is hit by multiple Cosmic Orbs, Final Damage -30% for each subsequent orb<br />Cooldown -1 sec. per consumed Cosmic Orb<br />Cooldown: 15 sec.<br />[Passive Effects: Cosmic Shower Damage +60%p]"
+    },
+    "h1": {
+      "Old": "MP Cost: 50. Consumes all Cosmic Orbs to release Cosmic Orbs.<br />The released Cosmic Orbs will each track 1 enemy, dealing 450% damage 4 times.<br />If multiple Cosmic Orbs hit a single enemy, the later Orbs will have -30% final damage.<br />For every 1 consumed Cosmic Orb, cooldown will be reduced by 1 sec.<br />Cooldown 15 sec.<br />[Passive Effect: Cosmic Shower's Damage +60%p]",
+      "New": "MP Cost: 50. Consumes all Cosmic Orbs to release them.<br />Each released Cosmic Orb tracks 1 enemy and attacks at 450% Damage 4 times.<br />If a single enemy is hit by multiple Cosmic Orbs, Final Damage -30% for each subsequent orb<br />Cooldown -1 sec. per consumed Cosmic Orb<br />Cooldown: 15 sec.<br />[Passive Effects: Cosmic Shower Damage +60%p]"
+    },
+    "delay": {
+      "Old": "810",
+      "New": null
+    },
+    "additional_process/0": {
+      "Old": "53",
+      "New": "22"
+    },
+    "additional_process/1": {
+      "Old": "22",
+      "New": "53"
+    },
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/12",
+      "New": "soulMaster/M/12"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/13",
+      "New": "soulMaster/M/13"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/13",
+      "New": "soulMaster/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/14",
+      "New": "soulMaster/F/14"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "11141004"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. Consumes all Cosmic Orbs to release them.<br />Each released Cosmic Orb tracks 1 enemy and attacks at 450% Damage 4 times.<br />If a single enemy is hit by multiple Cosmic Orbs, Final Damage -30% for each subsequent orb<br />Cooldown -1 sec. per consumed Cosmic Orb<br />Cooldown: 15 sec.<br />[Passive Effects: Cosmic Shower Damage +60%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_11121018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

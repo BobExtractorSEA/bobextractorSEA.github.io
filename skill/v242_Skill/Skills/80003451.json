@@ -1,0 +1,76 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.9391921-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003451",
+  "Name": "Ano's Cooking: Sol Erda upon Defeating Bosses",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Sol Erda Energy</span> obtained from Boss<br />monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pidoll's Special Syrup: ATT/MATT",
+      "New": "Ano's Cooking: Sol Erda upon Defeating Bosses"
+    },
+    "Desc": {
+      "Old": "Increases <span style=\"font-weight:bold; color:orange;\">ATT and MATT</span>.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">Sol Erda Energy</span> obtained from Boss<br />monsters."
+    },
+    "H": {
+      "Old": "ATT/MATT +30",
+      "New": "Sol Erda Energy from Boss Monsters +100%"
+    },
+    "h1": {
+      "Old": "ATT/MATT +30",
+      "New": "Sol Erda Energy from Boss Monsters +100%"
+    },
+    "common/maxLevel": {
+      "Old": "3",
+      "New": "6"
+    },
+    "common/padX": {
+      "Old": "10*x-5*(d(x/2))+5*(d(x/3))",
+      "New": null
+    },
+    "common/madX": {
+      "Old": "10*x-5*(d(x/2))+5*(d(x/3))",
+      "New": null
+    },
+    "level/1/solErdaR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/2/solErdaR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/3/solErdaR": {
+      "Old": null,
+      "New": "40"
+    },
+    "level/4/solErdaR": {
+      "Old": null,
+      "New": "60"
+    },
+    "level/5/solErdaR": {
+      "Old": null,
+      "New": "80"
+    },
+    "level/6/solErdaR": {
+      "Old": null,
+      "New": "100"
+    }
+  },
+  "HFields": {
+    "h1": "Sol Erda Energy from Boss Monsters +100%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003451_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003451_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

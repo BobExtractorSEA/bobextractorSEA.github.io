@@ -1,0 +1,43 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1689598-03:00",
+  "ChangeType": "Added",
+  "Id": "3140006",
+  "Name": "Quiver Cartridge VI",
+  "Job": "Bowmaster",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -250
+    },
+    "rb": {
+      "x": 0,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "req/3120022": "10",
+    "common/maxLevel": "30",
+    "common/damage": "292+5*x",
+    "common/lt/x": -500,
+    "common/lt/y": -250,
+    "common/rb/x": 0,
+    "common/rb/y": 250,
+    "common/x": "2",
+    "invisible": "1",
+    "isBeneficial": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "3140006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3140006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

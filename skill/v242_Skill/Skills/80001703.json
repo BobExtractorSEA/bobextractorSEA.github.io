@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.1609078-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001703",
+  "Name": "Agent from the Stars Mount",
+  "Job": "Etc",
+  "Desc": "Become an agent for a UFO, which enables double-jump, and fly all over Maple World.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Become an agent for a UFO, which enables autopilot and double-jump, and fly all over Maple World.",
+      "New": "Become an agent for a UFO, which enables double-jump, and fly all over Maple World."
+    },
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001703_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

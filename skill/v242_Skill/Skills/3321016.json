@@ -1,0 +1,107 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0344158-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321016",
+  "Name": "Combo Assault (Discharge)",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Attacks the nearby enemy with a bow, and then shoots an arrow flying through space to attack a wide range of enemies.<br />Arrows deal damage to enemies in a wider range.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Relic Gauge Cost: 100. Bow attack deals damage to up to 5 enemies at 600% damage 7 times. Damaged enemies are inflicted with 1 stacks of the Ancient Curse Debuff.<br />Arrows deal damage up to 12 enemies at 650% damage 5 times.<br />Cooldown: 20 sec.",
+      "New": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 5 enemies at 600% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 12 enemies at 650% damage 5 times.<br />Cooldown 20 sec."
+    },
+    "h1": {
+      "Old": "Relic Gauge Cost: 100. Bow attack deals damage to up to 5 enemies at 600% damage 7 times. Damaged enemies are inflicted with 1 stacks of the Ancient Curse Debuff.<br />Arrows deal damage up to 12 enemies at 650% damage 5 times.<br />Cooldown: 20 sec.",
+      "New": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 5 enemies at 600% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 12 enemies at 650% damage 5 times.<br />Cooldown 20 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/14",
+      "New": "pathfinder/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/37",
+      "New": "pathfinder/M/37"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/46",
+      "New": "pathfinder/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/14",
+      "New": "pathfinder/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/38",
+      "New": "pathfinder/F/38"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/39",
+      "New": "pathfinder/F/39"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 5 enemies at 600% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 12 enemies at 650% damage 5 times.<br />Cooldown 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

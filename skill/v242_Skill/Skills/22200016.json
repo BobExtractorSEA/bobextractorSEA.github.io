@@ -1,0 +1,45 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6444488-03:00",
+  "ChangeType": "Added",
+  "Id": "22200016",
+  "Name": "Dragon Spark VI",
+  "Job": "Evan",
+  "Desc": "After using Evan's direct Attack skills, there's a chance for Mir to execute additional attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "magicDamage": "1",
+    "req/22110021": "1",
+    "common/maxLevel": "30",
+    "common/damage": "165+13*x",
+    "common/prop": "100",
+    "common/range": "500",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/pos": "10",
+    "skillType": "3",
+    "id": "22200016",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 100% chance of Advanced Dragon Spark that attacks at 555% Damage"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22200016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22200016_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

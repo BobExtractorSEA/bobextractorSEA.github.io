@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5120402-03:00",
+  "ChangeType": "Changed",
+  "Id": "37110001",
+  "Name": "Charging Arm: Smash",
+  "Job": "Blaster",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "140+3*x",
+      "New": "90+3*x"
+    },
+    "common/time": {
+      "Old": "5",
+      "New": null
+    },
+    "common/y": {
+      "Old": "30",
+      "New": "60"
+    },
+    "common/w2": {
+      "Old": "500",
+      "New": null
+    },
+    "common/subTime": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "125+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3+d(x/10)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "1+u(x/5)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "u(x/10)",
+      "New": null
+    },
+    "PVPcommon/w": {
+      "Old": "180",
+      "New": null
+    },
+    "PVPcommon/w2": {
+      "Old": "800",
+      "New": null
+    },
+    "PVPcommon/q": {
+      "Old": "50",
+      "New": null
+    },
+    "PVPcommon/q2": {
+      "Old": "900",
+      "New": null
+    },
+    "PVPcommon/u2": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/onActive": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1000",
+      "New": null
+    },
+    "massSpell": {
+      "Old": "1",
+      "New": null
+    },
+    "trembling": {
+      "Old": "1",
+      "New": null
+    },
+    "info2/areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "extraSkillInfo/0/skill": {
+      "Old": "37110002",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/12",
+      "New": "blaster/M/12"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/13",
+      "New": "blaster/M/13"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/15",
+      "New": "blaster/F/15"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/19",
+      "New": "blaster/F/19"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37110001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37110001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37110001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37110001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37110001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

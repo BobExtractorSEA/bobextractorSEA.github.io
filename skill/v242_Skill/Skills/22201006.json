@@ -1,0 +1,166 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5665573-03:00",
+  "ChangeType": "Added",
+  "Id": "22201006",
+  "Name": "Circle of Earth VI",
+  "Job": "Evan",
+  "Desc": "Generates an irregular pentacle that pushes up the ground in front, shooting chunks of earth at enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Circle of Earth Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -420,
+      "y": -350
+    },
+    "rb": {
+      "x": 0,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "magicDamage": "1",
+    "req/22171062": "20",
+    "action/0": "6thEVcircleEarth",
+    "specialAction/0": "6thEVcircleEarthMix",
+    "common/maxLevel": "30",
+    "common/mobCount": "8",
+    "common/damage": "460+9*x",
+    "common/attackCount": "5",
+    "common/mpCon": "58+u(x/3)",
+    "common/lt/x": -420,
+    "common/lt/y": -350,
+    "common/rb/x": 0,
+    "common/rb/y": 30,
+    "finalAttack/22110021/0": "37",
+    "finalAttack/22110021/1": "38",
+    "skillList/0": "400021000",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/0/pos": "9",
+    "hit/0/randomHitOriginX": "20",
+    "trembleEffect/force": "5",
+    "trembleEffect/time": "800",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "weapon": "37",
+    "weapon2": "38",
+    "id": "22201006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "40",
+    "voice/male/count": 5,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = evan/M/0 }",
+    "voice/male/path/1": "{ Old = , New = evan/M/1 }",
+    "voice/male/path/2": "{ Old = , New = evan/M/2 }",
+    "voice/male/path/3": "{ Old = , New = evan/M/3 }",
+    "voice/male/path/4": "{ Old = , New = evan/M/4 }",
+    "voice/female/path/0": "{ Old = , New = evan/F/0 }",
+    "voice/female/path/1": "{ Old = , New = evan/F/1 }",
+    "voice/female/path/2": "{ Old = , New = evan/F/2 }",
+    "voice/female/path/3": "{ Old = , New = evan/F/3 }",
+    "voice/female/path/4": "{ Old = , New = evan/F/4 }"
+  },
+  "HFields": {
+    "h1": "Mp Cost: 68. Attacks up to 8 enemies at 730% damage 5 times.<br />After using a Mir Skill, casting Circle of Earth, while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/22201006_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/22201006_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/22201006_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22201006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5362311-03:00",
+  "ChangeType": "Changed",
+  "Id": "22201004",
+  "Name": "Swift of Thunder VI",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and crashes into five different points on the ground, drawing a pentagram of lightning. Swift of Thunder does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /> This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Thunder</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Thunder Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and crashes into five different points on the ground, drawing a pentagram of lightning. Swift of Thunder improves in proportion to Dragon Swift's level and does not affect enemies in the Damage Reflection status.<br />This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Thunder</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Thunder Lv. 20 or higher</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and crashes into five different points on the ground, drawing a pentagram of lightning. Swift of Thunder does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /> This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Thunder</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Thunder Lv. 20 or higher</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/18",
+      "New": "evan/M/18"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/11",
+      "New": "evan/M/11"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/6",
+      "New": "evan/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/18",
+      "New": "evan/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/11",
+      "New": "evan/F/11"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/6",
+      "New": "evan/F/6"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

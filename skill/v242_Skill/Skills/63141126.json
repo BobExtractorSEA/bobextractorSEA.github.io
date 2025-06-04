@@ -1,0 +1,234 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6816315-03:00",
+  "ChangeType": "Added",
+  "Id": "63141126",
+  "Name": "[Revelation/Execution] Sneaky Sniping VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -220
+    },
+    "rb": {
+      "x": 10,
+      "y": 190
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "req/63121040": "1",
+    "action/0": "6thSneakySnipingEnchantPre",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/cooltime": "60",
+    "common/lt/x": -480,
+    "common/lt/y": -220,
+    "common/rb/x": 10,
+    "common/rb/y": 190,
+    "common/attackDelay": "60",
+    "common/updatableTime": "1620",
+    "common/x": "20",
+    "common/y": "600",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "60",
+    "effectFlash/0/alpha": "0",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "60",
+    "effectFlash/1/alpha": "70",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "60",
+    "effectFlash/2/alpha": "50",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "60",
+    "effectFlash/3/alpha": "70",
+    "effectFlash/3/color": "ffffff",
+    "effectFlash/4/delay": "60",
+    "effectFlash/4/alpha": "50",
+    "effectFlash/4/color": "ffffff",
+    "effectFlash/5/delay": "60",
+    "effectFlash/5/alpha": "20",
+    "effectFlash/5/color": "ffffff",
+    "changeablePos/0/x": 0,
+    "changeablePos/0/y": 0,
+    "changeablePos/1/x": 0,
+    "changeablePos/1/y": 0,
+    "changeablePos/2/x": 160,
+    "changeablePos/2/y": 0,
+    "changeablePos/3/x": 240,
+    "changeablePos/3/y": 0,
+    "changeablePos/4/x": 430,
+    "changeablePos/4/y": 0,
+    "changeablePos/5/x": 480,
+    "changeablePos/5/y": 0,
+    "changeablePos/6/x": 510,
+    "changeablePos/6/y": 0,
+    "changeablePos/7/x": 540,
+    "changeablePos/7/y": 0,
+    "changeablePos/8/x": 560,
+    "changeablePos/8/y": 0,
+    "changeablePos/9/x": 590,
+    "changeablePos/9/y": 0,
+    "changeablePos/10/x": 610,
+    "changeablePos/10/y": 0,
+    "changeablePos/11/x": 630,
+    "changeablePos/11/y": 0,
+    "changeablePos/12/x": 650,
+    "changeablePos/12/y": 0,
+    "changeablePos/13/x": 670,
+    "changeablePos/13/y": 0,
+    "changeablePos/14/x": 680,
+    "changeablePos/14/y": 0,
+    "changeablePos/15/x": 685,
+    "changeablePos/15/y": 0,
+    "changeablePos/16/x": 685,
+    "changeablePos/16/y": 0,
+    "changeablePos/17/x": 685,
+    "changeablePos/17/y": 0,
+    "changeablePos/18/x": 685,
+    "changeablePos/18/y": 0,
+    "changeablePos/19/x": 685,
+    "changeablePos/19/y": 0,
+    "changeablePos/20/x": 685,
+    "changeablePos/20/y": 0,
+    "changeablePos/21/x": 685,
+    "changeablePos/21/y": 0,
+    "prepare/action": "6thSneakySnipingEnchantPre",
+    "prepare/time": "360",
+    "prepare0/z": "-1",
+    "keydown/action": "6thSneakySnipingEnchantLoop",
+    "keydown/repeat": "2",
+    "keydown0/repeat": "2",
+    "keydown0/z": "-1",
+    "keydownend/action": "6thSneakySnipingEnchantEnd",
+    "keydownend/fix": "1",
+    "keydownend0/fix": "1",
+    "keydownend0/z": "-1",
+    "additional_process/0": "11",
+    "additional_process/1": "18",
+    "additional_process/2": "21",
+    "additional_process/3": "29",
+    "additional_process/4": "31",
+    "additional_process/5": "40",
+    "additional_process/6": "83",
+    "additional_process/7": "84",
+    "invisible": "1",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "applyHyper": "1",
+    "id": "63141126",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = kain/M/34 }",
+    "voice/male/path/1": "{ Old = , New = kain/M/35 }",
+    "voice/male/path/2": "{ Old = , New = kain/M/36 }",
+    "voice/male/path/3": "{ Old = , New = kain/M/37 }",
+    "voice/female/path/0": "{ Old = , New = kain/F/42 }",
+    "voice/female/path/1": "{ Old = , New = kain/F/43 }",
+    "voice/female/path/2": "{ Old = , New = kain/F/44 }",
+    "voice/female/path/3": "{ Old = , New = kain/F/45 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141126_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/63141126_keydown_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/63141126_prepare_new.webp"
+    },
+    "prepare0": {
+      "Old": null,
+      "New": "Animations/New/63141126_prepare0_new.webp"
+    },
+    "keydown0": {
+      "Old": null,
+      "New": "Animations/New/63141126_keydown0_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/63141126_keydownend_new.webp"
+    },
+    "keydownend0": {
+      "Old": null,
+      "New": "Animations/New/63141126_keydownend0_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/63141126_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141126_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

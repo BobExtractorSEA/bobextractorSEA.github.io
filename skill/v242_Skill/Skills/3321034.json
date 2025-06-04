@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1190376-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321034",
+  "Name": "Relic Evolution",
+  "Job": "Pathfinder",
+  "Desc": "Draws out the hidden ancient power from the relic.<br />Not affected by cooldown reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/20",
+      "New": "pathfinder/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/21",
+      "New": "pathfinder/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/20",
+      "New": "pathfinder/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/21",
+      "New": "pathfinder/F/21"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321034_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321034_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321034_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321034_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321034_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

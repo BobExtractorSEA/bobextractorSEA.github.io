@@ -1,0 +1,61 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5938417-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121105",
+  "Name": "Celestial Fury (Activated)",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span><br />Having received sufficient Spiritual Energy, the paper shikigami burns up and attacks nearby enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/7"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121105_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121105_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121105_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

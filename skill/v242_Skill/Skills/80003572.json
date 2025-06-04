@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.0360368-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003572",
+  "Name": "Solar Flash",
+  "Job": "Etc",
+  "Desc": "Darts forward at lightning speed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Authority Cost: 50. Charges in the entered direction, attacking enemies in the path and instantly executing Normal monsters. <br />Cooldown: 0.3 sec.",
+      "New": "Authority Cost: 30. Charges in the entered direction, attacking enemies in the path and instantly executing Normal monsters. <br />Cooldown: 0.3 sec."
+    },
+    "h1": {
+      "Old": "Authority Cost: 50. Charges in the entered direction, attacking enemies in the path and instantly executing Normal monsters. <br />Cooldown: 0.3 sec.",
+      "New": "Authority Cost: 30. Charges in the entered direction, attacking enemies in the path and instantly executing Normal monsters. <br />Cooldown: 0.3 sec."
+    },
+    "common/edCon": {
+      "Old": "50",
+      "New": "30"
+    }
+  },
+  "HFields": {
+    "h1": "Authority Cost: 30. Charges in the entered direction, attacking enemies in the path and instantly executing Normal monsters. <br />Cooldown: 0.3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003572_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

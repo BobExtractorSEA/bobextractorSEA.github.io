@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.0516881-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061024",
+  "Name": "Obsidian Barrier (Transition)",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Amplifies the power of the Relic to create a protective barrier. Within this barrier, you and your allies are shielded from normal enemy attacks and receive reduced damage from attacks that deal damage based on HP percentage.<br />Additionally, allies within the barrier can gain a critical damage increase effect when attacking enemies afflicted with the Ancient Curse debuff.<br />The barrier is strengthened with the power of Transition, allowing you to relocate the barrier to a different position.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

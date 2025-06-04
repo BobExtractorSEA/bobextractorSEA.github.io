@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.9080289-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003448",
+  "Name": "Tangyoon's Cooking: Normal Monster Damage",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">damage on normal monsters</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Chew Chew Special Slushie: Normal Monster Damage",
+      "New": "Tangyoon's Cooking: Normal Monster Damage"
+    },
+    "common/nbdR": {
+      "Old": "10*x-5*(1+d(u(1+x)/3)+d(x/6))",
+      "New": null
+    },
+    "level/1/nbdR": {
+      "Old": null,
+      "New": "5"
+    },
+    "level/2/nbdR": {
+      "Old": null,
+      "New": "10"
+    },
+    "level/3/nbdR": {
+      "Old": null,
+      "New": "20"
+    },
+    "level/4/nbdR": {
+      "Old": null,
+      "New": "25"
+    },
+    "level/5/nbdR": {
+      "Old": null,
+      "New": "35"
+    },
+    "level/6/nbdR": {
+      "Old": null,
+      "New": "40"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003448_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003448_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

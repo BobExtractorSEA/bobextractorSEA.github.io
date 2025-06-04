@@ -1,0 +1,152 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2508353-03:00",
+  "ChangeType": "Added",
+  "Id": "5241006",
+  "Name": "Death Hail",
+  "Job": "Corsair",
+  "Desc": "Quickly fires a series of Brain Scramblers at the targets.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Brain Scrambler Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -610,
+      "y": -190
+    },
+    "rb": {
+      "x": 0,
+      "y": 130
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "req/5221016": "30",
+    "action/0": "6thHeadShotNew",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+u(x/5)",
+    "common/cooltime": "5",
+    "common/damage": "846+14*x",
+    "common/attackCount": "13",
+    "common/mobCount": "8",
+    "common/cr": "100",
+    "common/ignoreMobpdpR": "60",
+    "common/updatableTime": "1000",
+    "common/lt/x": -610,
+    "common/lt/y": -190,
+    "common/rb/x": 0,
+    "common/rb/y": 130,
+    "common/u": "2",
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "180",
+    "finalAttack/5220020/0": "49",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "35",
+    "additional_process/4": "69",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "108",
+    "weapon": "49",
+    "processtype": "-1",
+    "invisible": "1",
+    "notCooltimeReset": "1",
+    "id": "5241006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = captain/M/30 }",
+    "voice/male/path/1": "{ Old = , New = captain/M/31 }",
+    "voice/male/path/2": "{ Old = , New = captain/M/14 }",
+    "voice/male/path/3": "{ Old = , New = captain/M/1 }",
+    "voice/female/path/0": "{ Old = , New = captain/F/32 }",
+    "voice/female/path/1": "{ Old = , New = captain/F/33 }",
+    "voice/female/path/2": "{ Old = , New = captain/F/13 }",
+    "voice/female/path/3": "{ Old = , New = captain/F/15 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 36. Fires 2 shots that attack up to 8 enemies at 1266% Damage 13 times.<br />Ignore Monster DEF: 60%. Additional Critical Rate: 100%.<br />Cooldown: 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241006_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241006_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/5241006_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

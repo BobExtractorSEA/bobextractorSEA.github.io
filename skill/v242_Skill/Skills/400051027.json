@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9770675-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051027",
+  "Name": "Spotlight",
+  "Job": "5th (Pirate)",
+  "Desc": "Places a spotlight that only follows superstars. Only superstars are allowed in the spotlight. All other enemies are damaged by the light while the superstar's abilities are enhanced.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

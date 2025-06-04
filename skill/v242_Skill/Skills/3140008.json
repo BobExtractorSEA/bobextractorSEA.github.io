@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1829781-03:00",
+  "ChangeType": "Added",
+  "Id": "3140008",
+  "Name": "Quiver Cartridge VI (Vampiric Arrow)",
+  "Job": "Bowmaster",
+  "Desc": "Uses special Arrow Head '<span style=\"font-weight:bold; color:orange;\">Vampire Arrow</span>'. Fires Vampiric Arrows with a set chance of restoring a set percentage of Max HP.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/3120022": "10",
+    "common/maxLevel": "30",
+    "notRemoved": "1",
+    "invisible": "1",
+    "weapon": "45",
+    "id": "3140008",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3140008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

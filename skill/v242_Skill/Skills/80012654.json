@@ -1,0 +1,31 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.4027761-03:00",
+  "ChangeType": "Added",
+  "Id": "80012654",
+  "Name": "Petite Face Dance Challenge",
+  "Job": "Etc",
+  "Desc": "Proceed with the Dance with a Cute Expression On Challenge.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "common/mpCon": "100",
+    "common/cooltime": "5",
+    "common/x": "555003000",
+    "timeLimited": "1",
+    "invisible": "1",
+    "id": "80012654"
+  },
+  "HFields": {
+    "h1": "If you succeed in the challenge in front of the mirror in the Dawnstar Party Hall, you can move to the <span style=\"font-weight:bold; color:orange;\">Special Party Hall</span>."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80012654_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

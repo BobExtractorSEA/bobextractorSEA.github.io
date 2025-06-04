@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1182885-03:00",
+  "ChangeType": "Changed",
+  "Id": "21121055",
+  "Name": "Hyper Boost End - Last Stand",
+  "Job": "Aran",
+  "Desc": "Musters all her strength and obliterates enemies in front in concert with Maha. Beyond Blade ignores the Knockback effect from enemy attacks while being cast.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/x": {
+      "Old": "5",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "aran/M/45",
+      "New": "aran/M/45"
+    },
+    "voice/male/path/1": {
+      "Old": "aran/M/48",
+      "New": "aran/M/48"
+    },
+    "voice/male/path/2": {
+      "Old": "aran/M/51",
+      "New": "aran/M/51"
+    },
+    "voice/male/path/3": {
+      "Old": "aran/M/54",
+      "New": "aran/M/54"
+    },
+    "voice/female/path/0": {
+      "Old": "aran/F/44",
+      "New": "aran/F/44"
+    },
+    "voice/female/path/1": {
+      "Old": "aran/F/47",
+      "New": "aran/F/47"
+    },
+    "voice/female/path/2": {
+      "Old": "aran/F/50",
+      "New": "aran/F/50"
+    },
+    "voice/female/path/3": {
+      "Old": "aran/F/53",
+      "New": "aran/F/53"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21121055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121055_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

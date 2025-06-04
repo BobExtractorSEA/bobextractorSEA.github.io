@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8587691-03:00",
+  "ChangeType": "Added",
+  "Id": "24141009",
+  "Name": "Carte de La Mort",
+  "Job": "Phantom",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 400,
+      "y": 400
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "common/maxLevel": "30",
+    "common/prop": "100",
+    "common/damage": "900+15*x",
+    "common/x": "1",
+    "common/u": "15*x",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 400,
+    "common/rb/y": 400,
+    "invisible": "1",
+    "id": "24141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_24141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

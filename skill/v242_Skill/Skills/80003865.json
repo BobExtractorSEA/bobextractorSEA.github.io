@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.3109029-03:00",
+  "ChangeType": "Added",
+  "Id": "80003865",
+  "Name": "Steadfast Will",
+  "Job": "Etc",
+  "Desc": "Baldrix summoned by the power of your Soul Weapon forcefully attacks enemies in front.",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -455
+    },
+    "rb": {
+      "x": 250,
+      "y": 30
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "action/0": "soulSkillMugongJP",
+    "common/maxLevel": "2",
+    "common/soulmpCon": "200",
+    "common/damage": "800+200*x",
+    "common/attackCount": "4",
+    "common/mobCount": "15",
+    "common/lt/x": -500,
+    "common/lt/y": -455,
+    "common/rb/x": 250,
+    "common/rb/y": 30,
+    "common/cooltime": "30",
+    "effect/fix": "1",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/delayedTimeActionSpeed": "270",
+    "disableNextLevelInfo": "1",
+    "disable": "1",
+    "invisible": "1",
+    "canJobRidingUse": "1",
+    "isUsableKaiserDragon": "1",
+    "resetByUnionCharTag": "1",
+    "id": "80003865",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {
+    "h1": "Soul Cost: 200. Attacks up to 15 enemies at 1200% Damage 4 times.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003865_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80003865_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/80003865_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

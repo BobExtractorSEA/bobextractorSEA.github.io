@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4158896-03:00",
+  "ChangeType": "Changed",
+  "Id": "22171080",
+  "Name": "Draconic Fury",
+  "Job": "Evan",
+  "Desc": "Flies on Mir, breathing fire at enemies. To breath fire, hold down this skill key while riding the dragon. Release the key to dismount at once.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22171080_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

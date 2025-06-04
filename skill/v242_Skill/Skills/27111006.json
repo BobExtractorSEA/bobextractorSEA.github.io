@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0610744-03:00",
+  "ChangeType": "Changed",
+  "Id": "27111006",
+  "Name": "Photic Meditation",
+  "Job": "Luminous",
+  "Desc": "Temporarily increases MATT for nearby party members including self. Does not stack with Onyx's Blessing.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "luminous/M/45",
+      "New": "luminous/M/45"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/49",
+      "New": "luminous/M/49"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/42",
+      "New": "luminous/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/45",
+      "New": "luminous/F/45"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_27111006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27111006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27111006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27111006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27111006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

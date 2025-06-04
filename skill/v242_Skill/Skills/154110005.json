@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.728831-03:00",
+  "ChangeType": "Changed",
+  "Id": "154110005",
+  "Name": "Deceiving Katara",
+  "Job": "Khali",
+  "Desc": "Absorbs an enemy's shadow and turn it into your own power. Successful Void skills temporarily grant additional attacks to the manual skills that you use when they hit. (Void skills excluded) Deceiving Katara does not affect enemies in the Damage Reflection status. Also, not affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Insanity I or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Void skills cast a buff for 20 sec. on hit.<br />During this buff, manual attacks additionally attack at 370% Damage 2 times when they hit.<br />Additional Attack Cooldown: 0.5 sec.",
+      "New": "Void skills cast a buff for 20 sec. on hit.<br />During this buff, direct attacks additionally attack at 370% Damage 2 times on hit.<br />Additional Attack Cooldown: 0.5 sec."
+    },
+    "h1": {
+      "Old": "Void skills cast a buff for 20 sec. on hit.<br />During this buff, manual attacks additionally attack at 370% Damage 2 times when they hit.<br />Additional Attack Cooldown: 0.5 sec.",
+      "New": "Void skills cast a buff for 20 sec. on hit.<br />During this buff, direct attacks additionally attack at 370% Damage 2 times on hit.<br />Additional Attack Cooldown: 0.5 sec."
+    },
+    "finalAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "condition": {
+      "Old": "attack",
+      "New": null
+    },
+    "skillList2/18": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "skillList2/19": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "154141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Void skills cast a buff for 20 sec. on hit.<br />During this buff, direct attacks additionally attack at 370% Damage 2 times on hit.<br />Additional Attack Cooldown: 0.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_154110005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

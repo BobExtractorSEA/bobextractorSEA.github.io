@@ -1,0 +1,148 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.827639-03:00",
+  "ChangeType": "Added",
+  "Id": "24141006",
+  "Name": "Rose Carte Finale VI",
+  "Job": "Phantom",
+  "Desc": "Tosses a bouquet of cards into the air. The cards fall and penetrate the ground, inflicting continuous damage on enemies without affecting enemies in the Damage Reflection status<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rose Carte Finale Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -395,
+      "y": -480
+    },
+    "rb": {
+      "x": 395,
+      "y": 5
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/24121052": "1",
+    "action/0": "6thRoseCarteFinale",
+    "common/maxLevel": "30",
+    "common/mpCon": "220",
+    "common/mobCount": "15",
+    "common/damage": "200+7*x",
+    "common/attackCount": "6",
+    "common/time": "8",
+    "common/q": "15",
+    "common/q2": "220+8*x",
+    "common/q3": "2",
+    "common/w": "7",
+    "common/cooltime": "30",
+    "common/updatableTime": "2000",
+    "common/lt/x": -395,
+    "common/lt/y": -480,
+    "common/rb/x": 395,
+    "common/rb/y": 5,
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "60",
+    "multiAttackInfo/2/attackTime": "60",
+    "multiAttackInfo/3/attackTime": "60",
+    "multiAttackInfo/4/attackTime": "120",
+    "multiAttackInfo/5/attackTime": "60",
+    "multiAttackInfo/6/attackTime": "60",
+    "effect/fix": "1",
+    "effect0/fix": "1",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "35",
+    "additional_process/4": "55",
+    "additional_process/5": "69",
+    "additional_process/6": "77",
+    "additional_process/7": "78",
+    "additional_process/8": "95",
+    "additional_process/9": "98",
+    "additional_process/10": "108",
+    "weapon": "36",
+    "subWeapon": "35",
+    "processtype": "-1",
+    "applyHyper": "1",
+    "id": "24141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = phantom/M/8 }",
+    "voice/male/path/1": "{ Old = , New = phantom/M/4 }",
+    "voice/male/path/2": "{ Old = , New = phantom/M/7 }",
+    "voice/female/path/0": "{ Old = , New = phantom/F/8 }",
+    "voice/female/path/1": "{ Old = , New = phantom/F/4 }",
+    "voice/female/path/2": "{ Old = , New = phantom/F/7 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 220.<br />Activates 7 card springs that attack up to 15 enemies at 410% Damage 6 times.<br />Afterward, the cards stuck in the ground attack up to 15 enemies at 460% Damage 2 times for 8 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_24141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/24141006_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/24141006_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/24141006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

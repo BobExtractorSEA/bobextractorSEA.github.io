@@ -1,0 +1,72 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.3151782-03:00",
+  "ChangeType": "Added",
+  "Id": "164140055",
+  "Name": "Phantasmal Clone Talisman VI",
+  "Job": "Hoyoung",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -600,
+      "y": -450
+    },
+    "rb": {
+      "x": 250,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/164101003": "20",
+    "common/maxLevel": "30",
+    "common/bulletCount": "3",
+    "common/mobCount": "1",
+    "common/damage": "266+4*x",
+    "common/attackCount": "4",
+    "common/prop": "100",
+    "common/x": "1",
+    "common/y": "3",
+    "common/lt/x": -600,
+    "common/lt/y": -450,
+    "common/rb/x": 250,
+    "common/rb/y": 150,
+    "invisible": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/0/pos": "3",
+    "hit/1/onlyOnce": "1",
+    "hit/1/pos": "3",
+    "hit/2/onlyOnce": "1",
+    "hit/2/pos": "3",
+    "hit/3/onlyOnce": "1",
+    "hit/3/pos": "3",
+    "hit/4/onlyOnce": "1",
+    "hit/4/pos": "3",
+    "hit/5/onlyOnce": "1",
+    "hit/5/pos": "3",
+    "hit/6/onlyOnce": "1",
+    "hit/6/pos": "3",
+    "hit/7/onlyOnce": "1",
+    "hit/7/pos": "3",
+    "hit/8/onlyOnce": "1",
+    "hit/8/pos": "3",
+    "id": "164140055",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164140055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/164140055_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

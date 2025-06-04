@@ -1,0 +1,122 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6948757-03:00",
+  "ChangeType": "Added",
+  "Id": "23141012",
+  "Name": "Gust Dive VI",
+  "Job": "Mercedes",
+  "Desc": "Using the power of wind, quickly land from the air and attack multiple enemies around you. Requires 120 Jump. Perfectly resists Knockback for its duration. Can be chained with Rising Rush, Stunning Strikes, Leaf Tornado, Unicorn Spike, Spikes Royale, Lightning Edge, and Wrath of Enreal.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Gust Dive Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -320,
+      "y": 0
+    },
+    "rb": {
+      "x": 0,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "pushTarget": "1",
+    "casterMove": "1",
+    "avaliableInJumpingState": "1",
+    "requireHighestJump": "1",
+    "req/23111003": "20",
+    "action/0": "6thGustDive",
+    "common/maxLevel": "30",
+    "common/mpCon": "46+d(x/6)",
+    "common/lt/x": -320,
+    "common/lt/y": 0,
+    "common/rb/x": 0,
+    "common/rb/y": 120,
+    "common/lt2/x": -420,
+    "common/lt2/y": -110,
+    "common/rb2/x": 0,
+    "common/rb2/y": 250,
+    "common/damage": "565+7*x",
+    "common/attackCount": "4",
+    "common/mobCount": "6",
+    "common/x": "56",
+    "common/u": "95",
+    "finalAttack/23100006/0": "52",
+    "addAttack/skill": "23101001",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "151",
+    "addAttack/skillPlus/0": "23111000",
+    "addAttack/skillPlus/1": "23111001",
+    "addAttack/skillPlus/2": "23111002",
+    "addAttack/skillPlus/3": "23121002",
+    "addAttack/skillPlus/4": "23121003",
+    "addAttack/skillPlus/5": "23120013",
+    "addAttack/skillPlus/6": "23121052",
+    "addAttack/skillPlus/7": "23101007",
+    "addAttack/skillPlus/8": "23141007",
+    "addAttack/skillPlus/9": "23141008",
+    "addAttack/skillPlus/10": "23141009",
+    "addAttack/skillPlus/11": "23141005",
+    "addAttack/skillPlus/12": "23141006",
+    "addAttack/skillPlus/13": "23141003",
+    "addAttack/skillPlus/14": "23141004",
+    "addAttack/skillPlus/15": "23141010",
+    "addAttack/skillPlus/16": "23141011",
+    "addAttack/skipActionFrame": "5",
+    "addAttack/activeTime": "1000",
+    "addAttack/permitTime": "1000",
+    "specialActionFrame/delay": "0",
+    "hit/0/pos": "9",
+    "hit/0/randomHitOriginX": "40",
+    "hit/0/randomHitOriginY": "5",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "52",
+    "subWeapon": "35",
+    "canJobRidingUse": "1",
+    "id": "23141012",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "20",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = mercedes/M/8 }",
+    "voice/female/path/0": "{ Old = , New = mercedes/F/0 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 51. Attack up to 6 enemies at 775% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/23141012_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/23141012_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

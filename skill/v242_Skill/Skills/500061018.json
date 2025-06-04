@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.0157629-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061018",
+  "Name": "Obsidian Barrier",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Protects yourself and your party members by amplifying the power of the Relic.<br />Party member with the power of protection deals increased Critical Damage against enemies with the Ancient Curse Debuff.<br />The attacks from Obsidian Barrier won't harm you even if the enemy has a counterattack buff.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Discharge</span><br />Provides individual shields to nearby party members.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Blast</span><br />The size of the shield becomes larger.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Transition</span><br />You can reinstall the shield.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

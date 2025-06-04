@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.5195728-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001467",
+  "Name": "Level Jump D Ring",
+  "Job": "Etc",
+  "Desc": "Temporarily increases DEX by a portion of your current Character Level. This skill isn't affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001467_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

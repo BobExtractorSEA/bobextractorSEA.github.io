@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2427814-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021008",
+  "Name": "Psychic Tornado",
+  "Job": "5th (Magician)",
+  "Desc": "Releases the power of psychokinesis to produce a tornado with objects around you and attack enemies. This skill Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kinesis/M/41",
+      "New": "kinesis/M/41"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/42",
+      "New": "kinesis/M/42"
+    },
+    "voice/male/path/2": {
+      "Old": "kinesis/M/43",
+      "New": "kinesis/M/43"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/41",
+      "New": "kinesis/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/42",
+      "New": "kinesis/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "kinesis/F/43",
+      "New": "kinesis/F/43"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

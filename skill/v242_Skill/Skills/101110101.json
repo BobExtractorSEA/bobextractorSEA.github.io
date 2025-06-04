@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8000985-03:00",
+  "ChangeType": "Changed",
+  "Id": "101110101",
+  "Name": "Wheel Wind",
+  "Job": "Zero",
+  "Desc": "Spin like a whirlwind for a short time and attack enemies nearby. <br />Use the [Left], [Right] arrow keys while spinning to move. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Spin Driver</span> <br />Command: While Spin Driver is activated use <span style=\"font-weight:bold; color:orange;\">Spin Driver</span> again",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/45",
+      "New": "zero/F/45"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/46",
+      "New": "zero/F/46"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/31",
+      "New": "zero/F/31"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/7",
+      "New": "zero/F/7"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/5",
+      "New": "zero/F/5"
+    },
+    "voice/female/path/5": {
+      "Old": "zero/F/14",
+      "New": "zero/F/14"
+    },
+    "changeSkill/1/skill": {
+      "Old": null,
+      "New": "101110102"
+    },
+    "changeSkill/1/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101110101_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101110101_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

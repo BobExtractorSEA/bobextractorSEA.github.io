@@ -1,0 +1,178 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7667073-03:00",
+  "ChangeType": "Added",
+  "Id": "13141004",
+  "Name": "Wind Flourish VI",
+  "Job": "Wind Archer",
+  "Desc": "Swings a bow casually in place as if dancing with the wind, creating a gust of wind that pushes enemies back. Certain monsters resist this skill's Knockback effect. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Wind Flourish Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -430,
+      "y": -240
+    },
+    "rb": {
+      "x": 50,
+      "y": 85
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/13121016": "30",
+    "action/0": "6thFairyTurn",
+    "common/maxLevel": "30",
+    "common/mpCon": "36+d(x/5)",
+    "common/damage": "415+7*x",
+    "common/attackCount": "5",
+    "common/mobCount": "7",
+    "common/lt/x": -430,
+    "common/lt/y": -240,
+    "common/rb/x": 50,
+    "common/rb/y": 85,
+    "common/x": "300",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "45",
+    "id": "13141004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 6,
+    "voice/female/count": 8,
+    "voice/male/path/0": "{ Old = , New = windBreaker/M/107 }",
+    "voice/male/path/1": "{ Old = , New = windBreaker/M/108 }",
+    "voice/male/path/2": "{ Old = , New = windBreaker/M/109 }",
+    "voice/male/path/3": "{ Old = , New = windBreaker/M/110 }",
+    "voice/male/path/4": "{ Old = , New = windBreaker/M/57 }",
+    "voice/male/path/5": "{ Old = , New = windBreaker/M/46 }",
+    "voice/female/path/0": "{ Old = , New = windBreaker/F/113 }",
+    "voice/female/path/1": "{ Old = , New = windBreaker/F/114 }",
+    "voice/female/path/2": "{ Old = , New = windBreaker/F/115 }",
+    "voice/female/path/3": "{ Old = , New = windBreaker/F/116 }",
+    "voice/female/path/4": "{ Old = , New = windBreaker/F/117 }",
+    "voice/female/path/5": "{ Old = , New = windBreaker/F/118 }",
+    "voice/female/path/6": "{ Old = , New = windBreaker/F/56 }",
+    "voice/female/path/7": "{ Old = , New = windBreaker/F/58 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 42. Knocks up to 7 enemies backward, attacking at 625% Damage 5 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/13141004_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/13141004_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F7.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

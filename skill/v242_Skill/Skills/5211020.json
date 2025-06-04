@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4024379-03:00",
+  "ChangeType": "Changed",
+  "Id": "5211020",
+  "Name": "Assemble Crew",
+  "Job": "Corsair",
+  "Desc": "Enhances Summon Crew to summon two of 4 random crewmen. The summoned crewmen will attack enemies and sacrifice themselves to provide protection against critical abnormal status attacks.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 effect: Can learn 4th Job Skill Ahoy Mateys.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241013"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5211020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

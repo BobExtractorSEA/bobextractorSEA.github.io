@@ -1,0 +1,110 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3304951-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121002",
+  "Name": "Tread",
+  "Job": "Adele",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Trigger Skill</span> Envelope yourself with magic to descend rapidly.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 45. Descend straight down from the air to attack up to 6 enemies at 550% damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 1500 sec.</span>",
+      "New": "MP Cost: 45. Attacks up to 6 enemies at 550% damage 6 time(s).<br />Cooldown: 1500 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 45. Descend straight down from the air to attack up to 6 enemies at 550% damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 1500 sec.</span>",
+      "New": "MP Cost: 45. Attacks up to 6 enemies at 550% damage 6 time(s).<br />Cooldown: 1500 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/6",
+      "New": "adele/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/7",
+      "New": "adele/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/0",
+      "New": "adele/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/1",
+      "New": "adele/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/5",
+      "New": "adele/F/5"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/3",
+      "New": "adele/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "adele/F/4",
+      "New": "adele/F/4"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Attacks up to 6 enemies at 550% damage 6 time(s).<br />Cooldown: 1500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

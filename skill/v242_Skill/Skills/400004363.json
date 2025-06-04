@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7953278-03:00",
+  "ChangeType": "Changed",
+  "Id": "400004363",
+  "Name": "Rocket System Enhancement",
+  "Job": "5th",
+  "Desc": "Enhances Rocket System.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pinpoint Rocket Enhancement",
+      "New": "Rocket System Enhancement"
+    },
+    "Desc": {
+      "Old": "Enhances Pinpoint Rocket.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+      "New": "Enhances Rocket System.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>"
+    },
+    "H": {
+      "Old": "Final Damage of Pinpoint Rocket +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>",
+      "New": "Rocket System Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+    },
+    "h1": {
+      "Old": "Final Damage of Pinpoint Rocket +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>",
+      "New": "Rocket System Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+    }
+  },
+  "HFields": {
+    "h1": "Rocket System Final Damage +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400004363_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

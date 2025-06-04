@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.7205654-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001993",
+  "Name": "Starlight Cloud Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br /> Enable High Altitude Flight with the Power of the Star. Press the Jump key twice in a row to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Star Light Cloud Mount",
+      "New": "Starlight Cloud Mount"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001993_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

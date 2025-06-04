@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4201811-03:00",
+  "ChangeType": "Changed",
+  "Id": "162120002",
+  "Name": "Absorption: River Puddle Shower Power",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span>, <span style=\"font-weight:bold; color:orange;\">Absorption Skill</span><br />When Spirit Sprinkling hits, the naughty Aqua Spirit shows up along with the river puddle and attacks enemies by spraying water.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When Spirit Sprinkling hits for 90 sec, Aqua Spirit shows up to attack 6 enemies at 510% damage 10 times.<br />Cooldown: 2.5 sec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Aqua Spirit appears and attacks up to 6 enemies at 510% Damage 10 times.<br />Cooldown: 2.5 sec."
+    },
+    "h1": {
+      "Old": "When Spirit Sprinkling hits for 90 sec, Aqua Spirit shows up to attack 6 enemies at 510% damage 10 times.<br />Cooldown: 2.5 sec.",
+      "New": "When Spirit Sprinkling hits for 90 sec., the Aqua Spirit appears and attacks up to 6 enemies at 510% Damage 10 times.<br />Cooldown: 2.5 sec."
+    }
+  },
+  "HFields": {
+    "h1": "When Spirit Sprinkling hits for 90 sec., the Aqua Spirit appears and attacks up to 6 enemies at 510% Damage 10 times.<br />Cooldown: 2.5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162120002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

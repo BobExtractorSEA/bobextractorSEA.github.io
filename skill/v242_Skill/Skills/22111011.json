@@ -1,0 +1,107 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2241401-03:00",
+  "ChangeType": "Changed",
+  "Id": "22111011",
+  "Name": "Circle of Wind",
+  "Job": "Evan",
+  "Desc": "Calls forth a twister that pushes enemies backward with damage. Some monsters have a resistance to the attack and cannot be pulled.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 40. Attacks 6 enemies at 108% damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP.",
+      "New": "MP Cost: 40. Attacks up to 6 enemies at 108% Damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP."
+    },
+    "h1": {
+      "Old": "MP Cost: 40. Attacks 6 enemies at 108% damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP.",
+      "New": "MP Cost: 40. Attacks up to 6 enemies at 108% Damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP."
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/0",
+      "New": "evan/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/1",
+      "New": "evan/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/2",
+      "New": "evan/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/0",
+      "New": "evan/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/1",
+      "New": "evan/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/2",
+      "New": "evan/F/2"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "22201010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 40. Attacks up to 6 enemies at 108% Damage 5 times and pushes them away.<br />After using a Mir Skill, casting Circle of Wind while Circle of Mana is active or while laying down, activates a Fusion Skill instead, but costs 3x more MP."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22111011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22111011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

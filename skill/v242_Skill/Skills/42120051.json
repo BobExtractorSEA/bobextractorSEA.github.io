@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6603168-03:00",
+  "ChangeType": "Changed",
+  "Id": "42120051",
+  "Name": "Bellflower Barrier - Boss Rush",
+  "Job": "Kanna",
+  "Desc": "Increases Bellflower Barrier duration.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/time": {
+      "Old": "20",
+      "New": "30"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42120051_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

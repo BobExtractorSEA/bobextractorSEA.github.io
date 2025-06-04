@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6374359-03:00",
+  "ChangeType": "Added",
+  "Id": "22201015",
+  "Name": "Magical Residue VI",
+  "Job": "Evan",
+  "Desc": "Enemies that are hit by the Fusion skills generate thick magical residue around them. The Magical Residue can be activated to inflict damage on enemies around Evan. Deals greater damage when more Magical Residue is activated at once.<br />In Auto Use mode, this skill is automatically activated every time a certain amount of magical residue is created.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span> <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Reinforced Magical Residue Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -1000,
+      "y": -650
+    },
+    "rb": {
+      "x": 1000,
+      "y": 650
+    }
+  },
+  "Fields": {
+    "req/22170070": "20",
+    "common/maxLevel": "30",
+    "common/mobCount": "15",
+    "common/attackCount": "1",
+    "common/damage": "127+10*x",
+    "common/mpCon": "142+u(x/4)*3",
+    "common/x": "15",
+    "common/time": "20000",
+    "common/lt/x": -1000,
+    "common/lt/y": -650,
+    "common/rb/x": 1000,
+    "common/rb/y": 650,
+    "common/w": "113+8*x",
+    "common/v": "1",
+    "common/u": "400",
+    "common/v2": "12",
+    "common/w2": "24",
+    "skillList/0": "400021000",
+    "footholdAffectedArea": "1",
+    "id": "22201015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "Generates 1 thick magical residue around enemies hit by the Fusion skills. Cooldown: 0.4 sec. Max Generation Count: 15. Costs 166 MP upon activation.<br />Throws magical residue at up to 15 enemies, attacking at 427% Damage 1 times. Damage +353%p every 5 magical residue. Generated magical residue disappears after a set period if left unused."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/22201015_effect_new.webp"
+    }
+  },
+  "Voices": {}
+}

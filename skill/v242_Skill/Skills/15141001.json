@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.487096-03:00",
+  "ChangeType": "Changed",
+  "Id": "15141001",
+  "Name": "Lightning Strike",
+  "Job": "Thunder Breaker",
+  "Desc": "Attacks Lightning Brand targets and drops lightning bolts. Relentless Fury's combo attacks and Lightning Vortex can create the brand on enemies without it.<br />When you attack a Lightning Brand target with a <span style=\"font-weight:bold; color:orange;\">Chain skill (except Sea Wave)</span>, a combo attack from Relentless Fury, or Lightning Vortex, the power of the brand and the accumulated lightning power from the chain attack combine to create a <span style=\"font-weight:bold; color:orange;\">massive thunderbolt</span>. The lightning bolts and thunderbolts do not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Annihilation Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/23": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15141001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

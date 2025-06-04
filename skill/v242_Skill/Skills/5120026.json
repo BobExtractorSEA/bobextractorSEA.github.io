@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2357596-03:00",
+  "ChangeType": "Changed",
+  "Id": "5120026",
+  "Name": "Serpent Assault Enrage",
+  "Job": "Buccaneer",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Assault Skill]</span><br />Summons an enraged Water Dragon activating Octopunch during Assault. Does not affect enemies in the Damage Reflection status.<br />Increases Serpent Assault skill DAMAGE with more knowledge of the Assault skill.<br />Required Skills: <span style=\"font-weight:bold; color:orange;\">Serpent Stone Lv. 1 or above</span>\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 50 MP, attacks up to 6 enemies at 420% damage 4 times for 5 sec. Disappears after attacking 15 times.<br />[Passive Effects: Serpent Assault Final Damage +100%]",
+      "New": "MP Cost: 50. Summons a Water Dragon for 5 sec.<br />The Water Dragon periodically attacks up to 6 enemies at 420% Damage 4 times. Disappears if attacking a single enemy 15 times.<br />[Passive Effects: Serpent Assault Final Damage +100%]"
+    },
+    "h1": {
+      "Old": "Consumes 50 MP, attacks up to 6 enemies at 420% damage 4 times for 5 sec. Disappears after attacking 15 times.<br />[Passive Effects: Serpent Assault Final Damage +100%]",
+      "New": "MP Cost: 50. Summons a Water Dragon for 5 sec.<br />The Water Dragon periodically attacks up to 6 enemies at 420% Damage 4 times. Disappears if attacking a single enemy 15 times.<br />[Passive Effects: Serpent Assault Final Damage +100%]"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. Summons a Water Dragon for 5 sec.<br />The Water Dragon periodically attacks up to 6 enemies at 420% Damage 4 times. Disappears if attacking a single enemy 15 times.<br />[Passive Effects: Serpent Assault Final Damage +100%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5120026_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

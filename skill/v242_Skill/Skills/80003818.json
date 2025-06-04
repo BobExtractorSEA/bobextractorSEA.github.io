@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.3062205-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003818",
+  "Name": "NEXT Warm-up: EXP Obtained",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">EXP</span> Gain when hunting monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up : EXP Obtained",
+      "New": "NEXT Warm-up: EXP Obtained"
+    },
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">EXP Obtained</span> from Hunting monsters increases.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">EXP</span> Gain when hunting monsters."
+    },
+    "H": {
+      "Old": "EXP Obtained + 1000%",
+      "New": "EXP Obtained+1000%"
+    },
+    "h1": {
+      "Old": "EXP Obtained + 1000%",
+      "New": "EXP Obtained+1000%"
+    }
+  },
+  "HFields": {
+    "h1": "EXP Obtained+1000%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003818_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

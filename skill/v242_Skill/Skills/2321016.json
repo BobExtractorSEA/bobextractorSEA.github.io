@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.80804-03:00",
+  "ChangeType": "Changed",
+  "Id": "2321016",
+  "Name": "Holy Blood",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Cannot recover temporarily, but gains stronger power instead by shedding holy blood. Can reuse skill to cancel.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/39",
+      "New": "bishop/M/39"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/40",
+      "New": "bishop/M/40"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/34",
+      "New": "bishop/M/34"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/36",
+      "New": "bishop/F/36"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/37",
+      "New": "bishop/F/37"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/41",
+      "New": "bishop/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2321016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

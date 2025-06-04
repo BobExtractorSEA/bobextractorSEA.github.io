@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7884836-03:00",
+  "ChangeType": "Changed",
+  "Id": "154141003",
+  "Name": "Void Rush VI",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Void]</span><br />Move quickly in one direction until only your afterimages are visible. Can be used in 8 directions. When used in conjunction with the direction keys, it moves you in that direction, attacks enemies in the path of your movement, and can be used in succession. But it can only be used up to 2 times in an upward direction while in the air, regardless of the cooldown reset. Using any skill other than the Spark or Hex type will cancel its successive use. Void Rush can be used again during its effect to immediately start the next move. Also, briefly causes Dark Sight and keeps you float in the air at the end of your travel. Can be used during Artz and Hex skills. Press Jump while moving to stop immediately. Void Rush does not affect enemies in the Damage Reflection status. Also, not affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Insanity III Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "khali/M/86",
+      "New": "khali/M/86"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/88",
+      "New": "khali/M/88"
+    },
+    "voice/male/path/2": {
+      "Old": "khali/M/92",
+      "New": "khali/M/92"
+    },
+    "voice/male/path/3": {
+      "Old": "khali/M/89",
+      "New": "khali/M/89"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/123",
+      "New": "khali/F/123"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/126",
+      "New": "khali/F/126"
+    },
+    "voice/female/path/2": {
+      "Old": "khali/F/127",
+      "New": "khali/F/127"
+    },
+    "voice/female/path/3": {
+      "Old": "khali/F/121",
+      "New": "khali/F/121"
+    },
+    "cancelableSkillID/10": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "cancelableSkillID/11": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "skillList/8": {
+      "Old": null,
+      "New": "154141011"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

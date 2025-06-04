@@ -1,0 +1,102 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9874643-03:00",
+  "ChangeType": "Added",
+  "Id": "151141014",
+  "Name": "Gathering VI",
+  "Job": "Adele",
+  "Desc": "Orders all Ether Swords to return to you. All Ether Swords return to the location where the skill was used in a straight line, attacking all enemies along the way and briefly staying at that location. Can only be used when <span style=\"font-weight:bold; color:orange;\">there is an Ether Sword tracking an enemy with Order</span>.<br />While Gathering, the Ether Sword's duration is not reduced. Gathering doesn't affect enemies in the Damage Reflection status and isn't affected by Cooldown Reset effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Gathering Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -600,
+      "y": -350
+    },
+    "rb": {
+      "x": 600,
+      "y": 300
+    }
+  },
+  "Fields": {
+    "info2/ignoreCounter": "1",
+    "req/151111002": "20",
+    "common/maxLevel": "30",
+    "common/mpCon": "50+d(x/4)",
+    "common/damage": "610+12*x",
+    "common/attackCount": "4",
+    "common/mobCount": "10",
+    "common/cooltime": "12",
+    "common/x": "10",
+    "common/range": "140",
+    "common/lt/x": -600,
+    "common/lt/y": -350,
+    "common/rb/x": 600,
+    "common/rb/y": 300,
+    "common/y": "0",
+    "common/time": "30",
+    "common/z": "1",
+    "common/w": "180",
+    "common/subTime": "90",
+    "common/q": "90",
+    "common/s": "40",
+    "common/q2": "60",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "mob/repeat": "1",
+    "mob/pos": "2",
+    "weapon": "213",
+    "subWeapon": "35",
+    "notCooltimeReset": "1",
+    "id": "151141014",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = adele/M/24 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/17 }",
+    "voice/female/path/1": "{ Old = , New = adele/F/18 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 57. Attacks up to 10 enemies at 970% Damage 4 times.<br />Attacked enemies receive a debuff for 30 sec., allowing Adele to Ignore DEF +10% against them.<br />Successful attacks create a 40% chance of creating an Ether Crystal.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141014_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/151141014_mob_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

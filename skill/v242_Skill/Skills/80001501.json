@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.7037871-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001501",
+  "Name": "Bad Brawler",
+  "Job": "Etc",
+  "Desc": "Summons Fighter Plaid to aid in combat. The Soul Weapon's power temporarily summons Plaid to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

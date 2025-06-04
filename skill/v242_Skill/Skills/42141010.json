@@ -1,0 +1,72 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9935985-03:00",
+  "ChangeType": "Added",
+  "Id": "42141010",
+  "Name": "Nine-Tailed Fury Ⅵ (Passive)",
+  "Job": "Kanna",
+  "Desc": "Now at full power, Haku inflicts additional damage during the cooldown alongside Kanna's attacks.",
+  "Coordinates": {
+    "lt": {
+      "x": -50,
+      "y": -45
+    },
+    "rb": {
+      "x": 77,
+      "y": 36
+    }
+  },
+  "Fields": {
+    "invisible": "1",
+    "effect/z": "-1",
+    "skillDelay/delay": "1000",
+    "skillDelay/skillID": "42141010",
+    "common/lt/x": -50,
+    "common/lt/y": -45,
+    "common/rb/x": 77,
+    "common/rb/y": 36,
+    "common/maxLevel": "30",
+    "common/u": "100",
+    "common/damage": "180+(5*x)",
+    "common/mobCount": "6",
+    "common/attackCount": "3",
+    "common/time": "500",
+    "common/x": "650",
+    "common/y": "45",
+    "common/z": "20",
+    "weapon": "55",
+    "skillpetAction": "teleportbegin",
+    "req/42141009": "10",
+    "id": "42141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "[Passive effect] During the cooldown for Nine-Tailed Fury, grants a 100% chance for Haku to attack up to 6 enemies in front at 330% damage 3 times"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/42141010_effect_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/42141010_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/42141010_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/42141010_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

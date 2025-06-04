@@ -1,0 +1,85 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.020392-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321014",
+  "Name": "Combo Assault",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Attacks the nearby enemy with a bow, and then shoots an arrow flying through space to attack a wide range of enemies.<br /><span style=\"font-weight:bold; color:orange;\">Discharge Enhancement</span><br />Arrows deal damage to enemies in a wider range.<br /><span style=\"font-weight:bold; color:orange;\">Blast Enhancement</span><br />Performs a powerful strike to an enemy with your bow.<br /><span style=\"font-weight:bold; color:orange;\">Transition Enhancement</span><br />Gives multiple Ancient Curse Debuff stacks to enemies damaged by your bow attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Relic Gauge Cost: 100. Bow attack deals damage to up to 4 enemies at 500% damage 7 times. Damaged enemies are inflicted with 1 stacks of the Ancient Curse Debuff.<br />Arrows deal damage up to 10 enemies at 550% damage 5 times.<br />Cooldown: 20 sec.",
+      "New": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 4 enemies at 500% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 10 enemies at 550% damage 5 times.<br />Cooldown 20 sec."
+    },
+    "h1": {
+      "Old": "Relic Gauge Cost: 100. Bow attack deals damage to up to 4 enemies at 500% damage 7 times. Damaged enemies are inflicted with 1 stacks of the Ancient Curse Debuff.<br />Arrows deal damage up to 10 enemies at 550% damage 5 times.<br />Cooldown: 20 sec.",
+      "New": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 4 enemies at 500% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 10 enemies at 550% damage 5 times.<br />Cooldown 20 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/37",
+      "New": "pathfinder/M/37"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/46",
+      "New": "pathfinder/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/38",
+      "New": "pathfinder/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/39",
+      "New": "pathfinder/F/39"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 100.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 4 enemies at 500% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 10 enemies at 550% damage 5 times.<br />Cooldown 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

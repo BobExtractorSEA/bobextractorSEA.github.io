@@ -1,0 +1,31 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1432872-03:00",
+  "ChangeType": "Added",
+  "Id": "80003838",
+  "Name": null,
+  "Job": "Etc",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "common/maxLevel": "1",
+    "common/x": "30",
+    "common/time": "3",
+    "invisible": "1",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "id": "80003838"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003838_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

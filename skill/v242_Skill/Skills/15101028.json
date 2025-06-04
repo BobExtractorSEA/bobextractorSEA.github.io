@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1454456-03:00",
+  "ChangeType": "Changed",
+  "Id": "15101028",
+  "Name": "Sea Wave",
+  "Job": "Thunder Breaker",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Combo Skill]</span><br />When you combo skills, create a wave infused with the power of lightning that moves towards the enemies. When the Sea Wave is created, it will flow in the direction that the Striker is facing, then pursue in directions where there are enemies that can be attacked within a certain range.<br />Flow and attack collided enemies and you do not take damage from attacking enemies’ with Damage Reflect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/43",
+      "New": "striker/M/43"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/44",
+      "New": "striker/M/44"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/45",
+      "New": "striker/M/45"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/26",
+      "New": "striker/M/26"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/27",
+      "New": "striker/M/27"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/29",
+      "New": "striker/M/29"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/64",
+      "New": "striker/F/64"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/65",
+      "New": "striker/F/65"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/66",
+      "New": "striker/F/66"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/42",
+      "New": "striker/F/42"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "15141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15101028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15101028_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

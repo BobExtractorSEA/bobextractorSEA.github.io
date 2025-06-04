@@ -1,0 +1,41 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1859955-03:00",
+  "ChangeType": "Added",
+  "Id": "51140018",
+  "Name": "Final Attack VI",
+  "Job": "Mihile",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a One-handed Sword equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Final Attack Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/51120002": "30",
+    "common/maxLevel": "30",
+    "common/damage": "102+4*x",
+    "common/attackCount": "4",
+    "common/prop": "76",
+    "hit/0/randomHitAngleRange/x": -105,
+    "hit/0/randomHitAngleRange/y": 25,
+    "hit/0/onlyOnce": "1",
+    "skillType": "3",
+    "id": "51140018",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks create a 76% chance of Final Attack that attacks at 222% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51140018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/51140018_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

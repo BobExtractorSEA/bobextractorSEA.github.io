@@ -1,0 +1,183 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.4381366-03:00",
+  "ChangeType": "Changed",
+  "Id": "31211000",
+  "Name": "Exceed: Moonlight Slash",
+  "Job": "Demon Avenger",
+  "Desc": "Circles around, cutting enemies in front and back.<br /><span style=\"font-weight:bold; color:orange;\">Exceed</span>: Gradually increases Attack Speed as it consumes more HP, and achieves a wider attack range at the final level.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/hpRCon": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "350+5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "2",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "10",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "demonAvenger/M/27",
+      "New": "demonAvenger/M/27"
+    },
+    "voice/male/path/1": {
+      "Old": "demonAvenger/M/28",
+      "New": "demonAvenger/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "demonAvenger/M/29",
+      "New": "demonAvenger/M/29"
+    },
+    "voice/male/path/3": {
+      "Old": "demonAvenger/M/9",
+      "New": "demonAvenger/M/9"
+    },
+    "voice/male/path/4": {
+      "Old": "demonAvenger/M/6",
+      "New": "demonAvenger/M/6"
+    },
+    "voice/female/path/0": {
+      "Old": "demonAvenger/F/30",
+      "New": "demonAvenger/F/30"
+    },
+    "voice/female/path/1": {
+      "Old": "demonAvenger/F/31",
+      "New": "demonAvenger/F/31"
+    },
+    "voice/female/path/2": {
+      "Old": "demonAvenger/F/32",
+      "New": "demonAvenger/F/32"
+    },
+    "voice/female/path/3": {
+      "Old": "demonAvenger/F/5",
+      "New": "demonAvenger/F/5"
+    },
+    "voice/female/path/4": {
+      "Old": "demonAvenger/F/1",
+      "New": "demonAvenger/F/1"
+    },
+    "voice/female/path/5": {
+      "Old": "demonAvenger/F/6",
+      "New": "demonAvenger/F/6"
+    },
+    "voice/female/path/6": {
+      "Old": "demonAvenger/F/9",
+      "New": "demonAvenger/F/9"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31241007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31211000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31211000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

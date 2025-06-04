@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.0752612-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001692",
+  "Name": "Sanguis Regina",
+  "Job": "Etc",
+  "Desc": "The finicky Crimson Queen changes her looks according to her mood. The Soul Weapon's power temporarily summons the Raging Crimson Queen to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001692_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

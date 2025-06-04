@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3860357-03:00",
+  "ChangeType": "Changed",
+  "Id": "1301007",
+  "Name": "Hyper Body",
+  "Job": "Dark Knight",
+  "Desc": "Temporarily increases Max HP/MP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 3 Iron Wall or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/33",
+      "New": "darkKnight/M/33"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/34",
+      "New": "darkKnight/M/34"
+    },
+    "voice/male/path/2": {
+      "Old": "darkKnight/M/35",
+      "New": "darkKnight/M/35"
+    },
+    "voice/male/path/3": {
+      "Old": "darkKnight/M/38",
+      "New": "darkKnight/M/38"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/39",
+      "New": "darkKnight/F/39"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/47",
+      "New": "darkKnight/F/47"
+    },
+    "voice/female/path/2": {
+      "Old": "darkKnight/F/42",
+      "New": "darkKnight/F/42"
+    },
+    "voice/female/path/3": {
+      "Old": "darkKnight/F/50",
+      "New": "darkKnight/F/50"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1301007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

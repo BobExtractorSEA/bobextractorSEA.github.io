@@ -1,0 +1,63 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7168923-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041044",
+  "Name": "Hologram Graffiti: Fusion",
+  "Job": "5th (Thief)",
+  "Desc": "Shows a new hologram field that incorporates all hologram graffiti functions. If the field overlaps with previously installed holographic graffiti, it removes the holographic graffiti. Does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Hologram Graffiti or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 1000 MP, and generates a hologram field for 30 sec.<br />Whenever the ball touches the hologram Field, a maximum of 10 enemies are inflicted with 500% damage 5 times. Enemies also get the same damage when hit by the ball.<br />Party members in the hologram field gain +17% more damage, and 1 Surplus Energy is charged if they evade<br />If Xenon is in the hologram field, 7 more missiles will be launched by Aegis System.<br />Cooldown 90 sec",
+      "New": "MP Cost: 1000. Generates a hologram field for 30 sec.<br />Whenever the ball touches the hologram field, up to 10 enemies are attacked at 500% Damage 5 times. Enemies also receive the same amount of damage when hit by the ball.<br />Party member Damage +17% within the hologram field. 1 Surplus Energy is charged if party members within the field evade.<br />Cooldown: 90 sec."
+    },
+    "h1": {
+      "Old": "Consumes 1000 MP, and generates a hologram field for 30 sec.<br />Whenever the ball touches the hologram Field, a maximum of 10 enemies are inflicted with 500% damage 5 times. Enemies also get the same damage when hit by the ball.<br />Party members in the hologram field gain +17% more damage, and 1 Surplus Energy is charged if they evade<br />If Xenon is in the hologram field, 7 more missiles will be launched by Aegis System.<br />Cooldown 90 sec",
+      "New": "MP Cost: 1000. Generates a hologram field for 30 sec.<br />Whenever the ball touches the hologram field, up to 10 enemies are attacked at 500% Damage 5 times. Enemies also receive the same amount of damage when hit by the ball.<br />Party member Damage +17% within the hologram field. 1 Surplus Energy is charged if party members within the field evade.<br />Cooldown: 90 sec."
+    },
+    "common/x": {
+      "Old": "5+d(x/10)",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "xenon/M/63",
+      "New": "xenon/M/63"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/63",
+      "New": "xenon/F/63"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 1000. Generates a hologram field for 30 sec.<br />Whenever the ball touches the hologram field, up to 10 enemies are attacked at 500% Damage 5 times. Enemies also receive the same amount of damage when hit by the ball.<br />Party member Damage +17% within the hologram field. 1 Surplus Energy is charged if party members within the field evade.<br />Cooldown: 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041044_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041044_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041044_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

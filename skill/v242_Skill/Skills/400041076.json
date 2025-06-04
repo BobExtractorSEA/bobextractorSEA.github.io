@@ -1,0 +1,45 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7971448-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041076",
+  "Name": "Haunted Edge - Sura",
+  "Job": "5th (Thief)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/25",
+      "New": "dualBlade/M/25"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/26",
+      "New": "dualBlade/F/26"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041076_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041076_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041076_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

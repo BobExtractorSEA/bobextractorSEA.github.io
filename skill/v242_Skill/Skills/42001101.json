@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.3440816-03:00",
+  "ChangeType": "Changed",
+  "Id": "42001101",
+  "Name": "Ether Energy",
+  "Job": "Kanna",
+  "Desc": "Recovers extra Spiritual Energy by <span style=\"font-weight:bold; color:orange;\">30</span> points every second. Casting the barrier here will enable an even more powerful barrier by absorbing the power of the Ether spot.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42001101_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

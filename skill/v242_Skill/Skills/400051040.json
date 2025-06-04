@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.044386-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051040",
+  "Name": "Nautilus Assault",
+  "Job": "5th (Pirate)",
+  "Desc": "Nautilus charges towards enemies. Crashes its gigantic hull against enemies and creates a chance to annihilate enemies firing a volley from the turrets. Does not affect enemies in the Damage Reflection state.<br />Cannot be used while <span style=\"font-weight:bold; color:orange;\">Nautilus Strike</span> is active.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Nautilus Strike Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "captain/M/36",
+      "New": "captain/M/36"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/37",
+      "New": "captain/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/39",
+      "New": "captain/F/39"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/40",
+      "New": "captain/F/40"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051040_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051040_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051040_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051040_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051040_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

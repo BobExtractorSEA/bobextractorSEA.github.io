@@ -1,0 +1,74 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6584347-03:00",
+  "ChangeType": "Changed",
+  "Id": "152141005",
+  "Name": "Glory wing : Encant Javelin VI",
+  "Job": "Illium",
+  "Desc": "Fires 3 enhanced Javelin with Glory Wing's power. The Javelin will automatically track enemies and explode to deal tremendous damage.<br />When this skill is used, Magic Missiles will also be created to attack enemies. Javelin and magic missile attacks a boss monster with higher max HP first.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Javelin Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skill": {
+      "Old": null,
+      "New": "152141014"
+    },
+    "addAttack/type": {
+      "Old": null,
+      "New": "0"
+    },
+    "addAttack/reqCount": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/pattern": {
+      "Old": null,
+      "New": "151"
+    },
+    "addAttack/skipActionFrame": {
+      "Old": null,
+      "New": "3"
+    },
+    "addAttack/patternType": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/permitTime": {
+      "Old": null,
+      "New": "450"
+    },
+    "addAttack/isCancelable": {
+      "Old": null,
+      "New": "1"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/0": {
+      "Old": null,
+      "New": "80001155"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/1": {
+      "Old": null,
+      "New": "80002633"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/2": {
+      "Old": null,
+      "New": "152121010"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/3": {
+      "Old": null,
+      "New": "152121043"
+    },
+    "addAttack/ignoreSetAddAttackDoingSkill/4": {
+      "Old": null,
+      "New": "400001009"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

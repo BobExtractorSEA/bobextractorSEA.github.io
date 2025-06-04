@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2007841-03:00",
+  "ChangeType": "Changed",
+  "Id": "35121052",
+  "Name": "Distortion Field",
+  "Job": "Mechanic",
+  "Desc": "Distorts space by shooting special bullets made with Resistance vision technology.<br />Distortion Field does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Distorts space by shooting special bullets made with Resistance vision technology. Distortion Field is not affected by enemies in the Damage Reflection status.",
+      "New": "Distorts space by shooting special bullets made with Resistance vision technology.<br />Distortion Field does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "H": {
+      "Old": "MP Cost: 250. Attacks up to 8 enemies 2 times with 350% damage for 4 sec.<br />Cooldown: 8 sec",
+      "New": "MP Cost: 250. Periodically attacks up to 8 enemies at 350% Damage 2 times for 4 sec.<br />Cooldown: 8 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 250. Attacks up to 8 enemies 2 times with 350% damage for 4 sec.<br />Cooldown: 8 sec",
+      "New": "MP Cost: 250. Periodically attacks up to 8 enemies at 350% Damage 2 times for 4 sec.<br />Cooldown: 8 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "250",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "350",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "400",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "8",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mechanic/M/33",
+      "New": "mechanic/M/33"
+    },
+    "voice/male/path/1": {
+      "Old": "mechanic/M/34",
+      "New": "mechanic/M/34"
+    },
+    "voice/male/path/2": {
+      "Old": "mechanic/M/35",
+      "New": "mechanic/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "mechanic/F/33",
+      "New": "mechanic/F/33"
+    },
+    "voice/female/path/1": {
+      "Old": "mechanic/F/34",
+      "New": "mechanic/F/34"
+    },
+    "voice/female/path/2": {
+      "Old": "mechanic/F/35",
+      "New": "mechanic/F/35"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "35141004"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 250. Periodically attacks up to 8 enemies at 350% Damage 2 times for 4 sec.<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_35121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/35121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

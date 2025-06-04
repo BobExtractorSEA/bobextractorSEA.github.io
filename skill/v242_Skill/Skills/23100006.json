@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6001067-03:00",
+  "ChangeType": "Changed",
+  "Id": "23100006",
+  "Name": "Final Attack: Dual Bowguns",
+  "Job": "Mercedes",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Dual Bowgun equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dual Bowgun Mastery Lv. 3 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill, 'Advanced Final Attack'</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With 40% chance, invoke 75% final attck 2 times.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Final Attack that attacks at 75% Damage 2 times"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With 40% chance, invoke 75% final attck 2 times.",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Final Attack that attacks at 75% Damage 2 times"
+    }
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 40% chance of Final Attack that attacks at 75% Damage 2 times"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23100006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

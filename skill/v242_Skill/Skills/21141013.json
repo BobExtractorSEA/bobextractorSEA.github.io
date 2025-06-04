@@ -1,0 +1,116 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4065502-03:00",
+  "ChangeType": "Added",
+  "Id": "21141013",
+  "Name": "Frozen Ground VI",
+  "Job": "Aran",
+  "Desc": "Using Maha's power, summons a pole arm filled with frigid cold that generates permafrost for a while. Frozen Ground is not affected by SUMMONS DURATION INCREASE and does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />[Command: <span style=\"font-weight:bold; color:orange;\">[Down] + Attack key</span>]<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Frozen Ground Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "31",
+    "req/21111034": "20",
+    "action/0": "6thFrozenGround",
+    "common/maxLevel": "30",
+    "common/mpCon": "35+d(x/4)",
+    "common/damage": "555+11*x",
+    "common/attackCount": "4",
+    "common/mobCount": "6",
+    "common/time": "60",
+    "common/cooltime": "30",
+    "common/attackDelay": "2000",
+    "summon/summoned/z": "-1",
+    "summon/stand/z": "-1",
+    "summon/attack1/info/range/lt/x": -310,
+    "summon/attack1/info/range/lt/y": -285,
+    "summon/attack1/info/range/rb/x": 310,
+    "summon/attack1/info/range/rb/y": 80,
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack1/z": "-1",
+    "summon/die/z": "-1",
+    "summon/createDelay": "420",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/0/delayedTime": "240",
+    "hit/0/randomHitAngleRange/x": -40,
+    "hit/0/randomHitAngleRange/y": 40,
+    "additional_process/0": "18",
+    "additional_process/1": "33",
+    "additional_process/2": "41",
+    "weapon": "44",
+    "footholdInstallSummoned": "1",
+    "showSummonedBuffIcon": "1",
+    "processtype": "7",
+    "syncSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "21141013",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = aran/M/34 }",
+    "voice/male/path/1": "{ Old = , New = aran/M/35 }",
+    "voice/female/path/0": "{ Old = , New = aran/F/33 }",
+    "voice/female/path/1": "{ Old = , New = aran/F/34 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 42. Lasts for 60 sec.<br />Periodically attacks up to 6 enemies at 885% Damage 4 times.<br />Cooldown: 30 sec"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/21141013_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/21141013_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21141013_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21141013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

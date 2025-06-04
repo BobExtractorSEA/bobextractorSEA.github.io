@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8507516-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011000",
+  "Name": "Aura Weapon",
+  "Job": "5th (Warrior)",
+  "Desc": "Grants life to weapons and exerts strong power. Aurawave does not affect enemies in the Damage Reflection state. Affected by Cooldown Reduction effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

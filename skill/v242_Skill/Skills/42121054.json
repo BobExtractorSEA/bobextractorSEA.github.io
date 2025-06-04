@@ -1,0 +1,53 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.666352-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121054",
+  "Name": "Demonic Exorcism Array",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Creates a barrier around her that denies and weakens wicked beings.<br />(Automatically disabled if you stay immobile or hanging on rope for too long.)",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/epCon": {
+      "Old": "30",
+      "New": "0"
+    },
+    "voice/male/path/0": {
+      "Old": "kanna/M/1",
+      "New": "kanna/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/1",
+      "New": "kanna/F/1"
+    },
+    "skillList/1": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

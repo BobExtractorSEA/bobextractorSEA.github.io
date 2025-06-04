@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1215595-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061069",
+  "Name": "Conjure Spirit Stone",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Summons a spirit stone that strengthens both you and your party. This spirit stone absorbs Kanna's Spiritual Energy and grows stronger in stages.  The spirit stone effects do not stack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061069_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

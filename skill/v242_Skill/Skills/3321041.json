@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.1120356-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321041",
+  "Name": "Epic Adventure",
+  "Job": "Pathfinder",
+  "Desc": "This buff can only be used by legendary explorer classes that have attained the highest form of advancement. Increases damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

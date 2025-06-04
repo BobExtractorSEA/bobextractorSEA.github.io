@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.8614352-03:00",
+  "ChangeType": "Changed",
+  "Id": "2341004",
+  "Name": "Triumph Feather VI",
+  "Job": "Bishop",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Sends down the victorious power of Angel. While the victorious power still works, this skill hits the enemy to create Angel's wing feathers to chase and attack nearby enemies.<br />Triumph Feather VI is affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dispel Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Sends down the victorious power of Angel. While the victorious power still works, this skill hits the enemy to create Angel's wing feathers to chase and attack nearby enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dispel Lv. 10 or higher</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Revenge]</span> Sends down the victorious power of Angel. While the victorious power still works, this skill hits the enemy to create Angel's wing feathers to chase and attack nearby enemies.<br />Triumph Feather VI is affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dispel Lv. 10 or higher</span>"
+    },
+    "skillList/17": {
+      "Old": "2341002",
+      "New": "2341007"
+    },
+    "skillList/18": {
+      "Old": "2341003",
+      "New": "2341009"
+    },
+    "voice/male/path/0": {
+      "Old": "bishop/M/10",
+      "New": "bishop/M/10"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/33",
+      "New": "bishop/M/33"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/10",
+      "New": "bishop/F/10"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/34",
+      "New": "bishop/F/34"
+    },
+    "skillList/19": {
+      "Old": null,
+      "New": "2341011"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "2341002"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "2341003"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "applySixthSkillIncBuffDuration": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

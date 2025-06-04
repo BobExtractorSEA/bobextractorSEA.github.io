@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.1835609-03:00",
+  "ChangeType": "Changed",
+  "Id": "63111010",
+  "Name": "Remain Incense",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillSpecialValue/63141120": {
+      "Old": null,
+      "New": "6"
+    },
+    "skillSpecialValue/63141127": {
+      "Old": null,
+      "New": "8"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63111010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

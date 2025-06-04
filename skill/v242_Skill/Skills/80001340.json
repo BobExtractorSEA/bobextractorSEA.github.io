@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.1475344-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001340",
+  "Name": "Advance! That is me.",
+  "Job": "Etc",
+  "Desc": "Magnus, with unmatched confidence, advances after his sword. Magnus, summoned by the power of soul weapon, pushes forward and attacks with his large sword.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001340_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

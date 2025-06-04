@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.4692714-03:00",
+  "ChangeType": "Changed",
+  "Id": "15121054",
+  "Name": "Extreme Blitz",
+  "Job": "Thunder Breaker",
+  "Desc": "A huge lightning that separated the heavens and the earth In the beginning provides the fundamental forces to enhance the power of Lightning Buff and <span style=\"font-weight:bold; color:orange;\">Continuous Assault Skill</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/69",
+      "New": "striker/M/69"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/70",
+      "New": "striker/M/70"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/3",
+      "New": "striker/M/3"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/18",
+      "New": "striker/M/18"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/23",
+      "New": "striker/M/23"
+    },
+    "voice/male/path/5": {
+      "Old": "striker/M/24",
+      "New": "striker/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/90",
+      "New": "striker/F/90"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/91",
+      "New": "striker/F/91"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/19",
+      "New": "striker/F/19"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/30",
+      "New": "striker/F/30"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/47",
+      "New": "striker/F/47"
+    },
+    "voice/female/path/5": {
+      "Old": "striker/F/44",
+      "New": "striker/F/44"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3329569-03:00",
+  "ChangeType": "Changed",
+  "Id": "36120015",
+  "Name": "Rocket System Final Enhancement",
+  "Job": "Xenon",
+  "Desc": "Maximizes the Rocket System performance.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 2nd Enhancement Lv. 14 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pinpoint Rocket Final Fortification",
+      "New": "Rocket System Final Enhancement"
+    },
+    "Desc": {
+      "Old": "Maximizes the Pinpoint Rocket damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Pinpoint Rocket</span>",
+      "New": "Maximizes the Rocket System performance.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 2nd Enhancement Lv. 14 or higher</span>"
+    },
+    "H": {
+      "Old": "Increases damage of Pinpoint Rocket by 100%p. Stacks with 1st and 2nd fortification.",
+      "New": "Rocket System Damage +60%p"
+    },
+    "h1": {
+      "Old": "Increases damage of Pinpoint Rocket by 100%p. Stacks with 1st and 2nd fortification.",
+      "New": "Rocket System Damage +60%p"
+    },
+    "common/damPlus": {
+      "Old": "10*x",
+      "New": "10+5*x"
+    },
+    "req/36001005": {
+      "Old": "1",
+      "New": null
+    },
+    "req/36110012": {
+      "Old": null,
+      "New": "14"
+    }
+  },
+  "HFields": {
+    "h1": "Rocket System Damage +60%p"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36120015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

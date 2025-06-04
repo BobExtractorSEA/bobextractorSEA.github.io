@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8840733-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011002",
+  "Name": "Sword of Burning Soul",
+  "Job": "5th (Warrior)",
+  "Desc": "Creates a burning soul in the shape of a sword. Even if you attack an enemy that is in attack reflection mode, you will not take damage. When used with the down arrow key, you can summon it in a stationary state.<br />If you use a custom command, you can immediately summon it in a stationary state just by using the skill key without inputting the arrow key.<br /><span style=\"font-weight:bold; color:orange;\">Custom command on/off: Right-click the </span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Razing Blow Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

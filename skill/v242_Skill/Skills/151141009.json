@@ -1,0 +1,74 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0316889-03:00",
+  "ChangeType": "Added",
+  "Id": "151141009",
+  "Name": "Creation VI",
+  "Job": "Adele",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -510,
+      "y": -215
+    },
+    "rb": {
+      "x": 35,
+      "y": 135
+    }
+  },
+  "Fields": {
+    "type": "50",
+    "info2/ignoreCounter": "1",
+    "req/151101006": "10",
+    "common/maxLevel": "30",
+    "common/damage": "780+8*x",
+    "common/attackCount": "6",
+    "common/mobCount": "10",
+    "common/subTime": "1500",
+    "common/lt/x": -510,
+    "common/lt/y": -215,
+    "common/rb/x": 35,
+    "common/rb/y": 135,
+    "common/x": "990",
+    "common/prop": "30",
+    "skillList/0": "151101000",
+    "skillList/1": "151111000",
+    "skillList/2": "151121000",
+    "skillList/3": "151121002",
+    "skillList/4": "151141000",
+    "skillList/5": "151141001",
+    "skillList/6": "151141005",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/delayedTimeActionSpeed": "450",
+    "invisible": "1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "id": "151141009",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/151141009_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141009_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/151141009_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.438905-03:00",
+  "ChangeType": "Changed",
+  "Id": "95001016",
+  "Name": "Arrow Platter VI",
+  "Job": "Etc",
+  "Desc": "Shoots arrows at a high angle. Hold down the Skill key to shoot continuously. <span style=\"font-weight:bold; color:orange;\">Use [Up]/[Down]</span> to adjust the power.<br />Push the Gather/NPC Talk key while casting this skill to install an Arrow Platter at your current location to fire arrows continuously. When using custom commands, the Bow master can install platter with the Attack key instead of Gather/NPC Talk key.<br />The installed Arrow Platter does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Toggle Custom Command: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_95001016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

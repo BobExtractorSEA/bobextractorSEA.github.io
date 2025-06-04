@@ -1,0 +1,140 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1891232-03:00",
+  "ChangeType": "Added",
+  "Id": "155141031",
+  "Name": "Entrancing Confinement VI",
+  "Job": "Ark",
+  "Desc": "Charges forward to create an Abyssal Prison to bind and constrain the enemy. Using the skill turns you into Spectral Form. This can't be used in Vigor Exhaustion status, and isn't affected by cooldown reset effects.<br />Entrancing Confinement prioritizes the enemy with the highest Max HP within range, does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and doesn't create Approaching Deaths.<br />Attacked enemy will resist bind effects for 90 sec. and can't be affected by Entrancing Confinement or any other bind skills again.<br />Ignores collisions with monsters for its duration.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Entrancing Confinement Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -150
+    },
+    "rb": {
+      "x": 5,
+      "y": 10
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "trembling": "1",
+    "info2/ignoreCounter": "1",
+    "req/155121306": "30",
+    "action/0": "6thDesire",
+    "common/maxLevel": "30",
+    "common/hpCon": "1100+5*x",
+    "common/damage": "720+16*x",
+    "common/attackCount": "6",
+    "common/mobCount": "1",
+    "common/lt/x": -450,
+    "common/lt/y": -150,
+    "common/rb/x": 5,
+    "common/rb/y": 10,
+    "common/cooltime": "120",
+    "common/time": "10",
+    "common/z": "900",
+    "common/t": "8.1",
+    "common/x": "600+10*x",
+    "common/u": "12",
+    "common/v": "3",
+    "common/w2": "255+4*x",
+    "common/s2": "12",
+    "common/q2": "8",
+    "common/u2": "990",
+    "common/v2": "7",
+    "extraSkillInfo/0/skill": "155141032",
+    "extraSkillInfo/0/delay": "1000",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "200",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/0/distance/gap": "8",
+    "rush/elem/0/distance/applyX": "1",
+    "rush/elem/0/distance/applyY": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "processtype": "-1",
+    "weapon": "48",
+    "weapon2": "39",
+    "notCooltimeReset": "1",
+    "subWeapon": "35",
+    "hit/0/randomHitOrigin": "15",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "16",
+    "id": "155141031",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "0",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = ark/M/37 }",
+    "voice/male/path/1": "{ Old = , New = ark/M/35 }",
+    "voice/male/path/2": "{ Old = , New = ark/M/10 }",
+    "voice/female/path/0": "{ Old = , New = ark/F/41 }",
+    "voice/female/path/1": "{ Old = , New = ark/F/5 }",
+    "voice/female/path/2": "{ Old = , New = ark/F/10 }"
+  },
+  "HFields": {
+    "h1": "HP Cost: 1250. Attacks 1 enemies at 1200% Damage 6 times. Target becomes bound for 10 sec., and the bind duration is increased up to 100% based on the damage dealt to the target.<br />Afterward, periodically attacks up to 12 enemies at 900% Damage 3 times for 8.1 sec.<br />At the end of the skill, activates 7 explosions that attack up to 12 enemies at 375% Damage 8 times.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141031_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/155141031_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141031_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

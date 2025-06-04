@@ -1,0 +1,84 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8139389-03:00",
+  "ChangeType": "Added",
+  "Id": "41141005",
+  "Name": "Falcon's Honour VI",
+  "Job": "Hayato",
+  "Desc": "Unleash a powerful attack with the all-cutting Odachi, blessed by the two war gods Shingen and Kenshin.",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/41121052": "1",
+    "action/0": "6thDAthousandSword0",
+    "effect/fix": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "200",
+    "common/damage": "500",
+    "common/attackCount": "8",
+    "common/mobCount": "14",
+    "common/cooltime": "8",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 400,
+    "common/rb/y": 200,
+    "common/x": "100",
+    "applyHyper": "1",
+    "weapon ": "54",
+    "skillList/0": "400011000",
+    "rwCancelInfo/0/skill": "400011138",
+    "rwCancelInfo/0/cancelFrame": "1",
+    "id": "41141005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = hayato/M/0 }",
+    "voice/female/path/0": "{ Old = , New = hayato/F/0 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 200, Sword Energy: +100, Damage: 500%, Number of Attacks: 8, Max Enemies Hit: 14<br />Cooldown: 8 sec"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_41141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/41141005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/41141005_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/41141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8046643-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041084",
+  "Name": "Void Burst",
+  "Job": "5th (Thief)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Void]</span><br />Descend as a wind of vengeance, destroying all enemies in your wake. This skill temporarily makes you Invincible. If reused, it triggers a series of slashes that track a single target in range. Delivers a powerful finishing blow at the end of the series of slashes or upon expiration. Void Burst's multi-slash and finishing attacks create Chakris. The multi-slash attack first targets the Boss monster with the highest HP. If it has no target to follow, then it'll target you for its activation.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "khali/M/21",
+      "New": "khali/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/22",
+      "New": "khali/M/22"
+    },
+    "voice/male/path/2": {
+      "Old": "khali/M/23",
+      "New": "khali/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/21",
+      "New": "khali/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/22",
+      "New": "khali/F/22"
+    },
+    "voice/female/path/2": {
+      "Old": "khali/F/23",
+      "New": "khali/F/23"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041084_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041084_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

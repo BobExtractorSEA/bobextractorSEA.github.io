@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.416262-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001804",
+  "Name": "Rock n Roll Baby",
+  "Job": "Etc",
+  "Desc": "Summons Rock Spirit by the power of Soul Weapon and listens to his passionate performance. For some reason, monsters suffer from Rock Spirit's music.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001804_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

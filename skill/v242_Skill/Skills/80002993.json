@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6143343-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002993",
+  "Name": "Bouncy Snowman Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Ride on a Bouncy Snowman that can Double Jump and <span style=\"font-weight:bold; color:orange;\">travel very fast</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Ride on a Bouncy Snowman that can Double Jump and <span style=\"font-weight:bold; color:orange;\">travel very fast</span>. <br /><span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span> and you will automatically fly to the destination by following the navigation. <br />(Auto flight is only available on certain continents, such as Victoria Island. You can expand your Smart Riding Authorization Continents by <span style=\"font-weight:bold; color:orange;\">purchasing Flight Permits from Instructor Irvin</span>.)",
+      "New": "[Master Level: 1]<br />Ride on a Bouncy Snowman that can Double Jump and <span style=\"font-weight:bold; color:orange;\">travel very fast</span>."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002993_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

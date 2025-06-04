@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7587162-03:00",
+  "ChangeType": "Changed",
+  "Id": "154120034",
+  "Name": "Resonate - Add Range",
+  "Job": "Khali",
+  "Desc": "Increases Resonate Chakris' enemy detection range. Resonate - Add Range is not applicable to Resonate: Ultimatum.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/lt4/x": {
+      "Old": null,
+      "New": "-400"
+    },
+    "common/lt4/y": {
+      "Old": null,
+      "New": "-325"
+    },
+    "common/rb4/x": {
+      "Old": null,
+      "New": "400"
+    },
+    "common/rb4/y": {
+      "Old": null,
+      "New": "310"
+    },
+    "common/lt5/x": {
+      "Old": null,
+      "New": "-300"
+    },
+    "common/lt5/y": {
+      "Old": null,
+      "New": "-300"
+    },
+    "common/rb5/x": {
+      "Old": null,
+      "New": "300"
+    },
+    "common/rb5/y": {
+      "Old": null,
+      "New": "300"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154120034_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7907503-03:00",
+  "ChangeType": "Changed",
+  "Id": "4331002",
+  "Name": "Mirror Image",
+  "Job": "Dual Blade",
+  "Desc": "Temporarily summons your doppelganger. It has no HP of its own, but aids you in combat. It is not affected by certain skills, disappearing when hit with an attack that alters its shape or limits its movement. Does not apply to Summons, 5th Advancement Skills for all jobs, and other specific skills.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn 4th Job Skill Mirrored Target</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/6",
+      "New": "dualBlade/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "dualBlade/M/5",
+      "New": "dualBlade/M/5"
+    },
+    "voice/male/path/2": {
+      "Old": "dualBlade/M/2",
+      "New": "dualBlade/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/0",
+      "New": "dualBlade/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "dualBlade/F/2",
+      "New": "dualBlade/F/2"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4331002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4331002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4331002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4331002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4331002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4331002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

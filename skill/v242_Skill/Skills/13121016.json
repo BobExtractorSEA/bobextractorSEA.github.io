@@ -1,0 +1,185 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.5615059-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121016",
+  "Name": "Wind Flourish",
+  "Job": "Wind Archer",
+  "Desc": "Swings the bow as if you are dancing with the wind to create a powerful wind that attacks and pushes the enemies. Certain monsters will resist and cannot be pushed. In addition, enhance Chilling Fusillade.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/107",
+      "New": "windBreaker/M/107"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/108",
+      "New": "windBreaker/M/108"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/109",
+      "New": "windBreaker/M/109"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/110",
+      "New": "windBreaker/M/110"
+    },
+    "voice/male/path/4": {
+      "Old": "windBreaker/M/57",
+      "New": "windBreaker/M/57"
+    },
+    "voice/male/path/5": {
+      "Old": "windBreaker/M/46",
+      "New": "windBreaker/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/113",
+      "New": "windBreaker/F/113"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/114",
+      "New": "windBreaker/F/114"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/115",
+      "New": "windBreaker/F/115"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/116",
+      "New": "windBreaker/F/116"
+    },
+    "voice/female/path/4": {
+      "Old": "windBreaker/F/117",
+      "New": "windBreaker/F/117"
+    },
+    "voice/female/path/5": {
+      "Old": "windBreaker/F/118",
+      "New": "windBreaker/F/118"
+    },
+    "voice/female/path/6": {
+      "Old": "windBreaker/F/56",
+      "New": "windBreaker/F/56"
+    },
+    "voice/female/path/7": {
+      "Old": "windBreaker/F/58",
+      "New": "windBreaker/F/58"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "13141004"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F7.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0989991-03:00",
+  "ChangeType": "Added",
+  "Id": "152141011",
+  "Name": "Makina VI",
+  "Job": "Illium",
+  "Desc": "Summons the Mechanical Friend Makina.<br />Makina is <span style=\"font-weight:bold; color:orange;\">summoned near the Crystal and guards it</span> while gathering enemies. Makina moves along with the Crystal and attacks enemies in the way.<br />Makina does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Makina Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/152101008": "20",
+    "action/0": "6thMachina",
+    "common/maxLevel": "30",
+    "common/mpCon": "100+d(x/2)",
+    "common/time": "180+3*x",
+    "common/damage": "375+12*x",
+    "common/mobCount": "5",
+    "common/attackCount": "4",
+    "common/v": "1200",
+    "common/x": "300",
+    "common/y": "300",
+    "common/subTime": "3",
+    "common/z": "1",
+    "summon/attack1/info/range/lt/x": -250,
+    "summon/attack1/info/range/lt/y": -250,
+    "summon/attack1/info/range/rb/x": 250,
+    "summon/attack1/info/range/rb/y": 0,
+    "summon/attack1/info/attackAfter": "780",
+    "summon/attack1/info/mobCount": "5",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/magicAttack": "1",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/attack2/info/range/lt/x": -56,
+    "summon/attack2/info/range/lt/y": -183,
+    "summon/attack2/info/range/rb/x": 62,
+    "summon/attack2/info/range/rb/y": 9,
+    "summon/attack2/info/stormAttackAfter": "120",
+    "summon/attack2/info/mobCount": "5",
+    "summon/attack2/info/attackCount": "1",
+    "summon/attack2/info/magicAttack": "1",
+    "summon/attack2/info/rangeAttack": "1",
+    "summon/attack2/info/x": "30",
+    "summon/attack2/info/y": "10000",
+    "summon/attack2/repeatIdx": "6",
+    "summon/createDelay": "360",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngleRange/x": -45,
+    "hit/0/randomHitAngleRange/y": 45,
+    "hit/0/onlyOnce": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "showSummonedBuffIcon": "2",
+    "weapon": "28",
+    "skillList/0": "400021000",
+    "subWeapon": "35",
+    "isSequenceOn": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "152141011",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = illium/M/4 }",
+    "voice/female/path/0": "{ Old = , New = illium/F/4 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 115. Summoned for 270 sec.<br />Attacks up to 5 enemies at 735% Damage 4 times.<br />Moves along with the Crystal and attacks enemies in the way 1 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/152141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/152141011_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/152141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0847796-03:00",
+  "ChangeType": "Added",
+  "Id": "15140010",
+  "Name": "Shield of the Sea god",
+  "Job": "Thunder Breaker",
+  "Desc": "Chaining skills temporarily strengthens your body with the combined power of the sea and lightning, creating a shield that weakens enemy attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "51",
+    "condition": "damaged",
+    "common/maxLevel": "30",
+    "common/x": "2+d(x/15)",
+    "common/y": "35-d(x/3)",
+    "common/z": "55-d(x/6)",
+    "common/u": "10+d(x/6)",
+    "common/time": "2",
+    "repeat/0/repeatIdx": "15",
+    "repeat/1/repeatIdx": "15",
+    "cancelBuffByForbiddenField": "1",
+    "invisible": "1",
+    "id": "15140010"
+  },
+  "HFields": {
+    "h1": "Hitting Chain skills creates a shield that blocks 4% of Max HP for 2 sec.<br />The shield is stackable for 15% of Max HP, and loses 25% +50 of its HP every sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_15140010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/15140010_repeat_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/15140010_end_new.webp"
+    }
+  },
+  "Voices": {}
+}

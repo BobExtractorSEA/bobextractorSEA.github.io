@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.5470341-03:00",
+  "ChangeType": "Changed",
+  "Id": "32001014",
+  "Name": "Death",
+  "Job": "Battle Mage",
+  "Desc": "Uses a black magic book and make a contract with a grim reaper. The grim reaper follows you around, and when you collect a certain number of souls, it reveals itself and attacks a wide area. The reaper's attacks do not affect enemies in the Damage Reflection status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32001014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

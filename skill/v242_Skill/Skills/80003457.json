@@ -1,0 +1,72 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.9941708-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003457",
+  "Name": "Ano's Cooking: Additional Union Weekly Mission Coins",
+  "Job": "Etc",
+  "Desc": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Union Weekly</span><br /><span style=\"font-weight:bold; color:orange;\">missions</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pidoll's Special Syrup: Critical Rate",
+      "New": "Ano's Cooking: Additional Union Weekly Mission Coins"
+    },
+    "Desc": {
+      "Old": "Increases <span style=\"font-weight:bold; color:orange;\">Critical Rate</span>.",
+      "New": "Increases rewards from the <span style=\"font-weight:bold; color:orange;\">Union Weekly</span><br /><span style=\"font-weight:bold; color:orange;\">missions</span>."
+    },
+    "H": {
+      "Old": "Critical Rate +15%",
+      "New": "[Maple Union] Union Coins +400% upon completing the Weekly Dragon Hunt quest"
+    },
+    "h1": {
+      "Old": "Critical Rate +15%",
+      "New": "[Maple Union] Union Coins +400% upon completing the Weekly Dragon Hunt quest"
+    },
+    "common/maxLevel": {
+      "Old": "3",
+      "New": "6"
+    },
+    "common/cr": {
+      "Old": "5*x",
+      "New": null
+    },
+    "level/1/unionCoin": {
+      "Old": null,
+      "New": "100"
+    },
+    "level/2/unionCoin": {
+      "Old": null,
+      "New": "150"
+    },
+    "level/3/unionCoin": {
+      "Old": null,
+      "New": "200"
+    },
+    "level/4/unionCoin": {
+      "Old": null,
+      "New": "250"
+    },
+    "level/5/unionCoin": {
+      "Old": null,
+      "New": "300"
+    },
+    "level/6/unionCoin": {
+      "Old": null,
+      "New": "400"
+    }
+  },
+  "HFields": {
+    "h1": "[Maple Union] Union Coins +400% upon completing the Weekly Dragon Hunt quest"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003457_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003457_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

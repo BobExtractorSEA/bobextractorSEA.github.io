@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0238479-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011077",
+  "Name": "Orthrus",
+  "Job": "5th (Warrior)",
+  "Desc": "Summons the Vicious Twin Gods of the netherworld using Force as tribute. The Twin Gods's attacks are not affected by enemies in the Damage Reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/12",
+      "New": "demonSlayer/M/12"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/68",
+      "New": "demonSlayer/M/68"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/69",
+      "New": "demonSlayer/M/69"
+    },
+    "voice/male/path/3": {
+      "Old": "demonSlayer/M/70",
+      "New": "demonSlayer/M/70"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/70",
+      "New": "demonSlayer/F/70"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/71",
+      "New": "demonSlayer/F/71"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/72",
+      "New": "demonSlayer/F/72"
+    },
+    "voice/female/path/3": {
+      "Old": "demonSlayer/F/12",
+      "New": "demonSlayer/F/12"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011077_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011077_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

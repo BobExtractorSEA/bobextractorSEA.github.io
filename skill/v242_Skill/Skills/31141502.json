@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3930663-03:00",
+  "ChangeType": "Changed",
+  "Id": "31141502",
+  "Name": "Nightmare",
+  "Job": "Demon Slayer",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/34": {
+      "Old": null,
+      "New": "31141012"
+    },
+    "skillList/35": {
+      "Old": null,
+      "New": "31141013"
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "31141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141502_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2591273-03:00",
+  "ChangeType": "Changed",
+  "Id": "22110023",
+  "Name": "Dragon Swift",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Mir Skill]</span> Mir quickly moves forward and backward, attacking enemies in his path. Dragon Swift does not affect enemies with the Damage Reflection effect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "evan/M/20",
+      "New": "evan/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/21",
+      "New": "evan/M/21"
+    },
+    "voice/male/path/2": {
+      "Old": "evan/M/22",
+      "New": "evan/M/22"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/20",
+      "New": "evan/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/21",
+      "New": "evan/F/21"
+    },
+    "voice/female/path/2": {
+      "Old": "evan/F/22",
+      "New": "evan/F/22"
+    },
+    "mixSkill/22201002/0": {
+      "Old": null,
+      "New": "22140014"
+    },
+    "mixSkill/22201010/0": {
+      "Old": null,
+      "New": "22110014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22110023_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22110023_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

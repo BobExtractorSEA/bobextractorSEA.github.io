@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2086641-03:00",
+  "ChangeType": "Added",
+  "Id": "5141011",
+  "Name": "Serpent Stone VI",
+  "Job": "Buccaneer",
+  "Desc": "Wielding the power of the Water Dragon generates Clues to Power, which can be consumed to unleash an even stronger power of the Water Dragon.<br />Enhances Assault into <span style=\"font-weight:bold; color:orange;\">Serpent Assault VI</span> and <span style=\"font-weight:bold; color:orange;\">Serpent Assault Enrage VI</span>.<br />Also, increases Sea Serpent Enrage VI Damage.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Serpent Assault Enrage Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "cannotCancelByRButton": "1",
+    "req/5120026": "20",
+    "action/0": "6thSerpentStone",
+    "common/maxLevel": "30",
+    "common/u": "5",
+    "common/time": "15",
+    "common/v": "50+d(x/3)",
+    "common/damage": "465+8*x",
+    "common/mobCount": "15",
+    "common/attackCount": "6",
+    "common/y": "50+d(x/3)",
+    "common/z": "455+15*x",
+    "common/w": "6",
+    "common/w2": "6",
+    "common/w3": "10",
+    "common/x": "5",
+    "common/damPlus": "78+12*x",
+    "special/fix": "1",
+    "processtype": "-1",
+    "additional_process/0": "6",
+    "additional_process/1": "22",
+    "notIncBuffDuration": "1",
+    "weapon": "48",
+    "weapon2": "39",
+    "extraSkillInfo/0/skill": "5111019",
+    "extraSkillInfo/0/delay": "240",
+    "extraSkillInfo/1/skill": "5121027",
+    "extraSkillInfo/2/skill": "5141013",
+    "extraSkillInfo/2/delay": "240",
+    "extraSkillInfo/3/skill": "5141014",
+    "psd": "1",
+    "id": "5141011",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Consume 5 Serpent Stones to activate Assault skills for 15 sec.<br />Serpent Stones +1 each time you use a Water Dragon skill. Up to 5 Serpent Stones can be carried.<br /><span style=\"font-weight:bold; color:orange;\">Serpent Assault VI</span><br />MP Cost: 60. Attacks up to 15 enemies at 705% Damage 6 times.<br /><span style=\"font-weight:bold; color:orange;\">Serpent Assault Enrage VI</span><br />MP Cost: 60. Summons a Water Dragon for 5 sec.<br />The Water Dragon periodically attacks up to 6 enemies at 905% Damage 6 times. Disappears if attacking a single enemy 10 times.<br />[Passive Effects: Sea Serpent Enrage VI Damage +438%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5141011_effect_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/5141011_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6690369-03:00",
+  "ChangeType": "Changed",
+  "Id": "3221052",
+  "Name": "Long Range True Shot",
+  "Job": "Marksman",
+  "Desc": "Focus your mind to shoot down all enemies within range with one strike.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "marksman/M/19",
+      "New": "marksman/M/19"
+    },
+    "voice/male/path/1": {
+      "Old": "marksman/M/20",
+      "New": "marksman/M/20"
+    },
+    "voice/female/path/0": {
+      "Old": "marksman/F/21",
+      "New": "marksman/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "marksman/F/23",
+      "New": "marksman/F/23"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3241015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "finalAttack/3200001/0": {
+      "Old": null,
+      "New": "46"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3221052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3221052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

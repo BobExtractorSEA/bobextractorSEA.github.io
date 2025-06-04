@@ -1,0 +1,80 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5952072-03:00",
+  "ChangeType": "Added",
+  "Id": "63141121",
+  "Name": "[Revelation] Shaft Break VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -160,
+      "y": -230
+    },
+    "rb": {
+      "x": 160,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/63111003": "20",
+    "common/maxLevel": "30",
+    "common/damage": "91+2*x",
+    "common/attackCount": "3",
+    "common/mobCount": "10",
+    "common/lt/x": -160,
+    "common/lt/y": -230,
+    "common/rb/x": 160,
+    "common/rb/y": 150,
+    "common/x": "12",
+    "common/y": "990",
+    "common/attackDelay": "60",
+    "common/updatableTime": "9000",
+    "effect/repeat": "1",
+    "effect/repeatIdx": "7",
+    "effect/z": "-1",
+    "special/z": "-1",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "additional_process/0": "1",
+    "additional_process/1": "18",
+    "additional_process/2": "19",
+    "additional_process/3": "27",
+    "additional_process/4": "21",
+    "additional_process/5": "69",
+    "invisible": "1",
+    "processtype": "-1",
+    "weapon": "214",
+    "subWeapon": "35",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "id": "63141121",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141121_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141121_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141121_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/63141121_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

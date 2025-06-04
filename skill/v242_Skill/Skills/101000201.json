@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7372037-03:00",
+  "ChangeType": "Changed",
+  "Id": "101000201",
+  "Name": "Shadow Strike",
+  "Job": "Zero",
+  "Desc": "Slashes the enemy in front. Use the left or right keys to quickly move to the nearest enemy in the front and attack. <br />Attacks generate spirit swords that penetrate enemies in front, performing an additional attack. Spirit swords do not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Piercing Thrust or higher</span> <br />Command: Piercing Thrust followed by <span style=\"font-weight:bold; color:orange;\">Moon Strike</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "zero/M/40",
+      "New": "zero/M/40"
+    },
+    "voice/male/path/1": {
+      "Old": "zero/M/41",
+      "New": "zero/M/41"
+    },
+    "voice/male/path/2": {
+      "Old": "zero/M/7",
+      "New": "zero/M/7"
+    },
+    "voice/male/path/3": {
+      "Old": "zero/M/9",
+      "New": "zero/M/9"
+    },
+    "voice/male/path/4": {
+      "Old": "zero/M/6",
+      "New": "zero/M/6"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "101141031"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101000201_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000201_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000201_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000201_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000201_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000201_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

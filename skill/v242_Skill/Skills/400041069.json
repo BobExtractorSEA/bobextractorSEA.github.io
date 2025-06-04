@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7826063-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041069",
+  "Name": "72 Transformations",
+  "Job": "5th (Thief)",
+  "Desc": "Launches a combined attack in a special formation with dark allies. Can be used without the casting motion when used during Assassinate and Cruel Stab. 72 Transformations does not affect enemies in the Damage Reflection status, and it is not affected by the effects of Shadow Partner. Can call Boss using skill again during the activation.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "shadower/M/38",
+      "New": "shadower/M/38"
+    },
+    "voice/male/path/1": {
+      "Old": "shadower/M/39",
+      "New": "shadower/M/39"
+    },
+    "voice/female/path/0": {
+      "Old": "shadower/F/40",
+      "New": "shadower/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "shadower/F/41",
+      "New": "shadower/F/41"
+    },
+    "actionList/7": {
+      "Old": null,
+      "New": "6thCruelStab"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041069_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041069_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041069_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041069_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041069_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

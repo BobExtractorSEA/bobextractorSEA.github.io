@@ -1,0 +1,131 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.2657024-03:00",
+  "ChangeType": "Added",
+  "Id": "5241008",
+  "Name": "Eight-Legs Easton VI",
+  "Job": "Corsair",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -485,
+      "y": -180
+    },
+    "rb": {
+      "x": 35,
+      "y": 95
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "knockbackLimit": "100",
+    "req/5221017": "30",
+    "action/0": "6thFusilladeCommand",
+    "finalAttack/5220020/0": "49",
+    "common/maxLevel": "30",
+    "common/mpCon": "55+u(x/3)",
+    "common/damage": "720+12*x",
+    "common/attackCount": "4",
+    "common/mobCount": "8",
+    "common/lt/x": -485,
+    "common/lt/y": -180,
+    "common/rb/x": 35,
+    "common/rb/y": 95,
+    "common/bulletConsume": "4",
+    "effect/fix": "1",
+    "effect0/fix": "1",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "49",
+    "invisible": "1",
+    "id": "5241008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 4,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = captain/M/26 }",
+    "voice/male/path/1": "{ Old = , New = captain/M/27 }",
+    "voice/male/path/2": "{ Old = , New = captain/M/9 }",
+    "voice/male/path/3": "{ Old = , New = captain/M/11 }",
+    "voice/female/path/0": "{ Old = , New = captain/F/28 }",
+    "voice/female/path/1": "{ Old = , New = captain/F/29 }",
+    "voice/female/path/2": "{ Old = , New = captain/F/10 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241008_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/5241008_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.5649281-03:00",
+  "ChangeType": "Changed",
+  "Id": "64101003",
+  "Name": "Weapon Booster",
+  "Job": "Cadena",
+  "Desc": "Temporarily increases all weapon ASPD by 2 Levels at the cost of MP. Requires Chains.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Mastery level 5 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cadena/M/11",
+      "New": "cadena/M/11"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/12",
+      "New": "cadena/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/11",
+      "New": "cadena/F/11"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/12",
+      "New": "cadena/F/12"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64101003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

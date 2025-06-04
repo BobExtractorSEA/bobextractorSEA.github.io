@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.1768631-03:00",
+  "ChangeType": "Changed",
+  "Id": "51110014",
+  "Name": "Offensive Defense",
+  "Job": "Mihile",
+  "Desc": "The power of the shield protecting the Empress makes enemies vulnerable to Mihile’s <span style=\"font-weight:bold; color:orange;\">Soul Light.</span> Royal Guard’s counterattack will leave a debuff on enemies hit, and when Soul Light skills attack an enemy with the debuff, a Shockwave of Light will be activated.<br />The Shockwave of Light will be activated at the center of the boss monster with the highest maximum HP among the enemies hit by a Soul Light skill. If there are no boss monsters, it will be activated at the center of the nearest monster among the enemies hit.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the 4th Job Skill, ‘Advanced Offensive Defense’</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList2/17": {
+      "Old": null,
+      "New": "51141013"
+    },
+    "skillList2/18": {
+      "Old": null,
+      "New": "51141014"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "51141016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_51110014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

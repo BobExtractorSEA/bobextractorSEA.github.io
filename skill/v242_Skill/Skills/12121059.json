@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.259054-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121059",
+  "Name": "Pheonix Drive",
+  "Job": "Blaze Wizard",
+  "Desc": "Throws a barrage of flames forward, completely engulfing enemies. <span style=\"font-weight:bold; color:orange;\">Use with the Up, Down, Left, and Right keys to direct the flames in any direction.</span><br />After a certain number of hits with the Incarnate's blessing, the Fox's Mischief debuff is activated.<br />When Fox's Mischief stacks <span style=\"font-weight:bold; color:orange;\">5 times, you can hit it with Inferno Rise - Fox to explode it. This is a kind of Fire Element attack.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "300+8*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/orbCount": {
+      "Old": "8",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121059_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

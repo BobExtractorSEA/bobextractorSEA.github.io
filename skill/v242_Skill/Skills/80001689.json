@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.0465587-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001689",
+  "Name": "Queen's Mood Swing",
+  "Job": "Etc",
+  "Desc": "The stats of the Crimson Queen change depending on her mood. The queen summoned by the power of your Soul Weapon increases your Defense and Max HP with her tearful blessings.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001689_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

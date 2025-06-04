@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5770929-03:00",
+  "ChangeType": "Added",
+  "Id": "11141005",
+  "Name": "Soluna's Slash VI",
+  "Job": "Dawn Warrior",
+  "Desc": "Rushes towards enemies and cleaves them apart. Can only be used during Soluna's Harmony, and <span style=\"font-weight:bold; color:orange;\">can also be used during your skills.</span><br />Also, permanently increases the Damage of Cosmic Shower VI and Cosmic Burst VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Soluna's Slash Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/11121014": "30",
+    "action/0": "6thSMsolLunaSlash",
+    "common/maxLevel": "30",
+    "common/mpCon": "102+d(x/2)",
+    "common/damage": "260+7*x",
+    "common/attackCount": "6",
+    "common/mobCount": "7",
+    "common/cooltime": "5",
+    "common/range": "350",
+    "common/q2": "75",
+    "common/u": "10+2*x",
+    "common/v": "15+3*x",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "weapon": "40",
+    "weapon2": "30",
+    "id": "11141005",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = soulMaster/M/16 }",
+    "voice/male/path/1": "{ Old = , New = soulMaster/M/17 }",
+    "voice/male/path/2": "{ Old = , New = soulMaster/M/35 }",
+    "voice/male/path/3": "{ Old = , New = soulMaster/M/36 }",
+    "voice/female/path/0": "{ Old = , New = soulMaster/F/17 }",
+    "voice/female/path/1": "{ Old = , New = soulMaster/F/57 }",
+    "voice/female/path/2": "{ Old = , New = soulMaster/F/43 }",
+    "voice/female/path/3": "{ Old = , New = soulMaster/F/46 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 117. Attacks up to 7 enemies at 470% Damage 6 times.<br />Cooldown: 5 sec.<br />[Passive Effects: Cosmic Shower VI Damage +70%p and Cosmic Burst VI Damage +105%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_11141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/11141005_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/11141005_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/11141005_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

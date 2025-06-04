@@ -1,0 +1,28 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.3023408-03:00",
+  "ChangeType": "Added",
+  "Id": "80003864",
+  "Name": "Special Octopus Dish",
+  "Job": "Etc",
+  "Desc": "A special octopus dish prepared by Tangyoon and Ano.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "type": "50",
+    "invisible": "1",
+    "timeLimited": "1",
+    "notCanceled": "1",
+    "id": "80003864"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003864_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

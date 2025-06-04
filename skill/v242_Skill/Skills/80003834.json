@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1159384-03:00",
+  "ChangeType": "Added",
+  "Id": "80003834",
+  "Name": "Shining Christmas Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Travel by riding a Shining Christmas mount, which enables the High Altitude Flight skill. Push the Jump key twice while in town to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "level/1/hs": "h1",
+    "level/1/mpCon": "0",
+    "level/1/time": "2100000",
+    "level/1/pdd": "10",
+    "level/1/mdd": "10",
+    "level/1/x": "1",
+    "invisible": "1",
+    "disable": "1",
+    "disableNextLevelInfo": "1",
+    "effect0/z": "-2",
+    "id": "80003834"
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003834_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80003834_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/80003834_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

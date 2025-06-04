@@ -1,0 +1,169 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4198768-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221016",
+  "Name": "Brain Scrambler",
+  "Job": "Corsair",
+  "Desc": "Delivers a blow to the head to deal great damage. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes <span style=\"font-weight:bold; color:orange;\">mpConMP, Deals 13 Critical attacks with 984% damage. Ignores 60% monster DEF. Critical Rate +100%.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 5 sec</span>",
+      "New": "MP Cost: 30. Attacks at 984% Damage 13 times.<br />Ignore Monster DEF: 60%. Additional Critical Rate: 100%<br />Cooldown: 5 sec."
+    },
+    "h1": {
+      "Old": "Consumes <span style=\"font-weight:bold; color:orange;\">mpConMP, Deals 13 Critical attacks with 984% damage. Ignores 60% monster DEF. Critical Rate +100%.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 5 sec</span>",
+      "New": "MP Cost: 30. Attacks at 984% Damage 13 times.<br />Ignore Monster DEF: 60%. Additional Critical Rate: 100%<br />Cooldown: 5 sec."
+    },
+    "suddenDeath": {
+      "Old": "1",
+      "New": null
+    },
+    "common/prop": {
+      "Old": "0",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "10+4*d(x/6)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "10-d(x/6)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "300+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "600",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/30",
+      "New": "captain/M/30"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/31",
+      "New": "captain/M/31"
+    },
+    "voice/male/path/2": {
+      "Old": "captain/M/14",
+      "New": "captain/M/14"
+    },
+    "voice/male/path/3": {
+      "Old": "captain/M/1",
+      "New": "captain/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/32",
+      "New": "captain/F/32"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/33",
+      "New": "captain/F/33"
+    },
+    "voice/female/path/2": {
+      "Old": "captain/F/13",
+      "New": "captain/F/13"
+    },
+    "voice/female/path/3": {
+      "Old": "captain/F/15",
+      "New": "captain/F/15"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 30. Attacks at 984% Damage 13 times.<br />Ignore Monster DEF: 60%. Additional Critical Rate: 100%<br />Cooldown: 5 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

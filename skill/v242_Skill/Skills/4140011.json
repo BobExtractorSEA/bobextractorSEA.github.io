@@ -1,0 +1,101 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.8889399-03:00",
+  "ChangeType": "Added",
+  "Id": "4140011",
+  "Name": "Darkness Shuriken",
+  "Job": "Night Lord",
+  "Desc": "A throwing star with a will of its own emerges from the darkness.<br />The throwing star tracks and attacks nearby enemies, does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and prioritizes the Boss monster with the highest Max HP.",
+  "Coordinates": {
+    "lt": {
+      "x": -450,
+      "y": -350
+    },
+    "rb": {
+      "x": 450,
+      "y": 350
+    }
+  },
+  "Fields": {
+    "common/maxLevel": "30",
+    "common/mobCount": "1",
+    "common/damage": "500+40*x",
+    "common/attackCount": "5",
+    "common/bulletCount": "1",
+    "common/x": "10",
+    "common/y": "7",
+    "common/z": "60",
+    "common/subTime": "10000",
+    "common/u": "60",
+    "common/v": "-100",
+    "common/w": "5",
+    "common/q": "2000",
+    "common/lt/x": -450,
+    "common/lt/y": -350,
+    "common/rb/x": 450,
+    "common/rb/y": 350,
+    "common/cooltime": "60",
+    "common/w2": "30",
+    "SecondAtom/dataIndex": "74",
+    "SecondAtom/rotate": "0",
+    "SecondAtom/pos/x": -60,
+    "SecondAtom/pos/y": -100,
+    "SecondAtom/enableDelay": "360",
+    "SecondAtom/attackableCount": "30",
+    "skillList/0": "4141011",
+    "skillList/1": "500001000",
+    "skillList/2": "500001001",
+    "skillList/3": "500001002",
+    "skillList/4": "500001003",
+    "skillList/5": "500001004",
+    "skillList/6": "4101012",
+    "skillList/7": "4111007",
+    "skillList/8": "4120019",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitFlip": "1",
+    "additional_process/0": "18",
+    "additional_process/1": "19",
+    "additional_process/2": "27",
+    "additional_process/3": "58",
+    "additional_process/4": "59",
+    "additional_process/5": "22",
+    "processtype": "-1",
+    "ignoreResetDarkSightOnAttack": "1",
+    "notCooltimeReset": "1",
+    "isBeneficial": "1",
+    "resetByUnionCharTag": "1",
+    "id": "4140011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {
+    "h1": "Direct Attack skill hits create a throwing star of darkness for 10 sec.<br />The throwing star attacks nearby enemies at 1700% Damage 5 times, up to 30 times.<br />Duration +7 sec. on a direct Attack Skill hit every 5 sec.<br />Duration can be increased to up to 60 sec.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4140011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4140011_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/4140011_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4140011_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/4140011_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

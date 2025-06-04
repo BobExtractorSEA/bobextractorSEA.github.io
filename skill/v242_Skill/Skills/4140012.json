@@ -1,0 +1,27 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.9004707-03:00",
+  "ChangeType": "Added",
+  "Id": "4140012",
+  "Name": "Darkness Shuriken",
+  "Job": "Night Lord",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "30",
+    "common/cooltime": "5",
+    "invisible": "1",
+    "notCooltimeReset": "1",
+    "id": "4140012"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4140012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

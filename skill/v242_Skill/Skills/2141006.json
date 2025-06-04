@@ -1,0 +1,101 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4917171-03:00",
+  "ChangeType": "Added",
+  "Id": "2141006",
+  "Name": "Fire Aura VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Activates an aura that burns the surrounding. Can damage enemies in Ignore Attacks and Damage Reflection state.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Fire Aura Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -300,
+      "y": -160
+    },
+    "rb": {
+      "x": 300,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "15",
+    "massSpell": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/2121054": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "100+d(x/3)",
+    "common/damage": "440+12*x",
+    "common/attackCount": "2",
+    "common/mobCount": "10",
+    "common/subTime": "3000",
+    "common/lt/x": -300,
+    "common/lt/y": -160,
+    "common/rb/x": 300,
+    "common/rb/y": 150,
+    "common/x": "3",
+    "common/dot": "500",
+    "common/dotInterval": "1",
+    "common/dotTime": "30",
+    "start/z": "0",
+    "start0/z": "-1",
+    "repeat/z": "0",
+    "repeat0/z": "0",
+    "end/z": "0",
+    "end0/z": "0",
+    "special/z": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngleRange/x": -45,
+    "hit/0/randomHitAngleRange/y": 45,
+    "notRemoved": "1",
+    "elemAttr": "f",
+    "isExceptSetLastAttack": "1",
+    "id": "2141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 110 per sec. Attacks up to 10 enemies at 800% Damage 2 times every 3 sec.<br />Attacked enemies receive 500% DoT every 1 sec. for 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2141006_hit_new.webp"
+    },
+    "start": {
+      "Old": null,
+      "New": "Animations/New/2141006_start_new.webp"
+    },
+    "start0": {
+      "Old": null,
+      "New": "Animations/New/2141006_start0_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/2141006_repeat_new.webp"
+    },
+    "repeat0": {
+      "Old": null,
+      "New": "Animations/New/2141006_repeat0_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/2141006_end_new.webp"
+    },
+    "end0": {
+      "Old": null,
+      "New": "Animations/New/2141006_end0_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/2141006_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

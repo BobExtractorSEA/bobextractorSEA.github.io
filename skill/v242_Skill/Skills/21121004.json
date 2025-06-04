@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0923024-03:00",
+  "ChangeType": "Changed",
+  "Id": "21121004",
+  "Name": "Adrenaline Maximum: Ice Wave",
+  "Job": "Aran",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Ice Wave",
+      "New": "Adrenaline Maximum: Ice Wave"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

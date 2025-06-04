@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.9587758-03:00",
+  "ChangeType": "Changed",
+  "Id": "61120018",
+  "Name": "Inferno Breath",
+  "Job": "Kaiser",
+  "Desc": "Tile damage",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Damage: 200%, Enemies Hit: 6",
+      "New": "Attacks 6 enemies at 240% Damage."
+    },
+    "h1": {
+      "Old": "Damage: 200%, Enemies Hit: 6",
+      "New": "Attacks 6 enemies at 240% Damage."
+    },
+    "common/damage": {
+      "Old": "140+3*x",
+      "New": "180+3*x"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "5",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "60+3*x",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Attacks 6 enemies at 240% Damage."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_61120018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

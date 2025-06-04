@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.3162626-03:00",
+  "ChangeType": "Changed",
+  "Id": "80010344",
+  "Name": "Early Cereal Pet's Mysterious Power Lv.1",
+  "Job": "Etc",
+  "Desc": "Increase your ATT and MATT by 3.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "아침 든든 시리얼 펫의 신비한 힘 Lv.1",
+      "New": "Early Cereal Pet's Mysterious Power Lv.1"
+    },
+    "Desc": {
+      "Old": "자신의 공격력과 마력을 3씩 증가시킨다.",
+      "New": "Increase your ATT and MATT by 3."
+    },
+    "H": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">공격력 3, 마력 3증가</span>",
+      "New": "Increase <span style=\"font-weight:bold; color:orange;\">ATT 3, MATT 3</span>"
+    },
+    "h1": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">공격력 3, 마력 3증가</span>",
+      "New": "Increase <span style=\"font-weight:bold; color:orange;\">ATT 3, MATT 3</span>"
+    }
+  },
+  "HFields": {
+    "h1": "Increase <span style=\"font-weight:bold; color:orange;\">ATT 3, MATT 3</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80010344_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

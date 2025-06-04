@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1863008-03:00",
+  "ChangeType": "Changed",
+  "Id": "41101002",
+  "Name": "Dankuusen",
+  "Job": "Hayato",
+  "Desc": "Flashes through multiple enemies with deadly precision. Use directly after Shouryuusen to auto-target enemies in the air. Dankuusen Lv. 15 is needed to learn Whirlwind Cut.<br />Required Skill : <span style=\"font-weight:bold; color:orange;\">Shouryuusen Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/9": {
+      "Old": null,
+      "New": "41141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41101002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

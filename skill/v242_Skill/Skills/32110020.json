@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6016704-03:00",
+  "ChangeType": "Changed",
+  "Id": "32110020",
+  "Name": "Dark Shock",
+  "Job": "Battle Mage",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "mob/pos": {
+      "Old": "2",
+      "New": null
+    },
+    "mob/repeat": {
+      "Old": "1",
+      "New": null
+    },
+    "common/w": {
+      "Old": "15",
+      "New": "30"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+5*u(x/3)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "507+20*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "15-2*d(x/3)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "5*3*u(x/3)",
+      "New": null
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "32141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32110020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": "Animations/Old/32110020_mob_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

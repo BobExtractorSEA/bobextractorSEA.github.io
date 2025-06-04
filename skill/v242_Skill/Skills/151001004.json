@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1600456-03:00",
+  "ChangeType": "Changed",
+  "Id": "151001004",
+  "Name": "Levitation",
+  "Job": "Adele",
+  "Desc": "Gain the determination to sacrifice yourself to protect another.<br />Using the skill midair or pressing the Up directional key twice releases magic to <span style=\"font-weight:bold; color:orange;\">briefly levitate</span>, allowing the use of skill that can be used midair. Using the skill again or using a movement skill cancels the levitation.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "adele/M/15",
+      "New": "adele/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/0",
+      "New": "adele/F/0"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151001004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151001004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151001004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2728445-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003814",
+  "Name": "NEXT Warm-up: Damage on Boss Monsters:",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">damage on Boss Monsters</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up : damage when attacking Boss Monsters",
+      "New": "NEXT Warm-up: Damage on Boss Monsters:"
+    },
+    "Desc": {
+      "Old": "Damage will increase when <span style=\"font-weight:bold; color:orange;\">attacking Boss Monsters</span>.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">damage on Boss Monsters</span>."
+    },
+    "H": {
+      "Old": "Damage increase by 20% when attacking Boss Monsters",
+      "New": "Boss Monster Damage +20%"
+    },
+    "h1": {
+      "Old": "Damage increase by 20% when attacking Boss Monsters",
+      "New": "Boss Monster Damage +20%"
+    }
+  },
+  "HFields": {
+    "h1": "Boss Monster Damage +20%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003814_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

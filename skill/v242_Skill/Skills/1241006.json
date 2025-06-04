@@ -1,0 +1,35 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3367311-03:00",
+  "ChangeType": "Changed",
+  "Id": "1241006",
+  "Name": "Falling Justice",
+  "Job": "Paladin",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/damage": {
+      "Old": "990+19*x",
+      "New": "891+20*x"
+    },
+    "notCooltimeReduce": {
+      "Old": "1",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1241006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/1241006_effect1_new.webp"
+    }
+  },
+  "Voices": {}
+}

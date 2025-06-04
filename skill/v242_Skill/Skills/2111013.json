@@ -1,0 +1,153 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0313904-03:00",
+  "ChangeType": "Changed",
+  "Id": "2111013",
+  "Name": "Poison Zone",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Installs a Poison Pentacle that turns the area around you into a Poison zone. Deadly poison is continuously generated from the pentacle, so the Poison zone gradually spreads to the right and left directions. The deadly poison zone doesn't spread anymore when it reaches the end of the platform.<br />The deadly poison of this zone is flammable. If you use Fire magic on the deadly poison zone, or this zone is hit by Fire magic within a certain period of time after the poison is generated, a powerful explosion occurs in the zone. The explosion may even detonate the surrounding Poison zones as well. This is a kind of Poison Element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Installs a Poison Pentacle that turns the area around you into a Poison zone. Deadly poison is continuously generated from the pentacle, so the Poison zone gradually spreads to the right and left directions. The Poison zone does not spread anymore when it reaches the end of the platform, and the poison of this zone is flammable. If you use Fire magic on the Poison zone, or this zone is hit by Fire magic within a certain period of time after the poison is generated, a powerful explosion occurs in the zone. The explosion may even detonate the surrounding Poison zones as well. This is a kind of Poison Element attack.",
+      "New": "Installs a Poison Pentacle that turns the area around you into a Poison zone. Deadly poison is continuously generated from the pentacle, so the Poison zone gradually spreads to the right and left directions. The deadly poison zone doesn't spread anymore when it reaches the end of the platform.<br />The deadly poison of this zone is flammable. If you use Fire magic on the deadly poison zone, or this zone is hit by Fire magic within a certain period of time after the poison is generated, a powerful explosion occurs in the zone. The explosion may even detonate the surrounding Poison zones as well. This is a kind of Poison Element attack."
+    },
+    "H": {
+      "Old": "MP Cost: 54. Installs an object that keeps working for 60 sec.<br />The object turns your surrounding area into Poison zone at regular intervals and inflicts 204% DoT on the enemies in the Poison zone every 1 sec. for 10 sec.<br /><span style=\"font-weight:bold; color:orange;\">Poison zone explosion</span>: MP Cost: 60. Poison Zone explosions don't require MP. Can explode within 1.5 sec. of being generated. Attacks up to 10 enemies at 200% damage 4 time(s). Poison zone can also explode by detonation.<br />If a monster is hit multiple times by explosion within 0.4 sec., the final damage decreases by 60% from the second explosion.<br />Normal Monster Damage +50%<br />Cooldown: 30 sec.",
+      "New": "MP Cost: 54. Installs a poison pentacle for 60 sec.<br />The pentacle periodically turns the area around you into a deadly poison zone, in which enemies receive 204% DoT every 1 sec. for 10 sec.<br /><span style=\"font-weight:bold; color:orange;\">Deadly Poison Zone Explosion</span>: MP Cost: 60. Deadly Poison Zone explosions don't require MP. Can explode within 1.5 sec. of being generated. Attacks up to 10 enemies at 200% Damage 4 times. The deadly poison zone can also be exploded by detonation.<br />If a single monster is hit by multiple explosions within 0.4 sec. from each other, Final Damage -60% for each subsequent explosion after the first one.<br />Normal Monster Damage +50%.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 54. Installs an object that keeps working for 60 sec.<br />The object turns your surrounding area into Poison zone at regular intervals and inflicts 204% DoT on the enemies in the Poison zone every 1 sec. for 10 sec.<br /><span style=\"font-weight:bold; color:orange;\">Poison zone explosion</span>: MP Cost: 60. Poison Zone explosions don't require MP. Can explode within 1.5 sec. of being generated. Attacks up to 10 enemies at 200% damage 4 time(s). Poison zone can also explode by detonation.<br />If a monster is hit multiple times by explosion within 0.4 sec., the final damage decreases by 60% from the second explosion.<br />Normal Monster Damage +50%<br />Cooldown: 30 sec.",
+      "New": "MP Cost: 54. Installs a poison pentacle for 60 sec.<br />The pentacle periodically turns the area around you into a deadly poison zone, in which enemies receive 204% DoT every 1 sec. for 10 sec.<br /><span style=\"font-weight:bold; color:orange;\">Deadly Poison Zone Explosion</span>: MP Cost: 60. Deadly Poison Zone explosions don't require MP. Can explode within 1.5 sec. of being generated. Attacks up to 10 enemies at 200% Damage 4 times. The deadly poison zone can also be exploded by detonation.<br />If a single monster is hit by multiple explosions within 0.4 sec. from each other, Final Damage -60% for each subsequent explosion after the first one.<br />Normal Monster Damage +50%.<br />Cooldown: 30 sec."
+    },
+    "common/s2": {
+      "Old": "100",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/5",
+      "New": "archMageFP/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/6",
+      "New": "archMageFP/M/6"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageFP/M/28",
+      "New": "archMageFP/M/28"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageFP/M/30",
+      "New": "archMageFP/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/5",
+      "New": "archMageFP/F/5"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/6",
+      "New": "archMageFP/F/6"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageFP/F/30",
+      "New": "archMageFP/F/30"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageFP/F/34",
+      "New": "archMageFP/F/34"
+    },
+    "skillList2/14": {
+      "Old": null,
+      "New": "2141010"
+    },
+    "skillList2/15": {
+      "Old": null,
+      "New": "2141011"
+    },
+    "skillList2/16": {
+      "Old": null,
+      "New": "2141012"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 54. Installs a poison pentacle for 60 sec.<br />The pentacle periodically turns the area around you into a deadly poison zone, in which enemies receive 204% DoT every 1 sec. for 10 sec.<br /><span style=\"font-weight:bold; color:orange;\">Deadly Poison Zone Explosion</span>: MP Cost: 60. Deadly Poison Zone explosions don't require MP. Can explode within 1.5 sec. of being generated. Attacks up to 10 enemies at 200% Damage 4 times. The deadly poison zone can also be exploded by detonation.<br />If a single monster is hit by multiple explosions within 0.4 sec. from each other, Final Damage -60% for each subsequent explosion after the first one.<br />Normal Monster Damage +50%.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2111013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2111013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

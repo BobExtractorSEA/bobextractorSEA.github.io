@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6855888-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003147",
+  "Name": "Gatekeeper's Roar",
+  "Job": "Etc",
+  "Desc": "Kalos summoned by the power of your Soul Weapon forcefully attacks enemies in front.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003147_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

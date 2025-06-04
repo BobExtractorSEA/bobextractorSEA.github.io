@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7875313-03:00",
+  "ChangeType": "Changed",
+  "Id": "2321008",
+  "Name": "Genesis",
+  "Job": "Bishop",
+  "Desc": "Drops a pillar of divine light from the sky to deliver a powerful Holy element attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Drops a pillar of divine light from the sky to deliver a powerful Holy element attack at up to 15 enemies. This attack has a higher Critical Rate.",
+      "New": "Drops a pillar of divine light from the sky to deliver a powerful Holy element attack."
+    },
+    "H": {
+      "Old": "MP Cost: 300, Attacks up to 15 enemies at 324% damage 10 times. Critical Rate: +20%, Cooldown: 30 sec.",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 324% Damage 10 times. Additional Critical Rate: 20%<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 300, Attacks up to 15 enemies at 324% damage 10 times. Critical Rate: +20%, Cooldown: 30 sec.",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 324% Damage 10 times. Additional Critical Rate: 20%<br />Cooldown: 30 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "600-10*x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "510+10*x",
+      "New": null
+    },
+    "PVPcommon/cr": {
+      "Old": "5+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "45",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "6",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bishop/M/13",
+      "New": "bishop/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/14",
+      "New": "bishop/M/14"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/31",
+      "New": "bishop/M/31"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/13",
+      "New": "bishop/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/14",
+      "New": "bishop/F/14"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/31",
+      "New": "bishop/F/31"
+    },
+    "common/y": {
+      "Old": null,
+      "New": "180"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2341009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Attacks up to 15 enemies at 324% Damage 10 times. Additional Critical Rate: 20%<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2321008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.1755328-03:00",
+  "ChangeType": "Changed",
+  "Id": "63111009",
+  "Name": "Remain Incense",
+  "Job": "Kain",
+  "Desc": "Crystalizes revealed Malice. Activates nearby enemies when Kaine's direct attack hits around the crystals and does not affect enemies in the Damage Reflection Status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When a Revelation skill is used or the Realm of Death is triggered by Thanatos's Descent, it creates crystals that stay for 10 sec. The crystal amount changes the number of skills used.<br />When activated, it attacks up to 1 enemies at 130% Damage 4 times with a crystal, and increases damage on normal monsters by 100%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 0.3 sec</span>",
+      "New": "When a Revelation skill is used or the Realm of Death is triggered by Thanatos's Descent, it creates crystals that stay for 10 sec. The crystal amount changes the number of skills used.<br />When activated, it attacks up to 1 enemies at 130 Damage 4 times with a crystal. Normal Monster Damage +100%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 0.3 sec.</span>"
+    },
+    "h1": {
+      "Old": "When a Revelation skill is used or the Realm of Death is triggered by Thanatos's Descent, it creates crystals that stay for 10 sec. The crystal amount changes the number of skills used.<br />When activated, it attacks up to 1 enemies at 130% Damage 4 times with a crystal, and increases damage on normal monsters by 100%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 0.3 sec</span>",
+      "New": "When a Revelation skill is used or the Realm of Death is triggered by Thanatos's Descent, it creates crystals that stay for 10 sec. The crystal amount changes the number of skills used.<br />When activated, it attacks up to 1 enemies at 130 Damage 4 times with a crystal. Normal Monster Damage +100%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 0.3 sec.</span>"
+    },
+    "skillList2/35": {
+      "Old": null,
+      "New": "63141018"
+    },
+    "skillList2/36": {
+      "Old": null,
+      "New": "63141118"
+    },
+    "skillList2/37": {
+      "Old": null,
+      "New": "63141024"
+    },
+    "skillList2/38": {
+      "Old": null,
+      "New": "63141025"
+    },
+    "skillList2/39": {
+      "Old": null,
+      "New": "63141027"
+    },
+    "skillList2/40": {
+      "Old": null,
+      "New": "63141127"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141022"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "When a Revelation skill is used or the Realm of Death is triggered by Thanatos's Descent, it creates crystals that stay for 10 sec. The crystal amount changes the number of skills used.<br />When activated, it attacks up to 1 enemies at 130 Damage 4 times with a crystal. Normal Monster Damage +100%.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 0.3 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63111009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

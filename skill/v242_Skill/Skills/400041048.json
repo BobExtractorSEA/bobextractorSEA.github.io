@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7304369-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041048",
+  "Name": "Mystic Energy: Extreme Immolation",
+  "Job": "5th (Thief)",
+  "Desc": "The Phantasmal Clone Talisman gathers its power to upturn the skies and make your enemies immolate themselves. The number and attack power of Clones produced by the Phantasmal Clone Talisman increase significantly. Mystic Energy: When continuously using Extreme Immolation, the clone tracks down monster with the highest HP first.<br />Can only be used during the duration of Phantasmal Clone Talisman, and does not reduce the duration of Phantasmal Clone Talisman.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Phantasmal Clone Talisman</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/21",
+      "New": "HoYoung/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/22",
+      "New": "HoYoung/M/22"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/21",
+      "New": "HoYoung/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/22",
+      "New": "HoYoung/F/22"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041048_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041048_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041048_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041048_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041048_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

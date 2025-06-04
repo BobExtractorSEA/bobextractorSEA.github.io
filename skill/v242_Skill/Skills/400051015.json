@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9185726-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051015",
+  "Name": "Serpent Screw",
+  "Job": "5th (Pirate)",
+  "Desc": "Surrounds you with the energy of the Water Dragon sealed in the deep sea to attack nearby enemies. The Water Dragon's attacks do not affect enemies in the Damage Reflection status.<br />Can attack when activated. The number of attacks and cooldown time are automatically updated when the Cooldown is over. Ends immediately when the skill is reused. Decreases Cooldown based on the remaining hit activation count.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/22",
+      "New": "viper/M/22"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/23",
+      "New": "viper/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/22",
+      "New": "viper/F/22"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/23",
+      "New": "viper/F/23"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

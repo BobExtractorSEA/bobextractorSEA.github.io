@@ -1,0 +1,174 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.1502658-03:00",
+  "ChangeType": "Added",
+  "Id": "154141010",
+  "Name": "Hex: Chakram Fury VI",
+  "Job": "Khali",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Hex]</span><br />Create an area of pain and rip surrounding enemies to shreds. This skill lifts you off the ground and perfectly resists Knockback for its duration.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Hex: Chakram Fury Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -280,
+      "y": -305
+    },
+    "rb": {
+      "x": 285,
+      "y": 215
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/154121002": "30",
+    "action/0": "6thFury",
+    "common/maxLevel": "30",
+    "common/mpCon": "71+d(x/3)",
+    "common/damage": "596+16*x",
+    "common/attackCount": "10",
+    "common/mobCount": "10",
+    "common/lt/x": -280,
+    "common/lt/y": -305,
+    "common/rb/x": 285,
+    "common/rb/y": 215,
+    "common/cooltime": "12",
+    "common/updatableTime": "780",
+    "common/attackDelay": "30",
+    "common/cancelableTime": "150",
+    "cancelableSkillID/0": "154101004",
+    "cancelableSkillID/1": "154111004",
+    "cancelableSkillID/2": "154111011",
+    "cancelableSkillID/3": "154121003",
+    "cancelableSkillID/4": "154121009",
+    "cancelableSkillID/5": "154121012",
+    "cancelableSkillID/6": "154141003",
+    "cancelableSkillID/7": "154141004",
+    "cancelableSkillID/8": "154141007",
+    "prepare/time": "360",
+    "prepare/action": "6thFury",
+    "keydown/action": "6thFuryLoop",
+    "keydown/time": "360",
+    "keydownend/action": "6thFuryEnd",
+    "keydownend/time": "180",
+    "keydownend/fix": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "11",
+    "additional_process/3": "21",
+    "additional_process/4": "22",
+    "additional_process/5": "26",
+    "additional_process/6": "29",
+    "additional_process/7": "30",
+    "additional_process/8": "31",
+    "additional_process/9": "77",
+    "additional_process/10": "82",
+    "additional_process/11": "83",
+    "additional_process/12": "95",
+    "processtype": "-1",
+    "isFieldMovingLimit": "1",
+    "weapon": "404",
+    "subWeapon": "35",
+    "id": "154141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = khali/M/7 }",
+    "voice/male/path/1": "{ Old = , New = khali/M/8 }",
+    "voice/male/path/2": "{ Old = , New = khali/M/70 }",
+    "voice/male/path/3": "{ Old = , New = khali/M/84 }",
+    "voice/female/path/0": "{ Old = , New = khali/F/7 }",
+    "voice/female/path/1": "{ Old = , New = khali/F/8 }",
+    "voice/female/path/2": "{ Old = , New = khali/F/56 }",
+    "voice/female/path/3": "{ Old = , New = khali/F/57 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 81. Periodically attacks up to 10 enemies at 1076% Damage 10 times.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_154141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/154141010_keydown_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/154141010_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/154141010_prepare_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/154141010_keydownend_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

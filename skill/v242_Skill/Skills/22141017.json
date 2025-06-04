@@ -1,0 +1,58 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.2957327-03:00",
+  "ChangeType": "Changed",
+  "Id": "22141017",
+  "Name": "Magical Residue",
+  "Job": "Evan",
+  "Desc": "Enemies that are hit by the Fusion skills generate magical residue around them. The Magical Residue can be activated to inflict damage on enemies around Evan. Deals greater damage when more Magical Residue is activated at once. <br />Activated automatically when creating a certain amount of Magical Residues during Auto Use Mode.<br /><span style=\"font-weight:bold; color:orange;\">Toggle Auto Mode: Right-click</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 Effect: Can learn the 4th Job Skill, Reinforced Magical Residue</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "70+3*x",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "50+48*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "10+2*x",
+      "New": null
+    },
+    "PVPcommon/y": {
+      "Old": "30+2*x",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "3*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "10000+2000*x",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.4904353-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221013",
+  "Name": "Nautilus Strike",
+  "Job": "Corsair",
+  "Desc": "Orders the Nautilus to attack multiple enemies at once. The Nautilus does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Increases Majestic Presence's Final Damage with the Captain's majesty.<span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th Advancement Skill, Nautilus Assault.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Orders the Nautilus to attack multiple enemies at once. Nautilus attacks do not affect enemies in the Damage Reflection status.<br />Increases final damage with Captain's Dignity.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th Job Skill, 'Nautilus Assault'</span>",
+      "New": "Orders the Nautilus to attack multiple enemies at once. The Nautilus does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Increases Majestic Presence's Final Damage with the Captain's majesty.<span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th Advancement Skill, Nautilus Assault.</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "captain/M/17",
+      "New": "captain/M/17"
+    },
+    "voice/male/path/1": {
+      "Old": "captain/M/16",
+      "New": "captain/M/16"
+    },
+    "voice/female/path/0": {
+      "Old": "captain/F/17",
+      "New": "captain/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "captain/F/18",
+      "New": "captain/F/18"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5221013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

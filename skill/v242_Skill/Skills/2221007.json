@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.4701896-03:00",
+  "ChangeType": "Changed",
+  "Id": "2221007",
+  "Name": "Blizzard",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Drops a spear of ice from the sky to deliver a powerful Ice Element attack to several enemies and freeze them. Attacks with this skill also permanently <span style=\"font-weight:bold; color:orange;\">create a certain chance of dropping Blizzard to inflict damage on a single enemy</span>.\t\t\t\t",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "archMageTC/M/6",
+      "New": "archMageTC/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageTC/M/7",
+      "New": "archMageTC/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "archMageTC/M/23",
+      "New": "archMageTC/M/23"
+    },
+    "voice/male/path/3": {
+      "Old": "archMageTC/M/24",
+      "New": "archMageTC/M/24"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageTC/F/6",
+      "New": "archMageTC/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageTC/F/7",
+      "New": "archMageTC/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "archMageTC/F/23",
+      "New": "archMageTC/F/23"
+    },
+    "voice/female/path/3": {
+      "Old": "archMageTC/F/24",
+      "New": "archMageTC/F/24"
+    },
+    "common/y": {
+      "Old": null,
+      "New": "180"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2221007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2221007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

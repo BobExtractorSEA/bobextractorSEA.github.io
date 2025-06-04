@@ -1,0 +1,37 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7726197-03:00",
+  "ChangeType": "Added",
+  "Id": "37141012",
+  "Name": "Revolving Gauntlet VI",
+  "Job": "Blaster",
+  "Desc": "Uses Gauntlet Revolver's built-in cannon to cause an additional explosion. Not a stand-alone skill. Can only be auto-cast or manually cast during certain Attack skills.<br />Charge via key-down to manually reload bullets. Charge can be used while using another skill, and up to 2 skills can be charged at once.<br /><span style=\"font-weight:bold; color:orange;\">Revolving Gauntlet Auto-casting Skills: Magnum Drive, Double Drive</span><br /><span style=\"font-weight:bold; color:orange;\">Revolving Gauntlet Manual-casting Skills: Revolving Bunker</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Enhanced Overheat III Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/37120008": "20",
+    "common/maxLevel": "30",
+    "common/damage": "285+13*x",
+    "common/attackCount": "4",
+    "common/mobCount": "6",
+    "common/w2": "1500",
+    "common/s": "1",
+    "weapon": "58",
+    "subWeapon": "35",
+    "id": "37141012",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Bullet Cost: 1. Hold the key to reload bullets.<br />Magnum Drive and Double Drive auto-activates Revolving Gauntlet, attacking up to 6 enemies at 675% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37141012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

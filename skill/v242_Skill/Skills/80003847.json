@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1846662-03:00",
+  "ChangeType": "Added",
+  "Id": "80003847",
+  "Name": "Exciting Cleaning Time",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Every time you defeat monsters within the level range, your <span style=\"font-weight:bold; color:orange;\">gauge</span> will be charged.<br />When the gauge is fully charged,<br /><span style=\"font-weight:bold; color:orange;\"><Broomy's Thrilling Great Cleanup></span> is activated. <br /><br /><span style=\"font-weight:bold; color:orange;\"><Exciting Cleaning Time></span> ends after activated<br />30 times a day.<br /><br /><span style=\"font-weight:bold; color:orange;\">Can't be used after the event period ends.</span> <br /><br /><span style=\"font-weight:bold; color:orange;\">Toggle On/Off: Right-click the <Exciting Cleaning Time> skill.</span><br /><span style=\"font-weight:bold; color:orange;\">Auto/Manual Switch: Right-click the <Broomy's Thrilling Great Cleanup> skill in the UI.</span><br />",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "invisible": "1",
+    "disable": "1",
+    "notRemoved": "1",
+    "notIncBuffDuration": "1",
+    "notCooltimeReset": "1",
+    "notCooltimeReduce": "1",
+    "isUsableKaiserDragon": "1",
+    "canJobRidingUse": "1",
+    "timeLimited": "1",
+    "isUsableExpressionRiver": "1",
+    "fixSkillAlpha": "255",
+    "level/1/hs": "h1",
+    "extraSkillInfo/0/skill": "80003849",
+    "additional_process/0": "90",
+    "id": "80003847"
+  },
+  "HFields": {
+    "h1": "<br /><br /><span style=\"font-weight:bold; color:orange;\"><Broomy's Thrilling Great Cleanup></span> activates a skill 4 times that triggers 6 explosions that each attack up to 15 enemies at 3,000% Damage once."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003847_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/80003847_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

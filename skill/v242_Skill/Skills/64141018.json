@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.8966727-03:00",
+  "ChangeType": "Added",
+  "Id": "64141018",
+  "Name": "Chain Arts: Takedown VI",
+  "Job": "Cadena",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -325,
+      "y": -350
+    },
+    "rb": {
+      "x": 325,
+      "y": 210
+    }
+  },
+  "Fields": {
+    "info2/ignoreCounter": "1",
+    "req/64121001": "30",
+    "common/maxLevel": "30",
+    "common/damage": "378+7*x",
+    "common/attackCount": "10",
+    "common/mobCount": "10",
+    "common/lt/x": -325,
+    "common/lt/y": -350,
+    "common/rb/x": 325,
+    "common/rb/y": 210,
+    "additional_process/0": "19",
+    "invisible": "1",
+    "processtype": "1",
+    "notResetDarkSight": "1",
+    "id": "64141018",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

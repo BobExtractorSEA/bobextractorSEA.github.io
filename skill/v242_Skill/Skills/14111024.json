@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.7608597-03:00",
+  "ChangeType": "Changed",
+  "Id": "14111024",
+  "Name": "Servant of Shadows",
+  "Job": "Night Walker",
+  "Desc": "Summons a shadow that mimics your actions with a short delay. Shadows can only mimic throwing star and movement skills. Shadows do not have HP and disappear when their summoning durations expire. Shadows do not affect enemies in the Damage Reflection status, and may activate Mark of Darkness, Shadow Bat and Ravenous Bat.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 20 Effect: Can learn the Hyper skill, Shadow Illusion</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14111024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

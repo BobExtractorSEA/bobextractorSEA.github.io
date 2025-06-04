@@ -1,0 +1,145 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.9842863-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061012",
+  "Name": "Soul of Crystal",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Harnesses the power of crystals to create a Soul Crystal. You can activate reaction skills with the Soul Crystal.<br />When used with the down arrow key, you can consume all available crystal fragments to install the Soul Crystal all at once.<br />Craft: Does not consume the number of attackable enemies when Javelin hit.<br />Cannot be used during Glory Wing.<br />Required Skills: <span style=\"font-weight:bold; color:orange;\">Reaction: Destruction II Lv. 1 or above, </span><span style=\"font-weight:bold; color:orange;\">Reaction: Domination II Lv. 1 or above.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "illium/M/24",
+      "New": "illium/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "illium/M/25",
+      "New": "illium/M/25"
+    },
+    "voice/male/path/2": {
+      "Old": "illium/M/26",
+      "New": "illium/M/26"
+    },
+    "voice/male/path/3": {
+      "Old": "illium/M/27",
+      "New": "illium/M/27"
+    },
+    "voice/male/path/4": {
+      "Old": "illium/M/28",
+      "New": "illium/M/28"
+    },
+    "voice/female/path/0": {
+      "Old": "illium/F/24",
+      "New": "illium/F/24"
+    },
+    "voice/female/path/1": {
+      "Old": "illium/F/25",
+      "New": "illium/F/25"
+    },
+    "voice/female/path/2": {
+      "Old": "illium/F/26",
+      "New": "illium/F/26"
+    },
+    "voice/female/path/3": {
+      "Old": "illium/F/27",
+      "New": "illium/F/27"
+    },
+    "voice/female/path/4": {
+      "Old": "illium/F/28",
+      "New": "illium/F/28"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

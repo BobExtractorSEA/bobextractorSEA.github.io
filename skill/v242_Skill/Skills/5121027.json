@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2442739-03:00",
+  "ChangeType": "Changed",
+  "Id": "5121027",
+  "Name": "Serpent Assault Enrage",
+  "Job": "Buccaneer",
+  "Desc": "Continuously attacks the enemy with the power of the enraged Water Dragon.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "viper/M/1",
+      "New": "viper/M/1"
+    },
+    "voice/male/path/1": {
+      "Old": "viper/M/14",
+      "New": "viper/M/14"
+    },
+    "voice/male/path/2": {
+      "Old": "viper/M/15",
+      "New": "viper/M/15"
+    },
+    "voice/male/path/3": {
+      "Old": "viper/M/26",
+      "New": "viper/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "viper/F/1",
+      "New": "viper/F/1"
+    },
+    "voice/female/path/1": {
+      "Old": "viper/F/14",
+      "New": "viper/F/14"
+    },
+    "voice/female/path/2": {
+      "Old": "viper/F/15",
+      "New": "viper/F/15"
+    },
+    "voice/female/path/3": {
+      "Old": "viper/F/26",
+      "New": "viper/F/26"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5121027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5121027_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

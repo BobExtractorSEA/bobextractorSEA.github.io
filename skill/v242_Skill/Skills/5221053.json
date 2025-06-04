@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.5240957-03:00",
+  "ChangeType": "Changed",
+  "Id": "5221053",
+  "Name": "Epic Adventure",
+  "Job": "Corsair",
+  "Desc": "This buff can only be used by legendary adventurers that have explored all of Maple World. Increases damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5221053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

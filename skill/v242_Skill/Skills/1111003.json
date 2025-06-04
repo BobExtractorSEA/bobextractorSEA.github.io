@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.8836247-03:00",
+  "ChangeType": "Changed",
+  "Id": "1111003",
+  "Name": "Scaring Sword",
+  "Job": "Hero",
+  "Desc": "Adds the skill to the sword, leaving an indelible scar on the enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "hero/M/4",
+      "New": "hero/M/4"
+    },
+    "voice/male/path/1": {
+      "Old": "hero/M/22",
+      "New": "hero/M/22"
+    },
+    "voice/male/path/2": {
+      "Old": "hero/M/30",
+      "New": "hero/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "hero/F/4",
+      "New": "hero/F/4"
+    },
+    "voice/female/path/1": {
+      "Old": "hero/F/23",
+      "New": "hero/F/23"
+    },
+    "voice/female/path/2": {
+      "Old": "hero/F/27",
+      "New": "hero/F/27"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

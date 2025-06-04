@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.0713937-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321021",
+  "Name": "Combo Assault (Transition)",
+  "Job": "Pathfinder",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "action/0": {
+      "Old": "PFComboAttack2",
+      "New": null
+    },
+    "common/x": {
+      "Old": null,
+      "New": "600"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321021_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

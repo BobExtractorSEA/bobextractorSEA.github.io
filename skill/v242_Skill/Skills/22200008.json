@@ -1,0 +1,132 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.582568-03:00",
+  "ChangeType": "Added",
+  "Id": "22200008",
+  "Name": "Dive of Earth VI",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>, responds to Evan's magic and breaks a rising rock, inflicting great damage on surrounding enemies. Dive of Earth does not cause you to take damage even when attacking enemies in the Damage Reflection Status. <br />This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Earth</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Dive</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dive of Earth Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "magicDamage": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/22170067": "20",
+    "dragonAction/0": "6thDragonDiveEarth",
+    "common/maxLevel": "30",
+    "common/mobCount": "6",
+    "common/damage": "1110+33*x",
+    "common/attackCount": "10",
+    "common/mpCon": "70+u(x/3)",
+    "common/q2": "50",
+    "common/variableRect/0/lt/x": -630,
+    "common/variableRect/0/lt/y": -240,
+    "common/variableRect/0/rb/x": 40,
+    "common/variableRect/0/rb/y": 10,
+    "common/variableRect/0/delay": "960",
+    "common/variableRect/1/lt/x": -390,
+    "common/variableRect/1/lt/y": -240,
+    "common/variableRect/1/rb/x": -50,
+    "common/variableRect/1/rb/y": 10,
+    "common/variableRect/1/delay": "450",
+    "common/variableRect/2/lt/x": -480,
+    "common/variableRect/2/lt/y": -240,
+    "common/variableRect/2/rb/x": -140,
+    "common/variableRect/2/rb/y": 10,
+    "common/variableRect/2/delay": "450",
+    "common/variableRect/3/lt/x": -670,
+    "common/variableRect/3/lt/y": -240,
+    "common/variableRect/3/rb/x": -330,
+    "common/variableRect/3/rb/y": 10,
+    "common/variableRect/3/delay": "450",
+    "mixSkill/22111017/0": "22140013",
+    "skillList/0": "400021000",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "effect/z": "-1",
+    "special/z": "10",
+    "footholdAffectedArea": "1",
+    "id": "22200008",
+    "has_req": true,
+    "voice/prop": "70",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = evan/M/25 }",
+    "voice/male/path/1": "{ Old = , New = evan/M/12 }",
+    "voice/male/path/2": "{ Old = , New = evan/M/5 }",
+    "voice/female/path/0": "{ Old = , New = evan/F/25 }",
+    "voice/female/path/1": "{ Old = , New = evan/F/12 }",
+    "voice/female/path/2": "{ Old = , New = evan/F/5 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 80. Creates a rock, attacks, and then crashes into 3 points to attack. Each hit attacks up to 6 enemies at 2100% Damage 10 times.<br />Collision's Final Damage -50% if hitting the same enemy repeatedly in a collision"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_22200008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/22200008_hit_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/22200008_effect_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/22200008_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22200008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

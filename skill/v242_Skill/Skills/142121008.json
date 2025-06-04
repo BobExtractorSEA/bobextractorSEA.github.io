@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.9100186-03:00",
+  "ChangeType": "Changed",
+  "Id": "142121008",
+  "Name": "Psychic Charge",
+  "Job": "Kinesis",
+  "Desc": "Artificially accelerates the particle flux and charges Psychic Points. Also permanently increases your damage against Boss monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kinesis/M/30",
+      "New": "kinesis/M/30"
+    },
+    "voice/male/path/1": {
+      "Old": "kinesis/M/31",
+      "New": "kinesis/M/31"
+    },
+    "voice/female/path/0": {
+      "Old": "kinesis/F/30",
+      "New": "kinesis/F/30"
+    },
+    "voice/female/path/1": {
+      "Old": "kinesis/F/31",
+      "New": "kinesis/F/31"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_142121008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142121008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

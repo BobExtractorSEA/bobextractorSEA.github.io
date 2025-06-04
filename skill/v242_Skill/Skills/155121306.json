@@ -1,0 +1,111 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0345197-03:00",
+  "ChangeType": "Changed",
+  "Id": "155121306",
+  "Name": "Entrancing Confinement",
+  "Job": "Ark",
+  "Desc": "Charges forward to create an Abyssal Prison to bind and constrain the enemy. Using the skill turns you into Specter form. This can't be used in Vigor Exhaustion status, and isn't affected by cooldown reset effects.<br />Entrancing Confinement prioritizes enemy with the highest Max HP within range, doesn't affect enemies in the Damage Reflection status, and doesn't create Approaching Deaths.<br />Attacked enemy will resist bind effects for 90 sec and can't be affected by Entrancing Confinement or any other bind skills again.<br />Ignores collisions with monsters for its duration.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "HP Cost: 1100. Attacks up to 1 enemies at 600% damage 6 times. Target becomes bound for 10 sec, and the bind duration is increased up to 100% based on the damage dealt to the target.<br />It then attacks up to 12 enemies at 400% damage 3 times for 9 sec at set intervals.<br />Ending the skill additionally attacks up to 12 enemies at 1000% damage 8 times.<br />Cooldown: 120 sec",
+      "New": "HP Cost: 1100. Attacks 1 enemies at 600% Damage 6 times. Target becomes bound for 10 sec., and the bind duration is increased up to 100% based on the damage dealt to the target.<br />Afterward, periodically attacks up to 12 enemies at 400% Damage 3 times for 9 sec.<br />At the end of the skill, attacks up to 12 enemies at 1000% Damage 8 times.<br />Cooldown: 120 sec."
+    },
+    "h1": {
+      "Old": "HP Cost: 1100. Attacks up to 1 enemies at 600% damage 6 times. Target becomes bound for 10 sec, and the bind duration is increased up to 100% based on the damage dealt to the target.<br />It then attacks up to 12 enemies at 400% damage 3 times for 9 sec at set intervals.<br />Ending the skill additionally attacks up to 12 enemies at 1000% damage 8 times.<br />Cooldown: 120 sec",
+      "New": "HP Cost: 1100. Attacks 1 enemies at 600% Damage 6 times. Target becomes bound for 10 sec., and the bind duration is increased up to 100% based on the damage dealt to the target.<br />Afterward, periodically attacks up to 12 enemies at 400% Damage 3 times for 9 sec.<br />At the end of the skill, attacks up to 12 enemies at 1000% Damage 8 times.<br />Cooldown: 120 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "ark/M/37",
+      "New": "ark/M/37"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/35",
+      "New": "ark/M/35"
+    },
+    "voice/male/path/2": {
+      "Old": "ark/M/10",
+      "New": "ark/M/10"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/41",
+      "New": "ark/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/5",
+      "New": "ark/F/5"
+    },
+    "voice/female/path/2": {
+      "Old": "ark/F/10",
+      "New": "ark/F/10"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 1100. Attacks 1 enemies at 600% Damage 6 times. Target becomes bound for 10 sec., and the bind duration is increased up to 100% based on the damage dealt to the target.<br />Afterward, periodically attacks up to 12 enemies at 400% Damage 3 times for 9 sec.<br />At the end of the skill, attacks up to 12 enemies at 1000% Damage 8 times.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155121306_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155121306_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

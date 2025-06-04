@@ -1,0 +1,150 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.2673525-03:00",
+  "ChangeType": "Changed",
+  "Id": "63121040",
+  "Name": "Sneaky Sniping",
+  "Job": "Kain",
+  "Desc": "Focus your mind, take aim carefully, and fire at enemies. Hold the key and continue aiming at enemies to increase attack range. Release the key to generate invisible impact. Not affected by ASPD buffs and stance is fixed to 100% while using.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 350 MP. When keys are held down for 1.4 sec, generates 5 impacts that attack up to 12 enemies at 193% Damage 10 times.<br />1 Sneaky Sniping Cartridge is prepared every 40 sec and up to 1 Cartridges can be obtained.",
+      "New": "MP Cost: 350. Key down for up to 1.4 sec. Generates impact 5 times that attacks up to 12 enemies at 193% Damage 10 times.<br />1 Sneaky Sniping Cartridge is ready every 40 sec., and up to 1 can be carried."
+    },
+    "h1": {
+      "Old": "Consumes 350 MP. When keys are held down for 1.4 sec, generates 5 impacts that attack up to 12 enemies at 193% Damage 10 times.<br />1 Sneaky Sniping Cartridge is prepared every 40 sec and up to 1 Cartridges can be obtained.",
+      "New": "MP Cost: 350. Key down for up to 1.4 sec. Generates impact 5 times that attacks up to 12 enemies at 193% Damage 10 times.<br />1 Sneaky Sniping Cartridge is ready every 40 sec., and up to 1 can be carried."
+    },
+    "prepare0/action": {
+      "Old": "HY6312sneakySnipingPre",
+      "New": null
+    },
+    "prepare0/time": {
+      "Old": "420",
+      "New": null
+    },
+    "keydown0/action": {
+      "Old": "HY6312sneakySnipingLoop",
+      "New": null
+    },
+    "keydownend0/action": {
+      "Old": "HY6312sneakySnipingEnd",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/34",
+      "New": "kain/M/34"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/35",
+      "New": "kain/M/35"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/36",
+      "New": "kain/M/36"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/37",
+      "New": "kain/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/42",
+      "New": "kain/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/43",
+      "New": "kain/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/44",
+      "New": "kain/F/44"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/45",
+      "New": "kain/F/45"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141026"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 350. Key down for up to 1.4 sec. Generates impact 5 times that attacks up to 12 enemies at 193% Damage 10 times.<br />1 Sneaky Sniping Cartridge is ready every 40 sec., and up to 1 can be carried."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63121040_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "prepare0": {
+      "Old": "Animations/Old/63121040_prepare0_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121040_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

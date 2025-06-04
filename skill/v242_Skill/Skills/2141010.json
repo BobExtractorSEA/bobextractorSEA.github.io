@@ -1,0 +1,149 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5430424-03:00",
+  "ChangeType": "Added",
+  "Id": "2141010",
+  "Name": "Megido Flame VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Shoots a blue flame that burns away souls, wiping out enemies. The blue flame can be regenerated up to a certain number of times after burning enemies.<br />Use with the Down key to activate Explosion mode, in which the flame doesn't regenerate but explodes on enemies it hits.<br />The flame prioritizes the Boss monster within range. If there are multiple Boss monsters, the Boss monster with the highest Max HP is prioritized. Can damage enemies in Ignore Attacks and Damage Reflection state.<br />Use a custom command to activate Explosion mode using only the skill key, without the direction keys.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Megido Flame Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 400,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/2121052": "1",
+    "action/0": "6thMegiddoFlame",
+    "common/maxLevel": "30",
+    "common/mpCon": "510+2*x",
+    "common/damage": "330+11*x",
+    "common/attackCount": "5",
+    "common/mobCount": "1",
+    "common/bulletCount": "3",
+    "common/prop": "20",
+    "common/x": "11",
+    "common/dot": "770+7*x",
+    "common/dotInterval": "1",
+    "common/dotTime": "30",
+    "common/cooltime": "50",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 400,
+    "common/rb/y": 200,
+    "common/y": "85",
+    "common/v2": "1",
+    "common/u": "55",
+    "common/w": "990",
+    "common/w2": "900",
+    "common/s": "245+7*x",
+    "common/s2": "3",
+    "common/s3": "3",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitFlip": "1",
+    "SecondAtom/atom/0/createDelay": "480",
+    "SecondAtom/atom/0/enableDelay": "720",
+    "SecondAtom/atom/0/expire": "6000",
+    "SecondAtom/atom/0/dataIndex": "85",
+    "SecondAtom/atom/0/pos/x": -151,
+    "SecondAtom/atom/0/pos/y": -241,
+    "SecondAtom/atom/1/createDelay": "480",
+    "SecondAtom/atom/1/enableDelay": "720",
+    "SecondAtom/atom/1/expire": "6000",
+    "SecondAtom/atom/1/dataIndex": "85",
+    "SecondAtom/atom/1/pos/x": -6,
+    "SecondAtom/atom/1/pos/y": -296,
+    "SecondAtom/atom/2/createDelay": "480",
+    "SecondAtom/atom/2/enableDelay": "720",
+    "SecondAtom/atom/2/expire": "6000",
+    "SecondAtom/atom/2/dataIndex": "85",
+    "SecondAtom/atom/2/pos/x": 150,
+    "SecondAtom/atom/2/pos/y": -231,
+    "SecondAtom/atom/3/createDelay": "180",
+    "SecondAtom/atom/3/enableDelay": "480",
+    "SecondAtom/atom/3/expire": "6000",
+    "SecondAtom/atom/3/dataIndex": "85",
+    "skillList/0": "400021000",
+    "processtype": "-1",
+    "additional_process/0": "22",
+    "additional_process/1": "53",
+    "additional_process/2": "58",
+    "additional_process/3": "59",
+    "elemAttr": "f",
+    "id": "2141010",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = archMageFP/M/15 }",
+    "voice/male/path/1": "{ Old = , New = archMageFP/M/16 }",
+    "voice/female/path/0": "{ Old = , New = archMageFP/F/15 }",
+    "voice/female/path/1": "{ Old = , New = archMageFP/F/16 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 570. Creates 3 Blue Flames.<br />The flames attack at 660% Damage 5 times, and after hitting an enemy, they split to create 1 more flames in addition to themselves. Up to 11 flames can be created including the first ones, and once the maximum number is reached, no more will be created.<br />If multiple flames hit a single enemy, Final Damage -55% for each subsequent flame after the first one. Enemies burned by the flames receive 980% DoT every 1 for 30 sec.<br /><span style=\"font-weight:bold; color:orange;\">Explosion Mode</span>: The flame doesn't regenerate, but causes 3 explosions on enemies it hits that attack at 455% Damage 3 times.<br />Cooldown: 50 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2141010_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/2141010_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2141010_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141010_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141010_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141010_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2141010_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

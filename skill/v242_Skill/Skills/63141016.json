@@ -1,0 +1,80 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6355873-03:00",
+  "ChangeType": "Added",
+  "Id": "63141016",
+  "Name": "Death Blessing VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/63120001": "10",
+    "common/maxLevel": "30",
+    "common/damage": "330+10*x",
+    "common/attackCount": "10",
+    "common/mobCount": "1",
+    "effect/useZ": "1",
+    "effect/z": "2",
+    "hit/0/randomHitOrigin": "25",
+    "hit/0/delayShowDamage": "240",
+    "hit/1/randomHitOrigin": "25",
+    "hit/1/delayShowDamage": "240",
+    "hit/2/randomHitOrigin": "25",
+    "hit/2/delayShowDamage": "240",
+    "hit/3/randomHitOrigin": "25",
+    "hit/3/delayShowDamage": "240",
+    "hit/4/randomHitOrigin": "25",
+    "hit/4/delayShowDamage": "240",
+    "hit/5/randomHitOrigin": "25",
+    "hit/5/delayShowDamage": "240",
+    "hit/6/randomHitOrigin": "25",
+    "hit/6/delayShowDamage": "240",
+    "hit/7/randomHitOrigin": "25",
+    "hit/7/delayShowDamage": "240",
+    "hit/8/randomHitOrigin": "25",
+    "hit/8/delayShowDamage": "240",
+    "hit/9/randomHitOrigin": "25",
+    "hit/9/delayShowDamage": "240",
+    "hit/10/randomHitOrigin": "25",
+    "hit/10/delayShowDamage": "240",
+    "hit/11/randomHitOrigin": "25",
+    "hit/11/delayShowDamage": "240",
+    "hit/12/randomHitOrigin": "25",
+    "hit/12/delayShowDamage": "240",
+    "hit/13/randomHitOrigin": "25",
+    "hit/13/delayShowDamage": "240",
+    "hit/14/randomHitOrigin": "25",
+    "hit/14/delayShowDamage": "240",
+    "hit/15/randomHitOrigin": "25",
+    "hit/15/delayShowDamage": "240",
+    "hit/randomHit": "1",
+    "invisible": "1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "id": "63141016",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141016_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141016_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

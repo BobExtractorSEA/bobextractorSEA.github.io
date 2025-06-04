@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9943755-03:00",
+  "ChangeType": "Changed",
+  "Id": "155111207",
+  "Name": "Returning Hatred",
+  "Job": "Ark",
+  "Desc": "The abyssal energy forms a blade that cuts down enemies.<br />Leaves behind a Mark of Abyss at the location Approaching Death hits. Activating the skill sets off all marks and attacks all enemies between where the skill was used and the location of the mark.<br />Can only be used in Specter Form, doesn't affect enemies in the Damage Reflection status, and isn't affected by Cooldown Reset effects.<br />During Auto Mode, Returning Hatred is automatically used when not in cooldown.<br /><span style=\"font-weight:bold; color:orange;\">Toggle Auto Mode: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "When Approaching Death hits, leaves a Mark of Abyss with 20% chance, and using the skill attacks up to 8 enemies at 370% damage 6 times by activating all marks within range.<br />Up to 12 Marks can be created that lasts for 20 sec<br />During Auto Use Mode, up to 8 Marks can be created.<br />Cooldown: 12 sec",
+      "New": "When Approaching Death hits, leaves a Mark of Abyss with a 20% chance, and using the skill attacks up to 8 enemies at 370% Damage 6 times by activating all marks within range..<br />Up to 12 Marks can be created that lasts for 20 sec.<br />During Auto Use Mode, up to 8 Marks can be created.<br />Cooldown: 12 sec."
+    },
+    "h1": {
+      "Old": "When Approaching Death hits, leaves a Mark of Abyss with 20% chance, and using the skill attacks up to 8 enemies at 370% damage 6 times by activating all marks within range.<br />Up to 12 Marks can be created that lasts for 20 sec<br />During Auto Use Mode, up to 8 Marks can be created.<br />Cooldown: 12 sec",
+      "New": "When Approaching Death hits, leaves a Mark of Abyss with a 20% chance, and using the skill attacks up to 8 enemies at 370% Damage 6 times by activating all marks within range..<br />Up to 12 Marks can be created that lasts for 20 sec.<br />During Auto Use Mode, up to 8 Marks can be created.<br />Cooldown: 12 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "footholdAffectedArea": {
+      "Old": "1",
+      "New": null
+    },
+    "common/lt2/x": {
+      "Old": null,
+      "New": "-152"
+    },
+    "common/lt2/y": {
+      "Old": null,
+      "New": "-45"
+    },
+    "common/rb2/x": {
+      "Old": null,
+      "New": "148"
+    },
+    "common/rb2/y": {
+      "Old": null,
+      "New": "45"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "155141034"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "When Approaching Death hits, leaves a Mark of Abyss with a 20% chance, and using the skill attacks up to 8 enemies at 370% Damage 6 times by activating all marks within range..<br />Up to 12 Marks can be created that lasts for 20 sec.<br />During Auto Use Mode, up to 8 Marks can be created.<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155111207_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

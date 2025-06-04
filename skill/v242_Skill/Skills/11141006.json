@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5836181-03:00",
+  "ChangeType": "Added",
+  "Id": "11141006",
+  "Name": "Soluna Power II",
+  "Job": "Dawn Warrior",
+  "Desc": "Fully realizes the power of the united celestial bodies to unleash an even more powerful attack. After blinding sunlight and cold moonlight swords are activated, the sunlight and moonlight become one to attack enemies.<br />Activated when you hit Solar Slash, Lunar Divide, or Soul Cleaving while Soluna Power is not on cooldown.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Soluna Power Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -600,
+      "y": -600
+    },
+    "rb": {
+      "x": 600,
+      "y": 500
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/11141003": "1",
+    "common/maxLevel": "30",
+    "common/damage": "1",
+    "common/attackCount": "5",
+    "common/mobCount": "8",
+    "common/u": "360+17*x",
+    "common/bulletCount": "4",
+    "common/x": "20",
+    "common/y": "12",
+    "common/lt/x": -600,
+    "common/lt/y": -600,
+    "common/rb/x": 600,
+    "common/rb/y": 500,
+    "SecondAtom/dataIndex": "72",
+    "SecondAtom/rotate": "0",
+    "SecondAtom/expire": "5000",
+    "SecondAtom/enableDelay": "0",
+    "additional_process/0": "19",
+    "additional_process/1": "22",
+    "additional_process/2": "27",
+    "additional_process/3": "48",
+    "additional_process/4": "53",
+    "additional_process/5": "58",
+    "additional_process/6": "59",
+    "processtype": "-1",
+    "weapon": "40",
+    "weapon2": "30",
+    "notCooltimeReset": "1",
+    "id": "11141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "After the sunlight and moonlight swords, causes 12 celestial explosions that attack up to 8 enemies at 870% Damage 5 times.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_11141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

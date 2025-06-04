@@ -1,0 +1,82 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3061345-03:00",
+  "ChangeType": "Changed",
+  "Id": "31101003",
+  "Name": "Vengeance",
+  "Job": "Demon Slayer",
+  "Desc": "Returns damage taken from enemies to the attacker, along with a chance to paralyze them. Cannot return more than half of the enemy's HP at once. Some monsters have a resistance to the attack and cannot be paralyzed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/5",
+      "New": "demonSlayer/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/29",
+      "New": "demonSlayer/M/29"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/30",
+      "New": "demonSlayer/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/31",
+      "New": "demonSlayer/F/31"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/32",
+      "New": "demonSlayer/F/32"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31101003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31101003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31101003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31101003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31101003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

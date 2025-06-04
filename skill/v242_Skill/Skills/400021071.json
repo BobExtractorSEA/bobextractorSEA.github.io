@@ -1,0 +1,125 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.3133657-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021071",
+  "Name": "Equinox Exorcism",
+  "Job": "5th (Magician)",
+  "Desc": "Stabs Dark and Light Swords by turns to hold baptism of the truth against enemies. Does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ender level 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 2000. Activates Dark and Light Swords 13 times that attack enemies at 900% damage 7 times.<br />Additional Critical Rate +100% and Ignore DEF +100%<br />Cooldown: 45 sec.<br />When hitting <span style=\"font-weight:bold; color:orange;\">Equalibrium Skills</span> while in Equilibrium mode, decreases Equinox Exorcism's Cooldown by 3 sec.<br /><span style=\"font-weight:bold; color:orange;\">Activating Equalibrium can reset Cooldown of Equinox Exorcism once.</span>",
+      "New": "MP Cost: 2000. Activates Dark and Light Swords 13 times that attack at900% Damage 7 times.<br />Additional Critical Rate: 100%. Additional Ignore Monster DEF: 100%.<br />Cooldown: 45 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Equilibrium</span>, hitting <span style=\"font-weight:bold; color:orange;\">Equilibrium skills</span> excluding Twilight Nova decreases Equinox Exorcism cooldown -3 sec.<br /><span style=\"font-weight:bold; color:orange;\">Equilibrium resets Equinox Exorcism cooldown once upon activation.</span>"
+    },
+    "h1": {
+      "Old": "MP Cost: 2000. Activates Dark and Light Swords 13 times that attack enemies at 900% damage 7 times.<br />Additional Critical Rate +100% and Ignore DEF +100%<br />Cooldown: 45 sec.<br />When hitting <span style=\"font-weight:bold; color:orange;\">Equalibrium Skills</span> while in Equilibrium mode, decreases Equinox Exorcism's Cooldown by 3 sec.<br /><span style=\"font-weight:bold; color:orange;\">Activating Equalibrium can reset Cooldown of Equinox Exorcism once.</span>",
+      "New": "MP Cost: 2000. Activates Dark and Light Swords 13 times that attack at900% Damage 7 times.<br />Additional Critical Rate: 100%. Additional Ignore Monster DEF: 100%.<br />Cooldown: 45 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Equilibrium</span>, hitting <span style=\"font-weight:bold; color:orange;\">Equilibrium skills</span> excluding Twilight Nova decreases Equinox Exorcism cooldown -3 sec.<br /><span style=\"font-weight:bold; color:orange;\">Equilibrium resets Equinox Exorcism cooldown once upon activation.</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "luminous/M/67",
+      "New": "luminous/M/67"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/68",
+      "New": "luminous/M/68"
+    },
+    "voice/male/path/2": {
+      "Old": "luminous/M/69",
+      "New": "luminous/M/69"
+    },
+    "voice/male/path/3": {
+      "Old": "luminous/M/85",
+      "New": "luminous/M/85"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/65",
+      "New": "luminous/F/65"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/66",
+      "New": "luminous/F/66"
+    },
+    "voice/female/path/2": {
+      "Old": "luminous/F/67",
+      "New": "luminous/F/67"
+    },
+    "voice/female/path/3": {
+      "Old": "luminous/F/77",
+      "New": "luminous/F/77"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 2000. Activates Dark and Light Swords 13 times that attack at900% Damage 7 times.<br />Additional Critical Rate: 100%. Additional Ignore Monster DEF: 100%.<br />Cooldown: 45 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Equilibrium</span>, hitting <span style=\"font-weight:bold; color:orange;\">Equilibrium skills</span> excluding Twilight Nova decreases Equinox Exorcism cooldown -3 sec.<br /><span style=\"font-weight:bold; color:orange;\">Equilibrium resets Equinox Exorcism cooldown once upon activation.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021071_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021071_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

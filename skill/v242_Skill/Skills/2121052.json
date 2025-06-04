@@ -1,0 +1,117 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1613735-03:00",
+  "ChangeType": "Changed",
+  "Id": "2121052",
+  "Name": "Megido Flame",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Shoots a blue flame that burns away souls, wiping out enemies. Blue Flame is regenerated up to a certain number of times after burning the enemies. The flame follows a Boss monster within range first. If there are multiple Boss monsters, then it follows the one with the highest Max HP first. Affects enemies in Ignore Attacks or Damage Reflection state.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 500. Creates 3 Blue Flames.<br />The flame attacks the enemy at 380% Damage 4 times. After hitting the enemy, it gets split into 1 flames additionally. Creates up to 11 flames including the first flame created, but creates no more flames once it reaches the maximum count.<br />When several flames attack a single enemy, the 2nd flame has the final damage decreased by 55%.<br />The enemy burned by flame sustains 700% DoT damage every 1 sec. for a total of 30 sec.<br />Cooldown: 50 sec.",
+      "New": "MP Cost: 500. Creates 3 Blue Flames.<br />The flames attack at 380% Damage 4 times, and after hitting an enemy, they split to create 1 more flames in addition to themselves. Up to 11 flames can be created including the first ones, and once the maximum number is reached, no more will be created.<br />If multiple flames hit a single enemy, Final Damage -55% for each subsequent flame after the first one.<br />Enemies burned by the flames receive 700% DoT every 1 for 30 sec.<br />Cooldown: 50 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 500. Creates 3 Blue Flames.<br />The flame attacks the enemy at 380% Damage 4 times. After hitting the enemy, it gets split into 1 flames additionally. Creates up to 11 flames including the first flame created, but creates no more flames once it reaches the maximum count.<br />When several flames attack a single enemy, the 2nd flame has the final damage decreased by 55%.<br />The enemy burned by flame sustains 700% DoT damage every 1 sec. for a total of 30 sec.<br />Cooldown: 50 sec.",
+      "New": "MP Cost: 500. Creates 3 Blue Flames.<br />The flames attack at 380% Damage 4 times, and after hitting an enemy, they split to create 1 more flames in addition to themselves. Up to 11 flames can be created including the first ones, and once the maximum number is reached, no more will be created.<br />If multiple flames hit a single enemy, Final Damage -55% for each subsequent flame after the first one.<br />Enemies burned by the flames receive 700% DoT every 1 for 30 sec.<br />Cooldown: 50 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "300+6*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "2",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "40+2*x",
+      "New": null
+    },
+    "PVPcommon/onActive": {
+      "Old": "40",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/15",
+      "New": "archMageFP/M/15"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/16",
+      "New": "archMageFP/M/16"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/15",
+      "New": "archMageFP/F/15"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/16",
+      "New": "archMageFP/F/16"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 500. Creates 3 Blue Flames.<br />The flames attack at 380% Damage 4 times, and after hitting an enemy, they split to create 1 more flames in addition to themselves. Up to 11 flames can be created including the first ones, and once the maximum number is reached, no more will be created.<br />If multiple flames hit a single enemy, Final Damage -55% for each subsequent flame after the first one.<br />Enemies burned by the flames receive 700% DoT every 1 for 30 sec.<br />Cooldown: 50 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

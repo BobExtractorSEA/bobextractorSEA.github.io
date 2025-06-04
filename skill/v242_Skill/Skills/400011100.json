@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0749307-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011100",
+  "Name": "Shadow Flash",
+  "Job": "5th (Warrior)",
+  "Desc": "Sticks the blade into the ground and occupies the area. When used again, turns back the time and moves to the location dealing critical damage.<br />Different cooldown settings for Alpha and Beta.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "tile/startDelay": {
+      "Old": "1120",
+      "New": "1090"
+    },
+    "voice/female/path/0": {
+      "Old": "zero/F/65",
+      "New": "zero/F/65"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/68",
+      "New": "zero/F/68"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

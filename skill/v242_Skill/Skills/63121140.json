@@ -1,0 +1,135 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.2888692-03:00",
+  "ChangeType": "Changed",
+  "Id": "63121140",
+  "Name": "[Revelation/Execution] Sneaky Sniping",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "prepare0/action": {
+      "Old": "HY6312sneakySnipingEnchantPre",
+      "New": null
+    },
+    "prepare0/time": {
+      "Old": "420",
+      "New": null
+    },
+    "keydown0/action": {
+      "Old": "HY6312sneakySnipingEnchantLoop",
+      "New": null
+    },
+    "keydownend0/action": {
+      "Old": "HY6312sneakySnipingEnchantEnd",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/34",
+      "New": "kain/M/34"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/35",
+      "New": "kain/M/35"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/36",
+      "New": "kain/M/36"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/37",
+      "New": "kain/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/42",
+      "New": "kain/F/42"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/43",
+      "New": "kain/F/43"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/44",
+      "New": "kain/F/44"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/45",
+      "New": "kain/F/45"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141126"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63121140_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63121140_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

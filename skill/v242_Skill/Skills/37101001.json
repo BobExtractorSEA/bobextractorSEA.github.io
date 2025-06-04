@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4607435-03:00",
+  "ChangeType": "Changed",
+  "Id": "37101001",
+  "Name": "Charging Arm: Bobbing",
+  "Job": "Blaster",
+  "Desc": "Evades enemy attacks and moves forward. You can stop immediately by using the Jump key. Using a custom command allows you to reuse the skill to stop it immediately.<br />Can be chained with Magnum Drive, Magnum Rush, or Burning Breaker.<br />It can be charged by holding the key down, <span style=\"font-weight:bold; color:orange;\">and when activated after charging, using a different skill cancels the skill and activates Ducking.</span> Charging is possible while using skills other than Ducking, and up to 2 skills can be charged at once. Also permanently increases damage dealt by Magnum Drive.<br /><span style=\"font-weight:bold; color:orange;\">Custom command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Magnum Drive Lv. 20 or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 15 Effect: Can learn 3rd Job Skill \"Charging Arm: Weaving\".</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "blaster/M/46",
+      "New": "blaster/M/46"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/47",
+      "New": "blaster/M/47"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/53",
+      "New": "blaster/F/53"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37101001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37101001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37101001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37101001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

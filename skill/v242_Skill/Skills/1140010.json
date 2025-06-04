@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6208936-03:00",
+  "ChangeType": "Added",
+  "Id": "1140010",
+  "Name": "Furious Edge",
+  "Job": "Hero",
+  "Desc": "Reaches the pinnacle of swordsmanship, leaving a devastating <span style=\"font-weight:bold; color:orange;\">sword wound</span> with each attack.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "36",
+    "common/maxLevel": "30",
+    "invisible": "1",
+    "id": "1140010"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1140010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

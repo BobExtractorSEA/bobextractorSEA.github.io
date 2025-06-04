@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2493085-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021032",
+  "Name": "Angel of Libra",
+  "Job": "5th (Magician)",
+  "Desc": "Summons an Angel with both benevolence and vengeance. Angel and Bahamut cannot be summoned at the same time. A vengeful angel first targets the enemy with the highest HP and does not affect enemies in the Damage Reflection status within the attack range. Angel of Libra can be reused in succession to decrease its duration and cooldown. Use a custom command to immediately apply the reduced duration and cooldown without reusing the skill.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/25",
+      "New": "bishop/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/26",
+      "New": "bishop/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/25",
+      "New": "bishop/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/26",
+      "New": "bishop/F/26"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021032_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021032_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021032_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021032_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021032_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

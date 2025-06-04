@@ -1,0 +1,70 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.6595356-03:00",
+  "ChangeType": "Added",
+  "Id": "2240006",
+  "Name": "Cryo Shock",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Inflicts cold on enemies, and then shocks them with a powerful bolt of lightning.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+d(x/3)",
+    "common/damage": "700+13*x",
+    "common/attackCount": "15",
+    "common/x": "13",
+    "common/y": "1080",
+    "common/time": "60",
+    "hit/0/z": "2",
+    "hit/0/useZ": "1",
+    "hit/0/randomHitOrigin": "50",
+    "hit/0/randomHitAngle": "1",
+    "mob/0/pos": "2",
+    "mob/0/repeat": "1",
+    "mob/1/pos": "2",
+    "mob/1/repeat": "1",
+    "mob/2/pos": "2",
+    "mob/2/repeat": "1",
+    "mob/3/pos": "2",
+    "mob/3/repeat": "1",
+    "mob/4/pos": "2",
+    "mob/4/repeat": "1",
+    "mob/5/pos": "2",
+    "mob/5/repeat": "1",
+    "mob/6/pos": "2",
+    "mob/6/repeat": "1",
+    "mob/7/pos": "2",
+    "mob/7/repeat": "1",
+    "mob/8/repeat": "1",
+    "mob/8/pos": "2",
+    "mob/9/pos": "2",
+    "mob/9/repeat": "1",
+    "mob/10/pos": "2",
+    "mob/10/repeat": "1",
+    "mob/11/pos": "2",
+    "mob/11/repeat": "1",
+    "id": "2240006"
+  },
+  "HFields": {
+    "h1": "MP Cost: 50. For every 13 Freeze stacks decreased, causes shock that attacks at 1090% Damage 15 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2240006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2240006_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/2240006_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

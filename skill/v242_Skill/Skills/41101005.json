@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1984143-03:00",
+  "ChangeType": "Changed",
+  "Id": "41101005",
+  "Name": "Katana Booster",
+  "Job": "Hayato",
+  "Desc": "Utilize supreme concentration to temporarily increase attack speed by 2 levels.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_41101005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

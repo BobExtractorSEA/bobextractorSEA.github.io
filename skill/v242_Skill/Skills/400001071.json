@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7576285-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001071",
+  "Name": "Transcendent: hr",
+  "Job": "5th",
+  "Desc": "A blessing from the Transcendent of Time creates an afterimage of an attack from the previous time, additionally attacking enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001071_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

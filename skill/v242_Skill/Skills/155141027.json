@@ -1,0 +1,90 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.223043-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141027",
+  "Name": "Uncontrollable Chaos VI",
+  "Job": "Ark",
+  "Desc": "Moves rapidly to slash open all sides.<br />Changes to Abyss Charge Drive in Flora form.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Uncontrollable Chaos Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/8",
+      "New": "ark/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/9",
+      "New": "ark/M/9"
+    },
+    "voice/male/path/2": {
+      "Old": "ark/M/34",
+      "New": "ark/M/34"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/5",
+      "New": "ark/F/5"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/7",
+      "New": "ark/F/7"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/8": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/9": {
+      "Old": null,
+      "New": "155141036"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141027_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141027_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141027_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141027_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141027_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141027_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

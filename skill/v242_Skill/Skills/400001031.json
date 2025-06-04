@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8340785-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001031",
+  "Name": "Sengoku Ally",
+  "Job": "5th",
+  "Desc": "Gathers the Sengoku Forces. Randomly summons two Sengoku Force warriors. This skill is not affected by enemies in Damage Reflection mode. Creates a different bonus effect depending on which character is summoned.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001031_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

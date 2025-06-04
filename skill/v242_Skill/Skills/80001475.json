@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.5730363-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001475",
+  "Name": "Overdrive Ring",
+  "Job": "Etc",
+  "Desc": "Attacks are temporarily not affected by enemies in the Ignore Attacks and Damage Reflection status. This skill isn't affected by Cooldown Reset effects.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001475_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

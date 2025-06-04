@@ -1,0 +1,90 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.3929309-03:00",
+  "ChangeType": "Changed",
+  "Id": "5211019",
+  "Name": "Assemble Crew",
+  "Job": "Corsair",
+  "Desc": "Enhances Summon Crew to summon two of 4 random crewmen. The summoned crewmen will attack enemies and sacrifice themselves to provide protection against critical abnormal status attacks.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 10 effect: Can learn 4th Job Skill Ahoy Mateys.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "action/0": {
+      "Old": "5thMonkeyEscort",
+      "New": null
+    },
+    "skillList/12": {
+      "Old": "5221052",
+      "New": "5221026"
+    },
+    "skillList/13": {
+      "Old": "400051006",
+      "New": "5221052"
+    },
+    "skillList/14": {
+      "Old": "400051021",
+      "New": "400051006"
+    },
+    "skillList/15": {
+      "Old": "400051040",
+      "New": "400051021"
+    },
+    "skillList/16": {
+      "Old": "400051073",
+      "New": "400051040"
+    },
+    "skillList/17": {
+      "Old": "5241000",
+      "New": "400051073"
+    },
+    "skillList/18": {
+      "Old": "5241001",
+      "New": "5241000"
+    },
+    "skillList/19": {
+      "Old": "5241500",
+      "New": "5241001"
+    },
+    "skillList/20": {
+      "Old": null,
+      "New": "5241500"
+    },
+    "skillList/21": {
+      "Old": null,
+      "New": "5241005"
+    },
+    "skillList/22": {
+      "Old": null,
+      "New": "5241006"
+    },
+    "skillList/23": {
+      "Old": null,
+      "New": "5241007"
+    },
+    "skillList/24": {
+      "Old": null,
+      "New": "5241008"
+    },
+    "skillList/25": {
+      "Old": null,
+      "New": "5241017"
+    },
+    "skillList/26": {
+      "Old": null,
+      "New": "5241018"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5241012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5211019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

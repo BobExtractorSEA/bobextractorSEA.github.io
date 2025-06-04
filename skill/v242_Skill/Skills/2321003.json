@@ -1,0 +1,147 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.827434-03:00",
+  "ChangeType": "Changed",
+  "Id": "2321003",
+  "Name": "Bahamut",
+  "Job": "Bishop",
+  "Desc": "Temporarily summon the sacred dragon, Bahamut. Bahamut does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Temporarily summon the ultimate sacred dragon Bahamut. Bahamut can attack multiple enemies at the same time. Does not affect enemies in the Damage Reflection status.",
+      "New": "Temporarily summon the sacred dragon, Bahamut. Bahamut does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+4*d(x/2)",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "20+8*x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "470+6*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "bishop/M/37",
+      "New": "bishop/M/37"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/39",
+      "New": "bishop/M/39"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/40",
+      "New": "bishop/M/40"
+    },
+    "voice/male/path/3": {
+      "Old": "bishop/M/42",
+      "New": "bishop/M/42"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/38",
+      "New": "bishop/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/39",
+      "New": "bishop/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/40",
+      "New": "bishop/F/40"
+    },
+    "voice/female/path/3": {
+      "Old": "bishop/F/43",
+      "New": "bishop/F/43"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2341013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2321003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2321003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

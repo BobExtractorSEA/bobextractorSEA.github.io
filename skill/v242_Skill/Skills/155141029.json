@@ -1,0 +1,101 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2104342-03:00",
+  "ChangeType": "Added",
+  "Id": "155141029",
+  "Name": "Endless Torment VI",
+  "Job": "Ark",
+  "Desc": "Opens up an Abyssal Passage to release a barrage over a short period of time, then calls upon the Abyssal Watcher to deliver the final blow. Using the skill turns you into Spectral Form. Although vigor isn't used while the skill is in use, it can't be used when exhausted, and isn't affected by cooldown reset effects.<br />Endless Pain doesn't affect enemies in the Damage Reflection status, but the Abyssal Watcher's attacks can damage enemies in Ignore Attack and Damage Reflection status.<br />This can be chained with all skills, and chained skills are used in place instead while moving. But even if the skill is chained with Endless Torment, you can move by using the skill with direction keys.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Endless Torment Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -770,
+      "y": -240
+    },
+    "rb": {
+      "x": 140,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "11",
+    "areaAttack": "1",
+    "rectBasedOnTarget": "1",
+    "bodyAttack": "1",
+    "movingAttack": "1",
+    "invincible": "1",
+    "info2/ignoreCounter": "1",
+    "action/0": "6thPainLoop",
+    "req/155121341": "1",
+    "common/maxLevel": "30",
+    "common/damage": "396+6*x",
+    "common/attackCount": "3",
+    "common/updatableTime": "3000",
+    "common/attackDelay": "180",
+    "common/cooltime": "60",
+    "common/mobCount": "5",
+    "common/lt/x": -770,
+    "common/lt/y": -240,
+    "common/rb/x": 140,
+    "common/rb/y": 60,
+    "common/z": "4500",
+    "common/dot": "3",
+    "common/q": "12",
+    "common/s": "246+3*x",
+    "common/v": "12",
+    "common/u": "20",
+    "common/w": "10",
+    "weapon": "48",
+    "weapon2": "39",
+    "applyHyper": "1",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "prepare/action": "6thPainPre",
+    "prepare/time": "360",
+    "keydown/action": "6thPainLoop",
+    "keydown0/z": "-1",
+    "keydown0/repeat": "6",
+    "hit/0/randomHitOrigin": "15",
+    "hit/0/onlyOnce": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "11",
+    "additional_process/2": "21",
+    "additional_process/3": "24",
+    "additional_process/4": "26",
+    "additional_process/5": "65",
+    "id": "155141029",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Key down for up to 3 sec.<br />Periodically attacks up to 5 enemies at 576% Damage 3 times. When you let go of the key or when max key-down time is reached, Abyssal Sentinel is activated.<br /><span style=\"font-weight:bold; color:orange;\">Abyssal Sentinel</span>: Activates 10 slashes that attack up to 12 enemies at 336% Damage 12 times, and restores 20% of Max HP on hit.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141029_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/155141029_keydown_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/155141029_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/155141029_prepare_new.webp"
+    },
+    "keydown0": {
+      "Old": null,
+      "New": "Animations/New/155141029_keydown0_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/155141029_keydownend_new.webp"
+    }
+  },
+  "Voices": {}
+}

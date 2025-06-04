@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1533417-03:00",
+  "ChangeType": "Changed",
+  "Id": "2121005",
+  "Name": "Ifrit",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Temporarily summons Ifrit of Fire Elementals. Also, permanently increases Mastery. Ifrit's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th advancement Skill, Ifrit's Fiery Anger.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Temporarily summons Ifrit of Fire Elementals. Ifrit attacks multiple enemies. Learning the Ifrit skill permanently increases Mastery. Ifrit's attack does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th Job Skill, 'Ifrit's Fiery Anger'</span>",
+      "New": "Temporarily summons Ifrit of Fire Elementals. Also, permanently increases Mastery. Ifrit's attacks do not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th advancement Skill, Ifrit's Fiery Anger.</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 120. Summons Ifrit for 260 sec.<br />Ifrit attacks up to 3 enemies at 150% Damage 3 times, inflicting 140% DoT damage on them every 1 sec. for a total of 2 sec.<br />[Passive Effects: Permanently boosts Mastery increase rate to +70%]",
+      "New": "MP Cost: 120. Summons Ifrit for 260 sec.<br />Ifrit attacks up to 3 enemies at 150% Damage 3 times.<br />140% DoT every 1 sec. for 2 sec.<br />[Passive Effects: Permanently boosts Mastery increase rate to +70%]"
+    },
+    "h1": {
+      "Old": "MP Cost: 120. Summons Ifrit for 260 sec.<br />Ifrit attacks up to 3 enemies at 150% Damage 3 times, inflicting 140% DoT damage on them every 1 sec. for a total of 2 sec.<br />[Passive Effects: Permanently boosts Mastery increase rate to +70%]",
+      "New": "MP Cost: 120. Summons Ifrit for 260 sec.<br />Ifrit attacks up to 3 enemies at 150% Damage 3 times.<br />140% DoT every 1 sec. for 2 sec.<br />[Passive Effects: Permanently boosts Mastery increase rate to +70%]"
+    },
+    "summon/attack1/info/priority": {
+      "Old": "2121006",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "archMageFP/M/28",
+      "New": "archMageFP/M/28"
+    },
+    "voice/male/path/1": {
+      "Old": "archMageFP/M/29",
+      "New": "archMageFP/M/29"
+    },
+    "voice/female/path/0": {
+      "Old": "archMageFP/F/29",
+      "New": "archMageFP/F/29"
+    },
+    "voice/female/path/1": {
+      "Old": "archMageFP/F/30",
+      "New": "archMageFP/F/30"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "2141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 120. Summons Ifrit for 260 sec.<br />Ifrit attacks up to 3 enemies at 150% Damage 3 times.<br />140% DoT every 1 sec. for 2 sec.<br />[Passive Effects: Permanently boosts Mastery increase rate to +70%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

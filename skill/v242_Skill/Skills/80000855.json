@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.973538-03:00",
+  "ChangeType": "Added",
+  "Id": "80000855",
+  "Name": "Boss",
+  "Job": "Etc",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "common/padX": "30",
+    "common/madX": "30",
+    "common/expR": "40",
+    "common/nbdR": "30",
+    "type": "50",
+    "pvp": "0",
+    "invisible": "1",
+    "psd": "1",
+    "id": "80000855"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80000855_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

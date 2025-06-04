@@ -1,0 +1,157 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.666748-03:00",
+  "ChangeType": "Added",
+  "Id": "2241007",
+  "Name": "Thunder Sphere VI",
+  "Job": "Arch Mage (I/L)",
+  "Desc": "Summons a ball of condensed lightning. The ball shoots high-voltage current at nearby enemies to deliver Lightning Element attacks against them. If you reuse this skill with the [Down] arrow key, you can fix the ball in place. The ball fixed in place gets summoned for a certain period of time to attack a wider range of enemies. A Ball attack does not reduce the Freeze stack. Also, increases Cryo Shock Damage.<br />Use a custom command to fixate the sphere using only the skill key without the direction keys. Thunder Sphere VI is affected by SUMMONS DURATION INCREASE.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Thunder Sphere Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "condition": "attack",
+    "req/2211011": "20",
+    "action/0": "6thThunderSphere",
+    "common/maxLevel": "30",
+    "common/mpCon": "55+d(x/3)",
+    "common/damage": "407+6*x",
+    "common/time": "120",
+    "common/speed": "8",
+    "common/mobCount": "6",
+    "common/attackCount": "3",
+    "common/x": "300",
+    "common/u": "-200",
+    "common/s3": "500",
+    "common/v3": "1250",
+    "common/v": "-135",
+    "common/u3": "370",
+    "common/w3": "900",
+    "common/v2": "-55",
+    "common/subTime": "1080",
+    "common/y": "60",
+    "common/w": "407+6*x",
+    "common/s": "6",
+    "common/q": "3",
+    "common/q2": "30",
+    "common/u2": "170+d(x/3)",
+    "common/damPlus": "87+20*x",
+    "summon/attack1/info/range/lt/x": -360,
+    "summon/attack1/info/range/lt/y": -300,
+    "summon/attack1/info/range/rb/x": 270,
+    "summon/attack1/info/range/rb/y": 50,
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "3",
+    "effect0/z": "-1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "elemAttr": "l",
+    "weapon": "37",
+    "weapon2": "38",
+    "showSummonedBuffIcon": "2",
+    "skillList/0": "400021000",
+    "psd": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "2241007",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = archMageTC/M/3 }",
+    "voice/male/path/1": "{ Old = , New = archMageTC/M/27 }",
+    "voice/male/path/2": "{ Old = , New = archMageTC/M/35 }",
+    "voice/male/path/3": "{ Old = , New = archMageTC/M/39 }",
+    "voice/female/path/0": "{ Old = , New = archMageTC/F/3 }",
+    "voice/female/path/1": "{ Old = , New = archMageTC/F/27 }",
+    "voice/female/path/2": "{ Old = , New = archMageTC/F/29 }",
+    "voice/female/path/3": "{ Old = , New = archMageTC/F/39 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 65. Summons a Lightning ball working for 120 sec. The Lightning ball attacks up to 6 enemies at 587% Damage 3 times.<br /><span style=\"font-weight:bold; color:orange;\">Reuse with the Down key</span> to fix the ball in place for 60 sec. The fixed ball attacks up to 6 enemies at 587% Damage 3 times.<br />Normal Monster Damage +180%p.<br />Ball Fixing Cooldown: 30 sec.<br />[Passive Effects: Cryo Shock Damage +687%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2241007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2241007_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/2241007_effect0_new.webp"
+    },
+    "ball": {
+      "Old": null,
+      "New": "Animations/New/2241007_ball_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2241007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2241007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

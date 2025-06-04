@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.871829-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001268",
+  "Name": "Martial Arts: Slap Attack",
+  "Job": "Etc",
+  "Desc": "Kitty Martial Arts can be performed by lions which is the vertex of a cat class. Von Leon summoned by the power of Soul Weapon performs Cross Slap Attack specific to one to one match in Kitty Martial Arts.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001268_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

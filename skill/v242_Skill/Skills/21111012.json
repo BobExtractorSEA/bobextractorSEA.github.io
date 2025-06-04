@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0652877-03:00",
+  "ChangeType": "Changed",
+  "Id": "21111012",
+  "Name": "Maha Blessing",
+  "Job": "Aran",
+  "Desc": "Increases all party members' ATT and MATT with the power of the pole arm spirit, Maha.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21111012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

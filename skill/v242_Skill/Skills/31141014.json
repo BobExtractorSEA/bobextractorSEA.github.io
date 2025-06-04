@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.0733689-03:00",
+  "ChangeType": "Added",
+  "Id": "31141014",
+  "Name": "Cerburus VI: Tartarian Cerburus",
+  "Job": "Demon Slayer",
+  "Desc": "The guardian of the netherworld fully awakens and devours everything in its path. Shares cooldown with Cerburus VI.<br />Changes the auto-activated Cerburus <span style=\"font-weight:bold; color:orange;\">during Demon Awakening</span> to <span style=\"font-weight:bold; color:orange;\">Cerburus VI: Tartarian Cerburus</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Cerburus Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -380,
+      "y": -480
+    },
+    "rb": {
+      "x": 60,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "action/0": "6thCerberus",
+    "req/31121052": "1",
+    "common/maxLevel": "30",
+    "common/hpCon": "300",
+    "common/cooltime": "15",
+    "common/lt/x": -380,
+    "common/lt/y": -480,
+    "common/rb/x": 60,
+    "common/rb/y": 60,
+    "common/damage": "260+5*x",
+    "common/attackCount": "7",
+    "common/mobCount": "10",
+    "common/subTime": "5000",
+    "common/updatableTime": "3000",
+    "common/x": "50",
+    "common/y": "4",
+    "common/z": "50",
+    "common/w": "50",
+    "multiAttackInfo/0/attackTime": "330",
+    "multiAttackInfo/1/attackTime": "30",
+    "multiAttackInfo/2/attackTime": "30",
+    "multiAttackInfo/3/attackTime": "30",
+    "skillList/0": "400011000",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "50",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "35",
+    "additional_process/3": "55",
+    "additional_process/4": "68",
+    "additional_process/5": "69",
+    "additional_process/6": "77",
+    "additional_process/7": "22",
+    "additional_process/8": "108",
+    "processtype": "-1",
+    "applyHyper": "1",
+    "notCooltimeReset": "1",
+    "invisible": "1",
+    "id": "31141014",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "50",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = demonSlayer/M/7 }",
+    "voice/male/path/1": "{ Old = , New = demonSlayer/M/56 }",
+    "voice/male/path/2": "{ Old = , New = demonSlayer/M/57 }",
+    "voice/female/path/0": "{ Old = , New = demonSlayer/F/58 }",
+    "voice/female/path/1": "{ Old = , New = demonSlayer/F/59 }",
+    "voice/female/path/2": "{ Old = , New = demonSlayer/F/13 }"
+  },
+  "HFields": {
+    "h1": "HP 300. Activates Watcher's Wrath 4 times that attacks up to 10 enemies at 410% Damage 7 times.<br />Boss Monster Damage +50%, additional Ignore Monster DEF +50%, and 50 additional Force absorption while attacking<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/31141014_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31141014_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31141014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

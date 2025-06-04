@@ -1,0 +1,102 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.0402526-03:00",
+  "ChangeType": "Added",
+  "Id": "151141015",
+  "Name": "Territory VI",
+  "Job": "Adele",
+  "Desc": "Creates a personal domain to create countless swords. Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Territory Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/151111001": "20",
+    "action/0": "6thTerritory",
+    "common/maxLevel": "30",
+    "common/mpCon": "120+d(x/2)",
+    "common/damage": "550+5*x",
+    "common/attackCount": "4",
+    "common/mobCount": "8",
+    "common/cooltime": "30",
+    "common/time": "7",
+    "common/attackDelay": "350",
+    "common/x": "310",
+    "common/y": "30",
+    "summon/attack1/info/range/lt/x": -290,
+    "summon/attack1/info/range/lt/y": -360,
+    "summon/attack1/info/range/rb/x": 290,
+    "summon/attack1/info/range/rb/y": 70,
+    "summon/attack1/info/mobCount": "8",
+    "summon/attack1/info/attackCount": "4",
+    "summon/attack1/info/hit/onlyOnce": "1",
+    "summon/attack1/info/hit/randomHitOrigin": "30",
+    "summon/attack1/info/rangeAttack": "1",
+    "summon/activeDelay": "1440",
+    "additional_process/0": "7",
+    "additional_process/1": "33",
+    "additional_process/2": "41",
+    "processtype": "-1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "footholdAffectedArea": "1",
+    "footholdInstallSummoned": "1",
+    "showSummonedBuffIcon": "1",
+    "secondaryStatFreezeExcept": "1",
+    "id": "151141015",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = adele/M/25 }",
+    "voice/male/path/1": "{ Old = , New = adele/M/26 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/19 }",
+    "voice/female/path/1": "{ Old = , New = adele/F/20 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 135. Creates a domain that periodically attacks up to 8 enemies at 700% Damage 4 times for 7 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/151141015_effect_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

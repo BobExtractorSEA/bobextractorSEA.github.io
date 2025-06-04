@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.9515556-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051018",
+  "Name": "Spotlight",
+  "Job": "5th (Pirate)",
+  "Desc": "Installs colorful lights that only follow the superstar. Only Superstars are allowed to stand under the lights, so enemies in the lights take damage and the Superstar's abilities are strengthened. Spotlight does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Skill BGM On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/43",
+      "New": "angelicBurster/F/43"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/44",
+      "New": "angelicBurster/F/44"
+    },
+    "voice/female/path/2": {
+      "Old": "angelicBurster/F/45",
+      "New": "angelicBurster/F/45"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

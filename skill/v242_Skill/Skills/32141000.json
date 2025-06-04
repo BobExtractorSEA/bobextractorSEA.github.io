@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6430343-03:00",
+  "ChangeType": "Changed",
+  "Id": "32141000",
+  "Name": "Death VI",
+  "Job": "Battle Mage",
+  "Desc": "Your contract with the reaper is complete. The Reaper will follow you, and once it has collected a certain number of souls, it will reveal its true self and attack a wide area.<br />Every time the Reaper defeats an enemy with its attacks or the Reaper’s scythe, the Reaper will collect their soul. When it collects a large amount of souls, it can use them as food to unleash a more powerful attack.<br />If the Reaper attacks an enemy using Damage Reflect, it will deal damage.<br />When the skill is used, the effects are activated and when it is re-used, they are deactivated <span style=\"font-weight:bold; color:orange;\">On/off skilll</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Death Contract Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_32141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

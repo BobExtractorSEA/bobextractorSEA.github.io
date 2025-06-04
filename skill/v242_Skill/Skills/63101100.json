@@ -1,0 +1,148 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0533517-03:00",
+  "ChangeType": "Changed",
+  "Id": "63101100",
+  "Name": "[Revelation] Strike Arrow",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/9",
+      "New": "kain/M/9"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/10",
+      "New": "kain/M/10"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/11",
+      "New": "kain/M/11"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/12",
+      "New": "kain/M/12"
+    },
+    "voice/male/path/4": {
+      "Old": "kain/M/13",
+      "New": "kain/M/13"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/13",
+      "New": "kain/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/14",
+      "New": "kain/F/14"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/15",
+      "New": "kain/F/15"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/16",
+      "New": "kain/F/16"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/17",
+      "New": "kain/F/17"
+    },
+    "voice/female/path/5": {
+      "Old": "kain/F/18",
+      "New": "kain/F/18"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63101100_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63101100_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

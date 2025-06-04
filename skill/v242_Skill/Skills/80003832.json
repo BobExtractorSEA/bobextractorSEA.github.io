@@ -1,0 +1,28 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1018136-03:00",
+  "ChangeType": "Added",
+  "Id": "80003832",
+  "Name": "Dawnstar Light Illusion",
+  "Job": "Etc",
+  "Desc": "Dawnlight and Starlight Illusions stored in the illusion device.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "type": "50",
+    "invisible": "1",
+    "timeLimited": "1",
+    "notCanceled": "1",
+    "id": "80003832"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003832_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

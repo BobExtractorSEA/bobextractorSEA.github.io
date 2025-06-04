@@ -1,0 +1,114 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1189153-03:00",
+  "ChangeType": "Added",
+  "Id": "4360006",
+  "Name": "Inevitable Death",
+  "Job": "Dual Blade",
+  "Desc": "Yacha, the god of the netherworld, descends and destroys all enemies around him.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {
+      "x": -485,
+      "y": -310
+    },
+    "rb": {
+      "x": 170,
+      "y": 90
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "52+d(x/2)",
+    "common/cooltime": "1",
+    "common/lt/x": -485,
+    "common/lt/y": -310,
+    "common/rb/x": 170,
+    "common/rb/y": 90,
+    "common/damage": "275+5*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/x": "15",
+    "common/updatableTime": "1000",
+    "common/y": "4",
+    "multiAttackInfo/0/attackTime": "390",
+    "multiAttackInfo/1/attackTime": "30",
+    "multiAttackInfo/2/attackTime": "30",
+    "multiAttackInfo/3/attackTime": "30",
+    "skillList/0": "4320005",
+    "skillList/1": "4340012",
+    "skillList/2": "4341054",
+    "skillList/3": "4361501",
+    "skillList/4": "4361502",
+    "skillList/5": "4361002",
+    "skillList/6": "400001008",
+    "skillList/7": "400001036",
+    "skillList/8": "400001064",
+    "skillList/9": "400001039",
+    "skillList/10": "400001040",
+    "skillList/11": "400001041",
+    "skillList/12": "400001059",
+    "skillList/13": "400001060",
+    "skillList/14": "400040000",
+    "skillList/15": "400041075",
+    "skillList/16": "400041076",
+    "skillList/17": "400041077",
+    "skillList/18": "400041078",
+    "skillList/19": "500001001",
+    "skillList/20": "500001002",
+    "skillList/21": "500001003",
+    "skillList/22": "500001004",
+    "extraSkillInfo/0/skill": "4360006",
+    "extraSkillInfo/0/delay": "0",
+    "effect/z": "3",
+    "effect1/z": "3",
+    "hit/0/randomHitOrigin": "60",
+    "additional_process/0": "22",
+    "additional_process/1": "27",
+    "additional_process/2": "19",
+    "additional_process/3": "1",
+    "additional_process/4": "69",
+    "additional_process/5": "68",
+    "additional_process/6": "67",
+    "additional_process/7": "76",
+    "additional_process/8": "21",
+    "additional_process/9": "35",
+    "additional_process/10": "55",
+    "additional_process/11": "30",
+    "additional_process/12": "108",
+    "weapon": "33",
+    "subWeapon": "34",
+    "processtype": "-1",
+    "notCooltimeReset": "1",
+    "isBeneficial": "1",
+    "notResetDarkSight": "1",
+    "id": "4360006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "MP Cost: 67. Hitting 15 direct Attack skills activates Yacha's Slaughter 4 times that attacks up to 8 enemies at 425% Damage 6 times.<br />Cooldown: 1 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4360006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/4360006_effect_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/4360006_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/4360006_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

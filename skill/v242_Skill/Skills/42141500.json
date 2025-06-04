@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.727098-03:00",
+  "ChangeType": "Changed",
+  "Id": "42141500",
+  "Name": "Ten Secrets of Kitsune",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Shikigami Technique]</span> Kanna and Haku's profound connection transforms Haku into a legendary form, allowing him to briefly descend into the mortal realm. When Ten Secrets of Kitsune is activated, for 10 seconds at most, every time Kanna consumes Spiritual Energy, Haku performs additional attacks. Also, Kanna's Spiritual Energy accumulation from all skills increases by 50%.<br />After 10 seconds or when the skill is activated again, the final strike is unleashed, and its power is enhanced based on the accumulated Spiritual Energy (up to a maximum of 500 stacks) when the final strike is triggered.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10: Ignore Monster DEF +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Damage on Boss monsters +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30: Ignore Monster DEF +30% and Damage on Boss monsters +30%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kanna/M/0",
+      "New": "kanna/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "kanna/M/1",
+      "New": "kanna/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "kanna/M/2",
+      "New": "kanna/M/2"
+    },
+    "voice/female/path/0": {
+      "Old": "kanna/F/0",
+      "New": "kanna/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "kanna/F/1",
+      "New": "kanna/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "kanna/F/2",
+      "New": "kanna/F/2"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141500_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42141500_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

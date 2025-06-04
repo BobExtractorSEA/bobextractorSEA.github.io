@@ -1,0 +1,176 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3763311-03:00",
+  "ChangeType": "Changed",
+  "Id": "151141000",
+  "Name": "Divide VI",
+  "Job": "Adele",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Trigger skill]</span> Creates a giant great sword to cut enemies in front of you. Every few seconds, Divide is enhanced by receiving the power of Aether.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Divide Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 55. Deals 750% damage 6 times on up to 7 enemies<br />every 6 seconds, the next attack will be replaced with Enhanced Divide <br /> <span style=\"font-weight:bold; color:orange;\">[Enhanced Divide]</span> : Max 8 number of enemies with 570% of damage for 7 times attacking 3 times occurs",
+      "New": "MP Cost: 55. Attacks up to 7 enemies at 750% Damage 6 times.<br />Replaces the next attack with an enhanced Divide every 6 sec.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Divide</span>: Activates 3 slashes that attack up to 8 enemies at 570% Damage 7 times."
+    },
+    "h1": {
+      "Old": "MP Cost: 55. Deals 750% damage 6 times on up to 7 enemies<br />every 6 seconds, the next attack will be replaced with Enhanced Divide <br /> <span style=\"font-weight:bold; color:orange;\">[Enhanced Divide]</span> : Max 8 number of enemies with 570% of damage for 7 times attacking 3 times occurs",
+      "New": "MP Cost: 55. Attacks up to 7 enemies at 750% Damage 6 times.<br />Replaces the next attack with an enhanced Divide every 6 sec.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Divide</span>: Activates 3 slashes that attack up to 8 enemies at 570% Damage 7 times."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/0",
+      "New": "adele/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/1",
+      "New": "adele/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/2",
+      "New": "adele/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "adele/M/3",
+      "New": "adele/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "adele/M/4",
+      "New": "adele/M/4"
+    },
+    "voice/male/path/5": {
+      "Old": "adele/M/5",
+      "New": "adele/M/5"
+    },
+    "voice/male/path/6": {
+      "Old": "adele/M/11",
+      "New": "adele/M/11"
+    },
+    "voice/male/path/7": {
+      "Old": "adele/M/12",
+      "New": "adele/M/12"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/0",
+      "New": "adele/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/1",
+      "New": "adele/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/3",
+      "New": "adele/F/3"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/4",
+      "New": "adele/F/4"
+    },
+    "voice/female/path/4": {
+      "Old": "adele/F/5",
+      "New": "adele/F/5"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 55. Attacks up to 7 enemies at 750% Damage 6 times.<br />Replaces the next attack with an enhanced Divide every 6 sec.<br /><span style=\"font-weight:bold; color:orange;\">Enhanced Divide</span>: Activates 3 slashes that attack up to 8 enemies at 570% Damage 7 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M7": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M7.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M6.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7021653-03:00",
+  "ChangeType": "Changed",
+  "Id": "23120012",
+  "Name": "Advanced Final Attack",
+  "Job": "Mercedes",
+  "Desc": "Permanently increases ATT, and significantly increases Final Attack's activation rate and Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Permanently increases Attack, and significantly increases Final Attack's activation rate and damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>",
+      "New": "Permanently increases ATT, and significantly increases Final Attack's activation rate and Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Final Attack</span>"
+    },
+    "H": {
+      "Old": "Permanently increases Attack +20. <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 75% chance of casting Final Attack 2 times and deals 120% Damage.",
+      "New": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 120% Damage 2 times."
+    },
+    "h1": {
+      "Old": "Permanently increases Attack +20. <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> Attacks create a 75% chance of casting Final Attack 2 times and deals 120% Damage.",
+      "New": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 120% Damage 2 times."
+    },
+    "common/ar": {
+      "Old": "u(x/3)",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Permanently increases ATT +20<br /><span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Attacks create a 75% chance of Final Attack that attacks at 120% Damage 2 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23120012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

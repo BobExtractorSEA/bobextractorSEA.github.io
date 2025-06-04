@@ -1,0 +1,146 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9331357-03:00",
+  "ChangeType": "Added",
+  "Id": "142141006",
+  "Name": "Ultimate - B.P.M VI",
+  "Job": "Kinesis",
+  "Desc": "Dense PK powers gush forth at a faster speed. If you use up all of your Psychic Points, your telekinesis loses its power, and starts gushing again when you regain a certain number of Psychic Points. Ultimate-B.P.M does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ultimate - B.P.M Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -160
+    },
+    "rb": {
+      "x": 280,
+      "y": 50
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "areaAttack": "1",
+    "magicDamage": "1",
+    "info2/ignoreCounter": "1",
+    "req/142121005": "20",
+    "action/0": "6thUltimateBPM",
+    "common/maxLevel": "30",
+    "common/damage": "220+3*x",
+    "common/mpCon": "1",
+    "common/mobCount": "3",
+    "common/attackCount": "7",
+    "common/lt/x": -400,
+    "common/lt/y": -160,
+    "common/rb/x": 280,
+    "common/rb/y": 50,
+    "common/attackDelay": "600",
+    "common/w": "1",
+    "common/ppReq": "1",
+    "common/cooltimeMS": "500",
+    "common/x": "3",
+    "skillList/0": "400021000",
+    "weapon": "26",
+    "subWeapon": "35",
+    "isBeneficial": "1",
+    "hit/0/onlyOnce": "1",
+    "hit/0/randomHitOrigin": "10",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "hit/1/onlyOnce": "1",
+    "hit/1/randomHitOrigin": "10",
+    "hit/1/z": "1",
+    "hit/1/useZ": "1",
+    "hit/randomHit": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "142141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = kinesis/M/28 }",
+    "voice/male/path/1": "{ Old = , New = kinesis/M/29 }",
+    "voice/male/path/2": "{ Old = , New = kinesis/M/72 }",
+    "voice/female/path/0": "{ Old = , New = kinesis/F/28 }",
+    "voice/female/path/1": "{ Old = , New = kinesis/F/29 }",
+    "voice/female/path/2": "{ Old = , New = kinesis/F/72 }"
+  },
+  "HFields": {
+    "h1": "Attacks up to 3 enemies at 310% Damage 7 times.<br />Consumes 1 Psychic Point blocks per activation.<br />Attacks stop when Psychic Points are exhausted, and then resume when 3 or more Psychic Points are restored.<br />Cooldown: 500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_142141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/142141006_effect_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/142141006_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/142141006_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/142141006_special_new.webp"
+    },
+    "special0": {
+      "Old": null,
+      "New": "Animations/New/142141006_special0_new.webp"
+    },
+    "special1": {
+      "Old": null,
+      "New": "Animations/New/142141006_special1_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/142141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

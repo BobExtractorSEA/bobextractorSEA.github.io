@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1674735-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141016",
+  "Name": "Abyss Charge Drive VI",
+  "Job": "Ark",
+  "Desc": "Attacks with a burst of abyss magic. If you hit an enemy, charge an Abyss Spell. You cannot be knocked back by any enemy attacks while casting this skill.<br />In Spectre mode, this skill is changed to Unbridled Chaos.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Abyss Charge Drive over Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/24",
+      "New": "ark/M/24"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/32",
+      "New": "ark/M/32"
+    },
+    "voice/male/path/2": {
+      "Old": "ark/M/35",
+      "New": "ark/M/35"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/23",
+      "New": "ark/F/23"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/39",
+      "New": "ark/F/39"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/7": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141016_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

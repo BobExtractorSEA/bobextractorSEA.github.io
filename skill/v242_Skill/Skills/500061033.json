@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.0714756-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061033",
+  "Name": "Wind Wall",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Activates Wind Element around the caster and generates ATT/DEF Wind Barrier. Generates a Whirlwind to attack more enemies during attack.<br /><span style=\"font-weight:bold; color:orange;\">Consumes Element for defense</span>, and the Wind Barrier disappears when the element is all consumed. Whirlwind does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/137",
+      "New": "windBreaker/M/137"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/138",
+      "New": "windBreaker/M/138"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/139",
+      "New": "windBreaker/M/139"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/140",
+      "New": "windBreaker/M/140"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/146",
+      "New": "windBreaker/F/146"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/147",
+      "New": "windBreaker/F/147"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/148",
+      "New": "windBreaker/F/148"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/149",
+      "New": "windBreaker/F/149"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061033_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061033_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

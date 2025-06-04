@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.8852456-03:00",
+  "ChangeType": "Added",
+  "Id": "14141017",
+  "Name": "Dark Omen VI",
+  "Job": "Night Walker",
+  "Desc": "Summons a swarm of bats that attack the enemies for a certain period of time. Use this skill during Shadow Bat to summon a swarm of weakened bats for a longer duration.<br />Summons Shadow and Ravenous Bats based on the number of enemies hit by the bats. Darkness Omen does not affect by enemies in the Damage Reflection status, is affected by SUMMONS DURATION INCREASE, and protects you against the Knockback effect by enemy attacks while being cast. A Dark Element attack.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Omen Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "req/14121003": "30",
+    "action/0": "6thDarknessOmen",
+    "common/maxLevel": "30",
+    "common/mpCon": "107+d(x/2)",
+    "common/damage": "400+14*x",
+    "common/attackCount": "6",
+    "common/mobCount": "6",
+    "common/time": "7",
+    "common/subTime": "270",
+    "common/cooltime": "60",
+    "common/t": "0.3",
+    "common/x": "3",
+    "common/y": "1",
+    "common/u": "1",
+    "common/s": "60",
+    "common/t2": "1.5",
+    "common/w": "6",
+    "common/w2": "325+7*x",
+    "common/w3": "2",
+    "summon/attack1/info/range/lt/x": -300,
+    "summon/attack1/info/range/lt/y": -300,
+    "summon/attack1/info/range/rb/x": 300,
+    "summon/attack1/info/range/rb/y": 30,
+    "summon/attack1/info/mobCount": "6",
+    "summon/attack1/info/attackCount": "6",
+    "effect/z": "-1",
+    "prepare/action": "6thDarknessOmenPre",
+    "effect_ple/loop/z": "2",
+    "effect_ple/end/z": "2",
+    "effect_ple0/loop/z": "-2",
+    "effect_ple0/end/z": "-2",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/onlyOnce": "1",
+    "weapon": "47",
+    "elemAttr": "d",
+    "secondaryStatFreezeExcept": "1",
+    "showSummonedBuffIcon": "1",
+    "maintainSplitSummoned": "1",
+    "resetByUnionCharTag": "1",
+    "id": "14141017",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = nightWalker/M/18 }",
+    "voice/male/path/1": "{ Old = , New = nightWalker/M/19 }",
+    "voice/male/path/2": "{ Old = , New = nightWalker/M/50 }",
+    "voice/male/path/3": "{ Old = , New = nightWalker/M/51 }",
+    "voice/female/path/0": "{ Old = , New = nightWalker/F/18 }",
+    "voice/female/path/1": "{ Old = , New = nightWalker/F/19 }",
+    "voice/female/path/2": "{ Old = , New = nightWalker/F/50 }",
+    "voice/female/path/3": "{ Old = , New = nightWalker/F/51 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 122. Summons a swarm of bats that attack up to 6 enemies at 820% Damage 6 times every 0.3 sec. for 7 sec.<br />During <span style=\"font-weight:bold; color:orange;\">Shadow Bat</span>, summons a swarm of weakened bats that attack up to 6 enemies at 535% Damage 2 times every 1.5 sec. for 60 sec.<br />Summons 1 Shadow and Ravenous Bats for every 3 enemies hit.<br />Up to 1 can be summoned within the map.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_14141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/14141017_effect_new.webp"
+    },
+    "effect_ple": {
+      "Old": null,
+      "New": "Animations/New/14141017_effect_ple_new.webp"
+    },
+    "effect_ple0": {
+      "Old": null,
+      "New": "Animations/New/14141017_effect_ple0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/14141017_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/14141017_prepare_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14141017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5906699-03:00",
+  "ChangeType": "Changed",
+  "Id": "37121054",
+  "Name": "Revolver Overdrive",
+  "Job": "Blaster",
+  "Desc": "Maximizes the Revolving Gauntlet performance to increase its attack power, decrease bullet reloading time, and accelerate the cylinder cooling speed.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "blaster/M/32",
+      "New": "blaster/M/32"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/33",
+      "New": "blaster/M/33"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/34",
+      "New": "blaster/M/34"
+    },
+    "voice/male/path/3": {
+      "Old": "blaster/M/54",
+      "New": "blaster/M/54"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/39",
+      "New": "blaster/F/39"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/40",
+      "New": "blaster/F/40"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/41",
+      "New": "blaster/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

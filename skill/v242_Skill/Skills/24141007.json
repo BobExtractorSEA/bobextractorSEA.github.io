@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8386535-03:00",
+  "ChangeType": "Added",
+  "Id": "24141007",
+  "Name": "Rose Carte Finale VI",
+  "Job": "Phantom",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -395,
+      "y": -480
+    },
+    "rb": {
+      "x": 395,
+      "y": 5
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/mobCount": "15",
+    "common/damage": "220+8*x",
+    "common/attackCount": "2",
+    "common/time": "8",
+    "common/subTime": "930",
+    "common/lt/x": -395,
+    "common/lt/y": -480,
+    "common/rb/x": 395,
+    "common/rb/y": 5,
+    "common/x": "780",
+    "tile/repeat/0/repeatIdx": "16",
+    "tile/repeat/0/z": "-1",
+    "tile/repeat/1/repeatIdx": "16",
+    "tile/repeat/1/z": "2",
+    "tile/end/0/z": "-1",
+    "tile/end/1/z": "2",
+    "tile/special/0/z": "-2",
+    "tile/special/1/z": "3",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "invisible": "1",
+    "weapon": "36",
+    "subWeapon": "35",
+    "processtype": "-1",
+    "applyHyper": "1",
+    "footholdAffectedArea": "1",
+    "id": "24141007",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_24141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/24141007_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

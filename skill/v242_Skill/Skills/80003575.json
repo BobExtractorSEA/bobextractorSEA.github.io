@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.0507398-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003575",
+  "Name": "Solar Flare",
+  "Job": "Etc",
+  "Desc": "Unleashes a blast of scorching solar heat, reducing nearby enemies to ash.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Authority Cost: 200. Attacks nearby enemies and instantly executes Normal monsters. <br />Cooldown: 1 sec.",
+      "New": "Authority Cost: 150. Attacks nearby enemies and instantly executes Normal monsters. <br />Cooldown: 1 sec."
+    },
+    "h1": {
+      "Old": "Authority Cost: 200. Attacks nearby enemies and instantly executes Normal monsters. <br />Cooldown: 1 sec.",
+      "New": "Authority Cost: 150. Attacks nearby enemies and instantly executes Normal monsters. <br />Cooldown: 1 sec."
+    },
+    "common/edCon": {
+      "Old": "200",
+      "New": "150"
+    }
+  },
+  "HFields": {
+    "h1": "Authority Cost: 150. Attacks nearby enemies and instantly executes Normal monsters. <br />Cooldown: 1 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003575_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

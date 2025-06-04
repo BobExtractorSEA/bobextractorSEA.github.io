@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.2534461-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003717",
+  "Name": "Zenitsu and Inosuke",
+  "Job": "Etc",
+  "Desc": "Defeating monsters within the level range fills the gauge,<br />preparing <span style=\"font-weight:bold; color:orange;\">Thunder Breathing First Form: Thunderclap and Flash Sixfold</span>.<br />Every 100 monsters defeated summons Inosuke to attack nearby enemies.<br />Limited to 30 activations per day<br />for <span style=\"font-weight:bold; color:orange;\"><Thunder Breathing First Form: Thunderclap and Flash Sixfold></span>.<br /><br /><span style=\"font-weight:bold; color:orange;\">Right-click to toggle On/Off.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Defeating monsters within the level range fills the gauge, preparing <span style=\"font-weight:bold; color:orange;\">Thunder Breathing First Form: Thunderclap and Flash Sixfold</span>.<br />Every 100 monsters defeated summons Inosuke to attack nearby enemies.<br />Limited to 20 activations per day for <span style=\"font-weight:bold; color:orange;\">Thunder Breathing First Form: Thunderclap and Flash Sixfold</span>.<br /><br /><span style=\"font-weight:bold; color:orange;\">Right-click to toggle on/off.</span>",
+      "New": "Defeating monsters within the level range fills the gauge,<br />preparing <span style=\"font-weight:bold; color:orange;\">Thunder Breathing First Form: Thunderclap and Flash Sixfold</span>.<br />Every 100 monsters defeated summons Inosuke to attack nearby enemies.<br />Limited to 30 activations per day<br />for <span style=\"font-weight:bold; color:orange;\"><Thunder Breathing First Form: Thunderclap and Flash Sixfold></span>.<br /><br /><span style=\"font-weight:bold; color:orange;\">Right-click to toggle On/Off.</span>"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003717_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

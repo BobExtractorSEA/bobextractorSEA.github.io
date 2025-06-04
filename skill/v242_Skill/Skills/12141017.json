@@ -1,0 +1,158 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7069034-03:00",
+  "ChangeType": "Added",
+  "Id": "12141017",
+  "Name": "Inferno Rise VI",
+  "Job": "Blaze Wizard",
+  "Desc": "Focuses the flows of surrounding flames to a single spot into a giant flaming eruption. Use with the Down key to activate Inferno Rise - Fox mode. Lock the command to disable the Inferno Rise - Fox mode when using this skill with the Down key.<br />A Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Lion</span>.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Inferno Rise Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -440,
+      "y": -430
+    },
+    "rb": {
+      "x": 440,
+      "y": 220
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "req/12121004": "1",
+    "req/12121002": "30",
+    "action/0": "6thInfernorise",
+    "common/maxLevel": "30",
+    "common/mpCon": "115+d(x/2)",
+    "common/cooltime": "12",
+    "common/lt/x": -440,
+    "common/lt/y": -430,
+    "common/rb/x": 440,
+    "common/rb/y": 220,
+    "common/damage": "350+5*x",
+    "common/attackCount": "10",
+    "common/mobCount": "15",
+    "common/x": "420",
+    "common/nbdamPlus": "50+2*x",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "50",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/1/randomHitOrigin": "50",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/2/randomHitOrigin": "50",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "hit/3/randomHitOrigin": "50",
+    "hit/3/useZ": "1",
+    "hit/3/z": "1",
+    "hit/4/randomHitOrigin": "50",
+    "hit/4/useZ": "1",
+    "hit/4/z": "1",
+    "hit/5/randomHitOrigin": "50",
+    "hit/5/useZ": "1",
+    "hit/5/z": "1",
+    "hit/randomHit": "1",
+    "skillList/0": "400021000",
+    "weapon": "37",
+    "weapon2": "38",
+    "elemAttr": "f",
+    "psd": "1",
+    "id": "12141017",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 3,
+    "voice/female/count": 5,
+    "voice/male/path/0": "{ Old = , New = flameWizard/M/106 }",
+    "voice/male/path/1": "{ Old = , New = flameWizard/M/107 }",
+    "voice/male/path/2": "{ Old = , New = flameWizard/M/59 }",
+    "voice/female/path/0": "{ Old = , New = flameWizard/F/77 }",
+    "voice/female/path/1": "{ Old = , New = flameWizard/F/78 }",
+    "voice/female/path/2": "{ Old = , New = flameWizard/F/79 }",
+    "voice/female/path/3": "{ Old = , New = flameWizard/F/55 }",
+    "voice/female/path/4": "{ Old = , New = flameWizard/F/56 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 130. Attacks up to 15 enemies at 500% Damage 10 times.<br />Normal Monster Damage +110%p<br />Cooldown: 12 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_12141017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/12141017_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/12141017_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/12141017_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12141017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

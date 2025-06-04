@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.3667612-03:00",
+  "ChangeType": "Changed",
+  "Id": "151121041",
+  "Name": "Marker",
+  "Job": "Adele",
+  "Desc": "Injects magic into small fragments in the air to make them grow and crushes them.<br />An Ether Crystal forms at the crushed location and ignores re-creation cooldown.<br />Required Skill. <span style=\"font-weight:bold; color:orange;\">Resonance Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 250. Creates fragments at locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it each attacks up to 7 enemies at 2000% DAMAGE 6 times.<br />If fewer than the maximum number of attackable enemies exist, create up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 2500% DAMAGE 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec.",
+      "New": "MP Cost: 250. Creates fragments at the locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it attacks up to 7 enemies at 2000% Damage 6 times.<br />If fewer than the maximum number of attackable enemies exist, creates up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 2500% Damage 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 250. Creates fragments at locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it each attacks up to 7 enemies at 2000% DAMAGE 6 times.<br />If fewer than the maximum number of attackable enemies exist, create up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 2500% DAMAGE 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec.",
+      "New": "MP Cost: 250. Creates fragments at the locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it attacks up to 7 enemies at 2000% Damage 6 times.<br />If fewer than the maximum number of attackable enemies exist, creates up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 2500% Damage 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/15",
+      "New": "adele/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/45",
+      "New": "adele/F/45"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 250. Creates fragments at the locations of up to 7 enemies.<br />Whenever a fragment is created or crushed, it attacks up to 7 enemies at 2000% Damage 6 times.<br />If fewer than the maximum number of attackable enemies exist, creates up to 7 fragments at random locations.<br />Enemies with Grave will have half as many fragments. Attacks up to 7 enemies at 2500% Damage 6 times.<br />Creates up to 7 Ether Crystals after the fragments are crushed.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151121041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121041_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151121041_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

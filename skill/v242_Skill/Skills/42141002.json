@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7129749-03:00",
+  "ChangeType": "Changed",
+  "Id": "42141002",
+  "Name": "Shikigami Haunting VI",
+  "Job": "Kanna",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/y": {
+      "Old": "5",
+      "New": "20"
+    },
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

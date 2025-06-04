@@ -1,0 +1,95 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.7245714-03:00",
+  "ChangeType": "Added",
+  "Id": "36140015",
+  "Name": "Blade Dancing VI",
+  "Job": "Xenon",
+  "Desc": "Summons a robot that periodically projects illusions based on Xenon's combat memory.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Blade Dancing Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -280,
+      "y": -240
+    },
+    "rb": {
+      "x": 280,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "info2/ignoreCounter": "1",
+    "req/36121000": "30",
+    "common/maxLevel": "30",
+    "common/mobCount": "15",
+    "common/damage": "120+3*x",
+    "common/attackCount": "7",
+    "common/updatableTime": "1000",
+    "common/lt/x": -280,
+    "common/lt/y": -240,
+    "common/rb/x": 280,
+    "common/rb/y": 100,
+    "common/cooltime": "10",
+    "common/x": "3",
+    "common/y": "240",
+    "common/z": "450",
+    "common/u": "-200",
+    "common/u2": "200",
+    "common/w": "3",
+    "common/u3": "80",
+    "multiAttackInfo/0/attackTime": "240",
+    "multiAttackInfo/1/attackTime": "240",
+    "multiAttackInfo/2/attackTime": "60",
+    "multiAttackInfo/3/attackTime": "60",
+    "multiAttackInfo/4/attackTime": "60",
+    "multiAttackInfo/5/attackTime": "60",
+    "extraSkillInfo/0/skill": "36140015",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "21",
+    "additional_process/3": "30",
+    "additional_process/4": "67",
+    "additional_process/5": "69",
+    "additional_process/6": "72",
+    "additional_process/7": "27",
+    "additional_process/8": "35",
+    "additional_process/9": "68",
+    "additional_process/10": "108",
+    "weapon": "24",
+    "showSummonedBuffIcon": "2",
+    "processtype": "-1",
+    "notCooltimeReset": "1",
+    "randomEffect": "3",
+    "invisible": "1",
+    "id": "36140015",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36140015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/36140015_effect_new.webp"
+    },
+    "effect2": {
+      "Old": null,
+      "New": "Animations/New/36140015_effect2_new.webp"
+    },
+    "effect3": {
+      "Old": null,
+      "New": "Animations/New/36140015_effect3_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/36140015_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

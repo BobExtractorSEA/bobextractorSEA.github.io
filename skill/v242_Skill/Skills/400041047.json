@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7244143-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041047",
+  "Name": "Hologram Graffiti: Fusion",
+  "Job": "5th (Thief)",
+  "Desc": "Hologram Graffiti: Increases the damage of party members inside the Fusion Field.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041047_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

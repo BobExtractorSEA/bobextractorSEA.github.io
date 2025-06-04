@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.6162619-03:00",
+  "ChangeType": "Changed",
+  "Id": "5321004",
+  "Name": "Monkey Militia",
+  "Job": "Cannon Master",
+  "Desc": "Summons the Monkey Militia's elite artillery to aid in battle.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Summons the elite artillerymen Monkey Twins to aid you in combat. This skill does not affect enemies with the Damage Reflection effect.",
+      "New": "Summons the Monkey Militia's elite artillery to aid in battle.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "H": {
+      "Old": "MP Cost: 70. Summons for 60 sec. Each attacks at 295% damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 70. Summons artillery for 60 sec. Each artilleryman attacks at 295% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>"
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Summons for 60 sec. Each attacks at 295% damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>",
+      "New": "MP Cost: 70. Summons artillery for 60 sec. Each artilleryman attacks at 295% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>"
+    },
+    "common/mobCount": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cannonShooter/M/2",
+      "New": "cannonShooter/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "cannonShooter/M/17",
+      "New": "cannonShooter/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": "cannonShooter/F/12",
+      "New": "cannonShooter/F/12"
+    },
+    "voice/female/path/1": {
+      "Old": "cannonShooter/F/9",
+      "New": "cannonShooter/F/9"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "5341009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Summons artillery for 60 sec. Each artilleryman attacks at 295% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 10 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5321004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5321004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

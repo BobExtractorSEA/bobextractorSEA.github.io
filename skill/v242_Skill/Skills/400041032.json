@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6380443-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041032",
+  "Name": "Blood for Blood",
+  "Job": "5th (Thief)",
+  "Desc": "Helps you muster up your strength for one final battle. Can be used again for reinforced effects. Using the skill with the down arrow key while using the skill immediately puts you into the stronger determination status. Custom Command lets you enter the stronger determination status immediately without arrow key input.<br /><span style=\"font-weight:bold; color:orange;\">Toggle Custom Command: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041032_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

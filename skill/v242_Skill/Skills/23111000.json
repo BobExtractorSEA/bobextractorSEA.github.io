@@ -1,0 +1,194 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6066362-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111000",
+  "Name": "Stunning Strikes",
+  "Job": "Mercedes",
+  "Desc": "Quickly fires multiple arrows at enemies in front of you. Can be used in midair and chained with Rising Rush, Unicorn Spike, Spikes Royale, Lightning Edge, and Wrath of Enreal.<br /><span style=\"font-weight:bold; color:orange;\">Level 20 required to learn 4th Job Skills - Ishtar's Ring and Advanced Stunning Strikes.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Quickly fires multiple arrows at enemies in front of you with a chance to Stun the targets. Stunned enemies receive additional damage. Can be used in midair and chained with Rising Rush, Unicorn Spike, Spikes Royale, Lightning Edge, and Wrath of Enreal.<br /><span style=\"font-weight:bold; color:orange;\">Level 20 required to learn 4th Job Skills - Ishtar's Ring and Advanced Stunning Strikes.</span>",
+      "New": "Quickly fires multiple arrows at enemies in front of you. Can be used in midair and chained with Rising Rush, Unicorn Spike, Spikes Royale, Lightning Edge, and Wrath of Enreal.<br /><span style=\"font-weight:bold; color:orange;\">Level 20 required to learn 4th Job Skills - Ishtar's Ring and Advanced Stunning Strikes.</span>"
+    },
+    "H": {
+      "Old": "MP Cost: 35. Shoots 4 arrows that each attacks up to 5 enemies at 260% Damage. 80% chance of causing Stun for 6 sec. Final damage +20% on Stunned enemies.",
+      "New": "MP Cost: 35. Attack up to 5 enemies at 260% Damage 4 times."
+    },
+    "h1": {
+      "Old": "MP Cost: 35. Shoots 4 arrows that each attacks up to 5 enemies at 260% Damage. 80% chance of causing Stun for 6 sec. Final damage +20% on Stunned enemies.",
+      "New": "MP Cost: 35. Attack up to 5 enemies at 260% Damage 4 times."
+    },
+    "mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "info2/mes": {
+      "Old": "stun",
+      "New": null
+    },
+    "info2/multiTargeting": {
+      "Old": "1",
+      "New": null
+    },
+    "common/time": {
+      "Old": "2+d(x/5)",
+      "New": null
+    },
+    "common/prop": {
+      "Old": "20+3*x",
+      "New": null
+    },
+    "common/range": {
+      "Old": "430",
+      "New": null
+    },
+    "common/hcTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "common/x": {
+      "Old": "x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "20+3*d(x/4)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "65+x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/bulletCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "u(x/4)",
+      "New": null
+    },
+    "PVPcommon/ballDelay": {
+      "Old": "180",
+      "New": null
+    },
+    "PVPcommon/ballDelay1": {
+      "Old": "90",
+      "New": null
+    },
+    "PVPcommon/ballDelay2": {
+      "Old": "90",
+      "New": null
+    },
+    "PVPcommon/ballDelay3": {
+      "Old": "90",
+      "New": null
+    },
+    "PVPcommon/range": {
+      "Old": "400",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "x/2",
+      "New": null
+    },
+    "mob/pos": {
+      "Old": "2",
+      "New": null
+    },
+    "mob/repeat": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/1",
+      "New": "mercedes/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/2",
+      "New": "mercedes/F/2"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/4",
+      "New": "mercedes/F/4"
+    },
+    "addAttack/skillPlus/9": {
+      "Old": null,
+      "New": "23141011"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 35. Attack up to 5 enemies at 260% Damage 4 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mob": {
+      "Old": "Animations/Old/23111000_mob_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23111000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

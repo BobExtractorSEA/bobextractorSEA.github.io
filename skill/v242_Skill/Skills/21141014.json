@@ -1,0 +1,84 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4165-03:00",
+  "ChangeType": "Added",
+  "Id": "21141014",
+  "Name": "Adrenaline Maximum VI",
+  "Job": "Aran",
+  "Desc": "Pushes the limits of Adrenaline Boost by unlocking the power of combos and the full power of Maha. The extreme chill from Adrenaline Boost causes an <span style=\"font-weight:bold; color:orange;\">ice storm</span> to form periodically when she uses a direct Attack skill outside Adrenaline Boost.<br />Aran's pole arm skills, enhanced by Adrenaline Boost, release a deep, frigid chill that transforms into <span style=\"font-weight:bold; color:orange;\">ice waves</span> that attack nearby enemies faster, and after a certain number of hits, Aran enters <span style=\"font-weight:bold; color:orange;\">Super Awakening</span>, where she can unleash the full power of Maha.<br />While in Super Awakening, you can use the <span style=\"font-weight:bold; color:orange;\">Hyper Boost End</span> skill and Maha's power will turn into a <span style=\"font-weight:bold; color:orange;\">golden flash of light</span>, dealing additional Damage to enemies.<br />The duration of Adrenaline Boost is not affected by the duration of Super Awakening.<br />Super Awakening is not affected by Buff Duration Bonus effects.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Adrenaline Maximum or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/21120003": "30",
+    "common/maxLevel": "30",
+    "common/time": "5",
+    "common/cooltime": "180",
+    "common/t": "0.8",
+    "common/v": "12",
+    "common/v2": "710+16*x",
+    "common/v3": "10",
+    "common/u": "10",
+    "common/u2": "7",
+    "common/u3": "567+11*x",
+    "common/u4": "2",
+    "common/w": "12",
+    "common/w2": "690+29*x",
+    "common/w3": "14",
+    "common/w4": "1000",
+    "common/v4": "15",
+    "common/s": "15",
+    "effect/z": "2",
+    "effect0/z": "-1",
+    "repeat/z": "2",
+    "repeat/repeat": "1",
+    "repeat0/z": "-1",
+    "repeat0/repeat": "1",
+    "end/z": "2",
+    "end0/z": "-1",
+    "notRemoved": "1",
+    "notIncBuffDuration": "1",
+    "skillType": "3",
+    "isBeneficial": "1",
+    "notCooltimeReset": "1",
+    "weapon": "44",
+    "id": "21141014",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "After reaching1000 combos, use Adrenaline Boost Activate to enter Adrenaline Boost mode for 15 sec.<br /><span style=\"font-weight:bold; color:orange;\">Ice Storm</span>: Attacks up to 12 enemies at 1560% Damage 14 times every 15 sec. when you use a direct Attack skill.<br /><span style=\"font-weight:bold; color:orange;\">Ice Wave</span>: Periodically attacks up to 7 enemies at 897% Damage 2 times.<br />10 or more successful attacks during Adrenaline Boost activates <span style=\"font-weight:bold; color:orange;\">Super Awakening</span>.<br /><span style=\"font-weight:bold; color:orange;\">Super Awakening</span>: Lasts for 5 sec. Enables Hyper Boost End. Direct attack skills activate <span style=\"font-weight:bold; color:orange;\">Gold Flash</span> every 0.8 sec.<br /><span style=\"font-weight:bold; color:orange;\">Golden Flash</span>: Attacks up to 12 enemies at 1190% Damage 10 times.<br />Cooldown: 180 sec. Super Awakening cooldown is indicated by the border of Adrenaline Boost Activate."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21141014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/21141014_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/21141014_effect0_new.webp"
+    },
+    "repeat": {
+      "Old": null,
+      "New": "Animations/New/21141014_repeat_new.webp"
+    },
+    "repeat0": {
+      "Old": null,
+      "New": "Animations/New/21141014_repeat0_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/21141014_end_new.webp"
+    },
+    "end0": {
+      "Old": null,
+      "New": "Animations/New/21141014_end0_new.webp"
+    }
+  },
+  "Voices": {}
+}

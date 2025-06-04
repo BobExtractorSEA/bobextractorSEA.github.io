@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.8510333-03:00",
+  "ChangeType": "Changed",
+  "Id": "3311012",
+  "Name": "Curse Tolerance",
+  "Job": "Pathfinder",
+  "Desc": "You become temporarily more resistant towards various status effects based on your tolerance against curses.<br />When afflicted by a status effect during the buff's duration, you gain additional Status Resistance. Permanently increases Status Resist and All Elemental Resistances.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3311012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

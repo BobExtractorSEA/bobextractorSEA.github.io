@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3360375-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121005",
+  "Name": "Dark Metamorphosis",
+  "Job": "Demon Slayer",
+  "Desc": "Unlocks your potential for a certain period of time, increasing damage and generating 2 dark weapons that rapidly spin around you and automatically attack multiple enemies within range.<br />Dark Metamorphosis does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Unlocks your potential for a certain period of time, increasing damage and generating 2 dark weapons that rapidly spin around you and automatically attack multiple enemies within range. Metamorphosis does not affect the enemy's Damage Reflection effect. Canceled upon riding on a mount.",
+      "New": "Unlocks your potential for a certain period of time, increasing damage and generating 2 dark weapons that rapidly spin around you and automatically attack multiple enemies within range.<br />Dark Metamorphosis does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "H": {
+      "Old": "HP 300, Force Cost: 40. Invincible while casting the buff. Damage +35% for 180 sec. Automatically attacks nearby enemies at 250% damage.<br />Cooldown: 90 sec.<br />[Passive effect: Max HP +20%]",
+      "New": "HP Cost: 300. Force Cost: 40. Makes you Invincible while it's cast.<br />Damage +35% for 180 sec.<br />Auto-attacks up to 6 enemies at 250% Damage.<br />Cooldown: 90 sec.<br />[Passive Effects: Max HP +20%]"
+    },
+    "h1": {
+      "Old": "HP 300, Force Cost: 40. Invincible while casting the buff. Damage +35% for 180 sec. Automatically attacks nearby enemies at 250% damage.<br />Cooldown: 90 sec.<br />[Passive effect: Max HP +20%]",
+      "New": "HP Cost: 300. Force Cost: 40. Makes you Invincible while it's cast.<br />Damage +35% for 180 sec.<br />Auto-attacks up to 6 enemies at 250% Damage.<br />Cooldown: 90 sec.<br />[Passive Effects: Max HP +20%]"
+    },
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/14",
+      "New": "demonSlayer/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/48",
+      "New": "demonSlayer/M/48"
+    },
+    "voice/male/path/2": {
+      "Old": "demonSlayer/M/49",
+      "New": "demonSlayer/M/49"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/50",
+      "New": "demonSlayer/F/50"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/51",
+      "New": "demonSlayer/F/51"
+    },
+    "voice/female/path/2": {
+      "Old": "demonSlayer/F/8",
+      "New": "demonSlayer/F/8"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "31141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 300. Force Cost: 40. Makes you Invincible while it's cast.<br />Damage +35% for 180 sec.<br />Auto-attacks up to 6 enemies at 250% Damage.<br />Cooldown: 90 sec.<br />[Passive Effects: Max HP +20%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

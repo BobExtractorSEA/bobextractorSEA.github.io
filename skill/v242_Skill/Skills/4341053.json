@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.8356838-03:00",
+  "ChangeType": "Changed",
+  "Id": "4341053",
+  "Name": "Epic Adventure",
+  "Job": "Dual Blade",
+  "Desc": "This buff can only be used by legendary adventurers that have explored all of Maple World. Increases damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4341053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

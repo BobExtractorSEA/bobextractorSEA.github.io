@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.5591601-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121103",
+  "Name": "Bellflower Barrier (Ether Combo)",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Barrier]</span><br /><span style=\"font-weight:bold; color:orange;\">The bellflower barrier has been reinforced by integrating Ether spots.</span><br />In the enhanced bellflower barrier, the caster's Attack is increased by 20% and by 5% against bosses. Also enhances Spiritual Energy by 30 points.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "180",
+      "New": "60"
+    },
+    "common/time": {
+      "Old": "100",
+      "New": "30"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121103_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

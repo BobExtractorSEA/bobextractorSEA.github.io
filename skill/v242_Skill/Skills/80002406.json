@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.1064726-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002406",
+  "Name": "King of Spiders",
+  "Job": "Etc",
+  "Desc": "Summons the soul of Will, the King of Spiders. The Soul Weapon's power temporarily summons Will to attack nearby monsters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002406_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

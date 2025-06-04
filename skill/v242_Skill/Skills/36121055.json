@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3520677-03:00",
+  "ChangeType": "Changed",
+  "Id": "36121055",
+  "Name": "Meltdown Explosion",
+  "Job": "Xenon",
+  "Desc": "Shoots a powerful laser beam from space, scorching everything on the ground. Temporarily increases damage after use.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "36141013"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_36121055_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

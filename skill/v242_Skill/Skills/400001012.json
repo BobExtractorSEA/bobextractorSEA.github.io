@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6437652-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001012",
+  "Name": "Avian Awakening",
+  "Job": "5th",
+  "Desc": "Temporarily enhances Phoenix, Freezer and Raven with a Mysterious Power. Can only be used when Phoenix, Freezer, and Raven is summoned.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "summon/attack1/info/delay": {
+      "Old": null,
+      "New": "120"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1449779-03:00",
+  "ChangeType": "Changed",
+  "Id": "40011005",
+  "Name": "Echo of Hero",
+  "Job": "Hayato",
+  "Desc": "[Master Level: 1]<br />Increases ATT and MATT of all nearby characters.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_40011005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

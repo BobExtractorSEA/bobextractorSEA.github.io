@@ -1,0 +1,44 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.0015384-03:00",
+  "ChangeType": "Changed",
+  "Id": "155120000",
+  "Name": "Endless Nightmare",
+  "Job": "Ark",
+  "Desc": "Enhances Reviving Nightmare.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Reviving Nightmare or above</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30 Effect: Can learn the 5th skill, Released Nightmare.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "HP Cost: 85. Attacks up to 6 enemies at 440% damage 6 times.<br />Cooldown: 2 sec",
+      "New": "HP Cost: 85. Attacks up to 6 enemies at 440% Damage 6 times.<br />Cooldown: 2 sec."
+    },
+    "h1": {
+      "Old": "HP Cost: 85. Attacks up to 6 enemies at 440% damage 6 times.<br />Cooldown: 2 sec",
+      "New": "HP Cost: 85. Attacks up to 6 enemies at 440% Damage 6 times.<br />Cooldown: 2 sec."
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "cancelableSkillID/5": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/6": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {
+    "h1": "HP Cost: 85. Attacks up to 6 enemies at 440% Damage 6 times.<br />Cooldown: 2 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155120000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7003721-03:00",
+  "ChangeType": "Changed",
+  "Id": "42141000",
+  "Name": "Shikigami Haunting VI",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span> With the realization of the pinnacle of Yin and Yang arts, enhance Shikigami Haunting into its perfected form. Shikigami Haunting gains increased power and the ability to strike multiple foes in a wider area.<br />Upon acquiring the 5th job skill, <span style=\"font-weight:bold; color:orange;\">Spirit Pentacle</span>, when it is not on cooldown, Spirit Pentacle is automatically activated.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shikigami Haunting IV Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "[1st Hit]: Attacks up to 8 enemies 4 times with 520% damage<br />[2nd Hit]: Attacks up to 8 enemies 4 times with 550% damage<br />[3rd Hit]: Attacks up to 8 enemies 4 times with 580% damage, restores 5 Spiritual Energy and additionally increases amount required to activate <span style=\"font-weight:bold; color:orange;\">Celestial Fury</span> by 5.<br />[Soul-binding Talisman]: 100% activation chance, MSPD -90% for 6 seconds and 400% constant damage every second",
+      "New": "[1st Hit]: Attacks up to 8 enemies 4 times with 520% damage<br />[2nd Hit]: Attacks up to 8 enemies 4 times with 550% damage<br />[3rd Hit]: Attacks up to 8 enemies 4 times with 580% damage, restores 5 Spiritual Energy and additionally increases amount required to activate <span style=\"font-weight:bold; color:orange;\">Celestial Fury</span> by 20.<br />[Soul-binding Talisman]: 100% activation chance, MSPD -90% for 6 seconds and 400% constant damage every second"
+    },
+    "h1": {
+      "Old": "[1st Hit]: Attacks up to 8 enemies 4 times with 520% damage<br />[2nd Hit]: Attacks up to 8 enemies 4 times with 550% damage<br />[3rd Hit]: Attacks up to 8 enemies 4 times with 580% damage, restores 5 Spiritual Energy and additionally increases amount required to activate <span style=\"font-weight:bold; color:orange;\">Celestial Fury</span> by 5.<br />[Soul-binding Talisman]: 100% activation chance, MSPD -90% for 6 seconds and 400% constant damage every second",
+      "New": "[1st Hit]: Attacks up to 8 enemies 4 times with 520% damage<br />[2nd Hit]: Attacks up to 8 enemies 4 times with 550% damage<br />[3rd Hit]: Attacks up to 8 enemies 4 times with 580% damage, restores 5 Spiritual Energy and additionally increases amount required to activate <span style=\"font-weight:bold; color:orange;\">Celestial Fury</span> by 20.<br />[Soul-binding Talisman]: 100% activation chance, MSPD -90% for 6 seconds and 400% constant damage every second"
+    },
+    "skillList/3": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {
+    "h1": "[1st Hit]: Attacks up to 8 enemies 4 times with 520% damage<br />[2nd Hit]: Attacks up to 8 enemies 4 times with 550% damage<br />[3rd Hit]: Attacks up to 8 enemies 4 times with 580% damage, restores 5 Spiritual Energy and additionally increases amount required to activate <span style=\"font-weight:bold; color:orange;\">Celestial Fury</span> by 20.<br />[Soul-binding Talisman]: 100% activation chance, MSPD -90% for 6 seconds and 400% constant damage every second"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

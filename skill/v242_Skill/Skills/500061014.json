@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.0003489-03:00",
+  "ChangeType": "Changed",
+  "Id": "500061014",
+  "Name": "Sage: Clone Rampage",
+  "Job": "6th (Enhanced Node)",
+  "Desc": "Elevates the power of the Clone Rampage to the extreme, summoning a multitude of illusions that cover the sky and overwhelm the enemies. The attack power and quantity of clones created by the Clone Rampage are significantly increased. During Enhance Sage: Clone Rampage, clones prioritize the boss monster with the highest Max HP.<br />Can only be used during Clone Rampage's duration, and its activation does not decrease the Clone Rampage's remaining duration.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Clone Rampage Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "HoYoung/M/21",
+      "New": "HoYoung/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "HoYoung/M/22",
+      "New": "HoYoung/M/22"
+    },
+    "voice/female/path/0": {
+      "Old": "HoYoung/F/21",
+      "New": "HoYoung/F/21"
+    },
+    "voice/female/path/1": {
+      "Old": "HoYoung/F/22",
+      "New": "HoYoung/F/22"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_500061014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/500061014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

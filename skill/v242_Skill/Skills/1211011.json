@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.0716723-03:00",
+  "ChangeType": "Changed",
+  "Id": "1211011",
+  "Name": "Combat Orders",
+  "Job": "Paladin",
+  "Desc": "All the party member's skill level increases for a certain time including myself. Each class's skills <span style=\"font-weight:bold; color:orange;\">can be increased over master level only for the 4th skill</span> and else skills can only be increased up to master level.<br />Exceptionally, unable to increase some of the special skills, Explorer skills, Combat Orders, Hyper Skills, 5th Job Skills and 6th Job Skills. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 5 HP Recovery or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "paladin/M/5",
+      "New": "paladin/M/5"
+    },
+    "voice/male/path/1": {
+      "Old": "paladin/M/6",
+      "New": "paladin/M/6"
+    },
+    "voice/male/path/2": {
+      "Old": "paladin/M/7",
+      "New": "paladin/M/7"
+    },
+    "voice/male/path/3": {
+      "Old": "paladin/M/8",
+      "New": "paladin/M/8"
+    },
+    "voice/female/path/0": {
+      "Old": "paladin/F/6",
+      "New": "paladin/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "paladin/F/8",
+      "New": "paladin/F/8"
+    },
+    "voice/female/path/2": {
+      "Old": "paladin/F/9",
+      "New": "paladin/F/9"
+    },
+    "voice/female/path/3": {
+      "Old": "paladin/F/10",
+      "New": "paladin/F/10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1211011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1211011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.424773-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001805",
+  "Name": "Rejuvenation Spell",
+  "Job": "Etc",
+  "Desc": "Travels back in time when reaching to the godly level. The power of Soul Weapon summons Feat who travels back in time of his youth and provides a powerful buff.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001805_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

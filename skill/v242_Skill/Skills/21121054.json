@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1112984-03:00",
+  "ChangeType": "Changed",
+  "Id": "21121054",
+  "Name": "Hyper Boost End - Last Stand",
+  "Job": "Aran",
+  "Desc": "Unleash a devastating blow that harnesses the power of Maha with the unbreakable will of a hero.<br />Can only be used once during Super Awakening.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Adrenaline Maximum or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "aran/M/44",
+      "New": "aran/M/44"
+    },
+    "voice/male/path/1": {
+      "Old": "aran/M/47",
+      "New": "aran/M/47"
+    },
+    "voice/male/path/2": {
+      "Old": "aran/M/50",
+      "New": "aran/M/50"
+    },
+    "voice/male/path/3": {
+      "Old": "aran/M/53",
+      "New": "aran/M/53"
+    },
+    "voice/female/path/0": {
+      "Old": "aran/F/43",
+      "New": "aran/F/43"
+    },
+    "voice/female/path/1": {
+      "Old": "aran/F/46",
+      "New": "aran/F/46"
+    },
+    "voice/female/path/2": {
+      "Old": "aran/F/49",
+      "New": "aran/F/49"
+    },
+    "voice/female/path/3": {
+      "Old": "aran/F/52",
+      "New": "aran/F/52"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "21141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/21121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

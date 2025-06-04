@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3066205-03:00",
+  "ChangeType": "Added",
+  "Id": "5241013",
+  "Name": "Summon Crew VI",
+  "Job": "Corsair",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "req/5220019": "15",
+    "common/maxLevel": "30",
+    "shootobj/info/start/x": -48,
+    "shootobj/info/start/y": -37,
+    "shootobj/info/bodyWH/x": 80,
+    "shootobj/info/bodyWH/y": 40,
+    "shootobj/info/startDelay": "330",
+    "shootobj/info/hitLimitEachMob": "40",
+    "shootobj/info/v": "50",
+    "weapon": "49",
+    "invisible": "1",
+    "ignoreSpecialCore": "1",
+    "id": "5241013",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

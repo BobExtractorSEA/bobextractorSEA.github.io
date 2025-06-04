@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.40675-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001803",
+  "Name": "Hot Totem Drop",
+  "Job": "Etc",
+  "Desc": "Zakum dops Hot Totems everywhere. The power of Soul Weapon summons Zakum who gives hot totem to monsters in the vicinity.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001803_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

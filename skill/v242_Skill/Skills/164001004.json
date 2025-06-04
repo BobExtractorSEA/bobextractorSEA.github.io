@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.5631545-03:00",
+  "ChangeType": "Changed",
+  "Id": "164001004",
+  "Name": "Flying Nimbus",
+  "Job": "Hoyoung",
+  "Desc": "You have gained the ability to call Flying Nimbus by overcoming worldly hardship.<br />You can ride the Flying Nimbus by holding down the skill key mid-air or the Up key and Jump key, and fly using directional keys for a certain amount of time.<br />Using Chosangbi upward limits this skill's flight time.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_164001004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

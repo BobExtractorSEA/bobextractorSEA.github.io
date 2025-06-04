@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.5420858-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002884",
+  "Name": "Fresh Tarte Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1<br />Travel by riding the Fresh Tarte, which enables High Altitude Flight. Push the Jump key twice while in town to use High Altitude Flight.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Travel by riding the Fresh Tarte, which enables High Altitude Flight. Press the Jump key twice in a row to use High Altitude Flight.<br /><span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span>, and you will automatically fly to the destination, following the navigation line. (Auto-pilot is only available in certain continents, including Victoria Island. You can expand your Smart Riding Authorization Continents by <span style=\"font-weight:bold; color:orange;\">purchasing Flight Permits from Instructor Irvin</span>.",
+      "New": "[Master Level: 1<br />Travel by riding the Fresh Tarte, which enables High Altitude Flight. Push the Jump key twice while in town to use High Altitude Flight."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002884_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

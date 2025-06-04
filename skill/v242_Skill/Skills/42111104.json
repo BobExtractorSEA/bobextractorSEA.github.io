@@ -1,0 +1,46 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.514988-03:00",
+  "ChangeType": "Removed",
+  "Id": "42111104",
+  "Name": null,
+  "Job": "Kanna",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "invisible": {
+      "Old": "1",
+      "New": null
+    },
+    "common/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "fixLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "weapon": {
+      "Old": "55",
+      "New": null
+    },
+    "id": {
+      "Old": "42111104",
+      "New": null
+    },
+    "has_weapon": {
+      "Old": "True",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

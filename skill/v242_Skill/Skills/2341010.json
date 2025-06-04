@@ -1,0 +1,65 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7835953-03:00",
+  "ChangeType": "Added",
+  "Id": "2341010",
+  "Name": "Genesis VI",
+  "Job": "Bishop",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/2321008": "30",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "30",
+    "common/prop": "60+d(x/6)",
+    "common/damage": "195+7*x",
+    "hit/0/pos": "10",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "2",
+    "hit/1/pos": "10",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "2",
+    "hit/2/pos": "10",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "2",
+    "hit/3/pos": "10",
+    "hit/3/randomHitOrigin": "30",
+    "hit/3/useZ": "1",
+    "hit/3/z": "2",
+    "hit/4/pos": "10",
+    "hit/4/randomHitOrigin": "30",
+    "hit/4/useZ": "1",
+    "hit/4/z": "2",
+    "hit/5/pos": "10",
+    "hit/5/randomHitOrigin": "30",
+    "hit/5/useZ": "1",
+    "hit/5/z": "2",
+    "invisible": "1",
+    "skillType": "3",
+    "elemAttr": "h",
+    "ignoreSpecialCore": "1",
+    "id": "2341010",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2341010_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

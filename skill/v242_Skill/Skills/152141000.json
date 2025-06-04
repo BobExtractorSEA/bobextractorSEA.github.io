@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6381737-03:00",
+  "ChangeType": "Changed",
+  "Id": "152141000",
+  "Name": "Invoke: Javelin",
+  "Job": "Illium",
+  "Desc": "Throws a sharp magical javelin that moves quickly between enemies and attacks them. When the Javelin hits an enemy, it will split into fragments and attack again.<br />This skill can be used to link with Invoke: Orb II. This skill is not affected by effects that increase the number of targets hit.<br />If Javelin hits a Crystal or an enemy, you will acquire a <span style=\"font-weight:bold; color:orange;\">Crystal Shard</span>. When you have collected a certain number of Crystal Shards, you can use <span style=\"font-weight:bold; color:orange;\">Enchant Javelin</span>. Enchant Javelin will automatically track enemies and charge the Crystal with a burst of magic.<br />The Javelin, Enchant Javelin, and Javelin Fragments will prioritize attacking the boss monster with the highest maximum HP.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Invoke: Javelin Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "addAttack/skillPlus/0": {
+      "Old": null,
+      "New": "152141014"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

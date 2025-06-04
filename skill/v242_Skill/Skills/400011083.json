@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.0323635-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011083",
+  "Name": "Sword of Soul Light",
+  "Job": "5th (Warrior)",
+  "Desc": "Concentrate the power of souls and imbue the light of souls to the sword. When equipped, you can use <span style=\"font-weight:bold; color:orange;\">Soul Light Slash with the attack keys</span> and use Custom Command again to deal a normal attack or use <span style=\"font-weight:bold; color:orange;\">Radiant Cross</span> to use Soul Light Slash. When equipped, you can <span style=\"font-weight:bold; color:orange;\">cast the skill again</span> to use Light Force Ray with a powerful burst of light once.<br />Stacks the Royal Guard buff effect at max for its duration. Reflection of Sword does not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command Lock: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mikhail/M/99",
+      "New": "mikhail/M/99"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/38",
+      "New": "mikhail/M/38"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/47",
+      "New": "mikhail/M/47"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/55",
+      "New": "mikhail/M/55"
+    },
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011083_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011083_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011083_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011083_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011083_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

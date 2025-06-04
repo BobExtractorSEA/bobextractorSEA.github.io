@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.263718-03:00",
+  "ChangeType": "Changed",
+  "Id": "151111001",
+  "Name": "Territory",
+  "Job": "Adele",
+  "Desc": "Creates a personal domain to create countless swords. This skill doesn't affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 120. Creates a domain which periodically attacks up to 8 enemies at 100% damage 4 times for 7 sec.<br />After the duration ends, all swords turn around to attack up to 12 enemies at 550% damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 30 sec.</span>",
+      "New": "MP Cost: 120. Creates a domain which periodically attacks up to 8 enemies at 100% Damage 4 times for 7 sec.<br />After the duration ends, all swords turn around to attack up to 12 enemies at 550% Damage 12 more times.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 120. Creates a domain which periodically attacks up to 8 enemies at 100% damage 4 times for 7 sec.<br />After the duration ends, all swords turn around to attack up to 12 enemies at 550% damage 12 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 30 sec.</span>",
+      "New": "MP Cost: 120. Creates a domain which periodically attacks up to 8 enemies at 100% Damage 4 times for 7 sec.<br />After the duration ends, all swords turn around to attack up to 12 enemies at 550% Damage 12 more times.<br />Cooldown: 30 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/25",
+      "New": "adele/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/26",
+      "New": "adele/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/19",
+      "New": "adele/F/19"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/20",
+      "New": "adele/F/20"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "151141015"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "showSummonedBuffIcon": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 120. Creates a domain which periodically attacks up to 8 enemies at 100% Damage 4 times for 7 sec.<br />After the duration ends, all swords turn around to attack up to 12 enemies at 550% Damage 12 more times.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151111001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111001_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111001_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111001_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151111001_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

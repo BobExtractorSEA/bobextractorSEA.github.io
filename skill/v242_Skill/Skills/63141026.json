@@ -1,0 +1,232 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.6571247-03:00",
+  "ChangeType": "Added",
+  "Id": "63141026",
+  "Name": "Sneaky Sniping VI",
+  "Job": "Kain",
+  "Desc": "Focus your mind, take aim carefully, and fire at enemies. Hold the key and continue aiming at enemies to increase attack range. Release the key to generate invisible impact. Not affected by Attack Speed Increase buffs, and Stance is fixed to 100% for its duration.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Sneaky Sniping Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -430,
+      "y": -210
+    },
+    "rb": {
+      "x": 10,
+      "y": 180
+    }
+  },
+  "Fields": {
+    "type": "2",
+    "req/63121040": "1",
+    "action/0": "6thSneakySnipingPre",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "205+6*x",
+    "common/attackCount": "10",
+    "common/mobCount": "12",
+    "common/lt/x": -430,
+    "common/lt/y": -210,
+    "common/rb/x": 10,
+    "common/rb/y": 180,
+    "common/attackDelay": "60",
+    "common/updatableTime": "1440",
+    "common/t": "1.4",
+    "common/x": "18",
+    "common/y": "600",
+    "common/q": "5",
+    "common/u": "40",
+    "common/w": "1",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "90",
+    "effectFlash/0/alpha": "0",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "60",
+    "effectFlash/1/alpha": "70",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "60",
+    "effectFlash/2/alpha": "50",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "60",
+    "effectFlash/3/alpha": "70",
+    "effectFlash/3/color": "ffffff",
+    "effectFlash/4/delay": "60",
+    "effectFlash/4/alpha": "50",
+    "effectFlash/4/color": "ffffff",
+    "effectFlash/5/delay": "60",
+    "effectFlash/5/alpha": "20",
+    "effectFlash/5/color": "ffffff",
+    "changeablePos/0/x": 0,
+    "changeablePos/0/y": 0,
+    "changeablePos/1/x": 0,
+    "changeablePos/1/y": 0,
+    "changeablePos/2/x": 120,
+    "changeablePos/2/y": -25,
+    "changeablePos/3/x": 210,
+    "changeablePos/3/y": -35,
+    "changeablePos/4/x": 310,
+    "changeablePos/4/y": -50,
+    "changeablePos/5/x": 410,
+    "changeablePos/5/y": -65,
+    "changeablePos/6/x": 480,
+    "changeablePos/6/y": -75,
+    "changeablePos/7/x": 550,
+    "changeablePos/7/y": -90,
+    "changeablePos/8/x": 590,
+    "changeablePos/8/y": -100,
+    "changeablePos/9/x": 590,
+    "changeablePos/9/y": -100,
+    "changeablePos/10/x": 590,
+    "changeablePos/10/y": -100,
+    "changeablePos/11/x": 590,
+    "changeablePos/11/y": -100,
+    "changeablePos/12/x": 590,
+    "changeablePos/12/y": -100,
+    "changeablePos/13/x": 590,
+    "changeablePos/13/y": -100,
+    "changeablePos/14/x": 590,
+    "changeablePos/14/y": -100,
+    "changeablePos/15/x": 590,
+    "changeablePos/15/y": -100,
+    "changeablePos/16/x": 590,
+    "changeablePos/16/y": -100,
+    "changeablePos/17/x": 590,
+    "changeablePos/17/y": -100,
+    "changeablePos/18/x": 590,
+    "changeablePos/18/y": -100,
+    "prepare/action": "6thSneakySnipingPre",
+    "prepare/time": "360",
+    "prepare0/z": "-1",
+    "keydown/action": "6thSneakySnipingLoop",
+    "keydown0/z": "-1",
+    "keydownend/action": "6thSneakySnipingEnd",
+    "keydownend/fix": "1",
+    "keydownend0/fix": "1",
+    "keydownend0/z": "-1",
+    "additional_process/0": "11",
+    "additional_process/1": "18",
+    "additional_process/2": "21",
+    "additional_process/3": "29",
+    "additional_process/4": "31",
+    "additional_process/5": "40",
+    "additional_process/6": "83",
+    "additional_process/7": "84",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "showStackCooltimeNum": "1",
+    "applyHyper": "1",
+    "id": "63141026",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "100",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = kain/M/34 }",
+    "voice/male/path/1": "{ Old = , New = kain/M/35 }",
+    "voice/male/path/2": "{ Old = , New = kain/M/36 }",
+    "voice/male/path/3": "{ Old = , New = kain/M/37 }",
+    "voice/female/path/0": "{ Old = , New = kain/F/42 }",
+    "voice/female/path/1": "{ Old = , New = kain/F/43 }",
+    "voice/female/path/2": "{ Old = , New = kain/F/44 }",
+    "voice/female/path/3": "{ Old = , New = kain/F/45 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Key down for up to 1.4 sec. Generates impact 5 times that attacks up to 12 enemies at 385% Damage 10 times.<br />1 Sneaky Sniping Cartridge is ready every 40 sec., and up to 1 can be carried."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141026_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "keydown": {
+      "Old": null,
+      "New": "Animations/New/63141026_keydown_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/63141026_prepare_new.webp"
+    },
+    "prepare0": {
+      "Old": null,
+      "New": "Animations/New/63141026_prepare0_new.webp"
+    },
+    "keydown0": {
+      "Old": null,
+      "New": "Animations/New/63141026_keydown0_new.webp"
+    },
+    "keydownend": {
+      "Old": null,
+      "New": "Animations/New/63141026_keydownend_new.webp"
+    },
+    "keydownend0": {
+      "Old": null,
+      "New": "Animations/New/63141026_keydownend0_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/63141026_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63141026_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

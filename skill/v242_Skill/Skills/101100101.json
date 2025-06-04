@@ -1,0 +1,97 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7608924-03:00",
+  "ChangeType": "Changed",
+  "Id": "101100101",
+  "Name": "Advanced Throwing Weapon",
+  "Job": "Zero",
+  "Desc": "An advanced Throwing Weapon version. Inflicts greater damage than Throwing Weapon and pushes enemies away. Some monsters have a resistance to the attack and cannot be pulled. Throwing Weapon does not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Throwing Weapon</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "zero/F/41",
+      "New": "zero/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/42",
+      "New": "zero/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/43",
+      "New": "zero/F/43"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/24",
+      "New": "zero/F/24"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/3",
+      "New": "zero/F/3"
+    },
+    "voice/female/path/5": {
+      "Old": "zero/F/22",
+      "New": "zero/F/22"
+    },
+    "summon/repeat1/repeat": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_101100101_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101100101_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

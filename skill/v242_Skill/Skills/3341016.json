@@ -1,0 +1,114 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.5524937-03:00",
+  "ChangeType": "Added",
+  "Id": "3341016",
+  "Name": "Combo Assault VI",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Attacks the nearby enemy with a bow, and then shoots an arrow flying through space to attack a wide range of enemies. Can be chained to Cardinal Transition.<br /><span style=\"font-weight:bold; color:orange;\">Discharge Enhancement</span><br />Arrows deal damage to enemies in a wider range.<br /><span style=\"font-weight:bold; color:orange;\">Blast Enhancement</span><br />Performs a powerful strike to an enemy with your bow.<br /><span style=\"font-weight:bold; color:orange;\">Transition Enhancement</span><br />Gives multiple Ancient Curse Debuff stacks to enemies damaged by your bow attack.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Combo Assault Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -320,
+      "y": -250
+    },
+    "rb": {
+      "x": 320,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "req/3321014": "30",
+    "action/0": "6thComboAssult",
+    "common/maxLevel": "30",
+    "common/forceCon": "50",
+    "common/damage": "555+7*x",
+    "common/mobCount": "4",
+    "common/attackCount": "7",
+    "common/cooltime": "15",
+    "common/lt/x": -320,
+    "common/lt/y": -250,
+    "common/rb/x": 320,
+    "common/rb/y": 200,
+    "common/x": "1",
+    "common/v": "630+7*x",
+    "common/u": "10",
+    "common/w": "7",
+    "common/cancelableTime": "420",
+    "cancelableSkillID/0": "3311002",
+    "cancelableSkillID/1": "3321006",
+    "cancelableSkillID/2": "3341008",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "additional_process/0": "22",
+    "processtype": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "id": "3341016",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "50",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/37 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/46 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/38 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/39 }"
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 50.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>:  Attacks up to 4 enemies at 765% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 10 enemies at 840% damage 7 times.<br />Cooldown 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/3341016_effect0_new.webp"
+    },
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341016_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341016_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341016_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341016_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341016_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341016_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

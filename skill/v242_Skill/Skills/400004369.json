@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.8044161-03:00",
+  "ChangeType": "Removed",
+  "Id": "400004369",
+  "Name": "Aegis System Enhancement",
+  "Job": "5th",
+  "Desc": "Enhances Aegis System.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical rate increased by 5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Increases Monster defense rate ignorance by 20%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": {
+      "Old": "50",
+      "New": null
+    },
+    "common/damR_5th": {
+      "Old": "2*x",
+      "New": null
+    },
+    "common/ignoreMobpdpR": {
+      "Old": "log40(x)*20",
+      "New": null
+    },
+    "common/bdR": {
+      "Old": "log70(x)*20",
+      "New": null
+    },
+    "common/cr": {
+      "Old": "log20(x)*5",
+      "New": null
+    },
+    "type": {
+      "Old": "50",
+      "New": null
+    },
+    "psd": {
+      "Old": "1",
+      "New": null
+    },
+    "reqLev": {
+      "Old": "200",
+      "New": null
+    },
+    "vSkill": {
+      "Old": "2",
+      "New": null
+    },
+    "id": {
+      "Old": "400004369",
+      "New": null
+    }
+  },
+  "HFields": {
+    "h1": "Final Damage of Aegis System +<span style=\"font-weight:bold; color:orange;\">damR_5th%</span>"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

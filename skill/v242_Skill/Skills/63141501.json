@@ -1,0 +1,167 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.4458311-03:00",
+  "ChangeType": "Changed",
+  "Id": "63141501",
+  "Name": "Annihilation: Death Blessing",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Death's Blessing",
+      "New": "Annihilation: Death Blessing"
+    },
+    "hit2/0/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/0/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/1/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/1/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/2/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/2/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/3/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/3/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/4/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/4/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/5/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/5/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/6/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/6/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/7/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/7/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/8/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/8/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/9/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/9/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/10/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/10/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/11/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/11/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/12/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/12/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/13/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/13/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/14/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/14/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/15/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit2/15/delayShowDamage": {
+      "Old": null,
+      "New": "240"
+    },
+    "hit2/randomHit": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141501_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect2": {
+      "Old": null,
+      "New": "Animations/New/63141501_effect2_new.webp"
+    },
+    "hit2": {
+      "Old": null,
+      "New": "Animations/New/63141501_hit2_new.webp"
+    }
+  },
+  "Voices": {}
+}

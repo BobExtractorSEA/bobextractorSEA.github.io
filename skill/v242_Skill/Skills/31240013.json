@@ -1,0 +1,51 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.1544455-03:00",
+  "ChangeType": "Added",
+  "Id": "31240013",
+  "Name": "Enhanced Exceed VI",
+  "Job": "Demon Avenger",
+  "Desc": "Exceed attacks have a chance of a powerful additional attack.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Enhanced Exceed Lv. 15 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/31220007": "15",
+    "common/maxLevel": "30",
+    "common/prop": "80",
+    "common/mobCount": "2",
+    "common/damage": "225+6*x",
+    "common/attackCount": "2",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngleRange/x": -30,
+    "hit/0/randomHitAngleRange/y": 30,
+    "hit/0/soundIndex": "0",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/1/randomHitOrigin": "35",
+    "hit/1/randomHitAngleRange/x": -30,
+    "hit/1/randomHitAngleRange/y": 30,
+    "hit/1/soundIndex": "1",
+    "skillType": "3",
+    "id": "31240013",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful Exceed attacks create a 80% chance of attacking up to 2 enemies at 405% Damage 2 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_31240013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/31240013_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

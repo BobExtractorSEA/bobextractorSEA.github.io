@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.0530105-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051096",
+  "Name": "Blitz Lance Attack",
+  "Job": "5th (Pirate)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/78",
+      "New": "striker/M/78"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/79",
+      "New": "striker/M/79"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/80",
+      "New": "striker/M/80"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/16",
+      "New": "striker/M/16"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/19",
+      "New": "striker/M/19"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/99",
+      "New": "striker/F/99"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/100",
+      "New": "striker/F/100"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/101",
+      "New": "striker/F/101"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/19",
+      "New": "striker/F/19"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/24",
+      "New": "striker/F/24"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051096_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051096_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6515785-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041007",
+  "Name": "Mega Smasher",
+  "Job": "5th (Thief)",
+  "Desc": "Shoots a powerful energy beam. Can use a buff skill that increases some stats after firing.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "xenon/M/100",
+      "New": "xenon/M/100"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/101",
+      "New": "xenon/M/101"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/102",
+      "New": "xenon/M/102"
+    },
+    "voice/male/path/3": {
+      "Old": "xenon/M/103",
+      "New": "xenon/M/103"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/95",
+      "New": "xenon/F/95"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/96",
+      "New": "xenon/F/96"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/97",
+      "New": "xenon/F/97"
+    },
+    "voice/female/path/3": {
+      "Old": "xenon/F/98",
+      "New": "xenon/F/98"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.4184932-03:00",
+  "ChangeType": "Changed",
+  "Id": "42101003",
+  "Name": "Fan Booster",
+  "Job": "Kanna",
+  "Desc": "Temporarily increase your Fan's Attack Speed by 2 levels.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42101003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

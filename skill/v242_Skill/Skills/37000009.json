@@ -1,0 +1,63 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.4358704-03:00",
+  "ChangeType": "Changed",
+  "Id": "37000009",
+  "Name": "Revolving Gauntlet",
+  "Job": "Blaster",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "20",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "4",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "20+x",
+      "New": null
+    },
+    "PVPcommon/s2": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": null,
+      "New": "20"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_37000009_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": "Animations/Old/37000009_hit_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {}
+}

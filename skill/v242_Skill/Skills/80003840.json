@@ -1,0 +1,42 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.1571294-03:00",
+  "ChangeType": "Added",
+  "Id": "80003840",
+  "Name": "Champion's Protection",
+  "Job": "Etc",
+  "Desc": "Use Champion Coins through Champions' Bonds to obtain the Champion's Protection buff that temporarily improves stats.<br />The number of Champion Coins spent increases as the selected stat level increases. Not affected by Buff Duration Bonus effects. Not available in Boss Battle maps and Champion Raids.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "common/maxLevel": "1",
+    "common/time": "30",
+    "effect0/z": "-1",
+    "notIncBuffDuration": "1",
+    "invisible": "1",
+    "isCancelableBuff": "1",
+    "additional_process/0": "110",
+    "id": "80003840"
+  },
+  "HFields": {
+    "h1": "Use Champion Coins to improve stats for 30 min."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003840_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/80003840_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/80003840_effect0_new.webp"
+    }
+  },
+  "Voices": {}
+}

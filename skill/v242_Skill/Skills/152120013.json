@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.6184971-03:00",
+  "ChangeType": "Changed",
+  "Id": "152120013",
+  "Name": "Perfect Curse Mark",
+  "Job": "Illium",
+  "Desc": "Leaves a perfect Curse Mark.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Curse Mark Mastery or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "152140016"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_152120013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

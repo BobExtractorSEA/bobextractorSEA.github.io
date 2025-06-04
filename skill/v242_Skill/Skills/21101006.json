@@ -1,0 +1,34 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0450376-03:00",
+  "ChangeType": "Changed",
+  "Id": "21101006",
+  "Name": "Snow Charge",
+  "Job": "Aran",
+  "Desc": "A sharp, quick technique that adds a chill to all attacks with the pole arm. Also, permanently increases DAMAGE.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/5": {
+      "Old": null,
+      "New": "21141015"
+    },
+    "skillList/6": {
+      "Old": null,
+      "New": "21141016"
+    },
+    "skillList/7": {
+      "Old": null,
+      "New": "21141017"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21101006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

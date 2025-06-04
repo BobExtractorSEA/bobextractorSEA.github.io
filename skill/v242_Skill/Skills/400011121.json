@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1100236-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011121",
+  "Name": "Blizzard Tempest",
+  "Job": "5th (Warrior)",
+  "Desc": "Summons a blizzard and inflicts the Curse of the Dire Wolf.<br />Manual skill attacks against enemies affected by Curse of the Dire Wolf intensify the curse and create ice chunks that deal additional damage.<br />The Curse of the Dire Wolf prioritizes the enemy with the highest Max HP, and the ice chunks do not affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Ice Chunk Effect On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "aran/M/16",
+      "New": "aran/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "aran/M/56",
+      "New": "aran/M/56"
+    },
+    "voice/male/path/2": {
+      "Old": "aran/M/57",
+      "New": "aran/M/57"
+    },
+    "voice/male/path/3": {
+      "Old": "aran/M/58",
+      "New": "aran/M/58"
+    },
+    "voice/female/path/0": {
+      "Old": "aran/F/16",
+      "New": "aran/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "aran/F/55",
+      "New": "aran/F/55"
+    },
+    "voice/female/path/2": {
+      "Old": "aran/F/56",
+      "New": "aran/F/56"
+    },
+    "voice/female/path/3": {
+      "Old": "aran/F/57",
+      "New": "aran/F/57"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011121_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011121_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

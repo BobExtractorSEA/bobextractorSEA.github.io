@@ -1,0 +1,21 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.7805067-03:00",
+  "ChangeType": "Changed",
+  "Id": "14121016",
+  "Name": "Ravenous Bat",
+  "Job": "Night Walker",
+  "Desc": "Summon a ravenous Bat that is thirsty for blood. When attacking with skills that use throwing stars, there is a set chance for the Ravenous Bat to attack with you. Additional Ravenous Bats will be summoned based on the number of Marks of Darkness stacks on an enemy and will attack all at once. One additional Ravenous Bat will be created. The Ravenous Bats will prioritize tracking the boss monster with the highest maximum HP and you do not take damage from attacking enemies’ with Damage Reflect. Cannot be used at the same time as Shadow Bat. This is a kind of Darkness Element attack.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Element Infusion I: Darkness Lv. 1 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {},
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14121016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,167 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.3562435-03:00",
+  "ChangeType": "Added",
+  "Id": "5241018",
+  "Name": "Nautilus Strike VI",
+  "Job": "Corsair",
+  "Desc": "Orders the Nautilus to attack multiple enemies at once. Nautilus Strike does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Nautilus Strike Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -500,
+      "y": -450
+    },
+    "rb": {
+      "x": 500,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "req/5221013": "30",
+    "action/0": "6thBombExplosion",
+    "common/maxLevel": "30",
+    "common/mpCon": "350+2*x",
+    "common/damage": "625+8*x",
+    "common/attackCount": "7",
+    "common/mobCount": "15",
+    "common/cooltime": "30",
+    "common/lt/x": -500,
+    "common/lt/y": -450,
+    "common/rb/x": 500,
+    "common/rb/y": 250,
+    "common/attackDelay": "1680",
+    "effect0/fix": "1",
+    "hit/0/randomHitOrigin": "50",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "trembleEffectList/0/delay": "0",
+    "trembleEffectList/0/force": "1",
+    "trembleEffectList/0/time": "1080",
+    "trembleEffectList/0/reduction": "1",
+    "trembleEffectList/0/remote": "0",
+    "trembleEffectList/1/delay": "660",
+    "trembleEffectList/1/force": "12",
+    "trembleEffectList/1/time": "600",
+    "trembleEffectList/1/reduction": "1",
+    "trembleEffectList/1/remote": "0",
+    "effectFlash/localOnly": "1",
+    "effectFlash/z": "-1",
+    "effectFlash/0/delay": "180",
+    "effectFlash/0/alpha": "10",
+    "effectFlash/0/color": "0",
+    "effectFlash/1/delay": "90",
+    "effectFlash/1/alpha": "20",
+    "effectFlash/1/color": "0",
+    "effectFlash/2/delay": "90",
+    "effectFlash/2/alpha": "30",
+    "effectFlash/2/color": "0",
+    "effectFlash/3/delay": "90",
+    "effectFlash/3/alpha": "40",
+    "effectFlash/3/color": "0",
+    "effectFlash/4/delay": "1350",
+    "effectFlash/4/alpha": "50",
+    "effectFlash/4/color": "0",
+    "effectFlash/5/delay": "90",
+    "effectFlash/5/alpha": "60",
+    "effectFlash/5/color": "0",
+    "effectFlash/6/delay": "90",
+    "effectFlash/6/alpha": "70",
+    "effectFlash/6/color": "0",
+    "effectFlash/7/delay": "90",
+    "effectFlash/7/alpha": "10",
+    "effectFlash/7/color": "ffffff",
+    "effectFlash/8/delay": "90",
+    "effectFlash/8/alpha": "50",
+    "effectFlash/8/color": "0",
+    "effectFlash/9/delay": "90",
+    "effectFlash/9/alpha": "30",
+    "effectFlash/9/color": "0",
+    "effectFlash/10/delay": "90",
+    "effectFlash/10/alpha": "60",
+    "effectFlash/10/color": "0",
+    "effectFlash/11/delay": "90",
+    "effectFlash/11/alpha": "50",
+    "effectFlash/11/color": "0",
+    "effectFlash/12/delay": "90",
+    "effectFlash/12/alpha": "40",
+    "effectFlash/12/color": "0",
+    "effectFlash/13/delay": "90",
+    "effectFlash/13/alpha": "30",
+    "effectFlash/13/color": "0",
+    "effectFlash/14/delay": "90",
+    "effectFlash/14/alpha": "20",
+    "effectFlash/14/color": "0",
+    "effectFlash/15/delay": "90",
+    "effectFlash/15/alpha": "10",
+    "effectFlash/15/color": "0",
+    "weapon": "49",
+    "preloadEff": "1",
+    "id": "5241018",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = captain/M/17 }",
+    "voice/male/path/1": "{ Old = , New = captain/M/16 }",
+    "voice/female/path/0": "{ Old = , New = captain/F/17 }",
+    "voice/female/path/1": "{ Old = , New = captain/F/18 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 410. Attacks up to 15 enemies at 865% damage 7 time(s).<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241018_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/5241018_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241018_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/5241018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

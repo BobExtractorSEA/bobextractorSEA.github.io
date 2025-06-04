@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6280369-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121101",
+  "Name": "Unleash Orochi (First Shot)",
+  "Job": "Kanna",
+  "Desc": "Temporarily lifts the seal from the Shikigami Orochi to attack enemies within a wide range through the Orochi's nefarious power. The Orochi inflicts extra damage immediately following its release thanks to its pent up energy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/cooltime": {
+      "Old": "90",
+      "New": "60"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121101_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

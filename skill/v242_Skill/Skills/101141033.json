@@ -1,0 +1,132 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.5529447-03:00",
+  "ChangeType": "Added",
+  "Id": "101141033",
+  "Name": "Shadow Rain VI",
+  "Job": "Zero",
+  "Desc": "Alpha and Beta's combination attack. Beta crashes down on the enemy with her Great Sword, stopping them in their tracks. Then, Alpha follows up from the shadows, dealing Critical Damage to all targets.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Shadow Rain Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -1000,
+      "y": -700
+    },
+    "rb": {
+      "x": 1000,
+      "y": 700
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/mes": "freeze",
+    "req/100001283": "1",
+    "action/0": "6thShadowRain_alpha",
+    "common/maxLevel": "30",
+    "common/forceCon": "50",
+    "common/damage": "875+25*x",
+    "common/attackCount": "14",
+    "common/mobCount": "15",
+    "common/lt/x": -1000,
+    "common/lt/y": -700,
+    "common/rb/x": 1000,
+    "common/rb/y": 700,
+    "common/x": "15",
+    "common/y": "875+25*x",
+    "common/z": "14",
+    "common/time": "3",
+    "common/cooltime": "300",
+    "common/updatableTime": "5000",
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "3690",
+    "effect/z": "-1",
+    "tile/effectDistance": "250",
+    "tile/delay_end": "3900",
+    "tile/delay_pre": "1260",
+    "hit/0/soundIndex": "0",
+    "hit/1/soundIndex": "1",
+    "processtype": "-1",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "55",
+    "additional_process/4": "35",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "69",
+    "additional_process/8": "72",
+    "additional_process/9": "36",
+    "additional_process/10": "108",
+    "additional_process/11": "98",
+    "preloadEff": "1",
+    "id": "101141033",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = zero/M/0 }",
+    "voice/male/path/1": "{ Old = , New = zero/M/1 }",
+    "voice/female/path/0": "{ Old = , New = zero/F/0 }",
+    "voice/female/path/1": "{ Old = , New = zero/F/1 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 50<br /><span style=\"font-weight:bold; color:orange;\">[Beta]</span>: Attacks up to 15 enemies at 1625% Damage 14 times.<br /><span style=\"font-weight:bold; color:orange;\">[Alpha]</span>: Attacks up to 15 enemies at 1625% Damage 14 times.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 300 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141033_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141033_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/101141033_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/101141033_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141033_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/101141033_screen_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141033_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141033_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141033_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141033_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.1928271-03:00",
+  "ChangeType": "Added",
+  "Id": "51141019",
+  "Name": "Soul Majesty VI",
+  "Job": "Mihile",
+  "Desc": "His unwavering devotion to protecting his Empress and allies makes his Soul Shield and Soul Light skills more powerful. Increases Damage and enhances the Advanced Soul Shield effects.<br />Also, Shield Installation casts the Offensive Defense and enhances Offensive Defense.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Soul Majesty Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "50",
+    "req/51121059": "1",
+    "action/0": "6thSoulMajesty",
+    "common/maxLevel": "30",
+    "common/mpCon": "200+x",
+    "common/damage": "745+28*x",
+    "common/attackCount": "6",
+    "common/mobCount": "8",
+    "common/time": "25",
+    "common/cooltime": "180",
+    "common/indieDamR": "15",
+    "common/x": "20",
+    "common/w": "5",
+    "common/u": "2000",
+    "common/v": "2",
+    "skillList/0": "51001011",
+    "skillList/1": "51001012",
+    "skillList/2": "51001013",
+    "skillList/3": "51111011",
+    "skillList/4": "51111012",
+    "skillList/5": "51121016",
+    "skillList/6": "51141008",
+    "skillList/7": "51141009",
+    "skillList/8": "51141010",
+    "skillList/9": "51141011",
+    "skillList/10": "51141012",
+    "skillList/11": "51141015",
+    "skillList2/0": "51001004",
+    "skillList2/1": "51101005",
+    "skillList2/2": "51111006",
+    "skillList2/3": "51121009",
+    "skillList2/4": "51121017",
+    "skillList2/5": "51121052",
+    "skillList2/6": "400011035",
+    "skillList2/7": "400011036",
+    "skillList2/8": "400011037",
+    "skillList2/9": "400011084",
+    "skillList2/10": "400011087",
+    "skillList2/11": "51141000",
+    "skillList2/12": "51141001",
+    "skillList2/13": "51141500",
+    "skillList2/14": "51141501",
+    "skillList2/15": "51141502",
+    "skillList2/16": "500061010",
+    "skillList2/17": "51141013",
+    "skillList2/18": "51141014",
+    "effect0/z": "-1",
+    "applyHyper": "1",
+    "notRemoved": "1",
+    "isSequenceOn": "1",
+    "id": "51141019",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = mikhail/M/92 }",
+    "voice/male/path/1": "{ Old = , New = mikhail/M/93 }",
+    "voice/male/path/2": "{ Old = , New = mikhail/M/47 }",
+    "voice/male/path/3": "{ Old = , New = mikhail/M/37 }",
+    "voice/male/path/4": "{ Old = , New = mikhail/M/39 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 230. Lasts for 25 sec. Damage +15%.<br />For its duration, successful Royal Guard of Advanced Soul Shield increases damage reduction +5%. The increased damage reduction is added to the Advanced Soul Shield effect.<br />For its duration, Shield Installation activates the Offensive Defense debuff and decreases Offensive Defense's Light Shock Wave cooldown -2 sec.<br />Offensive Defense's Light Shock Wave additionally activates <span style=\"font-weight:bold; color:orange;\">Light Wave</span>.<br /><span style=\"font-weight:bold; color:orange;\">Light Wave</span>: Attacks up to 8 enemies at 1585% damage 6 times.<br />Cooldown 180 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51141019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/51141019_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/51141019_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141019_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141019_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141019_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141019_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51141019_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

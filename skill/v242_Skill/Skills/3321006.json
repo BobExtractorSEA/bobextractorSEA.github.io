@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.9972532-03:00",
+  "ChangeType": "Changed",
+  "Id": "3321006",
+  "Name": "Cardinal Transition",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cardinal Force]</span><br />An archery skill used on the move. By activating the Swift Wind stored in the weapon, you quickly move to the target location and swing the weapon at the arrival point to attack surrounding enemies.<br />You can move the character forward or upward by using the directional keys during skill cast. If you do not specify a direction, you will swing the weapon in place.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "pathfinder/M/6",
+      "New": "pathfinder/M/6"
+    },
+    "voice/male/path/1": {
+      "Old": "pathfinder/M/7",
+      "New": "pathfinder/M/7"
+    },
+    "voice/male/path/2": {
+      "Old": "pathfinder/M/38",
+      "New": "pathfinder/M/38"
+    },
+    "voice/male/path/3": {
+      "Old": "pathfinder/M/40",
+      "New": "pathfinder/M/40"
+    },
+    "voice/female/path/0": {
+      "Old": "pathfinder/F/6",
+      "New": "pathfinder/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "pathfinder/F/7",
+      "New": "pathfinder/F/7"
+    },
+    "voice/female/path/2": {
+      "Old": "pathfinder/F/38",
+      "New": "pathfinder/F/38"
+    },
+    "voice/female/path/3": {
+      "Old": "pathfinder/F/41",
+      "New": "pathfinder/F/41"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "3341009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "applyPassiveLvUp": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_3321006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3321006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

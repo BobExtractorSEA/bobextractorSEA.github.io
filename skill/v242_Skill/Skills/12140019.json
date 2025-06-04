@@ -1,0 +1,80 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.7208855-03:00",
+  "ChangeType": "Added",
+  "Id": "12140019",
+  "Name": "Inferno Rise VI",
+  "Job": "Blaze Wizard",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/12121004": "1",
+    "req/12121002": "30",
+    "common/maxLevel": "30",
+    "common/damage": "1990+36*x",
+    "common/attackCount": "15",
+    "common/mobCount": "1",
+    "common/x": "420",
+    "mob/0/useZ": "1",
+    "mob/0/z": "3",
+    "mob/0/pos": "1",
+    "mob/0/size": "90",
+    "mob/1/useZ": "1",
+    "mob/1/z": "3",
+    "mob/1/pos": "1",
+    "mob/1/size": "140",
+    "mob/2/useZ": "1",
+    "mob/2/z": "3",
+    "mob/2/pos": "1",
+    "mob/2/size": "200",
+    "mob/3/useZ": "1",
+    "mob/3/z": "3",
+    "mob/3/pos": "1",
+    "mob/3/size": "300",
+    "mob/4/useZ": "1",
+    "mob/4/z": "3",
+    "mob/4/pos": "1",
+    "mob/sizeVari": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "4",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/size": "90",
+    "hit/1/useZ": "1",
+    "hit/1/z": "4",
+    "hit/1/randomHitOrigin": "40",
+    "hit/1/size": "140",
+    "hit/2/useZ": "1",
+    "hit/2/z": "4",
+    "hit/2/randomHitOrigin": "55",
+    "hit/2/size": "200",
+    "hit/3/useZ": "1",
+    "hit/3/z": "4",
+    "hit/3/randomHitOrigin": "70",
+    "hit/sizeVari": "1",
+    "invisible": "1",
+    "id": "12140019",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12140019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/12140019_hit_new.webp"
+    },
+    "mob": {
+      "Old": null,
+      "New": "Animations/New/12140019_mob_new.webp"
+    }
+  },
+  "Voices": {}
+}

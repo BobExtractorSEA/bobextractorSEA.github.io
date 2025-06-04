@@ -1,0 +1,152 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.0131419-03:00",
+  "ChangeType": "Added",
+  "Id": "27141008",
+  "Name": "Twilight Nova VI",
+  "Job": "Luminous",
+  "Desc": "[Dark Magic]<br />Causes an explosion of the power of light and darkness.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Twilight Nova Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -480,
+      "y": -380
+    },
+    "rb": {
+      "x": 50,
+      "y": 120
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/27121113": "30",
+    "action/0": "6thTwilightNova",
+    "common/maxLevel": "30",
+    "common/mpCon": "81+d(x/3)",
+    "common/damage": "430+40*x",
+    "common/attackCount": "7",
+    "common/mobCount": "8",
+    "common/cooltime": "15",
+    "common/lt/x": -480,
+    "common/lt/y": -380,
+    "common/rb/x": 50,
+    "common/rb/y": 120,
+    "common/lt2/x": -330,
+    "common/lt2/y": -245,
+    "common/rb2/x": -80,
+    "common/rb2/y": -20,
+    "common/w": "430+40*x",
+    "common/z": "7",
+    "common/y": "375+25*x",
+    "common/v": "7",
+    "common/u": "4",
+    "common/u2": "3",
+    "common/u3": "3",
+    "common/updatableTime": "500",
+    "common/gauge": "120",
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "30",
+    "multiAttackInfo/2/attackTime": "30",
+    "effect/fix": "1",
+    "special/start": "390",
+    "special/count": "5",
+    "special/oneTime": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/z": "3",
+    "hit/0/useZ": "1",
+    "processtype": "-1",
+    "additional_process/0": "2",
+    "additional_process/1": "21",
+    "additional_process/2": "30",
+    "additional_process/3": "55",
+    "additional_process/4": "35",
+    "additional_process/5": "77",
+    "additional_process/6": "22",
+    "additional_process/7": "69",
+    "additional_process/8": "108",
+    "weapon": "21",
+    "subWeapon": "35",
+    "invisible": "1",
+    "skillList/0": "400021000",
+    "id": "27141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = luminous/M/27 }",
+    "voice/male/path/1": "{ Old = , New = luminous/M/26 }",
+    "voice/male/path/2": "{ Old = , New = luminous/M/25 }",
+    "voice/female/path/0": "{ Old = , New = luminous/F/29 }",
+    "voice/female/path/1": "{ Old = , New = luminous/F/28 }",
+    "voice/female/path/2": "{ Old = , New = luminous/F/27 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 91. Attacks up to 8 enemies.<br /><span style=\"font-weight:bold; color:orange;\">Sunfire</span>: Causes 3 explosions that attack at 1630% Damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Eclipse</span>: Causes 3 explosions that attack at 1630% Damage 7 times.<br /><span style=\"font-weight:bold; color:orange;\">Equilibrium</span>: Causes 4 explosions that attack at 1125% Damage 7 times.<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_27141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/27141008_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/27141008_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/27141008_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

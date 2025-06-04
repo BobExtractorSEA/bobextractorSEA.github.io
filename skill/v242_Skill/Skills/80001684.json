@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.9994241-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001684",
+  "Name": "Spicy Chicken's Spice",
+  "Job": "Etc",
+  "Desc": "Don't underestimate him just because he looks like a chicken. Von Bon is a powerful monster. The power of a Soul Weapon summons him and he stuns monsters with powerful attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001684_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

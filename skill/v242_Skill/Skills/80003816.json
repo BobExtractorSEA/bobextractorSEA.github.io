@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.288027-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003816",
+  "Name": "NEXT Warm-up: Damage on Normal monsters:",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">damage on normal monsters</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "NEXT Warming-Up : Damage when attacking Normal Monsters",
+      "New": "NEXT Warm-up: Damage on Normal monsters:"
+    },
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">Damage when attacking Normal Monsters</span>가 증가한다.",
+      "New": "Increases <span style=\"font-weight:bold; color:orange;\">damage on normal monsters</span>."
+    },
+    "H": {
+      "Old": "Damage when attacking Normal Monsters 20% 증가",
+      "New": "Normal Monster Damage +20%"
+    },
+    "h1": {
+      "Old": "Damage when attacking Normal Monsters 20% 증가",
+      "New": "Normal Monster Damage +20%"
+    }
+  },
+  "HFields": {
+    "h1": "Normal Monster Damage +20%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003816_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

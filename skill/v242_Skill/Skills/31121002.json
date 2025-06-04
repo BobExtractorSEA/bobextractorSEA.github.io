@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.3550352-03:00",
+  "ChangeType": "Changed",
+  "Id": "31121002",
+  "Name": "Leech Aura",
+  "Job": "Demon Slayer",
+  "Desc": "You and your party members temporarily recover HP from a portion of the damage dealt.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "demonSlayer/M/43",
+      "New": "demonSlayer/M/43"
+    },
+    "voice/male/path/1": {
+      "Old": "demonSlayer/M/44",
+      "New": "demonSlayer/M/44"
+    },
+    "voice/female/path/0": {
+      "Old": "demonSlayer/F/45",
+      "New": "demonSlayer/F/45"
+    },
+    "voice/female/path/1": {
+      "Old": "demonSlayer/F/46",
+      "New": "demonSlayer/F/46"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_31121002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/31121002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

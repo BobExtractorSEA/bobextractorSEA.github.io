@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.7781408-03:00",
+  "ChangeType": "Changed",
+  "Id": "400004172",
+  "Name": "Monkey's Fury/Mini Cannonball Enhancement",
+  "Job": "5th",
+  "Desc": "Enhances Monkey's Fury and Mini Cannonball.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Enhances Monkey's Fury and Mini Cannonball. Monkey's Fury DoT cannot be enhanced.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore monster DEF +20%</span>",
+      "New": "Enhances Monkey's Fury and Mini Cannonball.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Critical Rate +5%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 40: Ignore Monster DEF +20%</span>"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400004172_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

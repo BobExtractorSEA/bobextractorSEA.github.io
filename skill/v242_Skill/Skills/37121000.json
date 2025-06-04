@@ -1,0 +1,195 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.5421716-03:00",
+  "ChangeType": "Changed",
+  "Id": "37121000",
+  "Name": "Shockwave Drive",
+  "Job": "Blaster",
+  "Desc": "Delivers a corkscrew blow. Can be chained to Charging Arm: Bobbing, Charging Arm: Weaving, and Burning Breaker. Also permanently increases Double Drive damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Delivers a corkscrew blow that generates a shock wave. This skill leaves a spiraling shock wave for a short period, inflicting additional damage. Can be chained with Charging Arm: Bobbing, Charging Arm: Weaving, and Burning Breaker. Also permanently increases Double Drive damage.",
+      "New": "Delivers a corkscrew blow. Can be chained to Charging Arm: Bobbing, Charging Arm: Weaving, and Burning Breaker. Also permanently increases Double Drive damage."
+    },
+    "H": {
+      "Old": "MP Cost: 70. Attacks up to 6 enemies at 265% damage 6 times, increases Normal Monstere Damage +85%, and then causes a Shock Wave. <br /><span style=\"font-weight:bold; color:orange;\">Shock Wave: Attacks up to 6 enemies at 140% damage 4 times. Normal Monster Damage +350%p.</span><br /><span style=\"font-weight:bold; color:orange;\">[Passive Effects:  Damage of Double Drive +180%p]</span>",
+      "New": "MP Cost: 70. Attacks up to 6 enemies at 180% Damage 6 times.<br />Normal Monster Damage +210%<br />[Passive Effects: Final Damage of Double Drive +180%]"
+    },
+    "h1": {
+      "Old": "MP Cost: 70. Attacks up to 6 enemies at 265% damage 6 times, increases Normal Monstere Damage +85%, and then causes a Shock Wave. <br /><span style=\"font-weight:bold; color:orange;\">Shock Wave: Attacks up to 6 enemies at 140% damage 4 times. Normal Monster Damage +350%p.</span><br /><span style=\"font-weight:bold; color:orange;\">[Passive Effects:  Damage of Double Drive +180%p]</span>",
+      "New": "MP Cost: 70. Attacks up to 6 enemies at 180% Damage 6 times.<br />Normal Monster Damage +210%<br />[Passive Effects: Final Damage of Double Drive +180%]"
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "trembling": {
+      "Old": "1",
+      "New": null
+    },
+    "common/damage": {
+      "Old": "175+3*x",
+      "New": "120+2*x"
+    },
+    "common/s": {
+      "Old": "80+2*x",
+      "New": null
+    },
+    "common/u": {
+      "Old": "4",
+      "New": null
+    },
+    "common/q": {
+      "Old": "200+5*x",
+      "New": null
+    },
+    "common/nbdR": {
+      "Old": "85",
+      "New": "120+3*x"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+2*x",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "100+5*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3+d(x/10)",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "3+d(x/10)",
+      "New": null
+    },
+    "PVPcommon/damPlus": {
+      "Old": "4*x",
+      "New": null
+    },
+    "PVPcommon/s": {
+      "Old": "5*x",
+      "New": null
+    },
+    "PVPcommon/u": {
+      "Old": "8",
+      "New": null
+    },
+    "extraSkillInfo/0/skill": {
+      "Old": "37120001",
+      "New": null
+    },
+    "extraSkillInfo/0/delay": {
+      "Old": "0",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "blaster/M/3",
+      "New": "blaster/M/3"
+    },
+    "voice/male/path/1": {
+      "Old": "blaster/M/8",
+      "New": "blaster/M/8"
+    },
+    "voice/male/path/2": {
+      "Old": "blaster/M/21",
+      "New": "blaster/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "blaster/F/7",
+      "New": "blaster/F/7"
+    },
+    "voice/female/path/1": {
+      "Old": "blaster/F/9",
+      "New": "blaster/F/9"
+    },
+    "voice/female/path/2": {
+      "Old": "blaster/F/11",
+      "New": "blaster/F/11"
+    },
+    "voice/female/path/3": {
+      "Old": "blaster/F/28",
+      "New": "blaster/F/28"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "37141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 70. Attacks up to 6 enemies at 180% Damage 6 times.<br />Normal Monster Damage +210%<br />[Passive Effects: Final Damage of Double Drive +180%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_37121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/37121000_effect0_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/37121000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

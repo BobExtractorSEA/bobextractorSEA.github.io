@@ -1,0 +1,147 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.1559645-03:00",
+  "ChangeType": "Changed",
+  "Id": "12121002",
+  "Name": "Inferno Rise",
+  "Job": "Blaze Wizard",
+  "Desc": "Focuses the flows of surrounding flames to a single spot into a giant flaming eruption. Use with the Down key to activate Inferno Rise - Fox mode. Lock the command to disable the Inferno Rise - Fox mode when using this skill with the Down key.<br />A Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Lion</span>.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Focuses the flows of surrounding flames to a single spot into a giant flaming eruption. Use with the Down key to activate Inferno Rise - Fox mode. This is a kind of Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Fire Lion.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span>",
+      "New": "Focuses the flows of surrounding flames to a single spot into a giant flaming eruption. Use with the Down key to activate Inferno Rise - Fox mode. Lock the command to disable the Inferno Rise - Fox mode when using this skill with the Down key.<br />A Fire Element attack. <span style=\"font-weight:bold; color:orange;\">Requires a Flame Lion</span>.<br /><span style=\"font-weight:bold; color:orange;\">Command Lock: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Fires of Creation Lv. 1 or higher</span>"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "250+5*x",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "100+d(x/2)",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "3",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "x+30",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "flameWizard/M/106",
+      "New": "flameWizard/M/106"
+    },
+    "voice/male/path/1": {
+      "Old": "flameWizard/M/107",
+      "New": "flameWizard/M/107"
+    },
+    "voice/male/path/2": {
+      "Old": "flameWizard/M/59",
+      "New": "flameWizard/M/59"
+    },
+    "voice/female/path/0": {
+      "Old": "flameWizard/F/77",
+      "New": "flameWizard/F/77"
+    },
+    "voice/female/path/1": {
+      "Old": "flameWizard/F/78",
+      "New": "flameWizard/F/78"
+    },
+    "voice/female/path/2": {
+      "Old": "flameWizard/F/79",
+      "New": "flameWizard/F/79"
+    },
+    "voice/female/path/3": {
+      "Old": "flameWizard/F/55",
+      "New": "flameWizard/F/55"
+    },
+    "voice/female/path/4": {
+      "Old": "flameWizard/F/56",
+      "New": "flameWizard/F/56"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "12141017"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_12121002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/12121002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

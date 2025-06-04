@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.73843-03:00",
+  "ChangeType": "Added",
+  "Id": "23140017",
+  "Name": "Final Attack VI",
+  "Job": "Mercedes",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Dual Bowgun equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Final Attack Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "finalAttack": "1",
+    "condition": "attack",
+    "req/23120012": "30",
+    "common/maxLevel": "30",
+    "common/damage": "225+4*x",
+    "common/attackCount": "2",
+    "common/mobCount": "1",
+    "common/prop": "76",
+    "common/x": "225+4*x",
+    "common/range": "700",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/1/useZ": "1",
+    "hit/1/z": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/2/useZ": "1",
+    "hit/2/z": "1",
+    "hit/randomHit": "1",
+    "skillType": "3",
+    "canJobRidingUse": "1",
+    "id": "23140017",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> A 76% chance of Final Attack that attacks at 345% Damage 2 times"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23140017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/23140017_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

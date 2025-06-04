@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.727474-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003214",
+  "Name": "Thunder Goldfish Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />A Thunder Goldfish Mount that is said to bring thunder along.<br />You can move on a Thunder Goldfish Mount which allows for high altitude flight skill. Pressing the jump key two consecutive times in a town allows for high altitude flight skill.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "relationSkill/type": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/skillID": {
+      "Old": "80003215",
+      "New": null
+    },
+    "relationSkill/level": {
+      "Old": "1",
+      "New": null
+    },
+    "relationSkill/periodMin": {
+      "Old": "129600",
+      "New": null
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003214_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

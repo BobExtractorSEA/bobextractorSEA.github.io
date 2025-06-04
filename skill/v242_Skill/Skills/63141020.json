@@ -1,0 +1,68 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.5588881-03:00",
+  "ChangeType": "Added",
+  "Id": "63141020",
+  "Name": "Shaft Break VI",
+  "Job": "Kain",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -230,
+      "y": -200
+    },
+    "rb": {
+      "x": 230,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "info2/ignoreCounter": "1",
+    "req/63111003": "20",
+    "common/maxLevel": "30",
+    "common/damage": "235+5*x",
+    "common/attackCount": "10",
+    "common/mobCount": "10",
+    "common/lt/x": -230,
+    "common/lt/y": -200,
+    "common/rb/x": 230,
+    "common/rb/y": 200,
+    "common/x": "720",
+    "common/updatableTime": "810",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/useZ": "1",
+    "hit/0/z": "3",
+    "additional_process/0": "1",
+    "additional_process/1": "18",
+    "additional_process/2": "19",
+    "additional_process/3": "27",
+    "additional_process/4": "21",
+    "additional_process/5": "69",
+    "invisible": "1",
+    "processtype": "-1",
+    "subWeapon": "35",
+    "weapon": "214",
+    "id": "63141020",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_63141020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/63141020_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/63141020_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

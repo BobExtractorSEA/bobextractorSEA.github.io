@@ -1,0 +1,83 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.3642862-03:00",
+  "ChangeType": "Changed",
+  "Id": "1301013",
+  "Name": "Beholder",
+  "Job": "Dark Knight",
+  "Desc": "Summons the Beholder, which grants healing at certain time intervals when nearby. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "darkKnight/M/0",
+      "New": "darkKnight/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "darkKnight/M/1",
+      "New": "darkKnight/M/1"
+    },
+    "voice/female/path/0": {
+      "Old": "darkKnight/F/0",
+      "New": "darkKnight/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "darkKnight/F/1",
+      "New": "darkKnight/F/1"
+    },
+    "summon/skill3/info/mobCount": {
+      "Old": null,
+      "New": "10"
+    },
+    "summon/skill3/info/attackAfter": {
+      "Old": null,
+      "New": "720"
+    },
+    "summon/skill3/info/attackCount": {
+      "Old": null,
+      "New": "6"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_1301013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/1301013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.7685799-03:00",
+  "ChangeType": "Added",
+  "Id": "2341013",
+  "Name": "Bahamut VI",
+  "Job": "Bishop",
+  "Desc": "Temporarily summon the sacred dragon, Bahamut. Bahamut does not cause you to take damage even when attacking enemies in the Damage Reflection Status, and is affected by SUMMONS DURATION INCREASE.<br />Also, permanently enhances Angel Ray VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Bahamut Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "minionAttack": "normal",
+    "magicDamage": "1",
+    "info2/ignoreCounter": "1",
+    "req/2321003": "20",
+    "action/0": "alert2",
+    "common/maxLevel": "30",
+    "common/mpCon": "120+d(x/2)",
+    "common/time": "270",
+    "common/damage": "192+6*x",
+    "common/mobCount": "5",
+    "common/attackCount": "3",
+    "common/u": "1+d(x/8)",
+    "common/x": "5+d(x/2)",
+    "common/y": "5+x",
+    "effect/z": "-1",
+    "summon/attack1/info/range/lt/x": -300,
+    "summon/attack1/info/range/lt/y": -180,
+    "summon/attack1/info/range/rb/x": 300,
+    "summon/attack1/info/range/rb/y": 50,
+    "summon/attack1/info/type": "0",
+    "summon/attack1/info/attackAfter": "990",
+    "summon/attack1/info/mobCount": "5",
+    "summon/attack1/info/attackCount": "3",
+    "summon/createDelay": "540",
+    "hit/0/pos": "10",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "skillList/0": "400021000",
+    "elemAttr": "h",
+    "weapon": "37",
+    "weapon2": "38",
+    "showSummonedBuffIcon": "2",
+    "isSequenceOn": "1",
+    "applyHighSkillSummonBonusTime": "1",
+    "id": "2341013",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = bishop/M/37 }",
+    "voice/male/path/1": "{ Old = , New = bishop/M/39 }",
+    "voice/male/path/2": "{ Old = , New = bishop/M/40 }",
+    "voice/male/path/3": "{ Old = , New = bishop/M/42 }",
+    "voice/female/path/0": "{ Old = , New = bishop/F/38 }",
+    "voice/female/path/1": "{ Old = , New = bishop/F/39 }",
+    "voice/female/path/2": "{ Old = , New = bishop/F/40 }",
+    "voice/female/path/3": "{ Old = , New = bishop/F/43 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 135. Summons Bahamut for 270 sec.<br />Bahamut attacks up to 5 enemies at 372% Damage 3 times.<br />[Passive Effects: Angel Ray VI Damage +20%p, Angel Ray VI Angel of Judgment Damage +35%p, Angel Ray VI Angel of Judgment-required holy sword hit count -4]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/2341013_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2341013_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341013_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

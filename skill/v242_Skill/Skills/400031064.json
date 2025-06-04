@@ -1,0 +1,38 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6249902-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031064",
+  "Name": "Thanatos's Descent",
+  "Job": "5th (Bowman)",
+  "Desc": "Realm of Death brings unavoidable death to enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "actionList/26": {
+      "Old": null,
+      "New": "6thNAshaftBreak"
+    },
+    "actionList/27": {
+      "Old": null,
+      "New": "6thNAshaftBreakEnchant"
+    },
+    "actionList/28": {
+      "Old": null,
+      "New": "6thNAphantomBlade"
+    },
+    "actionList/29": {
+      "Old": null,
+      "New": "6thChasingShot"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031064_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.289488-03:00",
+  "ChangeType": "Added",
+  "Id": "5241011",
+  "Name": "Summon Crew VI: Dual Pistol Crew",
+  "Job": "Corsair",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -570,
+      "y": -210
+    },
+    "rb": {
+      "x": 0,
+      "y": 160
+    }
+  },
+  "Fields": {
+    "type": "33",
+    "condition": "attack",
+    "summonMinion": "1",
+    "info2/ignoreCounter": "1",
+    "req/5220019": "15",
+    "common/maxLevel": "30",
+    "common/damage": "515+15*x",
+    "common/lt/x": -570,
+    "common/lt/y": -210,
+    "common/rb/x": 0,
+    "common/rb/y": 160,
+    "common/bulletCount": "2",
+    "common/mobCount": "1",
+    "common/attackCount": "3",
+    "common/u": "810",
+    "SecondAtom/dataIndex": "77",
+    "SecondAtom/atom/0/rotate": "0",
+    "SecondAtom/atom/0/expire": "4000",
+    "SecondAtom/atom/0/pos/x": 72,
+    "SecondAtom/atom/0/pos/y": -42,
+    "SecondAtom/atom/0/createDelay": "450",
+    "SecondAtom/atom/0/enableDelay": "480",
+    "SecondAtom/atom/1/rotate": "0",
+    "SecondAtom/atom/1/expire": "4000",
+    "SecondAtom/atom/1/pos/x": 100,
+    "SecondAtom/atom/1/pos/y": -42,
+    "SecondAtom/atom/1/createDelay": "570",
+    "SecondAtom/atom/1/enableDelay": "600",
+    "hit/0/hitAfter": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "49",
+    "invisible": "1",
+    "ignoreSpecialCore": "1",
+    "isExceptSetLastAttack": "1",
+    "id": "5241011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_5241011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/5241011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/5241011_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

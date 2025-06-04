@@ -1,0 +1,127 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.9308277-03:00",
+  "ChangeType": "Changed",
+  "Id": "11121014",
+  "Name": "Soluna's Slash",
+  "Job": "Dawn Warrior",
+  "Desc": "Rushes towards enemies and cleaves them apart. This skill can only be used only while you are in midair while using Soluna's Harmony or <span style=\"font-weight:bold; color:orange;\">your own skill.</span><br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Soluna's Harmony Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "soulMaster/M/16",
+      "New": "soulMaster/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "soulMaster/M/17",
+      "New": "soulMaster/M/17"
+    },
+    "voice/male/path/2": {
+      "Old": "soulMaster/M/35",
+      "New": "soulMaster/M/35"
+    },
+    "voice/male/path/3": {
+      "Old": "soulMaster/M/36",
+      "New": "soulMaster/M/36"
+    },
+    "voice/female/path/0": {
+      "Old": "soulMaster/F/17",
+      "New": "soulMaster/F/17"
+    },
+    "voice/female/path/1": {
+      "Old": "soulMaster/F/57",
+      "New": "soulMaster/F/57"
+    },
+    "voice/female/path/2": {
+      "Old": "soulMaster/F/43",
+      "New": "soulMaster/F/43"
+    },
+    "voice/female/path/3": {
+      "Old": "soulMaster/F/46",
+      "New": "soulMaster/F/46"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "11141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_11121014_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/11121014_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

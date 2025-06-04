@@ -1,0 +1,183 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1721537-03:00",
+  "ChangeType": "Changed",
+  "Id": "4111007",
+  "Name": "Dark Flare",
+  "Job": "Night Lord",
+  "Desc": "Summons a giant shuriken that attacks nearby enemies releasing dark energy for a certain amount of time. Dark Flare is not affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 100. Summons a giant shuriken for 60 sec. Attacks 3 nearby enemies at 360% periodically. Cooldown: 60 sec.",
+      "New": "MP Cost: 100. Summons a giant shuriken for 60 sec.<br />Periodically attacks up to 3 enemies at 360% Damage.<br />Cooldown: 60 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 100. Summons a giant shuriken for 60 sec. Attacks 3 nearby enemies at 360% periodically. Cooldown: 60 sec.",
+      "New": "MP Cost: 100. Summons a giant shuriken for 60 sec.<br />Periodically attacks up to 3 enemies at 360% Damage.<br />Cooldown: 60 sec."
+    },
+    "common/hcReflect": {
+      "Old": "60+20*x",
+      "New": null
+    },
+    "common/hcTime": {
+      "Old": "10+2*x",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "x",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "60+4*x",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "4*x",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "5+x",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "230-20*x",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "200+8*x",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "900",
+      "New": null
+    },
+    "minionAbility": {
+      "Old": "PADReflect&&MADReflect",
+      "New": null
+    },
+    "condition": {
+      "Old": "damaged",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "nightLord/M/23",
+      "New": "nightLord/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/24",
+      "New": "nightLord/M/24"
+    },
+    "voice/male/path/2": {
+      "Old": "nightLord/M/11",
+      "New": "nightLord/M/11"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/30",
+      "New": "nightLord/F/30"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/31",
+      "New": "nightLord/F/31"
+    },
+    "voice/female/path/2": {
+      "Old": "nightLord/F/32",
+      "New": "nightLord/F/32"
+    },
+    "voice/female/path/3": {
+      "Old": "nightLord/F/14",
+      "New": "nightLord/F/14"
+    },
+    "common/mobCount": {
+      "Old": null,
+      "New": "3"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "4141007"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    },
+    "showSummonedBuffIcon": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 100. Summons a giant shuriken for 60 sec.<br />Periodically attacks up to 3 enemies at 360% Damage.<br />Cooldown: 60 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4111007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "ball": {
+      "Old": "Animations/Old/4111007_ball_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4111007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

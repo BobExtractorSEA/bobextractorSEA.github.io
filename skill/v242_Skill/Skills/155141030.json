@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.2184736-03:00",
+  "ChangeType": "Added",
+  "Id": "155141030",
+  "Name": "Endless Torment VI",
+  "Job": "Ark",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {
+      "x": -760,
+      "y": -410
+    },
+    "rb": {
+      "x": 320,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/155121341": "1",
+    "action/0": "6thPainEnd",
+    "common/maxLevel": "30",
+    "common/damage": "246+3*x",
+    "common/attackCount": "12",
+    "common/mobCount": "12",
+    "common/lt/x": -760,
+    "common/lt/y": -410,
+    "common/rb/x": 320,
+    "common/rb/y": 60,
+    "common/cancelableTime": "630",
+    "common/w": "20",
+    "common/updatableTime": "1500",
+    "cancelableSkillID/0": "155001202",
+    "cancelableSkillID/1": "155110001",
+    "cancelableSkillID/2": "155120001",
+    "cancelableSkillID/3": "155101200",
+    "cancelableSkillID/4": "155101201",
+    "cancelableSkillID/5": "155101212",
+    "cancelableSkillID/6": "155101204",
+    "cancelableSkillID/7": "155101214",
+    "cancelableSkillID/8": "155111202",
+    "cancelableSkillID/9": "155111211",
+    "cancelableSkillID/10": "155121202",
+    "cancelableSkillID/11": "155121215",
+    "cancelableSkillID/12": "155121306",
+    "cancelableSkillID/13": "155121341",
+    "cancelableSkillID/14": "400051334",
+    "cancelableSkillID/15": "155141021",
+    "cancelableSkillID/16": "155141022",
+    "cancelableSkillID/17": "155141023",
+    "cancelableSkillID/18": "155141024",
+    "cancelableSkillID/19": "155141025",
+    "cancelableSkillID/20": "155141026",
+    "cancelableSkillID/21": "155141027",
+    "cancelableSkillID/22": "155141028",
+    "cancelableSkillID/23": "155141029",
+    "cancelableSkillID/24": "155141031",
+    "cancelableSkillID/25": "155141036",
+    "multiAttackInfo/0/attackTime": "0",
+    "multiAttackInfo/1/attackTime": "30",
+    "multiAttackInfo/2/attackTime": "30",
+    "multiAttackInfo/3/attackTime": "30",
+    "multiAttackInfo/4/attackTime": "30",
+    "multiAttackInfo/5/attackTime": "30",
+    "multiAttackInfo/6/attackTime": "30",
+    "multiAttackInfo/7/attackTime": "30",
+    "multiAttackInfo/8/attackTime": "30",
+    "multiAttackInfo/9/attackTime": "30",
+    "invisible": "1",
+    "processtype": "-1",
+    "weapon": "48",
+    "weapon2": "39",
+    "subWeapon": "35",
+    "applyHyper": "1",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/hitSoundMod": "4",
+    "additional_process/0": "1",
+    "additional_process/1": "19",
+    "additional_process/2": "21",
+    "additional_process/3": "22",
+    "additional_process/4": "30",
+    "additional_process/5": "69",
+    "additional_process/6": "35",
+    "additional_process/7": "108",
+    "id": "155141030",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "0",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = ark/M/4 }",
+    "voice/female/path/0": "{ Old = , New = ark/F/4 }"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141030_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/155141030_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/155141030_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/155141030_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141030_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141030_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

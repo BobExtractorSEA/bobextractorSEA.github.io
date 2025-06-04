@@ -1,0 +1,36 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9799365-03:00",
+  "ChangeType": "Added",
+  "Id": "151141013",
+  "Name": "Resonance VI",
+  "Job": "Adele",
+  "Desc": "Resonate with Ether Crystal to obtain power.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "51",
+    "req/151101003": "10",
+    "common/maxLevel": "30",
+    "common/time": "30",
+    "common/y": "10",
+    "common/z": "10",
+    "invisible": "1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "isBeneficial": "1",
+    "applySixthSkillIncBuffDuration": "1",
+    "id": "151141013",
+    "has_req": true,
+    "has_weapon": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141013_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

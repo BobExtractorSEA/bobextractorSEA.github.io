@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.9459044-03:00",
+  "ChangeType": "Changed",
+  "Id": "155110001",
+  "Name": "Reviving Ominous Dream",
+  "Job": "Ark",
+  "Desc": "Enhances Unforgettable Ominous Dream.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Attacks up to 6 enemies at 280% damage 6 times.<br />Recovers 1% of Max HP upon hit.<br />No cooldown.",
+      "New": "Attacks up to 6 enemies at 280% Damage 6 times.<br />Restores 1% of Max HP on hit."
+    },
+    "h1": {
+      "Old": "Attacks up to 6 enemies at 280% damage 6 times.<br />Recovers 1% of Max HP upon hit.<br />No cooldown.",
+      "New": "Attacks up to 6 enemies at 280% Damage 6 times.<br />Restores 1% of Max HP on hit."
+    },
+    "cancelableSkillID/21": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/22": {
+      "Old": null,
+      "New": "155141031"
+    }
+  },
+  "HFields": {
+    "h1": "Attacks up to 6 enemies at 280% Damage 6 times.<br />Restores 1% of Max HP on hit."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_155110001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

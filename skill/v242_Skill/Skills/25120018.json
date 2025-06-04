@@ -1,0 +1,136 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.0280483-03:00",
+  "ChangeType": "Changed",
+  "Id": "25120018",
+  "Name": "Spirit Frenzy",
+  "Job": "Shade",
+  "Desc": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy does not cause you to take damage even when attacking enemies in the Damage Reflection Status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy absorbs the souls of enemies that fail to pass through, increasing its duration. Spirit Frenzy does not affect enemies in the Damage Reflection status.  ",
+      "New": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy does not cause you to take damage even when attacking enemies in the Damage Reflection Status."
+    },
+    "common/time": {
+      "Old": "45",
+      "New": "60"
+    },
+    "common/u": {
+      "Old": "1",
+      "New": null
+    },
+    "common/w": {
+      "Old": "15",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "eunwol/M/2",
+      "New": "eunwol/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/9",
+      "New": "eunwol/M/9"
+    },
+    "voice/male/path/2": {
+      "Old": "eunwol/M/45",
+      "New": "eunwol/M/45"
+    },
+    "voice/male/path/3": {
+      "Old": "eunwol/M/46",
+      "New": "eunwol/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/6",
+      "New": "eunwol/F/6"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/15",
+      "New": "eunwol/F/15"
+    },
+    "voice/female/path/2": {
+      "Old": "eunwol/F/45",
+      "New": "eunwol/F/45"
+    },
+    "voice/female/path/3": {
+      "Old": "eunwol/F/46",
+      "New": "eunwol/F/46"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25120018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": "Animations/Old/25120018_effect_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

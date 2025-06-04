@@ -1,0 +1,85 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.4010744-03:00",
+  "ChangeType": "Changed",
+  "Id": "162111005",
+  "Name": "Waking Up",
+  "Job": "Lara",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">Dragon Vein Skill</span><br />If the sleeping dragon's power is awakened in a rough way, it will transform into an intangible energy that track and attack nearby enemies. Waking Up consumes closer Dragon Veins first rather than free Dragon Veins. It doesn't affect enemies in Damage Reflection status, and Stance 100% is applied while casting.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 30. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks 4 times at 105% damage.<br />If one enemy is attacked by many intangible energies, the final damage is reduced by 40% starting from the second energy.<br />Cooldown: 9 sec.",
+      "New": "MP Cost: 30. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks at 105% Damage 4 times.<br />If a single enemy is attacked by multiple intangible energies, Final Damage -40% for each subsequent energy after the first one.<br />Cooldown: 9 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 30. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks 4 times at 105% damage.<br />If one enemy is attacked by many intangible energies, the final damage is reduced by 40% starting from the second energy.<br />Cooldown: 9 sec.",
+      "New": "MP Cost: 30. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks at 105% Damage 4 times.<br />If a single enemy is attacked by multiple intangible energies, Final Damage -40% for each subsequent energy after the first one.<br />Cooldown: 9 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "lara/M/36",
+      "New": "lara/M/36"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/37",
+      "New": "lara/M/37"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/47",
+      "New": "lara/F/47"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/48",
+      "New": "lara/F/48"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "162141020"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 30. Intangible energy is created by as many as the number of enemies, and you can create from 7 to 12. Each intangible energy attacks at 105% Damage 4 times.<br />If a single enemy is attacked by multiple intangible energies, Final Damage -40% for each subsequent energy after the first one.<br />Cooldown: 9 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_162111005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162111005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

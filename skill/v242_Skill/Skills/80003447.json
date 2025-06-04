@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.8999973-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003447",
+  "Name": "Tangyoon's Cooking: Critical Rate",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">Critical Rate</span>.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Chew Chew Special Slushie: Critical Rate",
+      "New": "Tangyoon's Cooking: Critical Rate"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003447_icon.png",
+    "IconPathOld": "Icons/Old/v241_80003447_icon_old.png"
+  },
+  "Animations": {},
+  "Voices": {}
+}

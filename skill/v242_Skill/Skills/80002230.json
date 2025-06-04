@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:16.7918322-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002230",
+  "Name": "Invitation to Nightmares",
+  "Job": "Etc",
+  "Desc": "Lucid's soul stays with you. The Soul Weapon's power temporarily summons Lucid to attack nearby enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002230_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7799774-03:00",
+  "ChangeType": "Changed",
+  "Id": "154121043",
+  "Name": "Oblivion",
+  "Job": "Khali",
+  "Desc": "Momentarily concentrate your energy to reach a state of trance. This skill significantly enhances the Void and Hex skill effects for a set amount of time.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "khali/M/16",
+      "New": "khali/M/16"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/17",
+      "New": "khali/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/16",
+      "New": "khali/F/16"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/17",
+      "New": "khali/F/17"
+    },
+    "skillList2/4": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "skillList2/5": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "skillList3/23": {
+      "Old": null,
+      "New": "154141010"
+    },
+    "skillList3/24": {
+      "Old": null,
+      "New": "154141011"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_154121043_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121043_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121043_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121043_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121043_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

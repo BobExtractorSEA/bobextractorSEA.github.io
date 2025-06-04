@@ -1,0 +1,48 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.6215735-03:00",
+  "ChangeType": "Changed",
+  "Id": "23111002",
+  "Name": "Unicorn Spike",
+  "Job": "Mercedes",
+  "Desc": "Summons a sacred unicorn that attacks multiple enemies and temporarily weakens them. Weakened enemies receive more damage from all types of attack. Can be chained with Rising Rush, Stunning Strikes, Spikes Royale, and Wrath of Enreal. Each chained skill decreases this skill's cooldown -1 sec.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 62. Critically attacks up to 8 enemies at 345% Damage 6 times, with a 100% chance of casting a debuff that inflicts additional 30% damage on the enemies for 60 seconds.<br />Cooldown: 9 sec<br />Cooldown -1 sec per chained skill",
+      "New": "MP Cost: 62. Critically attacks up to 8 enemies at 345% Damage 6 times, with a 100% chance of a debuff that deals 30% more Damage for 60 sec.<br />Cooldown: 9 sec.<br />Cooldown -1 sec. for using Chain skills"
+    },
+    "h1": {
+      "Old": "MP Cost: 62. Critically attacks up to 8 enemies at 345% Damage 6 times, with a 100% chance of casting a debuff that inflicts additional 30% damage on the enemies for 60 seconds.<br />Cooldown: 9 sec<br />Cooldown -1 sec per chained skill",
+      "New": "MP Cost: 62. Critically attacks up to 8 enemies at 345% Damage 6 times, with a 100% chance of a debuff that deals 30% more Damage for 60 sec.<br />Cooldown: 9 sec.<br />Cooldown -1 sec. for using Chain skills"
+    },
+    "common/y": {
+      "Old": "999999",
+      "New": null
+    },
+    "addAttack/skillPlus/10": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "23141011"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 62. Critically attacks up to 8 enemies at 345% Damage 6 times, with a 100% chance of a debuff that deals 30% more Damage for 60 sec.<br />Cooldown: 9 sec.<br />Cooldown -1 sec. for using Chain skills"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_23111002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1580756-03:00",
+  "ChangeType": "Changed",
+  "Id": "4101015",
+  "Name": "Shadow Rush",
+  "Job": "Night Lord",
+  "Desc": "Become one with the shadow and move forward quickly. Can be reused more quickly, gaining power of the shadow every time you hit enemies with assassin's marks.<br /><span style=\"font-weight:bold; color:orange;\">You can move while using your attack skills.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightLord/M/20",
+      "New": "nightLord/M/20"
+    },
+    "voice/male/path/1": {
+      "Old": "nightLord/M/21",
+      "New": "nightLord/M/21"
+    },
+    "voice/male/path/2": {
+      "Old": "nightLord/M/22",
+      "New": "nightLord/M/22"
+    },
+    "voice/male/path/3": {
+      "Old": "nightLord/M/0",
+      "New": "nightLord/M/0"
+    },
+    "voice/female/path/0": {
+      "Old": "nightLord/F/28",
+      "New": "nightLord/F/28"
+    },
+    "voice/female/path/1": {
+      "Old": "nightLord/F/29",
+      "New": "nightLord/F/29"
+    },
+    "voice/female/path/2": {
+      "Old": "nightLord/F/9",
+      "New": "nightLord/F/9"
+    },
+    "voice/female/path/3": {
+      "Old": "nightLord/F/10",
+      "New": "nightLord/F/10"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4101015_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4101015_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

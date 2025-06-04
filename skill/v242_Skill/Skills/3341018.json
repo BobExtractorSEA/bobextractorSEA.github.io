@@ -1,0 +1,135 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.5678907-03:00",
+  "ChangeType": "Added",
+  "Id": "3341018",
+  "Name": "Combo Assault VI (Discharge)",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Attacks the nearby enemy with a bow, and then shoots an arrow flying through space to attack a wide range of enemies.<br />Arrows deal damage to enemies in a wider range. Can be chained to Cardinal Transition.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Combo Assault Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -320,
+      "y": -250
+    },
+    "rb": {
+      "x": 320,
+      "y": 200
+    }
+  },
+  "Fields": {
+    "action/0": "6thComboAssultDischarge",
+    "req/3321014": "30",
+    "common/maxLevel": "30",
+    "common/forceCon": "50",
+    "common/damage": "675+8*x",
+    "common/mobCount": "5",
+    "common/attackCount": "7",
+    "common/cooltime": "15",
+    "common/lt/x": -320,
+    "common/lt/y": -250,
+    "common/rb/x": 320,
+    "common/rb/y": 200,
+    "common/x": "1",
+    "common/v": "720+9*x",
+    "common/u": "12",
+    "common/w": "5",
+    "common/cancelableTime": "420",
+    "cancelableSkillID/0": "3311002",
+    "cancelableSkillID/1": "3321006",
+    "cancelableSkillID/2": "3341008",
+    "effect/z": "-1",
+    "hit/0/randomHitOrigin": "45",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "22",
+    "invisible": "1",
+    "processtype": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "id": "3341018",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "50",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/14 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/37 }",
+    "voice/male/path/2": "{ Old = , New = pathfinder/M/46 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/14 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/38 }",
+    "voice/female/path/2": "{ Old = , New = pathfinder/F/39 }"
+  },
+  "HFields": {
+    "h1": "Relic Gauge Cost: 50.<br /><span style=\"font-weight:bold; color:orange;\">Bow Attack</span>: Attacks up to 5 enemies at 915% Damage 7 times. Attacked enemies receive 1 stacks of the Ancient Curse debuff.<br /><span style=\"font-weight:bold; color:orange;\">Arrow Attack</span>: Attacks up to 12 enemies at 990% damage 5 times.<br />Cooldown 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341018_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341018_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/3341018_effect0_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/3341018_effect1_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/3341018_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341018_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

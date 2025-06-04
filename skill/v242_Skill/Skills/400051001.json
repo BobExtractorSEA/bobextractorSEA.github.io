@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8663234-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051001",
+  "Name": "Roll of the Dice",
+  "Job": "5th (Pirate)",
+  "Desc": "Roll a dice to test your luck. You get a random buff based on the dice roll, but if you roll a 1, you will not get any buff but the Lucky Dice cooldown decreases by 50%.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051001_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

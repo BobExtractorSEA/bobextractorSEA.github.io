@@ -1,0 +1,121 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.1927962-03:00",
+  "ChangeType": "Changed",
+  "Id": "400011136",
+  "Name": "Storm",
+  "Job": "5th (Warrior)",
+  "Desc": "Orders all Ether Swords to create a blade storm around you. The number of illusions dealed a proportion of Ether Swords that are tracking enemies moves around you. Storm does not affect enemies in the Damage Reflection status and can be canceled by reusing the skill.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Gathering or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 500. For 14 sec., auto attacks up to 7 nearby enemies at 500% damage 2 times at regular intervals.<br />If more than one pair of Ether Swords are ordered while casting, increases attack count by 2 for each pair of swords.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 90 sec.</span>",
+      "New": "MP Cost: 500. Periodically auto-attacks up to 7 nearby enemies at 500% Damage 2 times for 14 sec.<br />If more than 1 pair of Ether Swords are ordered at the time of casting, attack count +2 per excess Ether Sword pair.<br />Cooldown: 90 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 500. For 14 sec., auto attacks up to 7 nearby enemies at 500% damage 2 times at regular intervals.<br />If more than one pair of Ether Swords are ordered while casting, increases attack count by 2 for each pair of swords.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 90 sec.</span>",
+      "New": "MP Cost: 500. Periodically auto-attacks up to 7 nearby enemies at 500% Damage 2 times for 14 sec.<br />If more than 1 pair of Ether Swords are ordered at the time of casting, attack count +2 per excess Ether Sword pair.<br />Cooldown: 90 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/47",
+      "New": "adele/M/47"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/48",
+      "New": "adele/M/48"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/49",
+      "New": "adele/M/49"
+    },
+    "voice/male/path/3": {
+      "Old": "adele/M/50",
+      "New": "adele/M/50"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/46",
+      "New": "adele/F/46"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/47",
+      "New": "adele/F/47"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/48",
+      "New": "adele/F/48"
+    },
+    "voice/female/path/3": {
+      "Old": "adele/F/49",
+      "New": "adele/F/49"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 500. Periodically auto-attacks up to 7 nearby enemies at 500% Damage 2 times for 14 sec.<br />If more than 1 pair of Ether Swords are ordered at the time of casting, attack count +2 per excess Ether Sword pair.<br />Cooldown: 90 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_400011136_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400011136_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

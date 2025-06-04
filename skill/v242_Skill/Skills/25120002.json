@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.006035-03:00",
+  "ChangeType": "Changed",
+  "Id": "25120002",
+  "Name": "Bomb Punch",
+  "Job": "Shade",
+  "Desc": "Summons a nature spirit to attack multiple enemies in front of you.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "eunwol/M/92",
+      "New": "eunwol/M/92"
+    },
+    "voice/male/path/1": {
+      "Old": "eunwol/M/15",
+      "New": "eunwol/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "eunwol/F/92",
+      "New": "eunwol/F/92"
+    },
+    "voice/female/path/1": {
+      "Old": "eunwol/F/15",
+      "New": "eunwol/F/15"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "25141005"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_25120002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120002_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120002_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120002_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25120002_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:13.2064831-03:00",
+  "ChangeType": "Changed",
+  "Id": "51121052",
+  "Name": "Deadly Charge",
+  "Job": "Mihile",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Soul Light Skill]</span> Ferociously charge at foes by summoning the Light Knight who can use the power of Light.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 825% damage 10 times, and creates an Abnormal Status debuff that increases damage +10% for you and your party for 60 seconds. <br />Applies 50% Blind Chance for 10 sec. and decreases  Accuracy -30%.<br />Cooldown: 15 sec.",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 825% Damage 10 times.<br />Attacked enemies receive an Abnormal Status debuff that increases Damage TAKEN from you and your party by 10% for 60 sec.<br />Attacks create a 50% chance of Blind, which lasts for 10 sec., decreasing the target's Accuracy -30%.<br />Cooldown: 15 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Attacks up to 15 enemies at 825% damage 10 times, and creates an Abnormal Status debuff that increases damage +10% for you and your party for 60 seconds. <br />Applies 50% Blind Chance for 10 sec. and decreases  Accuracy -30%.<br />Cooldown: 15 sec.",
+      "New": "MP Cost: 300. Attacks up to 15 enemies at 825% Damage 10 times.<br />Attacked enemies receive an Abnormal Status debuff that increases Damage TAKEN from you and your party by 10% for 60 sec.<br />Attacks create a 50% chance of Blind, which lasts for 10 sec., decreasing the target's Accuracy -30%.<br />Cooldown: 15 sec."
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "300",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "1000",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "100",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "90",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "mikhail/M/90",
+      "New": "mikhail/M/90"
+    },
+    "voice/male/path/1": {
+      "Old": "mikhail/M/91",
+      "New": "mikhail/M/91"
+    },
+    "voice/male/path/2": {
+      "Old": "mikhail/M/53",
+      "New": "mikhail/M/53"
+    },
+    "voice/male/path/3": {
+      "Old": "mikhail/M/54",
+      "New": "mikhail/M/54"
+    },
+    "voice/male/path/4": {
+      "Old": "mikhail/M/63",
+      "New": "mikhail/M/63"
+    },
+    "voice/male/path/5": {
+      "Old": "mikhail/M/62",
+      "New": "mikhail/M/62"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "51141013"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "weapon": {
+      "Old": null,
+      "New": "30"
+    },
+    "has_weapon": {
+      "Old": null,
+      "New": "True"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Attacks up to 15 enemies at 825% Damage 10 times.<br />Attacked enemies receive an Abnormal Status debuff that increases Damage TAKEN from you and your party by 10% for 60 sec.<br />Attacks create a 50% chance of Blind, which lasts for 10 sec., decreasing the target's Accuracy -30%.<br />Cooldown: 15 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_51121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/51121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

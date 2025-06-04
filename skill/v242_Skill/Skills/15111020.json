@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.1670635-03:00",
+  "ChangeType": "Changed",
+  "Id": "15111020",
+  "Name": "Rising Wave",
+  "Job": "Thunder Breaker",
+  "Desc": "Attacks enemies around you by soaring into the air with the power of lightning. Can be linked with all skills except Crashing Wave and itself.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/46",
+      "New": "striker/M/46"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/47",
+      "New": "striker/M/47"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/16",
+      "New": "striker/M/16"
+    },
+    "voice/male/path/3": {
+      "Old": "striker/M/24",
+      "New": "striker/M/24"
+    },
+    "voice/male/path/4": {
+      "Old": "striker/M/26",
+      "New": "striker/M/26"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/67",
+      "New": "striker/F/67"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/68",
+      "New": "striker/F/68"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/47",
+      "New": "striker/F/47"
+    },
+    "voice/female/path/3": {
+      "Old": "striker/F/46",
+      "New": "striker/F/46"
+    },
+    "voice/female/path/4": {
+      "Old": "striker/F/41",
+      "New": "striker/F/41"
+    },
+    "addAttack/skillPlus/13": {
+      "Old": null,
+      "New": "15141006"
+    },
+    "addAttack/skillPlus/14": {
+      "Old": null,
+      "New": "15141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_15111020_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/15111020_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

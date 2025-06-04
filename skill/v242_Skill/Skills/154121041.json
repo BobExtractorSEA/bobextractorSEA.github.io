@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.7652811-03:00",
+  "ChangeType": "Changed",
+  "Id": "154121041",
+  "Name": "Death Blossom",
+  "Job": "Khali",
+  "Desc": "Shape sand into a rose of despair. This black rose temporarily attacks nearby enemies, with a chance of creating Summon Chakris where it attacks. If the number of targets attacked is fewer than its maximum number of targets, additional Summon Chakris are created. Death Blossom does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 300. Duration: 30 sec.<br />Periodically attacks up to 10 enemies at 700% Damage 6 times.<br />A 100% chance of creating Summon Chakris where it attacks.<br />Additional Summon Chakris in random locations if the targets attacked are fewer than the maximum targets.<br />Up to 2 additional Summon Chakris. Chakris can't be summoned near each other.<br />Cooldown: 90 sec.",
+      "New": "MP Cost: 300. Summons a rose of despair that periodically attacks up to 10 enemies at 700% Damage 6 times for 30 sec.,<br />with a 100% chance of Summon Chakris at the location of the attack.<br />Additional Summon Chakris in random locations if the targets attacked are fewer than the maximum targets.<br />Up to <span style=\"font-weight:bold; color:orange;\">vadditional Summon Chakris. Summon Chakris can't be summoned near each other.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 90 sec.</span>"
+    },
+    "h1": {
+      "Old": "MP Cost: 300. Duration: 30 sec.<br />Periodically attacks up to 10 enemies at 700% Damage 6 times.<br />A 100% chance of creating Summon Chakris where it attacks.<br />Additional Summon Chakris in random locations if the targets attacked are fewer than the maximum targets.<br />Up to 2 additional Summon Chakris. Chakris can't be summoned near each other.<br />Cooldown: 90 sec.",
+      "New": "MP Cost: 300. Summons a rose of despair that periodically attacks up to 10 enemies at 700% Damage 6 times for 30 sec.,<br />with a 100% chance of Summon Chakris at the location of the attack.<br />Additional Summon Chakris in random locations if the targets attacked are fewer than the maximum targets.<br />Up to <span style=\"font-weight:bold; color:orange;\">vadditional Summon Chakris. Summon Chakris can't be summoned near each other.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 90 sec.</span>"
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "khali/M/14",
+      "New": "khali/M/14"
+    },
+    "voice/male/path/1": {
+      "Old": "khali/M/15",
+      "New": "khali/M/15"
+    },
+    "voice/female/path/0": {
+      "Old": "khali/F/14",
+      "New": "khali/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "khali/F/15",
+      "New": "khali/F/15"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "154141012"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 300. Summons a rose of despair that periodically attacks up to 10 enemies at 700% Damage 6 times for 30 sec.,<br />with a 100% chance of Summon Chakris at the location of the attack.<br />Additional Summon Chakris in random locations if the targets attacked are fewer than the maximum targets.<br />Up to <span style=\"font-weight:bold; color:orange;\">vadditional Summon Chakris. Summon Chakris can't be summoned near each other.</span><br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 90 sec.</span>"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_154121041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121041_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121041_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121041_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/154121041_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

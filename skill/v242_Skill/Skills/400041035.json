@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6852202-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041035",
+  "Name": "Chain Arts: Fury",
+  "Job": "5th (Thief)",
+  "Desc": "Throws out numerous chains to bind space itself. Chain Arts: Fury can damage enemies in the Ignore Attacks and Damage Reflection states.<br /><span style=\"font-weight:bold; color:orange;\">Gray effect On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "cadena/M/23",
+      "New": "cadena/M/23"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/24",
+      "New": "cadena/M/24"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/25",
+      "New": "cadena/M/25"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/24",
+      "New": "cadena/F/24"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/25",
+      "New": "cadena/F/25"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/26",
+      "New": "cadena/F/26"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041035_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041035_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.5590522-03:00",
+  "ChangeType": "Added",
+  "Id": "2141016",
+  "Name": "Megido Flame VI",
+  "Job": "Arch Mage (F/P)",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "info2/ignoreCounter": "1",
+    "info2/ignoreImmune": "1",
+    "req/2121052": "1",
+    "common/maxLevel": "30",
+    "common/mpCon": "50+d(x/2)",
+    "common/damage": "245+7*x",
+    "common/attackCount": "3",
+    "common/mobCount": "1",
+    "common/s": "3",
+    "common/u": "300",
+    "common/u2": "520",
+    "common/dot": "770+7*x",
+    "common/dotInterval": "1",
+    "common/dotTime": "30",
+    "special/0/randomOriginMIn": "80",
+    "special/0/randomOriginMax": "100",
+    "special/1/randomOriginMIn": "80",
+    "special/1/randomOriginMax": "100",
+    "special/2/randomOriginMIn": "80",
+    "special/2/randomOriginMax": "100",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "35",
+    "skillList/0": "400021000",
+    "processtype": "-1",
+    "additional_process/0": "22",
+    "additional_process/1": "22",
+    "additional_process/2": "27",
+    "elemAttr": "f",
+    "invisible": "1",
+    "id": "2141016",
+    "has_req": true
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2141016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/2141016_hit_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/2141016_special_new.webp"
+    }
+  },
+  "Voices": {}
+}

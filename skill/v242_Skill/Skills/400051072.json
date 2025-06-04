@@ -1,0 +1,60 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.1249799-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051072",
+  "Name": "Trinity Fusion",
+  "Job": "5th (Pirate)",
+  "Desc": "Blast the condensed power from Eskalade in one blow. Can also be activated while using Trinity.<br />You are protected from all Knockback effects while casting and damage taken decreases. Trinity Fusion does not affect enemies in the Damage Reflection status and when Trinity hits, you gain a Damage and Ignore DEF buff that can be stacked.<br />Use a custom command to cast Trinity with the Down key.<br /><span style=\"font-weight:bold; color:orange;\">Custom Command On/Off: Right-click</span><br />Required skill: <span style=\"font-weight:bold; color:orange;\">Lv. 30 Trinity or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/female/path/0": {
+      "Old": "angelicBurster/F/40",
+      "New": "angelicBurster/F/40"
+    },
+    "voice/female/path/1": {
+      "Old": "angelicBurster/F/41",
+      "New": "angelicBurster/F/41"
+    },
+    "voice/female/path/2": {
+      "Old": "angelicBurster/F/42",
+      "New": "angelicBurster/F/42"
+    },
+    "actionCancelInfo/exceptActions/5": {
+      "Old": null,
+      "New": "6thPrimalRoar"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051072_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051072_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051072_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051072_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

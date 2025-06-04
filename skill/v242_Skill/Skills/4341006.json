@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.8261461-03:00",
+  "ChangeType": "Changed",
+  "Id": "4341006",
+  "Name": "Mirrored Target",
+  "Job": "Dual Blade",
+  "Desc": "Separates your shadow that was summoned with Mirror Image. The shadow draws in all enemy attacks to protect you from harm and activates Shadow Evasion when attacked. Can only be used while using Mirror Image. Permanently increases Dual Katara's DEF and Evasion.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 20 Mirror Image or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "dualBlade/M/29",
+      "New": "dualBlade/M/29"
+    },
+    "voice/female/path/0": {
+      "Old": "dualBlade/F/30",
+      "New": "dualBlade/F/30"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_4341006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/4341006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.6132199-03:00",
+  "ChangeType": "Added",
+  "Id": "1140005",
+  "Name": "Furious Edge",
+  "Job": "Hero",
+  "Desc": "Reaches the pinnacle of swordsmanship, leaving a devastating <span style=\"font-weight:bold; color:orange;\">sword wound</span> with each attack. <span style=\"font-weight:bold; color:orange;\">Sword Wounds</span> are created after a certain number of hits by your direct Attack skills. Sword Wounds prioritize the Boss monster with the highest Max HP.",
+  "Coordinates": {
+    "lt": {
+      "x": -145,
+      "y": -95
+    },
+    "rb": {
+      "x": 145,
+      "y": 95
+    }
+  },
+  "Fields": {
+    "type": "53",
+    "condition": "attack",
+    "common/maxLevel": "30",
+    "common/damage": "127+5*x",
+    "common/mobCount": "8",
+    "common/attackCount": "3",
+    "common/lt/x": -145,
+    "common/lt/y": -95,
+    "common/rb/x": 145,
+    "common/rb/y": 95,
+    "common/v": "5",
+    "common/w": "2",
+    "common/x": "4",
+    "common/y": "5",
+    "common/z": "10",
+    "common/subTime": "210",
+    "common/time": "4",
+    "common/s": "180",
+    "common/s2": "40",
+    "skillList/0": "1001005",
+    "skillList/1": "1111010",
+    "skillList/2": "1101011",
+    "skillList/3": "1111016",
+    "skillList/4": "1121008",
+    "skillList/5": "1121015",
+    "skillList/6": "1120017",
+    "skillList/7": "400011027",
+    "skillList/8": "400011125",
+    "skillList/9": "400011126",
+    "skillList/10": "1141000",
+    "skillList/11": "1141001",
+    "skillList/12": "1141002",
+    "skillList/13": "1141003",
+    "skillList/14": "1141004",
+    "skillList/15": "1141008",
+    "skillList/16": "1001011",
+    "skillList/17": "1001010",
+    "skillList/18": "1101014",
+    "skillList/19": "1111012",
+    "skillList2/0": "1121055",
+    "skillList2/1": "400011074",
+    "skillList2/2": "400011075",
+    "skillList2/3": "400011076",
+    "skillList2/4": "1141007",
+    "skillList2/5": "1141500",
+    "skillList2/6": "1141501",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "id": "1140005",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {
+    "h1": "Hit your direct Attack skills 5 times to create a <span style=\"font-weight:bold; color:orange;\">Sword Wound</span>. <br />The <span style=\"font-weight:bold; color:orange;\">Sword Wound</span> attacks up to 8 enemies at 277% Damage 3 times.<br />Valhalla, Combo Instincts, and Spirit Caliber count as 1 attack after 2 hits.<br /><span style=\"font-weight:bold; color:orange;\">Sword Wounds</span> disappears after 4 attacks, and up to 5 can be created.<br />Up to 10 can be created during Combo Instincts."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_1140005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/1140005_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

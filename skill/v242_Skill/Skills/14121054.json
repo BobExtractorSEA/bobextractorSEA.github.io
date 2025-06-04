@@ -1,0 +1,75 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.8231012-03:00",
+  "ChangeType": "Changed",
+  "Id": "14121054",
+  "Name": "Shadow Illusion",
+  "Job": "Night Walker",
+  "Desc": "Summons 3 shadows that mimic your actions with a short delay. Shadows can only mimic throwing star and movement skills. Shadows do not have HP and disappear when their summoning durations expire. Shadows' attacks do not affect enemies in the Damage Reflection state, and may activate Mark of Darkness, Shadow Bat and Ravenous Bat.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Dark Servant Lv. 20 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "nightWalker/M/26",
+      "New": "nightWalker/M/26"
+    },
+    "voice/male/path/1": {
+      "Old": "nightWalker/M/27",
+      "New": "nightWalker/M/27"
+    },
+    "voice/female/path/0": {
+      "Old": "nightWalker/F/26",
+      "New": "nightWalker/F/26"
+    },
+    "voice/female/path/1": {
+      "Old": "nightWalker/F/27",
+      "New": "nightWalker/F/27"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "resummonByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_14121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/14121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.9628102-03:00",
+  "ChangeType": "Added",
+  "Id": "151141011",
+  "Name": "Resonance VI",
+  "Job": "Adele",
+  "Desc": "Creates a broad sword made of magic to resonate with an Ether Crystal and charge towards the crystal. Swords can be sent flying toward the nearest crystal in <span style=\"font-weight:bold; color:orange;\">8 directions</span> by using the skill with the directional keys.<br />Can only be used with an Ether Crystal in range or chained with Impale.<br />Chaining to Impale decreases the creation time of the Broad Sword and charges toward the direction of the Ether Sword.<br />Also, permanently increases Divide VI Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Resonance Lv. 10 or above</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -900,
+      "y": -900
+    },
+    "rb": {
+      "x": 900,
+      "y": 900
+    }
+  },
+  "Fields": {
+    "type": "12",
+    "req/151101003": "10",
+    "action/0": "6thResonance",
+    "common/maxLevel": "30",
+    "common/damage": "423+12*x",
+    "common/attackCount": "6",
+    "common/mobCount": "6",
+    "common/x": "15",
+    "common/range": "500",
+    "common/y": "225",
+    "common/z": "100",
+    "common/lt/x": -900,
+    "common/lt/y": -900,
+    "common/rb/x": 900,
+    "common/rb/y": 900,
+    "common/damPlus": "10+x",
+    "common/q": "-30",
+    "common/time": "30",
+    "common/u": "10",
+    "common/v": "10",
+    "common/s": "125",
+    "rush/elem/0/style": "5",
+    "rush/elem/0/time": "360",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/1/style": "0",
+    "rush/elem/1/time": "100",
+    "rush/elem/1/vx": "0",
+    "rush/elem/1/vy": "0",
+    "rush/elem/1/ax": "0",
+    "rush/elem/1/distance/gap": "4",
+    "rush/elem/1/distance/applyX": "1",
+    "rush/elem/1/distance/applyY": "1",
+    "rush/ignoreFoothold": "1",
+    "rush/action": "0",
+    "special/fix": "1",
+    "end/fix": "1",
+    "hit/0/randomHitOrigin": "25",
+    "additional_process/0": "1",
+    "additional_process/1": "9",
+    "additional_process/2": "22",
+    "processtype": "-1",
+    "weapon": "213",
+    "subWeapon": "35",
+    "psd": "1",
+    "id": "151141011",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "50",
+    "voice/male/count": 3,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = adele/M/8 }",
+    "voice/male/path/1": "{ Old = , New = adele/M/9 }",
+    "voice/male/path/2": "{ Old = , New = adele/M/10 }",
+    "voice/female/path/0": "{ Old = , New = adele/F/7 }",
+    "voice/female/path/1": "{ Old = , New = adele/F/8 }"
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Destroys the Ether Crystal resonating from Resonance.</span><br />Attacks up to 6 enemies at 783% Damage 6 times.<br />Casts a buff that increases Final Damage +10% and Ignore DEF +10% for 30 sec. on hit.<br />[Passive Effects: Divide VI Damage +40%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141011_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/151141011_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/151141011_hit_new.webp"
+    },
+    "prepare": {
+      "Old": null,
+      "New": "Animations/New/151141011_prepare_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/151141011_special_new.webp"
+    },
+    "end": {
+      "Old": null,
+      "New": "Animations/New/151141011_end_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141011_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141011_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141011_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141011_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141011_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

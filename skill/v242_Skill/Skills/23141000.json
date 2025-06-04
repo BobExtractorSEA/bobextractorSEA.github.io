@@ -1,0 +1,79 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.7288475-03:00",
+  "ChangeType": "Changed",
+  "Id": "23141000",
+  "Name": "Ishtar’s Ring VI",
+  "Job": "Mercedes",
+  "Desc": "The legendary weapon, Ishtar, quickly shoots arrows at enemies in front. The arrows will pierce through enemies. If you hold the skill key down, they will continue to fire.<br />Enemies hit are inflicted with Ishtar’s Brand. When your directly attacking skills hit an enemy with Ishtar’s Brand a certain number of times, it will fill up by 1. Every time the Brand is filled, the spirit will attack the enemy. When the Brand is complete, it will perform a more powerful attack.<br />Elemental Ghost’s afterimages can also complete Ishtar’s Brand. If Ishtar’s Brand hits an enemy using Damage Reflect, you will not take damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Ishtar's Ring Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "mercedes/M/2",
+      "New": "mercedes/M/2"
+    },
+    "voice/male/path/1": {
+      "Old": "mercedes/M/7",
+      "New": "mercedes/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "mercedes/F/0",
+      "New": "mercedes/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "mercedes/F/43",
+      "New": "mercedes/F/43"
+    },
+    "skillList/35": {
+      "Old": null,
+      "New": "23141010"
+    },
+    "skillList/36": {
+      "Old": null,
+      "New": "23141011"
+    },
+    "skillList/37": {
+      "Old": null,
+      "New": "23141012"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_23141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/23141000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

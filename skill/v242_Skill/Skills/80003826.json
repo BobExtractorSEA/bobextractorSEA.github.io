@@ -1,0 +1,81 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.0653048-03:00",
+  "ChangeType": "Added",
+  "Id": "80003826",
+  "Name": "Beast Breathing Fifth Fang: Crazy Cutting",
+  "Job": "Etc",
+  "Desc": "Headlong Charge! Inosuke-sama is departing!",
+  "Coordinates": {
+    "lt": {
+      "x": -250,
+      "y": -350
+    },
+    "rb": {
+      "x": 250,
+      "y": 150
+    }
+  },
+  "Fields": {
+    "type": "4",
+    "areaAttack": "1",
+    "pvp": "0",
+    "info2/ignoreCounter": "1",
+    "common/maxLevel": "1",
+    "common/mpCon": "0",
+    "common/damage": "1500",
+    "common/mobCount": "15",
+    "common/attackCount": "6",
+    "common/lt/x": -250,
+    "common/lt/y": -350,
+    "common/rb/x": 250,
+    "common/rb/y": 150,
+    "common/subTime": "690",
+    "common/updatableTime": "1000",
+    "common/w": "2",
+    "invisible": "1",
+    "disable": "1",
+    "timeLimited": "1",
+    "isUsableKaiserDragon": "1",
+    "canJobRidingUse": "1",
+    "disableNextLevelInfo": "1",
+    "notRemoved": "1",
+    "notCooltimeReset": "1",
+    "isUsableSylphdia": "1",
+    "isUsableExpressionRiver": "1",
+    "notCooltimeReduce": "1",
+    "hit/0/randomHitOrigin": "15",
+    "hit/0/z": "1",
+    "hit/0/useZ": "1",
+    "screen/z": "5",
+    "screen/fixOriginCenter": "1",
+    "processtype": "93",
+    "additional_process/0": "1",
+    "additional_process/1": "21",
+    "additional_process/2": "37",
+    "additional_process/3": "27",
+    "additional_process/4": "35",
+    "additional_process/5": "85",
+    "additional_process/6": "36",
+    "fixLevel": "1",
+    "id": "80003826",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003826_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/80003826_hit_new.webp"
+    },
+    "screen": {
+      "Old": null,
+      "New": "Animations/New/80003826_screen_new.webp"
+    }
+  },
+  "Voices": {}
+}

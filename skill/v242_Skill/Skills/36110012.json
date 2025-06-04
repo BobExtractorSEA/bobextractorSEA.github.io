@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2729201-03:00",
+  "ChangeType": "Changed",
+  "Id": "36110012",
+  "Name": "Rocket System 2nd Enhancement",
+  "Job": "Xenon",
+  "Desc": "Further enhances Rocket System.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 1st Enhancement Lv. 4 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 14 Effect: Can learn the 4th Job skill, Rocket System Final Enhancement</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pinpoint Rocket 2nd Fortification",
+      "New": "Rocket System 2nd Enhancement"
+    },
+    "Desc": {
+      "Old": "Further increases the Pinpoint Rocket damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Pinpoint Rocket</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 effect: Can learn the 4th Job Skill, Pinpoint Rocket Final Fortification.</span>",
+      "New": "Further enhances Rocket System.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 1st Enhancement Lv. 4 or higher</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 14 Effect: Can learn the 4th Job skill, Rocket System Final Enhancement</span>"
+    },
+    "H": {
+      "Old": "Increases damage of Pinpoint Rocket by 40%p. Stacks with 1st fortification.",
+      "New": "Rocket System Damage +85%p"
+    },
+    "h1": {
+      "Old": "Increases damage of Pinpoint Rocket by 40%p. Stacks with 1st fortification.",
+      "New": "Rocket System Damage +85%p"
+    },
+    "common/maxLevel": {
+      "Old": "4",
+      "New": "14"
+    },
+    "common/damPlus": {
+      "Old": "10*x",
+      "New": "15+5*x"
+    },
+    "req/36001005": {
+      "Old": "1",
+      "New": null
+    },
+    "req/36100010": {
+      "Old": null,
+      "New": "4"
+    }
+  },
+  "HFields": {
+    "h1": "Rocket System Damage +85%p"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36110012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,169 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2799333-03:00",
+  "ChangeType": "Changed",
+  "Id": "36121000",
+  "Name": "Blade Dancing",
+  "Job": "Xenon",
+  "Desc": "Let down the Energy Sword loose, swing it like dancing and cause damage to many enemies around.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 9 per attack. Attacks up to 8 enemies at 260% damage 1 times.",
+      "New": "MP Cost: 9 per attack. Attacks up to 8 enemies at 260% Damage 1 times."
+    },
+    "h1": {
+      "Old": "MP Cost: 9 per attack. Attacks up to 8 enemies at 260% damage 1 times.",
+      "New": "MP Cost: 9 per attack. Attacks up to 8 enemies at 260% Damage 1 times."
+    },
+    "keydown/time": {
+      "Old": "480",
+      "New": "720"
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "6+u(x/10)",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "135+3*x",
+      "New": null
+    },
+    "PVPcommon/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "PVPcommon/x": {
+      "Old": "100",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "rapidAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "knockbackLimit": {
+      "Old": "80",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "xenon/M/25",
+      "New": "xenon/M/25"
+    },
+    "voice/male/path/1": {
+      "Old": "xenon/M/26",
+      "New": "xenon/M/26"
+    },
+    "voice/male/path/2": {
+      "Old": "xenon/M/27",
+      "New": "xenon/M/27"
+    },
+    "voice/male/path/3": {
+      "Old": "xenon/M/28",
+      "New": "xenon/M/28"
+    },
+    "voice/female/path/0": {
+      "Old": "xenon/F/25",
+      "New": "xenon/F/25"
+    },
+    "voice/female/path/1": {
+      "Old": "xenon/F/26",
+      "New": "xenon/F/26"
+    },
+    "voice/female/path/2": {
+      "Old": "xenon/F/27",
+      "New": "xenon/F/27"
+    },
+    "voice/female/path/3": {
+      "Old": "xenon/F/28",
+      "New": "xenon/F/28"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "36141014"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 9 per attack. Attacks up to 8 enemies at 260% Damage 1 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36121000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/36121000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

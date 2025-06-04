@@ -1,0 +1,45 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.4563161-03:00",
+  "ChangeType": "Added",
+  "Id": "21140012",
+  "Name": "Final Attack VI",
+  "Job": "Aran",
+  "Desc": "Attack skills have a chance of inflicting additional damage. Must have a Polearm equipped.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Final Attack Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "53",
+    "req/21120012": "30",
+    "common/maxLevel": "30",
+    "common/damage": "197+4*x",
+    "common/prop": "61",
+    "common/attackCount": "3",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/1/randomHitAngle": "1",
+    "hit/1/randomHitOrigin": "30",
+    "hit/2/randomHitAngle": "1",
+    "hit/2/randomHitOrigin": "30",
+    "hit/randomHit": "1",
+    "skillType": "3",
+    "id": "21140012",
+    "has_req": true
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Successful attacks have a 61% chance of attacking at 317% Damage 3 more times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_21140012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/21140012_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

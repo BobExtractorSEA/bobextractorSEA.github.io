@@ -1,0 +1,56 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.3234192-03:00",
+  "ChangeType": "Changed",
+  "Id": "36120005",
+  "Name": "Instant Shirk",
+  "Job": "Xenon",
+  "Desc": "Enables you to evade additionally at a certain rate. Bonus Evade Rate is combined with Dual Breed Defensive when applied. Additionally increases Rocket System Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 2nd Enhancement Lv. 14 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "Enables you to evade additionally at a certain rate. Bonus Evade Rate is combined with Dual Breed Defensive when applied. Increases the power of the missiles that are fired from Aegis System.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Aegis System or higher</span>",
+      "New": "Enables you to evade additionally at a certain rate. Bonus Evade Rate is combined with Dual Breed Defensive when applied. Additionally increases Rocket System Damage.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Rocket System 2nd Enhancement Lv. 14 or higher</span>"
+    },
+    "H": {
+      "Old": "40% chance of additional evasion. Increases the damage of the missiles that are fired from Aegis System by 20%.",
+      "New": "A 40% chance of additional evasion and Rocket System Damage +49%"
+    },
+    "h1": {
+      "Old": "40% chance of additional evasion. Increases the damage of the missiles that are fired from Aegis System by 20%.",
+      "New": "A 40% chance of additional evasion and Rocket System Damage +49%"
+    },
+    "common/damR": {
+      "Old": "10+d(x/3)",
+      "New": "19+x"
+    },
+    "PVPcommon/prop": {
+      "Old": "5+u(x/2)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "req/36111004": {
+      "Old": "10",
+      "New": null
+    },
+    "req/36110012": {
+      "Old": null,
+      "New": "14"
+    }
+  },
+  "HFields": {
+    "h1": "A 40% chance of additional evasion and Rocket System Damage +49%"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36120005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

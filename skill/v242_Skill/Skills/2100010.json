@@ -1,0 +1,50 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.0238713-03:00",
+  "ChangeType": "Changed",
+  "Id": "2100010",
+  "Name": "Ignite",
+  "Job": "Arch Mage (F/P)",
+  "Desc": "Attacks enemies with fire magic with a constant probability of <span style=\"font-weight:bold; color:orange;\"> forming a fire wall at the spot of the hit</span>, causing enemies to be burnt. <br /><br />Ignite is not affected by enemies that are in reflective state. <br />An <span style=\"font-weight:bold; color:orange;\"> ONFF Skill</span> which gives the effects of increased vitality when in use and loses vitality during cooldown period",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "PVPcommon/maxLevel": {
+      "Old": "10",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "60+5*x",
+      "New": null
+    },
+    "PVPcommon/subTime": {
+      "Old": "1500",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "4+d(x/4)",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "10+4*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "8",
+      "New": null
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2100010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

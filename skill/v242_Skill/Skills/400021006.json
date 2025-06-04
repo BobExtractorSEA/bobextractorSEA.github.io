@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2357742-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021006",
+  "Name": "Union Aura",
+  "Job": "5th (Magician)",
+  "Desc": "Unites all Auras using the power of the Grim Reaper. While Union Aura is active, other aura skills can't be used. If another Battle Mage's Union Aura is in effect, all auras except debuff auras and Union Aura can't be used. When Union Aura ends, it automatically reactivates the Aura skill that was in effect before it was used.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "battlemage/M/51",
+      "New": "battlemage/M/51"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/52",
+      "New": "battlemage/M/52"
+    },
+    "voice/male/path/2": {
+      "Old": "battlemage/M/53",
+      "New": "battlemage/M/53"
+    },
+    "voice/male/path/3": {
+      "Old": "battlemage/M/72",
+      "New": "battlemage/M/72"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/41",
+      "New": "battlemage/F/41"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/42",
+      "New": "battlemage/F/42"
+    },
+    "voice/female/path/2": {
+      "Old": "battlemage/F/43",
+      "New": "battlemage/F/43"
+    },
+    "voice/female/path/3": {
+      "Old": "battlemage/F/68",
+      "New": "battlemage/F/68"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

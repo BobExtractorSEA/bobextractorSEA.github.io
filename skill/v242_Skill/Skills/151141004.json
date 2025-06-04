@@ -1,0 +1,99 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:06.395898-03:00",
+  "ChangeType": "Changed",
+  "Id": "151141004",
+  "Name": "Order VI",
+  "Job": "Adele",
+  "Desc": "Orders Ether Swords created with Creation to chase down an enemy. Can only be used when <span style=\"font-weight:bold; color:orange;\">there is an Ether Sword created with Creation</span>.<br />Ether Swords only move near Adele, and follow Adele when moving out of range to track down new enemies.<br />Ether Swords don't affect enemies in the Damage Reflection status and only track down enemies when Adele is in combat.<br />Ether can be obtained based on the remaining duration if an Ether Sword disappears while tracking.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Order Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 52. Ether Cost: 100.<br />Each Ether Sword exists for 60 sec. and attacks at 800% damage 2 times.<br />Up to 6 swords can be ordered at once. When giving order beyond the maximum count removes the next Ether Sword to expire.<br />15% chance to create an Ether Crystal when attack hits.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 500 sec.</span>",
+      "New": "MP Cost: 52. Ether Cost: 100.<br />Each Ether Sword exists for 60 sec., attacking at 800% Damage 2 times.<br />Up to 6 swords can be ordered at once. When giving order beyond the maximum count removes the next Ether Sword to expire.<br />Successful attacks create a 15% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 52. Ether Cost: 100.<br />Each Ether Sword exists for 60 sec. and attacks at 800% damage 2 times.<br />Up to 6 swords can be ordered at once. When giving order beyond the maximum count removes the next Ether Sword to expire.<br />15% chance to create an Ether Crystal when attack hits.<br /><span style=\"font-weight:bold; color:orange;\">Cooldown: 500 sec.</span>",
+      "New": "MP Cost: 52. Ether Cost: 100.<br />Each Ether Sword exists for 60 sec., attacking at 800% Damage 2 times.<br />Up to 6 swords can be ordered at once. When giving order beyond the maximum count removes the next Ether Sword to expire.<br />Successful attacks create a 15% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "adele/M/21",
+      "New": "adele/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "adele/M/22",
+      "New": "adele/M/22"
+    },
+    "voice/male/path/2": {
+      "Old": "adele/M/23",
+      "New": "adele/M/23"
+    },
+    "voice/female/path/0": {
+      "Old": "adele/F/14",
+      "New": "adele/F/14"
+    },
+    "voice/female/path/1": {
+      "Old": "adele/F/15",
+      "New": "adele/F/15"
+    },
+    "voice/female/path/2": {
+      "Old": "adele/F/16",
+      "New": "adele/F/16"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 52. Ether Cost: 100.<br />Each Ether Sword exists for 60 sec., attacking at 800% Damage 2 times.<br />Up to 6 swords can be ordered at once. When giving order beyond the maximum count removes the next Ether Sword to expire.<br />Successful attacks create a 15% chance of creating an Ether Crystal.<br />Cooldown: 500 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_151141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/151141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

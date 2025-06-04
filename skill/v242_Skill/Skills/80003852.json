@@ -1,0 +1,25 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:22.2204584-03:00",
+  "ChangeType": "Added",
+  "Id": "80003852",
+  "Name": null,
+  "Job": "Etc",
+  "Desc": null,
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/maxLevel": "1",
+    "invisible": "1",
+    "id": "80003852"
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003852_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

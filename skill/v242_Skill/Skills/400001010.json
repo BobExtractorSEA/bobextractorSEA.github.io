@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6377094-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001010",
+  "Name": "Blitz Shield",
+  "Job": "5th",
+  "Desc": "Creates a shield by materializing its own life force. A materialized life force can be detonated to attack nearby enemies.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001010_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

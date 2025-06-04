@@ -1,0 +1,159 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.0011635-03:00",
+  "ChangeType": "Changed",
+  "Id": "61121054",
+  "Name": "Kaiser's Majesty",
+  "Job": "Kaiser",
+  "Desc": "Grants you the courage and will of the former Kaiser, resetting your Cooldown, increasing Attack Speed and ATT, and allowing you to damage enemies in the Ignore attacks or Damage Reflection states.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kaiser/M/0",
+      "New": "kaiser/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "kaiser/M/31",
+      "New": "kaiser/M/31"
+    },
+    "voice/male/path/2": {
+      "Old": "kaiser/M/32",
+      "New": "kaiser/M/32"
+    },
+    "voice/male/path/3": {
+      "Old": "kaiser/M/38",
+      "New": "kaiser/M/38"
+    },
+    "voice/male/path/4": {
+      "Old": "kaiser/M/46",
+      "New": "kaiser/M/46"
+    },
+    "voice/female/path/0": {
+      "Old": "kaiser/F/0",
+      "New": "kaiser/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "kaiser/F/30",
+      "New": "kaiser/F/30"
+    },
+    "voice/female/path/2": {
+      "Old": "kaiser/F/42",
+      "New": "kaiser/F/42"
+    },
+    "voice/female/path/3": {
+      "Old": "kaiser/F/109",
+      "New": "kaiser/F/109"
+    },
+    "voice/female/path/4": {
+      "Old": "kaiser/F/6",
+      "New": "kaiser/F/6"
+    },
+    "voice/female/path/5": {
+      "Old": "kaiser/F/37",
+      "New": "kaiser/F/37"
+    },
+    "voice/female/path/6": {
+      "Old": "kaiser/F/41",
+      "New": "kaiser/F/41"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_61121054_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F6": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F6.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/61121054_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

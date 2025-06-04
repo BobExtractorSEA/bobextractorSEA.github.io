@@ -1,0 +1,32 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:15.8111304-03:00",
+  "ChangeType": "Changed",
+  "Id": "80001558",
+  "Name": "Guvnor Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Where to, Guvnor!? The Guvnor Mount skill allows <span style=\"font-weight:bold; color:orange;\">to travel very fast</span>. ",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    },
+    "h1": {
+      "Old": "DEF: +10, MSPD: 170, Auto Pilot MSPD: Very Fast, Jump: 120",
+      "New": "DEF +10, MSPD 170, Jump 120"
+    }
+  },
+  "HFields": {
+    "h1": "DEF +10, MSPD 170, Jump 120"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_80001558_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

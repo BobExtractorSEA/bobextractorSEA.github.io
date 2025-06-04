@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.5447521-03:00",
+  "ChangeType": "Changed",
+  "Id": "22201005",
+  "Name": "Swift of Wind VI",
+  "Job": "Evan",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and shoots sharp wind blades by agitating air currents. Swift of Wind does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /> This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Wind</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Wind Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and shoots sharp wind blades by agitating air currents. Swift of Wind improves in proportion to Dragon Swift's level and does not affect enemies in the Damage Reflection status.<br />This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Wind</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Wind Lv. 20 or higher</span>",
+      "New": "<span style=\"font-weight:bold; color:orange;\">[Fusion Skill]</span> Mir, while using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>, responds to Evan's magic and shoots sharp wind blades by agitating air currents. Swift of Wind does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br /> This skill is activated when Evan casts <span style=\"font-weight:bold; color:orange;\">Circle of Wind</span> while Mir is using <span style=\"font-weight:bold; color:orange;\">Dragon Swift</span>.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Swift of Wind Lv. 20 or higher</span>"
+    },
+    "voice/male/path/0": {
+      "Old": "evan/M/13",
+      "New": "evan/M/13"
+    },
+    "voice/male/path/1": {
+      "Old": "evan/M/14",
+      "New": "evan/M/14"
+    },
+    "voice/female/path/0": {
+      "Old": "evan/F/13",
+      "New": "evan/F/13"
+    },
+    "voice/female/path/1": {
+      "Old": "evan/F/14",
+      "New": "evan/F/14"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_22201005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201005_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201005_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/22201005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

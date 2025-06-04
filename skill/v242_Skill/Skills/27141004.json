@@ -1,0 +1,105 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9764319-03:00",
+  "ChangeType": "Added",
+  "Id": "27141004",
+  "Name": "Apocalypse VI",
+  "Job": "Luminous",
+  "Desc": "[Dark Magic]<br />Cuts open the darkness and summons a hellish fire from the opening to attack enemies.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Apocalypse Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -475,
+      "y": -255
+    },
+    "rb": {
+      "x": 25,
+      "y": 80
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/27121202": "30",
+    "action/0": "6thApocalypse",
+    "common/maxLevel": "30",
+    "common/mpCon": "103+d(x/2)",
+    "common/damage": "408+12*x",
+    "common/attackCount": "7",
+    "common/mobCount": "8",
+    "common/lt/x": -475,
+    "common/lt/y": -255,
+    "common/rb/x": 25,
+    "common/rb/y": 80,
+    "common/gauge": "410",
+    "effect/z": "4",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "21",
+    "subWeapon": "35",
+    "skillList/0": "400021000",
+    "id": "27141004",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "0",
+    "voice/male/count": 2,
+    "voice/female/count": 2,
+    "voice/male/path/0": "{ Old = , New = luminous/M/16 }",
+    "voice/male/path/1": "{ Old = , New = luminous/M/15 }",
+    "voice/female/path/0": "{ Old = , New = luminous/F/18 }",
+    "voice/female/path/1": "{ Old = , New = luminous/F/17 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 118. Attack up to 8 enemies at 768% Damage 7 times."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_27141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/27141004_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/27141004_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/27141004_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/27141004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

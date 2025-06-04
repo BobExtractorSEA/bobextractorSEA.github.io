@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.2633873-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021140",
+  "Name": "Incarnate's Anger",
+  "Job": "5th (Magician)",
+  "Desc": "Gathers fire to unleash the Flame Incarnate. Can only be used when Fires of Creation is summoned, and a different attack is activated based on the type of incarnate summoned. Use with the Down key to activate an attack suitable for an Incarnate that is not currently summoned. <br />Consumes all flames when used, and the attack is enhanced based on the number of flames consumed. A Fire Element attack.<br />Does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021140_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

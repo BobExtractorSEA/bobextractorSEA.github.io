@@ -1,0 +1,40 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9080333-03:00",
+  "ChangeType": "Changed",
+  "Id": "24120002",
+  "Name": "Carte Noire",
+  "Job": "Phantom",
+  "Desc": "When attack of a Phantom achieves critical attack, excluding attacks by minions or installation skills, each critical attack has a chance to produce a card that attacks nearby enemies automatically. <span style=\"font-weight:bold; color:orange;\">This card is added to your Deck.</span><br />A reversal card is prepared periodically and performs an additional attack on the surrounding enemies that haven't been hit by your direct attack or Impeccable Memory. The reversal card does not increase the Deck and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also, permanently increases Evade.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "When attack of a Phantom achieves critical attack, excluding attacks by minions or installation skills, each critical attack has a chance to produce a card that attacks nearby enemies automatically. <span style=\"font-weight:bold; color:orange;\">This card is added to your Deck.</span><br />A reversal card is prepared periodically and performs an additional attack on the surrounding enemies that haven't been hit by your direct attack or Impeccable Memory. The reversal card does not increase the Deck and does not affect enemies in the Damage Reflection status.<br />It also permanently increases Evade chance.",
+      "New": "When attack of a Phantom achieves critical attack, excluding attacks by minions or installation skills, each critical attack has a chance to produce a card that attacks nearby enemies automatically. <span style=\"font-weight:bold; color:orange;\">This card is added to your Deck.</span><br />A reversal card is prepared periodically and performs an additional attack on the surrounding enemies that haven't been hit by your direct attack or Impeccable Memory. The reversal card does not increase the Deck and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also, permanently increases Evade."
+    },
+    "H": {
+      "Old": "Upon a successful critical attack, card appears at 100% chance, Damage: 270%, <span style=\"font-weight:bold; color:orange;\">Deck +1</span><br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Attacks up to 4 enemies at 900% Damage, Cooldown 5 sec.<br />Bonus Evade +20%<br />Card's Normal Monsters Damage +150%.",
+      "New": "Successful Critical attacks create a 100% chance of creating a card that attacks at 270% Damage. <span style=\"font-weight:bold; color:orange;\">Deck +1</span>.<br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Creates up to 4 reversal cards that attack at 900% Damage. Cooldown: 5 sec.<br />Cards' Normal Monster Damage +150%.<br />[Passive Effects: Evade +20%]"
+    },
+    "h1": {
+      "Old": "Upon a successful critical attack, card appears at 100% chance, Damage: 270%, <span style=\"font-weight:bold; color:orange;\">Deck +1</span><br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Attacks up to 4 enemies at 900% Damage, Cooldown 5 sec.<br />Bonus Evade +20%<br />Card's Normal Monsters Damage +150%.",
+      "New": "Successful Critical attacks create a 100% chance of creating a card that attacks at 270% Damage. <span style=\"font-weight:bold; color:orange;\">Deck +1</span>.<br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Creates up to 4 reversal cards that attack at 900% Damage. Cooldown: 5 sec.<br />Cards' Normal Monster Damage +150%.<br />[Passive Effects: Evade +20%]"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "24140004"
+    }
+  },
+  "HFields": {
+    "h1": "Successful Critical attacks create a 100% chance of creating a card that attacks at 270% Damage. <span style=\"font-weight:bold; color:orange;\">Deck +1</span>.<br /><span style=\"font-weight:bold; color:orange;\">Reversal Card</span>: Creates up to 4 reversal cards that attack at 900% Damage. Cooldown: 5 sec.<br />Cards' Normal Monster Damage +150%.<br />[Passive Effects: Evade +20%]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_24120002_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

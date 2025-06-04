@@ -1,0 +1,116 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.4794723-03:00",
+  "ChangeType": "Added",
+  "Id": "101141024",
+  "Name": "Spin Cutter VI",
+  "Job": "Zero",
+  "Desc": "Quickly spins and attacks nearby enemies, and generates spirit swords that penetrate sideways for additional damage. The spirit swords do not cause you to take damage even when attacking enemies in the Damage Reflection Status. <br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Spin Cutter Lv. 20 or higher</span><br />[Command]: Flash Assault followed by <span style=\"font-weight:bold; color:orange;\">Flash Assault</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -280,
+      "y": -190
+    },
+    "rb": {
+      "x": 280,
+      "y": 70
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/101100201": "20",
+    "action/0": "6thSpinCutter",
+    "common/maxLevel": "30",
+    "common/forceCon": "11",
+    "common/damage": "285+5*x",
+    "common/mobCount": "8",
+    "common/attackCount": "10",
+    "common/lt/x": -280,
+    "common/lt/y": -190,
+    "common/rb/x": 280,
+    "common/rb/y": 70,
+    "common/y": "143+3*x",
+    "common/x": "8",
+    "common/z": "4",
+    "common/u": "102+x",
+    "addAttack/skill": "101141025",
+    "addAttack/type": "2",
+    "addAttack/isAuto": "1",
+    "addAttack/skipActionFrame": "4",
+    "addAttack/isTryResetAfter": "1",
+    "assistSkillLink/skill": "101100100",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "weapon": "57",
+    "skillList/0": "400011000",
+    "id": "101141024",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "60",
+    "voice/male/count": 5,
+    "voice/female/count": 0,
+    "voice/male/path/0": "{ Old = , New = zero/M/44 }",
+    "voice/male/path/1": "{ Old = , New = zero/M/45 }",
+    "voice/male/path/2": "{ Old = , New = zero/M/10 }",
+    "voice/male/path/3": "{ Old = , New = zero/M/18 }",
+    "voice/male/path/4": "{ Old = , New = zero/M/16 }"
+  },
+  "HFields": {
+    "h1": "Time Force Cost: 11. Attacks up to 8 enemies at 435% Damage 10 times.<br /><span style=\"font-weight:bold; color:orange;\">[Spirit Swords]</span>: Attacks up to 8 enemies at 233% damage 4 times. Normal Monster damage +132%p."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101141024_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/101141024_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/101141024_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141024_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141024_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141024_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141024_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101141024_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

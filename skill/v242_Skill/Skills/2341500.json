@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.8729407-03:00",
+  "ChangeType": "Changed",
+  "Id": "2341500",
+  "Name": "Holy Advent",
+  "Job": "Bishop",
+  "Desc": "Unlocks all of your divine power for the advent of a higher power. Since the descended Archangels are too great, they manifest in the form of stone statues for a certain period of time<br />You can re-input the skill key with the down arrow key to summon the Archangels to your current location<br />If the Archangels hit an enemy using Damage Reflect, you will not take damage.<br /><br /><span style=\"font-weight:bold; color:orange;\">Lv. 10: Ignore Monster DEF +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 20: Damage on Boss monsters +20%</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 30: Ignore Monster DEF +30%, Damage on Boss monsters +30%</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "bishop/M/0",
+      "New": "bishop/M/0"
+    },
+    "voice/male/path/1": {
+      "Old": "bishop/M/1",
+      "New": "bishop/M/1"
+    },
+    "voice/male/path/2": {
+      "Old": "bishop/M/2",
+      "New": "bishop/M/2"
+    },
+    "voice/male/path/3": {
+      "Old": "bishop/M/3",
+      "New": "bishop/M/3"
+    },
+    "voice/male/path/4": {
+      "Old": "bishop/M/4",
+      "New": "bishop/M/4"
+    },
+    "voice/female/path/0": {
+      "Old": "bishop/F/0",
+      "New": "bishop/F/0"
+    },
+    "voice/female/path/1": {
+      "Old": "bishop/F/1",
+      "New": "bishop/F/1"
+    },
+    "voice/female/path/2": {
+      "Old": "bishop/F/2",
+      "New": "bishop/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "bishop/F/3",
+      "New": "bishop/F/3"
+    },
+    "voice/female/path/4": {
+      "Old": "bishop/F/4",
+      "New": "bishop/F/4"
+    },
+    "resetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_2341500_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/2341500_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.7103246-03:00",
+  "ChangeType": "Changed",
+  "Id": "400041041",
+  "Name": "Chain Arts: Maelstrom",
+  "Job": "5th (Thief)",
+  "Desc": "Rotates a chain at uncanny speeds, generating a vortex of chains. Only 1 vortex can exist and does not affect enemies in the Damage Reflection state.<br />Can be only used after Chain Arts: Stroke 2nd combo and following up with entering the [Down]+[Attack] keys.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Chain Arts: Stroke Final Enhancement or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "hit/randomHit": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "cadena/M/26",
+      "New": "cadena/M/26"
+    },
+    "voice/male/path/1": {
+      "Old": "cadena/M/27",
+      "New": "cadena/M/27"
+    },
+    "voice/male/path/2": {
+      "Old": "cadena/M/28",
+      "New": "cadena/M/28"
+    },
+    "voice/male/path/3": {
+      "Old": "cadena/M/21",
+      "New": "cadena/M/21"
+    },
+    "voice/female/path/0": {
+      "Old": "cadena/F/27",
+      "New": "cadena/F/27"
+    },
+    "voice/female/path/1": {
+      "Old": "cadena/F/28",
+      "New": "cadena/F/28"
+    },
+    "voice/female/path/2": {
+      "Old": "cadena/F/29",
+      "New": "cadena/F/29"
+    },
+    "voice/female/path/3": {
+      "Old": "cadena/F/21",
+      "New": "cadena/F/21"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400041041_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400041041_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

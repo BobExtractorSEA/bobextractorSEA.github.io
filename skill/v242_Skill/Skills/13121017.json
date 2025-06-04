@@ -1,0 +1,145 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:05.5816709-03:00",
+  "ChangeType": "Changed",
+  "Id": "13121017",
+  "Name": "Storm Bringer",
+  "Job": "Wind Archer",
+  "Desc": "Calls the power of storm to obtain the power to punish the enemies.Caster does not take damage from attacking enemies’ with Damage Reflect.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "windBreaker/M/111",
+      "New": "windBreaker/M/111"
+    },
+    "voice/male/path/1": {
+      "Old": "windBreaker/M/112",
+      "New": "windBreaker/M/112"
+    },
+    "voice/male/path/2": {
+      "Old": "windBreaker/M/113",
+      "New": "windBreaker/M/113"
+    },
+    "voice/male/path/3": {
+      "Old": "windBreaker/M/114",
+      "New": "windBreaker/M/114"
+    },
+    "voice/male/path/4": {
+      "Old": "windBreaker/M/115",
+      "New": "windBreaker/M/115"
+    },
+    "voice/female/path/0": {
+      "Old": "windBreaker/F/119",
+      "New": "windBreaker/F/119"
+    },
+    "voice/female/path/1": {
+      "Old": "windBreaker/F/120",
+      "New": "windBreaker/F/120"
+    },
+    "voice/female/path/2": {
+      "Old": "windBreaker/F/121",
+      "New": "windBreaker/F/121"
+    },
+    "voice/female/path/3": {
+      "Old": "windBreaker/F/122",
+      "New": "windBreaker/F/122"
+    },
+    "voice/female/path/4": {
+      "Old": "windBreaker/F/123",
+      "New": "windBreaker/F/123"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "13141003"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_13121017_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13121017_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

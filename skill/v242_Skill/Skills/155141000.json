@@ -1,0 +1,123 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.1086012-03:00",
+  "ChangeType": "Changed",
+  "Id": "155141000",
+  "Name": "Plain Charge Drive VI",
+  "Job": "Ark",
+  "Desc": "Uses your magically enhanced body to attack enemies. If you hit an enemy, charge a Plain Spell.<br />This skill can be linked to all other skills. Skills linked that cause movement will not move you and will only be used at your current location. However, you can use the skill with the arrow keys to use it in a certain direction.<br />This skill can only be used in Lef mode.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Plain charge drive Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "ark/M/21",
+      "New": "ark/M/21"
+    },
+    "voice/male/path/1": {
+      "Old": "ark/M/28",
+      "New": "ark/M/28"
+    },
+    "voice/male/path/2": {
+      "Old": "ark/M/30",
+      "New": "ark/M/30"
+    },
+    "voice/male/path/3": {
+      "Old": "ark/M/34",
+      "New": "ark/M/34"
+    },
+    "voice/female/path/0": {
+      "Old": "ark/F/20",
+      "New": "ark/F/20"
+    },
+    "voice/female/path/1": {
+      "Old": "ark/F/31",
+      "New": "ark/F/31"
+    },
+    "voice/female/path/2": {
+      "Old": "ark/F/33",
+      "New": "ark/F/33"
+    },
+    "voice/female/path/3": {
+      "Old": "ark/F/30",
+      "New": "ark/F/30"
+    },
+    "cancelableSkillID/21": {
+      "Old": null,
+      "New": "155141029"
+    },
+    "cancelableSkillID/22": {
+      "Old": null,
+      "New": "155141031"
+    },
+    "cancelableSkillID/23": {
+      "Old": null,
+      "New": "155141035"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_155141000_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/155141000_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

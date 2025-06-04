@@ -1,0 +1,59 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.162456-03:00",
+  "ChangeType": "Added",
+  "Id": "3141005",
+  "Name": "Quiver Cartridge VI",
+  "Job": "Bowmaster",
+  "Desc": "Uses special Arrow Head. <span style=\"font-weight:bold; color:orange;\">Reuse the skill</span> to change your arrowheads.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Quiver Lv. 10 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "req/3120022": "10",
+    "common/maxLevel": "30",
+    "common/u": "60",
+    "common/w": "60",
+    "common/t": "1.8",
+    "common/s": "292+5*x",
+    "excl": "500",
+    "isBeneficial": "1",
+    "id": "3141005",
+    "has_req": true,
+    "voice/prop": "50",
+    "voice/male/count": 1,
+    "voice/female/count": 1,
+    "voice/male/path/0": "{ Old = , New = bowMaster/M/3 }",
+    "voice/female/path/0": "{ Old = , New = bowMaster/F/3 }"
+  },
+  "HFields": {
+    "h1": "<span style=\"font-weight:bold; color:orange;\">Magic Arrow</span>: A 60% chance of firing a magic arrow that attacks enemies at 442% Damage.<br /><span style=\"font-weight:bold; color:orange;\">Vampiric Arrow</span>: A 60% chance of using a vampiric arrowhead that restores 1.8% of Max HP."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3141005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "mode": {
+      "Old": null,
+      "New": "Animations/New/3141005_mode_new.webp"
+    }
+  },
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141005_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3141005_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

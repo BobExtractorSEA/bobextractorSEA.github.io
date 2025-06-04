@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.374466-03:00",
+  "ChangeType": "Changed",
+  "Id": "400021105",
+  "Name": "Liberation Orb",
+  "Job": "5th (Magician)",
+  "Desc": "Creates an orb with the power of light and darkness. When the <span style=\"font-weight:bold; color:orange;\">Light and Dark</span> skill hits, an attack activates from the orb, and the corresponding Elemental Mana will be stacked into the orb. Once 1 or more Mana is charged, the orb can be released to attack. The attack prioritizes enemies with the highest Max HP, and the damage increases if Light and Dark Mana counts are equal, or when more Mana gets charged.<br />Light and Dark attacks are activated during Equilibrium. All attacks from the orb do not receive the effects of Sunfire, Eclipse, and Equilibrium and do not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "luminous/M/73",
+      "New": "luminous/M/73"
+    },
+    "voice/male/path/1": {
+      "Old": "luminous/M/74",
+      "New": "luminous/M/74"
+    },
+    "voice/male/path/2": {
+      "Old": "luminous/M/86",
+      "New": "luminous/M/86"
+    },
+    "voice/female/path/0": {
+      "Old": "luminous/F/71",
+      "New": "luminous/F/71"
+    },
+    "voice/female/path/1": {
+      "Old": "luminous/F/72",
+      "New": "luminous/F/72"
+    },
+    "voice/female/path/2": {
+      "Old": "luminous/F/80",
+      "New": "luminous/F/80"
+    },
+    "skillList2/6": {
+      "Old": null,
+      "New": "27121113"
+    },
+    "skillList2/7": {
+      "Old": null,
+      "New": "27141007"
+    },
+    "skillList3/6": {
+      "Old": null,
+      "New": "27141004"
+    },
+    "skillList3/7": {
+      "Old": null,
+      "New": "27121214"
+    },
+    "skillList3/8": {
+      "Old": null,
+      "New": "27141008"
+    },
+    "skillList4/17": {
+      "Old": null,
+      "New": "27121113"
+    },
+    "skillList4/18": {
+      "Old": null,
+      "New": "27121214"
+    },
+    "skillList4/19": {
+      "Old": null,
+      "New": "27121315"
+    },
+    "skillList4/20": {
+      "Old": null,
+      "New": "27141007"
+    },
+    "skillList4/21": {
+      "Old": null,
+      "New": "27141008"
+    },
+    "skillList4/22": {
+      "Old": null,
+      "New": "27141009"
+    },
+    "skillList4/23": {
+      "Old": null,
+      "New": "27141004"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400021105_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400021105_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:04.7093364-03:00",
+  "ChangeType": "Changed",
+  "Id": "101000101",
+  "Name": "Air Riot",
+  "Job": "Zero",
+  "Desc": "An advanced Air Raid version. Inflicts greater damage than Air Raid and generates shock waves with the spirit swords, attacking wider areas. The shock waves do not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 10 Air Raid</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Time Force Cost: 5. Attacks up to 6 enemies at 330% damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">Shock Wave</span>: Attacks up to 6 enemies at 330% damage 9 times, with 100% chance of stunning for 3 sec.",
+      "New": "Consumes 5 Time Force to attack up to 6 enemies at 330% Damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">[Shock Wave]</span>: Attacks up to 6 enemies at 330% Damage 9 times, with a 100% chance of Stunning them for 3 sec."
+    },
+    "h1": {
+      "Old": "Time Force Cost: 5. Attacks up to 6 enemies at 330% damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">Shock Wave</span>: Attacks up to 6 enemies at 330% damage 9 times, with 100% chance of stunning for 3 sec.",
+      "New": "Consumes 5 Time Force to attack up to 6 enemies at 330% Damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">[Shock Wave]</span>: Attacks up to 6 enemies at 330% Damage 9 times, with a 100% chance of Stunning them for 3 sec."
+    },
+    "addAttack/skill": {
+      "Old": "101000104",
+      "New": null
+    },
+    "addAttack/skipActionFrame": {
+      "Old": "4",
+      "New": null
+    },
+    "addAttack/type": {
+      "Old": "1",
+      "New": null
+    },
+    "addAttack/isAuto": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/female/path/0": {
+      "Old": "zero/F/38",
+      "New": "zero/F/38"
+    },
+    "voice/female/path/1": {
+      "Old": "zero/F/39",
+      "New": "zero/F/39"
+    },
+    "voice/female/path/2": {
+      "Old": "zero/F/2",
+      "New": "zero/F/2"
+    },
+    "voice/female/path/3": {
+      "Old": "zero/F/4",
+      "New": "zero/F/4"
+    },
+    "voice/female/path/4": {
+      "Old": "zero/F/12",
+      "New": "zero/F/12"
+    },
+    "voice/female/path/5": {
+      "Old": "zero/F/17",
+      "New": "zero/F/17"
+    }
+  },
+  "HFields": {
+    "h1": "Consumes 5 Time Force to attack up to 6 enemies at 330% Damage 9 times, with a <br /><span style=\"font-weight:bold; color:orange;\">[Shock Wave]</span>: Attacks up to 6 enemies at 330% Damage 9 times, with a 100% chance of Stunning them for 3 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_101000101_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/101000101_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

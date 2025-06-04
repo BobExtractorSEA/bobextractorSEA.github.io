@@ -1,0 +1,93 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.8904475-03:00",
+  "ChangeType": "Changed",
+  "Id": "400051007",
+  "Name": "Lightning in Unity",
+  "Job": "5th (Pirate)",
+  "Desc": "Unites with Lightning and wipes out enemies. This skill does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "striker/M/71",
+      "New": "striker/M/71"
+    },
+    "voice/male/path/1": {
+      "Old": "striker/M/72",
+      "New": "striker/M/72"
+    },
+    "voice/male/path/2": {
+      "Old": "striker/M/73",
+      "New": "striker/M/73"
+    },
+    "voice/female/path/0": {
+      "Old": "striker/F/92",
+      "New": "striker/F/92"
+    },
+    "voice/female/path/1": {
+      "Old": "striker/F/93",
+      "New": "striker/F/93"
+    },
+    "voice/female/path/2": {
+      "Old": "striker/F/94",
+      "New": "striker/F/94"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400051007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400051007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

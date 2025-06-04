@@ -1,0 +1,158 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:20.4827729-03:00",
+  "ChangeType": "Added",
+  "Id": "3341008",
+  "Name": "Cardinal Transition VI",
+  "Job": "Pathfinder",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Cardinal Force]</span><br />An archery skill used on the move. By activating the Swift Wind stored in the weapon, you quickly move to the target location and swing the weapon at the arrival point to attack surrounding enemies.<br />You can move the character forward or upward by using the directional keys during skill cast. If you do not specify a direction, you will swing the weapon in place.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Advanced Cardinal Force Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -400,
+      "y": -400
+    },
+    "rb": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "avaliableInJumpingState": "1",
+    "req/3320002": "20",
+    "action/0": "6thCardinalTransition",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+u(x/5)",
+    "common/lt/x": -400,
+    "common/lt/y": -400,
+    "common/rb/x": 0,
+    "common/rb/y": 0,
+    "common/x": "7000",
+    "common/y": "5",
+    "common/cancelableTime": "60",
+    "common/u": "7",
+    "common/v": "599+11*x",
+    "common/w": "5",
+    "common/s2": "7",
+    "rush/elem/0/style": "0",
+    "rush/elem/0/time": "30",
+    "rush/elem/0/vx": "0",
+    "rush/elem/0/vy": "0",
+    "rush/elem/0/ax": "0",
+    "rush/elem/0/distance/gap": "1",
+    "rush/elem/0/distance/applyX": "1",
+    "rush/elem/0/distance/applyY": "1",
+    "rush/elem/0/userLeft": "0",
+    "rush/elem/1/style": "2",
+    "rush/elem/1/time": "180",
+    "rush/elem/1/vx": "0",
+    "rush/elem/1/vy": "0",
+    "rush/elem/1/ax": "0",
+    "rush/ignoreFoothold": "0",
+    "rush/action": "0",
+    "cancelableSkillID/0": "3311010",
+    "additional_process/0": "9",
+    "additional_process/1": "25",
+    "processtype": "-1",
+    "isBeneficial": "1",
+    "weapon": "59",
+    "subWeapon": "35",
+    "showStackCooltimeNum": "1",
+    "id": "3341008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "40",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = pathfinder/M/6 }",
+    "voice/male/path/1": "{ Old = , New = pathfinder/M/7 }",
+    "voice/male/path/2": "{ Old = , New = pathfinder/M/38 }",
+    "voice/male/path/3": "{ Old = , New = pathfinder/M/40 }",
+    "voice/female/path/0": "{ Old = , New = pathfinder/F/6 }",
+    "voice/female/path/1": "{ Old = , New = pathfinder/F/7 }",
+    "voice/female/path/2": "{ Old = , New = pathfinder/F/38 }",
+    "voice/female/path/3": "{ Old = , New = pathfinder/F/41 }"
+  },
+  "HFields": {
+    "h1": "Cost: 36 MP and 1 Swift Wind. Attacks up to 7 enemies around the arrival point at 929% Damage 5 times.<br />1 Swift Wind is recharged every 7 sec., and up to 5 can be stored.<br />You become immune to all Knockback attacks while casting the skill and enemies damaged by your attacks are inflicted with 1 stack of the Ancient Curse debuff."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_3341008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/3341008_effect_new.webp"
+    },
+    "effect1": {
+      "Old": null,
+      "New": "Animations/New/3341008_effect1_new.webp"
+    },
+    "special": {
+      "Old": null,
+      "New": "Animations/New/3341008_special_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/3341008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

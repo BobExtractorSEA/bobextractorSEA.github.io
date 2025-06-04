@@ -1,0 +1,143 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9050125-03:00",
+  "ChangeType": "Added",
+  "Id": "25141008",
+  "Name": "Nightfall Spirit Fist",
+  "Job": "Shade",
+  "Desc": "Releases spirit energy, delivering three consecutive punches. ",
+  "Coordinates": {
+    "lt": {
+      "x": -550,
+      "y": -260
+    },
+    "rb": {
+      "x": 100,
+      "y": 100
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "action/0": "6thSpiritPunch0",
+    "common/maxLevel": "30",
+    "common/mpCon": "60+x",
+    "common/mobCount": "12",
+    "common/damage": "1485+31*x",
+    "common/attackCount": "10",
+    "common/cooltime": "20",
+    "common/subTime": "10000",
+    "common/u": "12",
+    "common/u2": "1485+31*x",
+    "common/u3": "10",
+    "common/w": "15",
+    "common/w2": "365+8*x",
+    "common/w3": "11",
+    "common/w4": "8",
+    "common/lt/x": -550,
+    "common/lt/y": -260,
+    "common/rb/x": 100,
+    "common/rb/y": 100,
+    "addAttack/skill": "25141009",
+    "addAttack/type": "0",
+    "addAttack/reqCount": "1",
+    "addAttack/pattern": "153",
+    "addAttack/patternType": "1",
+    "addAttack/skipActionFrame": "4",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "waveEffectInfo/additional/0/pos/x": -400,
+    "waveEffectInfo/additional/0/pos/y": -50,
+    "waveEffectInfo/additional/0/strength": "7",
+    "waveEffectInfo/additional/0/delay": "180",
+    "waveEffectInfo/additional/0/duration": "180",
+    "waveEffectInfo/additional/0/distance": "240",
+    "waveEffectInfo/additional/0/easing": "5",
+    "waveEffectInfo/additional/0/relpos": "0",
+    "trembleEffect/delay": "90",
+    "trembleEffect/force": "6",
+    "trembleEffect/time": "480",
+    "trembleEffect/reduction": "1",
+    "trembleEffect/remote": "0",
+    "additional_process/0": "22",
+    "weapon": "48",
+    "subWeapon": "35",
+    "processtype": "1",
+    "notCooltimeReset": "1",
+    "id": "25141008",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_weapon": true,
+    "voice/prop": "30",
+    "voice/male/count": 3,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = eunwol/M/84 }",
+    "voice/male/path/1": "{ Old = , New = eunwol/M/85 }",
+    "voice/male/path/2": "{ Old = , New = eunwol/M/86 }",
+    "voice/female/path/0": "{ Old = , New = eunwol/F/83 }",
+    "voice/female/path/1": "{ Old = , New = eunwol/F/84 }",
+    "voice/female/path/2": "{ Old = , New = eunwol/F/90 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 90 per hit. Hit the skill key repeatedly to attack up to 3 times.<br /><span style=\"font-weight:bold; color:orange;\">1st Attack</span>: Attacks up to 12 enemies at 2415% Damage 10 times.<br /><span style=\"font-weight:bold; color:orange;\">2nd Hit</span>: Attacks up to 12 enemies at 2415% Damage 10 times<br /><span style=\"font-weight:bold; color:orange;\">3rd Hit</span>: Delivers 8 punches that attack up to 15 enemies at 605% Damage 11 times.<br />Cooldown: 20 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141008_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/25141008_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/25141008_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141008_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

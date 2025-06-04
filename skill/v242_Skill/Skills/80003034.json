@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6589273-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003034",
+  "Name": "Ring Activation",
+  "Job": "Etc",
+  "Desc": "Mastery Level: 1]<br />Uses the Active skill of the currently equipped special skill ring.<br />Some special skill rings automatically activate the Passive skill.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003034_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

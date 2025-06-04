@@ -1,0 +1,217 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.2294204-03:00",
+  "ChangeType": "Changed",
+  "Id": "36001005",
+  "Name": "Rocket System",
+  "Job": "Xenon",
+  "Desc": "Fires a rocket at enemies within range on an Attack Skill hit.<br />Requires a short time to prepare to fire, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 5 Effect: Can learn the 2nd Job skill, Rocket System 1st Enhancement.</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Pinpoint Rocket",
+      "New": "Rocket System"
+    },
+    "Desc": {
+      "Old": "Shoots numerous missiles at enemies within range when using attack skills.<br />Does not affect enemies with the Damage Reflection effect.<br />Needs a small amount of prep time for launching. Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span><br /><span style=\"font-weight:bold; color:orange;\">Lv. 1 Effect: Can learn the 2nd Job Skill, Pinpoint Rocket 1st Fortification</span>",
+      "New": "Fires a rocket at enemies within range on an Attack Skill hit.<br />Requires a short time to prepare to fire, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Can be toggled <span style=\"font-weight:bold; color:orange;\">On/Off</span>.<br /><span style=\"font-weight:bold; color:orange;\">Lv. 5 Effect: Can learn the 2nd Job skill, Rocket System 1st Enhancement.</span>"
+    },
+    "H": {
+      "Old": "Shoots 4 missiles with 50% at enemies within range.<br />Normal Monster Damage +250%p<br />Cooldown: 2 sec.",
+      "New": "Direct Attack skill hits fire 4 rockets that attack at 50% Damage.<br />Normal Monster Damage +250%p<br />Cooldown: 2 sec."
+    },
+    "h1": {
+      "Old": "Shoots 4 missiles with 50% at enemies within range.<br />Normal Monster Damage +250%p<br />Cooldown: 2 sec.",
+      "New": "Direct Attack skill hits fire 4 rockets that attack at 50% Damage.<br />Normal Monster Damage +250%p<br />Cooldown: 2 sec."
+    },
+    "condition": {
+      "Old": "damaged",
+      "New": null
+    },
+    "counter": {
+      "Old": "damaged",
+      "New": null
+    },
+    "common/range": {
+      "Old": "500",
+      "New": null
+    },
+    "notRemoved": {
+      "Old": "1",
+      "New": null
+    },
+    "SecondAtom/dataIndex": {
+      "Old": null,
+      "New": "102"
+    },
+    "SecondAtom/atom/0/rotate": {
+      "Old": null,
+      "New": "90"
+    },
+    "SecondAtom/atom/0/pos/x": {
+      "Old": null,
+      "New": "-86"
+    },
+    "SecondAtom/atom/0/pos/y": {
+      "Old": null,
+      "New": "-113"
+    },
+    "SecondAtom/atom/0/createDelay": {
+      "Old": null,
+      "New": "0"
+    },
+    "SecondAtom/atom/0/enableDelay": {
+      "Old": null,
+      "New": "300"
+    },
+    "SecondAtom/atom/0/expire": {
+      "Old": null,
+      "New": "5000"
+    },
+    "SecondAtom/atom/0/firstAngleStart": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/0/firstAngleRange": {
+      "Old": null,
+      "New": "30"
+    },
+    "SecondAtom/atom/1/rotate": {
+      "Old": null,
+      "New": "90"
+    },
+    "SecondAtom/atom/1/pos/x": {
+      "Old": null,
+      "New": "-138"
+    },
+    "SecondAtom/atom/1/pos/y": {
+      "Old": null,
+      "New": "-73"
+    },
+    "SecondAtom/atom/1/createDelay": {
+      "Old": null,
+      "New": "60"
+    },
+    "SecondAtom/atom/1/enableDelay": {
+      "Old": null,
+      "New": "360"
+    },
+    "SecondAtom/atom/1/expire": {
+      "Old": null,
+      "New": "5000"
+    },
+    "SecondAtom/atom/1/firstAngleStart": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/1/firstAngleRange": {
+      "Old": null,
+      "New": "30"
+    },
+    "SecondAtom/atom/2/rotate": {
+      "Old": null,
+      "New": "90"
+    },
+    "SecondAtom/atom/2/pos/x": {
+      "Old": null,
+      "New": "-100"
+    },
+    "SecondAtom/atom/2/pos/y": {
+      "Old": null,
+      "New": "-9"
+    },
+    "SecondAtom/atom/2/createDelay": {
+      "Old": null,
+      "New": "120"
+    },
+    "SecondAtom/atom/2/enableDelay": {
+      "Old": null,
+      "New": "420"
+    },
+    "SecondAtom/atom/2/expire": {
+      "Old": null,
+      "New": "5000"
+    },
+    "SecondAtom/atom/2/firstAngleStart": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/2/firstAngleRange": {
+      "Old": null,
+      "New": "30"
+    },
+    "SecondAtom/atom/3/rotate": {
+      "Old": null,
+      "New": "90"
+    },
+    "SecondAtom/atom/3/pos/x": {
+      "Old": null,
+      "New": "-64"
+    },
+    "SecondAtom/atom/3/pos/y": {
+      "Old": null,
+      "New": "-53"
+    },
+    "SecondAtom/atom/3/createDelay": {
+      "Old": null,
+      "New": "180"
+    },
+    "SecondAtom/atom/3/enableDelay": {
+      "Old": null,
+      "New": "480"
+    },
+    "SecondAtom/atom/3/expire": {
+      "Old": null,
+      "New": "5000"
+    },
+    "SecondAtom/atom/3/firstAngleStart": {
+      "Old": null,
+      "New": "-105"
+    },
+    "SecondAtom/atom/3/firstAngleRange": {
+      "Old": null,
+      "New": "30"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "36141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "hit/0/randomHitOrigin": {
+      "Old": null,
+      "New": "25"
+    },
+    "hit/0/randomHitAngle": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "Direct Attack skill hits fire 4 rockets that attack at 50% Damage.<br />Normal Monster Damage +250%p<br />Cooldown: 2 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_36001005_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/36001005_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/36001005_hit_new.webp"
+    }
+  },
+  "Voices": {}
+}

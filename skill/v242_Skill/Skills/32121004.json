@@ -1,0 +1,194 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.6087338-03:00",
+  "ChangeType": "Changed",
+  "Id": "32121004",
+  "Name": "Dark Genesis",
+  "Job": "Battle Mage",
+  "Desc": "Deathly Lightning attacks numerous enemies with a chance of temporarily Stunning them. Dark Genesis does not affect enemies in the Damage Reflection status. When Dark Genesis is learned, it also increases Dark Energy Chain/Battle Burst/Dark Shock damage permanently and using skills to directly attack enemies during this skill's cooldown strikes lightning onto a single enemy.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 200 MP. Attacks up to 15 enemies at 520% damage 8 times and stuns them for 4 sec.<br />Cooldown: 30 secs<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With direct attack skills in use, this skill creates a 60% chance of increasing Lightning by 250% DMG, Dark Energy Chain, Battle Spurt, Dark Lightning by 60% damage.]",
+      "New": "MP Cost: 200. Attacks up to 15 enemies at 520% Damage 8 times.<br />Stuns Normal monsters for 4 sec.<br />Cooldown: 30 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of a lightning attack at 250% Damage and increasing Damage +60% for Dark Chain, Battle Burst, and Dark Shock.]"
+    },
+    "h1": {
+      "Old": "Consumes 200 MP. Attacks up to 15 enemies at 520% damage 8 times and stuns them for 4 sec.<br />Cooldown: 30 secs<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Typed Skill]</span> With direct attack skills in use, this skill creates a 60% chance of increasing Lightning by 250% DMG, Dark Energy Chain, Battle Spurt, Dark Lightning by 60% damage.]",
+      "New": "MP Cost: 200. Attacks up to 15 enemies at 520% Damage 8 times.<br />Stuns Normal monsters for 4 sec.<br />Cooldown: 30 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of a lightning attack at 250% Damage and increasing Damage +60% for Dark Chain, Battle Burst, and Dark Shock.]"
+    },
+    "common/hcTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/6)",
+      "New": null
+    },
+    "PVPcommon/maxLevel": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/mpCon": {
+      "Old": "400",
+      "New": null
+    },
+    "PVPcommon/damage": {
+      "Old": "777+10*x",
+      "New": null
+    },
+    "PVPcommon/mobCount": {
+      "Old": "15",
+      "New": null
+    },
+    "PVPcommon/cooltime": {
+      "Old": "30",
+      "New": null
+    },
+    "PVPcommon/time": {
+      "Old": "1",
+      "New": null
+    },
+    "PVPcommon/prop": {
+      "Old": "u(x/2)",
+      "New": null
+    },
+    "PVPcommon/damR": {
+      "Old": "2*x",
+      "New": null
+    },
+    "magicDamage": {
+      "Old": "1",
+      "New": null
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "tile/effectDistance": {
+      "Old": "150",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "battlemage/M/28",
+      "New": "battlemage/M/28"
+    },
+    "voice/male/path/1": {
+      "Old": "battlemage/M/29",
+      "New": "battlemage/M/29"
+    },
+    "voice/male/path/2": {
+      "Old": "battlemage/M/30",
+      "New": "battlemage/M/30"
+    },
+    "voice/male/path/3": {
+      "Old": "battlemage/M/68",
+      "New": "battlemage/M/68"
+    },
+    "voice/female/path/0": {
+      "Old": "battlemage/F/18",
+      "New": "battlemage/F/18"
+    },
+    "voice/female/path/1": {
+      "Old": "battlemage/F/19",
+      "New": "battlemage/F/19"
+    },
+    "voice/female/path/2": {
+      "Old": "battlemage/F/20",
+      "New": "battlemage/F/20"
+    },
+    "voice/female/path/3": {
+      "Old": "battlemage/F/64",
+      "New": "battlemage/F/64"
+    },
+    "common/s": {
+      "Old": null,
+      "New": "2*x"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "32141008"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "isExceptSetLastAttack": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Attacks up to 15 enemies at 520% Damage 8 times.<br />Stuns Normal monsters for 4 sec.<br />Cooldown: 30 sec.<br />[Passive Effects: <span style=\"font-weight:bold; color:orange;\">[Final Attack Type Skill]</span> Direct Attack skill hits create a 60% chance of a lightning attack at 250% Damage and increasing Damage +60% for Dark Chain, Battle Burst, and Dark Shock.]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_32121004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "tile": {
+      "Old": "Animations/Old/32121004_tile_old.webp",
+      "New": null
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/32121004_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

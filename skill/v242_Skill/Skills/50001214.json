@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.8881114-03:00",
+  "ChangeType": "Changed",
+  "Id": "50001214",
+  "Name": "Knight's Watch",
+  "Job": "Mihile",
+  "Desc": "The blessing of light temporarily protects you against enemy attacks and increases your damage. Increases State Resistance temporarily when used as a Link skill.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": {
+      "Old": null,
+      "New": "10"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_50001214_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

@@ -1,0 +1,144 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.8667952-03:00",
+  "ChangeType": "Added",
+  "Id": "25141003",
+  "Name": "Bomb Punch VI",
+  "Job": "Shade",
+  "Desc": "Summons a nature spirit to attack multiple enemies in front.<br />Can be used 3 times in a row.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Bomb Punch Lv. 30 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -375,
+      "y": -300
+    },
+    "rb": {
+      "x": 30,
+      "y": 60
+    }
+  },
+  "Fields": {
+    "type": "1",
+    "req/25121000": "30",
+    "action/0": "6thBombPunch0",
+    "common/maxLevel": "30",
+    "common/mpCon": "20+d(x/3)",
+    "common/mobCount": "8",
+    "common/damage": "251+5*x",
+    "common/attackCount": "4",
+    "common/x": "8",
+    "common/y": "251+5*x",
+    "common/z": "4",
+    "common/v": "8",
+    "common/w": "251+5*x",
+    "common/s": "4",
+    "common/time": "3",
+    "common/prop": "100",
+    "common/u": "210+5*x",
+    "common/lt/x": -375,
+    "common/lt/y": -300,
+    "common/rb/x": 30,
+    "common/rb/y": 60,
+    "addAttack/skill": "25141004",
+    "addAttack/skipActionFrame": "2",
+    "addAttack/patternType": "2",
+    "addAttack/type": "1",
+    "addAttack/isAuto": "1",
+    "hit/0/randomHitOrigin": "35",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "weapon": "48",
+    "subWeapon": "35",
+    "id": "25141003",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "25",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = eunwol/M/90 }",
+    "voice/male/path/1": "{ Old = , New = eunwol/M/13 }",
+    "voice/male/path/2": "{ Old = , New = eunwol/M/54 }",
+    "voice/male/path/3": "{ Old = , New = eunwol/M/55 }",
+    "voice/female/path/0": "{ Old = , New = eunwol/F/90 }",
+    "voice/female/path/1": "{ Old = , New = eunwol/F/13 }",
+    "voice/female/path/2": "{ Old = , New = eunwol/F/54 }",
+    "voice/female/path/3": "{ Old = , New = eunwol/F/55 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 30 per hit <br /><span style=\"font-weight:bold; color:orange;\">1st Hit</span>: Attacks up to 8 enemies at 401% Damage 4 times.<br /><span style=\"font-weight:bold; color:orange;\">2nd Hit</span>: Attacks up to 8 enemies at 401% Damage 4 times<br /><span style=\"font-weight:bold; color:orange;\">3rd Hit</span>: Attacks up to 8 enemies at 401% Damage 4 times, with a 100% chance of Stunning them for 3 sec.<br />Normal Monster Damage +360%p for all attacks"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/25141003_effect_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/25141003_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

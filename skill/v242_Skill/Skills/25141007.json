@@ -1,0 +1,137 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:19.9343689-03:00",
+  "ChangeType": "Added",
+  "Id": "25141007",
+  "Name": "Spirit Frenzy VI",
+  "Job": "Shade",
+  "Desc": "Opens a passageway for spirits to pass through, creating a barrier.<br />Spirit Frenzy VI is affected by SUMMONS DURATION INCREASE and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Also, permanently increases the Damage of Spirit Incarnation and Spirit Claw VI.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Deepen Communion Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "33",
+    "info2/ignoreCounter": "1",
+    "req/25120110": "20",
+    "action/0": "6thSummonSoulTentInstall",
+    "common/maxLevel": "30",
+    "common/mpCon": "30+d(x/2)",
+    "common/mobCount": "10",
+    "common/damage": "407+5*x",
+    "common/attackCount": "8",
+    "common/time": "60",
+    "common/attackDelay": "3240",
+    "common/q": "660",
+    "common/x": "60+1*x",
+    "common/damPlus": "14+3*x",
+    "common/cooltime": "30",
+    "summon/attack1/info/range/lt/x": -390,
+    "summon/attack1/info/range/lt/y": -280,
+    "summon/attack1/info/range/rb/x": 390,
+    "summon/attack1/info/range/rb/y": 40,
+    "summon/attack1/info/mobCount": "10",
+    "summon/attack1/info/attackCount": "8",
+    "summon/attack1/info/rangeAttack": "1",
+    "hit/0/randomHitOrigin": "40",
+    "hit/0/randomHitAngle": "1",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "additional_process/0": "7",
+    "additional_process/1": "41",
+    "additional_process/2": "33",
+    "processtype": "-1",
+    "showSummonedBuffIcon": "1",
+    "maintainSplitSummoned": "1",
+    "weapon": "48",
+    "subWeapon": "35",
+    "syncSummonedBuffIcon": "1",
+    "footholdInstallSummoned": "1",
+    "psd": "1",
+    "id": "25141007",
+    "has_req": true,
+    "has_weapon": true,
+    "voice/prop": "70",
+    "voice/male/count": 4,
+    "voice/female/count": 4,
+    "voice/male/path/0": "{ Old = , New = eunwol/M/2 }",
+    "voice/male/path/1": "{ Old = , New = eunwol/M/9 }",
+    "voice/male/path/2": "{ Old = , New = eunwol/M/45 }",
+    "voice/male/path/3": "{ Old = , New = eunwol/M/46 }",
+    "voice/female/path/0": "{ Old = , New = eunwol/F/6 }",
+    "voice/female/path/1": "{ Old = , New = eunwol/F/15 }",
+    "voice/female/path/2": "{ Old = , New = eunwol/F/45 }",
+    "voice/female/path/3": "{ Old = , New = eunwol/F/46 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Summons a Spirit Frenzy for 60 sec.<br />The barrier periodically attacks up to 10 enemies at 557% Damage 8 times.<br />Cooldown: 30 sec.<br />[Passive Effects: Spirit Incarnation Damage +90%p and Spirit Claw VI Damage +104%p]"
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_25141007_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/25141007_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/25141007_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.7838441-03:00",
+  "ChangeType": "Added",
+  "Id": "64141028",
+  "Name": "Weapon Arts: Energy Bombs VI",
+  "Job": "Cadena",
+  "Desc": "Summons a bomb to set it down and fall backward. When used in the air, the bomb is dropped at the spot. The bomb explodes after a while, and does not cause you to take damage even when attacking enemies in the Damage Reflection Status. Does not cancel Dark Sight when used or upon explosion. Prevents being knocked back by any attack while casting.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Weapon Arts: Energy Bombs Lv. 20 or higher</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "2",
+    "info2/ignoreCounter": "1",
+    "req/64111004": "20",
+    "action/0": "6thNTbomb",
+    "common/maxLevel": "30",
+    "common/mpCon": "40+d(x/6)",
+    "common/y": "640+12*x",
+    "common/w": "6",
+    "common/s": "8",
+    "common/time": "800",
+    "common/cooltime": "8",
+    "common/x": "600",
+    "common/u": "600",
+    "common/v": "500",
+    "common/u2": "1",
+    "common/updatableTime": "60",
+    "common/cancelableTime": "150",
+    "cancelableSkillID/0": "64001000",
+    "cancelableSkillID/1": "64001001",
+    "cancelableSkillID/2": "64001002",
+    "cancelableSkillID/3": "64001007",
+    "cancelableSkillID/4": "64001008",
+    "cancelableSkillID/5": "64001013",
+    "cancelableSkillID/6": "64101001",
+    "cancelableSkillID/7": "64141000",
+    "cancelableSkillID/8": "64141030",
+    "cancelableSkillID/9": "64141031",
+    "cancelableSkillID/10": "64141034",
+    "shootobj/info/startDelay": "180",
+    "shootobj/info/start/x": -105,
+    "shootobj/info/start/y": -70,
+    "additional_process/0": "4",
+    "additional_process/1": "21",
+    "additional_process/2": "25",
+    "processtype": "-1",
+    "weapon": "27",
+    "subWeapon": "35",
+    "id": "64141028",
+    "has_req": true,
+    "has_weapon": true,
+    "has_cancelableSkill": true,
+    "voice/prop": "100",
+    "voice/male/count": 6,
+    "voice/female/count": 6,
+    "voice/male/path/0": "{ Old = , New = cadena/M/0 }",
+    "voice/male/path/1": "{ Old = , New = cadena/M/1 }",
+    "voice/male/path/2": "{ Old = , New = cadena/M/2 }",
+    "voice/male/path/3": "{ Old = , New = cadena/M/3 }",
+    "voice/male/path/4": "{ Old = , New = cadena/M/10 }",
+    "voice/male/path/5": "{ Old = , New = cadena/M/7 }",
+    "voice/female/path/0": "{ Old = , New = cadena/F/0 }",
+    "voice/female/path/1": "{ Old = , New = cadena/F/1 }",
+    "voice/female/path/2": "{ Old = , New = cadena/F/2 }",
+    "voice/female/path/3": "{ Old = , New = cadena/F/3 }",
+    "voice/female/path/4": "{ Old = , New = cadena/F/10 }",
+    "voice/female/path/5": "{ Old = , New = cadena/F/7 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 45. Installs a bomb that explodes in 1 sec. The bomb attacks up to 8 enemies at 1000% Damage 6 times.<br />Cooldown: 8 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_64141028_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/64141028_effect_new.webp"
+    }
+  },
+  "Voices": {
+    "M5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M5.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F5": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F5.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/64141028_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:10.6688761-03:00",
+  "ChangeType": "Changed",
+  "Id": "400001019",
+  "Name": "Resistance Line Infantry",
+  "Job": "5th",
+  "Desc": "Summons a Resistance infantry unit that makes ranged attacks with guns. The infantry unit is not affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400001019_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

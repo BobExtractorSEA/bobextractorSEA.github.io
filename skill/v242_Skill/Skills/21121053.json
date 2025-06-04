@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.1323006-03:00",
+  "ChangeType": "Changed",
+  "Id": "21121053",
+  "Name": "Heroic Memories",
+  "Job": "Aran",
+  "Desc": "Remembers the oath made by the Heroes of Maple World to achieve greater damage.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_21121053_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

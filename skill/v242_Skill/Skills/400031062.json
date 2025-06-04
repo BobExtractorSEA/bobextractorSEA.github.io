@@ -1,0 +1,141 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.6178984-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031062",
+  "Name": "Thanatos's Descent",
+  "Job": "5th (Bowman)",
+  "Desc": "Assimilates with the Devil Dragon Satiras to summon evil and death to the land.<br /><span style=\"font-weight:bold; color:orange;\">Use the skill again</span> to shoot great malice and turn the area into a Realm of Death, bringing unavoidable death to enemies. Arrow of Death first targets the enemy with the highest HP among hit enemies, and Realm of Death also can be used even while using some skills. All attacks activated by Thanatos's Descent do not affect enemies in the Damage Reflection status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Lv. 1 Incarnation or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "kain/M/54",
+      "New": "kain/M/54"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/55",
+      "New": "kain/M/55"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/56",
+      "New": "kain/M/56"
+    },
+    "voice/male/path/3": {
+      "Old": "kain/M/57",
+      "New": "kain/M/57"
+    },
+    "voice/male/path/4": {
+      "Old": "kain/M/58",
+      "New": "kain/M/58"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/63",
+      "New": "kain/F/63"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/64",
+      "New": "kain/F/64"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/65",
+      "New": "kain/F/65"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/66",
+      "New": "kain/F/66"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/67",
+      "New": "kain/F/67"
+    },
+    "isSequenceOn": {
+      "Old": null,
+      "New": "1"
+    },
+    "notResetByUnionCharTag": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031062_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/400031062_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

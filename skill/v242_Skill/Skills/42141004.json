@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.7205074-03:00",
+  "ChangeType": "Changed",
+  "Id": "42141004",
+  "Name": "Vanquisher's Charm VI",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span> With the realization of the pinnacle of Yin and Yang arts, enhance Vanquisher's Charm into its perfected form. Vanquisher's Charm gains increased power and the ability to strike multiple foes in a wider area and generates Spirit Corrals at a certain chance while attacking.<br />Upon acquiring the 5th job skill, <span style=\"font-weight:bold; color:orange;\">Spirit Pentacle</span>, when it is not on cooldown, Spirit Pentacle is automatically activated.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Vanquisher's Charm Lv. 30 or above</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42141004_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

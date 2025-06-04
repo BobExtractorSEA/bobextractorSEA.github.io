@@ -1,0 +1,47 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:21.079613-03:00",
+  "ChangeType": "Added",
+  "Id": "4240016",
+  "Name": "Coveted Shadow",
+  "Job": "Shadower",
+  "Desc": "Delivers a stealthy strike from the shadows. Direct Attack Skill hits create a chance of an additional attack. Remain in Dark Sight for a while to enhance it to Shadow Edge.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "type": "1",
+    "areaAttack": "1",
+    "common/maxLevel": "30",
+    "common/x": "90+2*x",
+    "common/y": "60",
+    "common/u": "2",
+    "common/v": "9",
+    "common/w": "3",
+    "common/q": "4",
+    "common/q2": "100+2*x",
+    "common/s": "100",
+    "extraSkillInfo/0/skill": "4241018",
+    "extraSkillInfo/1/skill": "4241019",
+    "skillList/0": "400041069",
+    "skillList/1": "400041070",
+    "skillList/2": "400041071",
+    "skillList/3": "400041072",
+    "skillList/4": "400041073",
+    "skillList/5": "4221052",
+    "skillList/6": "4241013",
+    "weapon": "33",
+    "id": "4240016",
+    "has_weapon": true
+  },
+  "HFields": {
+    "h1": "Direct Attack skill hits create a 60% chance of an additional attack that attacks at 150% Damage 2 times. Remain in Dark Sight for 9 sec. to enhance it to Shadow Edge.<br /><span style=\"font-weight:bold; color:orange;\">Shadow Edge</span>: Lasts for 3 sec. Direct Attack Skill hits create a 100% chance of a critical attack that attacks at 160% Damage 4 times. In Smoke Bomb range, first direct Attack Skill hit during Dark Sight instantly changes it to Shadow Edge."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_4240016_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

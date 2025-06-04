@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:11.5325088-03:00",
+  "ChangeType": "Changed",
+  "Id": "400031037",
+  "Name": "Obsidian Barrier",
+  "Job": "5th (Bowman)",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Enchant Force]</span><br />Protects yourself and your party members by amplifying the power of the Relic.<br />Party member with the power of protection deals increased Critical Damage against enemies with the Ancient Curse Debuff.<br />Obsidian Barrier doesn't affect enemies in the Damage Reflection status.<br /><span style=\"font-weight:bold; color:orange;\">Discharge Enhancement</span><br />Gives your party members a personal shield.<br /><span style=\"font-weight:bold; color:orange;\">Blast Enhancement</span><br />Increases the shield size.<br /><span style=\"font-weight:bold; color:orange;\">Transition Enhancement</span><br />Enables re-installation of the shield.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_400031037_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

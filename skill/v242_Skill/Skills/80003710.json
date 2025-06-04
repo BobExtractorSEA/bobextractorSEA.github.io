@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.1953689-03:00",
+  "ChangeType": "Changed",
+  "Id": "80003710",
+  "Name": "Starlight Illusion: Monster Park Clear EXP",
+  "Job": "Etc",
+  "Desc": "Increases <span style=\"font-weight:bold; color:orange;\">EXP</span> obtained from the Monster Park.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Name": {
+      "Old": "Power from Beyond the Dimensions: Monster Park Clear EXP",
+      "New": "Starlight Illusion: Monster Park Clear EXP"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80003710_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

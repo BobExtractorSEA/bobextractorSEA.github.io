@@ -1,0 +1,119 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:08.9276921-03:00",
+  "ChangeType": "Changed",
+  "Id": "24121052",
+  "Name": "Rose Carte Finale",
+  "Job": "Phantom",
+  "Desc": "Tosses a bouquet of cards into the air. The cards fall and penetrate the ground, inflicting continuous damage on enemies without being affected by enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "MP Cost: 200. Attacks 15 enemies in one screen at 700% Damage 6 times. Attacks 6 enemies around the cards twice at 200% Damage for 8 seconds.<br />Cooldown: 30 sec",
+      "New": "MP Cost: 200. Attacks up to 15 enemies at 700% Damage 6 times.<br />Afterward, the cards stuck in the ground attack up to 6 enemies at 200% Damage 2 times for 8 sec.<br />Cooldown: 30 sec."
+    },
+    "h1": {
+      "Old": "MP Cost: 200. Attacks 15 enemies in one screen at 700% Damage 6 times. Attacks 6 enemies around the cards twice at 200% Damage for 8 seconds.<br />Cooldown: 30 sec",
+      "New": "MP Cost: 200. Attacks up to 15 enemies at 700% Damage 6 times.<br />Afterward, the cards stuck in the ground attack up to 6 enemies at 200% Damage 2 times for 8 sec.<br />Cooldown: 30 sec."
+    },
+    "voice/male/path/0": {
+      "Old": "phantom/M/8",
+      "New": "phantom/M/8"
+    },
+    "voice/male/path/1": {
+      "Old": "phantom/M/4",
+      "New": "phantom/M/4"
+    },
+    "voice/male/path/2": {
+      "Old": "phantom/M/7",
+      "New": "phantom/M/7"
+    },
+    "voice/female/path/0": {
+      "Old": "phantom/F/8",
+      "New": "phantom/F/8"
+    },
+    "voice/female/path/1": {
+      "Old": "phantom/F/4",
+      "New": "phantom/F/4"
+    },
+    "voice/female/path/2": {
+      "Old": "phantom/F/7",
+      "New": "phantom/F/7"
+    },
+    "common/q": {
+      "Old": null,
+      "New": "6"
+    },
+    "common/q2": {
+      "Old": null,
+      "New": "200"
+    },
+    "common/q3": {
+      "Old": null,
+      "New": "2"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "24141006"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 200. Attacks up to 15 enemies at 700% Damage 6 times.<br />Afterward, the cards stuck in the ground attack up to 6 enemies at 200% Damage 2 times for 8 sec.<br />Cooldown: 30 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_24121052_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/24121052_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

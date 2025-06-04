@@ -1,0 +1,81 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:12.6003659-03:00",
+  "ChangeType": "Changed",
+  "Id": "42121102",
+  "Name": "Nine-Tailed Fury",
+  "Job": "Kanna",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Yin-Yang Technique]</span><br />Completely unleashes Haku's power to attack all currently visible enemies. Increased damage buff is applied after the attack. Haku inflicts additional damage during the cooldown alongside Kanna's attacks.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "common/x": {
+      "Old": "100+4*x",
+      "New": null
+    },
+    "common/hcTime": {
+      "Old": "1",
+      "New": null
+    },
+    "common/hcProp": {
+      "Old": "u(x/6)",
+      "New": null
+    },
+    "skillList/2": {
+      "Old": null,
+      "New": "42141007"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "42141009"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/prop": {
+      "Old": null,
+      "New": "100"
+    },
+    "voice/male/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/female/count": {
+      "Old": null,
+      "New": "1"
+    },
+    "voice/male/path/0": {
+      "Old": null,
+      "New": "kanna/M/17"
+    },
+    "voice/female/path/0": {
+      "Old": null,
+      "New": "kanna/F/17"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_42121102_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121102_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/42121102_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:14.108243-03:00",
+  "ChangeType": "Changed",
+  "Id": "63111003",
+  "Name": "Shaft Break",
+  "Job": "Kain",
+  "Desc": "Shoots arrows that fall into pieces and explode after penetrating enemies. Arrows pull enemies before falling into pieces and penetrate a certain number of enemies or fall into pieces when attacking boss monster and disappear at the end of the attack range. The explosion does not affect enemies in the Damage Reflection status.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "H": {
+      "Old": "Consumes 67 MP and penetrates up to 3 enemies at 184% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 140% Damage 10 times.<br />1 Shaft Break Cartridge is prepared at every 8 sec and up to 3 Cartridges can be obtained.",
+      "New": "MP Cost: 67. Penetrates up to 3 enemies at 184% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks 10 enemies at 140% Damage 10 times.<br />1 Shaft Break Cartridge is ready every 8 sec., and up to 3 can be carried."
+    },
+    "h1": {
+      "Old": "Consumes 67 MP and penetrates up to 3 enemies at 184% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks up to 10 enemies at 140% Damage 10 times.<br />1 Shaft Break Cartridge is prepared at every 8 sec and up to 3 Cartridges can be obtained.",
+      "New": "MP Cost: 67. Penetrates up to 3 enemies at 184% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks 10 enemies at 140% Damage 10 times.<br />1 Shaft Break Cartridge is ready every 8 sec., and up to 3 can be carried."
+    },
+    "areaAttack": {
+      "Old": "1",
+      "New": null
+    },
+    "voice/male/path/0": {
+      "Old": "kain/M/28",
+      "New": "kain/M/28"
+    },
+    "voice/male/path/1": {
+      "Old": "kain/M/29",
+      "New": "kain/M/29"
+    },
+    "voice/male/path/2": {
+      "Old": "kain/M/30",
+      "New": "kain/M/30"
+    },
+    "voice/female/path/0": {
+      "Old": "kain/F/31",
+      "New": "kain/F/31"
+    },
+    "voice/female/path/1": {
+      "Old": "kain/F/32",
+      "New": "kain/F/32"
+    },
+    "voice/female/path/2": {
+      "Old": "kain/F/33",
+      "New": "kain/F/33"
+    },
+    "voice/female/path/3": {
+      "Old": "kain/F/34",
+      "New": "kain/F/34"
+    },
+    "voice/female/path/4": {
+      "Old": "kain/F/35",
+      "New": "kain/F/35"
+    },
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "63141018"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {
+    "h1": "MP Cost: 67. Penetrates up to 3 enemies at 184% Damage 3 times.<br />Pulls up to 7 enemies when destroyed and explodes, and the explosion attacks 10 enemies at 140% Damage 10 times.<br />1 Shaft Break Cartridge is ready every 8 sec., and up to 3 can be carried."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_63111003_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_F4.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_F3.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/63111003_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

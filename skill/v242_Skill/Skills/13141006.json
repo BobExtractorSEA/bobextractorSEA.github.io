@@ -1,0 +1,186 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:18.782178-03:00",
+  "ChangeType": "Added",
+  "Id": "13141006",
+  "Name": "Storm Winds VI",
+  "Job": "Wind Archer",
+  "Desc": "Temporarily wields the capricious power of the wind to its fullest extent under the blessing of the wind spirit.<br />Does not cause you to take damage even when attacking enemies in the Damage Reflection Status.<br />Required Skill: <span style=\"font-weight:bold; color:orange;\">Storm Winds Lv. 1 or higher</span>",
+  "Coordinates": {
+    "lt": {
+      "x": -800,
+      "y": -250
+    },
+    "rb": {
+      "x": 0,
+      "y": 250
+    }
+  },
+  "Fields": {
+    "type": "51",
+    "info2/ignoreCounter": "1",
+    "req/13121055": "1",
+    "action/0": "6thStormWhim",
+    "common/maxLevel": "30",
+    "common/mpCon": "200+x",
+    "common/damage": "605+11*x",
+    "common/prop": "30",
+    "common/time": "30",
+    "common/x": "10",
+    "common/u": "1",
+    "common/y": "0",
+    "common/z": "50",
+    "common/lt/x": -800,
+    "common/lt/y": -250,
+    "common/rb/x": 0,
+    "common/rb/y": 250,
+    "common/lt2/x": -800,
+    "common/lt2/y": -250,
+    "common/rb2/x": 800,
+    "common/rb2/y": 250,
+    "common/cooltime": "120",
+    "SecondAtom/dataIndex": "79",
+    "SecondAtom/atom/0/createDelay": "0",
+    "SecondAtom/atom/0/expire": "2400",
+    "SecondAtom/atom/0/pos/x": -65,
+    "SecondAtom/atom/0/pos/y": -150,
+    "SecondAtom/atom/0/enableDelay": "360",
+    "SecondAtom/atom/0/firstAngleStart": "330",
+    "SecondAtom/atom/0/firstAngleRange": "20",
+    "SecondAtom/atom/0/rotate": "30",
+    "SecondAtom/atom/1/createDelay": "0",
+    "SecondAtom/atom/1/expire": "2400",
+    "SecondAtom/atom/1/pos/x": -99,
+    "SecondAtom/atom/1/pos/y": -91,
+    "SecondAtom/atom/1/enableDelay": "360",
+    "SecondAtom/atom/1/firstAngleStart": "300",
+    "SecondAtom/atom/1/firstAngleRange": "20",
+    "SecondAtom/atom/1/rotate": "60",
+    "SecondAtom/atom/2/createDelay": "0",
+    "SecondAtom/atom/2/expire": "2400",
+    "SecondAtom/atom/2/pos/x": -102,
+    "SecondAtom/atom/2/pos/y": -20,
+    "SecondAtom/atom/2/enableDelay": "360",
+    "SecondAtom/atom/2/firstAngleStart": "240",
+    "SecondAtom/atom/2/firstAngleRange": "20",
+    "SecondAtom/atom/2/rotate": "120",
+    "SecondAtom/atom/3/createDelay": "0",
+    "SecondAtom/atom/3/expire": "2400",
+    "SecondAtom/atom/3/pos/x": -70,
+    "SecondAtom/atom/3/pos/y": 48,
+    "SecondAtom/atom/3/enableDelay": "360",
+    "SecondAtom/atom/3/firstAngleStart": "210",
+    "SecondAtom/atom/3/firstAngleRange": "20",
+    "SecondAtom/atom/3/rotate": "150",
+    "effect0/z": "-1",
+    "hit/0/randomHitOrigin": "30",
+    "hit/0/useZ": "1",
+    "hit/0/z": "1",
+    "hit/0/randomHitAngle": "1",
+    "processtype": "6",
+    "additional_process/0": "59",
+    "applyHyper": "1",
+    "notRemoved": "1",
+    "skillList/0": "400001018",
+    "skillList/1": "400031003",
+    "skillList/2": "400031058",
+    "skillList/3": "13141004",
+    "isSequenceOn": "1",
+    "id": "13141006",
+    "common/lt": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb": "WzComparerR2.WzLib.Wz_Vector",
+    "common/lt2": "WzComparerR2.WzLib.Wz_Vector",
+    "common/rb2": "WzComparerR2.WzLib.Wz_Vector",
+    "has_req": true,
+    "voice/prop": "100",
+    "voice/male/count": 5,
+    "voice/female/count": 3,
+    "voice/male/path/0": "{ Old = , New = windBreaker/M/121 }",
+    "voice/male/path/1": "{ Old = , New = windBreaker/M/122 }",
+    "voice/male/path/2": "{ Old = , New = windBreaker/M/123 }",
+    "voice/male/path/3": "{ Old = , New = windBreaker/M/124 }",
+    "voice/male/path/4": "{ Old = , New = windBreaker/M/75 }",
+    "voice/female/path/0": "{ Old = , New = windBreaker/F/130 }",
+    "voice/female/path/1": "{ Old = , New = windBreaker/F/131 }",
+    "voice/female/path/2": "{ Old = , New = windBreaker/F/132 }"
+  },
+  "HFields": {
+    "h1": "MP Cost: 230. For 30 sec., attacks create a 30% chance of additionally summoning Raging Spirit Energy that attacks at 935% Damage.<br />Cooldown: 120 sec."
+  },
+  "Icons": {
+    "IconPath": "Icons/New/v241_13141006_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {
+    "effect": {
+      "Old": null,
+      "New": "Animations/New/13141006_effect_new.webp"
+    },
+    "effect0": {
+      "Old": null,
+      "New": "Animations/New/13141006_effect0_new.webp"
+    },
+    "hit": {
+      "Old": null,
+      "New": "Animations/New/13141006_hit_new.webp"
+    }
+  },
+  "Voices": {
+    "M4": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_M4.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M3": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_M3.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_M2.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F2": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_F2.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/13141006_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": true,
+      "IsNew": true
+    }
+  }
+}

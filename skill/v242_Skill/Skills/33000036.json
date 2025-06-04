@@ -1,0 +1,30 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:09.8021717-03:00",
+  "ChangeType": "Changed",
+  "Id": "33000036",
+  "Name": "Another Bite",
+  "Job": "Wild Hunter",
+  "Desc": "<span style=\"font-weight:bold; color:orange;\">[Jaguar Skill]</span> Jaguar Debuff",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "changeSkill/0/skill": {
+      "Old": null,
+      "New": "33140025"
+    },
+    "changeSkill/0/quickslot": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_33000036_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}

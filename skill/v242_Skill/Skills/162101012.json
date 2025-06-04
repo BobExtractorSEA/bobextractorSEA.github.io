@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:07.3746228-03:00",
+  "ChangeType": "Changed",
+  "Id": "162101012",
+  "Name": "Mountain Seed",
+  "Job": "Lara",
+  "Desc": "Plants the seed where the Lithos Spirit grows. The Lithos Spirit grows on the spot where seed was planted to attack the surrounding enemies and pushes enemies toward the Eruption skill side if the Eruption skill continues within a certain range for any element. The Mountain Seed doesn't affect enemies in the Damage Reflection status.<br />You can plant the seed without casting if you use Mountain Seed while casting the Dragon Vein Eruption skill and plant all prepared seeds at once using the down arrow key. In Auto Use mode, the Mountain Seed is planted on the location where Dragon Vein had existed each time the Eruption skill is used if the seed is prepared.<br /><span style=\"font-weight:bold; color:orange;\">Auto Use Mode On/Off: Right-click</span>",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "voice/male/path/0": {
+      "Old": "lara/M/68",
+      "New": "lara/M/68"
+    },
+    "voice/male/path/1": {
+      "Old": "lara/M/69",
+      "New": "lara/M/69"
+    },
+    "voice/female/path/0": {
+      "Old": "lara/F/80",
+      "New": "lara/F/80"
+    },
+    "voice/female/path/1": {
+      "Old": "lara/F/81",
+      "New": "lara/F/81"
+    },
+    "secondaryStatFreezeExcept": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_162101012_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {
+    "M1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162101012_voice_M1.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "M0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162101012_voice_M0.mp3",
+      "Gender": "M",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F1": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162101012_voice_F1.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    },
+    "F0": {
+      "OldPath": null,
+      "NewPath": "Voices/New/162101012_voice_F0.mp3",
+      "Gender": "F",
+      "HasChanged": false,
+      "IsNew": false
+    }
+  }
+}

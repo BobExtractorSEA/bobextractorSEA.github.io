@@ -1,0 +1,26 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T11:10:17.6068016-03:00",
+  "ChangeType": "Changed",
+  "Id": "80002990",
+  "Name": "Superstar Yeti Mount",
+  "Job": "Etc",
+  "Desc": "[Master Level: 1]<br />Ride on the Superstar Yeti mount that is capable of Double Jump.",
+  "Coordinates": {
+    "lt": {},
+    "rb": {}
+  },
+  "Fields": {
+    "Desc": {
+      "Old": "[Master Level: 1]<br />Ride on the Superstar Yeti mount that is capable of Double Jump. <span style=\"font-weight:bold; color:orange;\">Double-click a location on the World Map</span> and you will automatically fly to the destination by following the navigation line. (Auto flight is only available on certain continents, such as Victoria Island. You can expand your Smart Riding Authorization Continents by <span style=\"font-weight:bold; color:orange;\">purchasing Flight Permits from Instructor Irvin</span>.)",
+      "New": "[Master Level: 1]<br />Ride on the Superstar Yeti mount that is capable of Double Jump."
+    }
+  },
+  "HFields": {},
+  "Icons": {
+    "IconPath": "Icons/New/v241_80002990_icon.png",
+    "IconPathOld": null
+  },
+  "Animations": {},
+  "Voices": {}
+}
