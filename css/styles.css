@@ -1,4 +1,3 @@
-
 :root {
     --primary: #4f8fb0;
     --primary-light: #6fafcf;
@@ -1607,4 +1606,20 @@ height: 50px !important;
     .skill-side {
         padding: 10px;
     }
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+body > .container {
+    flex: 1 0 auto;
+}
+
+.blog-footer {
+    flex-shrink: 0;
 }
