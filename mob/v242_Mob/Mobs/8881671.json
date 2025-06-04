@@ -1,0 +1,183 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.9739632-03:00",
+  "ChangeType": "Added",
+  "Id": "8881671",
+  "Name": "Fully Armed Baldrix",
+  "Level": 290,
+  "Hp": 2100000000,
+  "Mp": 100000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "290",
+    "info/maxHP": "2100000000",
+    "info/maxMP": "100000",
+    "info/mpRecovery": "10000",
+    "info/speed": "-20",
+    "info/PADamage": "22000",
+    "info/MADamage": "24000",
+    "info/PDRate": "380",
+    "info/MDRate": "380",
+    "info/acc": "9999",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/eva": "750",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/exp": "0",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/firstAttack": "1",
+    "info/mobType": "7N",
+    "info/defaultHP": "Cannot be measured",
+    "info/defaultMP": "Cannot be measured",
+    "info/showNotRemoteDam": "1",
+    "info/isRemoteRange": "1",
+    "info/ignoreMoveImpact": "1",
+    "info/hpTagColor": "1",
+    "info/hpTagBgcolor": "5",
+    "info/delAtomOnDead": "1",
+    "info/ignoreFieldOut": "1",
+    "info/ex": "1",
+    "info/ignoreSlow": "1",
+    "info/ignoreSlowMsg": "Baldrix can't lose MSPD because of his mana.",
+    "info/firstAttackRange/lt/x": -2500,
+    "info/firstAttackRange/lt/y": -2500,
+    "info/firstAttackRange/rb/x": 2500,
+    "info/firstAttackRange/rb/y": 2500,
+    "info/patternSys/category": "1060",
+    "info/patternSys/difficulty": "1",
+    "info/patternSys/useRush": "1",
+    "info/mobDieVoiceForJob/0": "Sound/MobVoice.img/8881671/Die/normal",
+    "info/mobDieVoiceForJob/15110": "Sound/MobVoice.img/8881671/Die/adele",
+    "info/mobDieVoiceForJob/15111": "Sound/MobVoice.img/8881671/Die/adele",
+    "info/mobDieVoiceForJob/15112": "Sound/MobVoice.img/8881671/Die/adele",
+    "info/mobDieVoiceForJob/15114": "Sound/MobVoice.img/8881671/Die/adele",
+    "regen/info/trembleEffectList/0/delay": "1170",
+    "regen/info/trembleEffectList/0/force": "30",
+    "regen/info/trembleEffectList/0/time": "1200",
+    "regen/info/trembleEffectList/0/reduction": "0,95"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_stand.webp"
+    },
+    "move": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_move.webp"
+    },
+    "regen": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_regen.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_die1.webp"
+    },
+    "skill1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill1.webp"
+    },
+    "skill2": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill2.webp"
+    },
+    "skill3": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill3.webp"
+    },
+    "skill4": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill4.webp"
+    },
+    "skill5": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill5.webp"
+    },
+    "skillAfter5": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter5.webp"
+    },
+    "skill6": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill6.webp"
+    },
+    "skillAfter6": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter6.webp"
+    },
+    "skill8": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill8.webp"
+    },
+    "skillAfter8": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter8.webp"
+    },
+    "skill9": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill9.webp"
+    },
+    "skillAfter9": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter9.webp"
+    },
+    "skill10": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill10.webp"
+    },
+    "skillAfter10": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter10.webp"
+    },
+    "skill11": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill11.webp"
+    },
+    "skill12": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill12.webp"
+    },
+    "skill7": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill7.webp"
+    },
+    "skill13": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill13.webp"
+    },
+    "skillAfter13": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter13.webp"
+    },
+    "skill14": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill14.webp"
+    },
+    "skill15": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill15.webp"
+    },
+    "skillAfter15": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter15.webp"
+    },
+    "skill16": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skill16.webp"
+    },
+    "skillAfter16": {
+      "Old": null,
+      "New": "Animations/New/v241_8881671_skillAfter16.webp"
+    }
+  }
+}

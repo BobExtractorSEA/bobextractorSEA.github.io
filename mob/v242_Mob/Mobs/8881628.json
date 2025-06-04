@@ -1,0 +1,64 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.7891418-03:00",
+  "ChangeType": "Added",
+  "Id": "8881628",
+  "Name": "Doom",
+  "Level": 290,
+  "Hp": 2100000000,
+  "Mp": 100000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "290",
+    "info/maxHP": "2100000000",
+    "info/maxMP": "100000",
+    "info/mpRecovery": "10000",
+    "info/speed": "-20",
+    "info/PADamage": "22000",
+    "info/MADamage": "24000",
+    "info/PDRate": "380",
+    "info/MDRate": "380",
+    "info/acc": "9999",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/eva": "750",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/exp": "0",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/firstAttack": "1",
+    "info/mobType": "7N",
+    "info/defaultHP": "Cannot be measured",
+    "info/defaultMP": "Cannot be measured",
+    "info/showNotRemoteDam": "1",
+    "info/isRemoteRange": "1",
+    "info/ignoreMoveImpact": "1",
+    "info/hpTagColor": "1",
+    "info/hpTagBgcolor": "5",
+    "info/delAtomOnDead": "1",
+    "info/ignoreFieldOut": "1",
+    "info/ex": "1",
+    "info/invincible": "1",
+    "info/firstAttackRange/lt/x": -2500,
+    "info/firstAttackRange/lt/y": -2500,
+    "info/firstAttackRange/rb/x": 2500,
+    "info/firstAttackRange/rb/y": 2500,
+    "info/patternSys/category": "1066",
+    "info/patternSys/difficulty": "0"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_8881628_stand.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881628_die1.webp"
+    }
+  }
+}

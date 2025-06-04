@@ -1,0 +1,77 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.2412422-03:00",
+  "ChangeType": "Added",
+  "Id": "9834552",
+  "Name": "Azure Warlord",
+  "Level": 280,
+  "Hp": 2100000000,
+  "Mp": 60000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "280",
+    "info/firstAttack": "1",
+    "info/maxHP": "2100000000",
+    "info/maxMP": "60000",
+    "info/speed": "-30",
+    "info/PADamage": "15660",
+    "info/PDDamage": "170",
+    "info/PDRate": "300",
+    "info/MADamage": "15570",
+    "info/MDDamage": "210",
+    "info/MDRate": "300",
+    "info/acc": "1027",
+    "info/eva": "330",
+    "info/pushed": "35000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/mobType": "1N",
+    "info/exp": "0",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/ignoreMovable": "1",
+    "info/ignoreMoveImpact": "1",
+    "info/notSeperateSoul": "1",
+    "info/hideName": "1",
+    "info/ignoreLevelOptimum": "1",
+    "info/minimap": "4",
+    "info/ignoreMoveableMsg": "He is too engulfed in malice to be affected by bind effects.",
+    "info/summonEffect": "-2",
+    "info/hpTagColor": "7",
+    "info/hpTagBgcolor": "11",
+    "info/patternSys/category": "1040",
+    "info/patternSys/difficulty": "4",
+    "info/ex": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_stand.webp"
+    },
+    "move": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_move.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_die1.webp"
+    },
+    "skill1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_skill1.webp"
+    },
+    "skill4": {
+      "Old": null,
+      "New": "Animations/New/v241_9834552_skill4.webp"
+    }
+  }
+}

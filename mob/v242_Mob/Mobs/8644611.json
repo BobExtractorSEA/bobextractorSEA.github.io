@@ -1,0 +1,271 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.4716711-03:00",
+  "ChangeType": "Changed",
+  "Id": "8644611",
+  "Name": "Weakened Giant Monster Dusk",
+  "Level": 255,
+  "Hp": 0,
+  "Mp": 100000,
+  "Exp": 0,
+  "Fields": {
+    "info/skill/0/action": {
+      "Old": "1",
+      "New": "3"
+    },
+    "info/skill/0/level": {
+      "Old": "8",
+      "New": "10"
+    },
+    "info/skill/1/action": {
+      "Old": "2",
+      "New": "4"
+    },
+    "info/skill/1/knockback": {
+      "Old": "1",
+      "New": null
+    },
+    "info/skill/1/ignoreStance": {
+      "Old": "100",
+      "New": null
+    },
+    "info/skill/1/skill": {
+      "Old": "213",
+      "New": "186"
+    },
+    "info/skill/1/level": {
+      "Old": "9",
+      "New": "11"
+    },
+    "info/skill/2/action": {
+      "Old": "3",
+      "New": "4"
+    },
+    "info/skill/2/skill": {
+      "Old": "213",
+      "New": "252"
+    },
+    "info/skill/2/level": {
+      "Old": "10",
+      "New": "1"
+    },
+    "info/skill/2/afterDelay": {
+      "Old": "7500",
+      "New": null
+    },
+    "info/skill/3/action": {
+      "Old": "4",
+      "New": null
+    },
+    "info/skill/3/skill": {
+      "Old": "186",
+      "New": null
+    },
+    "info/skill/3/level": {
+      "Old": "11",
+      "New": null
+    },
+    "info/skill/3/weatherMsg/type": {
+      "Old": "249",
+      "New": null
+    },
+    "info/skill/3/weatherMsg/time": {
+      "Old": "2",
+      "New": null
+    },
+    "info/skill/3/weatherMsg/msg": {
+      "Old": "The energy around Dusk is being sucked in at a high speed.",
+      "New": null
+    },
+    "info/skill/4/action": {
+      "Old": "4",
+      "New": null
+    },
+    "info/skill/4/skill": {
+      "Old": "252",
+      "New": null
+    },
+    "info/skill/4/level": {
+      "Old": "1",
+      "New": null
+    },
+    "info/skill/4/onlyOtherSkill": {
+      "Old": "1",
+      "New": null
+    },
+    "info/attack/0/action": {
+      "Old": "1",
+      "New": null
+    },
+    "info/attack/0/attackRatio": {
+      "Old": "100",
+      "New": null
+    },
+    "info/attack/0/type": {
+      "Old": "3",
+      "New": null
+    },
+    "info/attack/0/cooltime": {
+      "Old": "60000",
+      "New": null
+    },
+    "info/attack/0/doFirst": {
+      "Old": "1",
+      "New": null
+    },
+    "info/attack/0/fixDamR": {
+      "Old": "300",
+      "New": null
+    },
+    "attack1/info/range/start": {
+      "Old": "-1",
+      "New": null
+    },
+    "attack1/info/range/areaCount": {
+      "Old": "3",
+      "New": null
+    },
+    "attack1/info/range/attackCount": {
+      "Old": "1",
+      "New": null
+    },
+    "attack1/info/range/reverse": {
+      "Old": "1",
+      "New": null
+    },
+    "attack1/info/attackAfter": {
+      "Old": "3960",
+      "New": null
+    },
+    "attack1/info/screen/scale": {
+      "Old": "200",
+      "New": null
+    },
+    "attack1/info/flash/z": {
+      "Old": "1",
+      "New": null
+    },
+    "attack1/info/flash/0/delay": {
+      "Old": "3960",
+      "New": null
+    },
+    "attack1/info/flash/0/alpha": {
+      "Old": "0",
+      "New": null
+    },
+    "attack1/info/flash/0/color": {
+      "Old": "ffffff",
+      "New": null
+    },
+    "attack1/info/flash/1/delay": {
+      "Old": "90",
+      "New": null
+    },
+    "attack1/info/flash/1/alpha": {
+      "Old": "70",
+      "New": null
+    },
+    "attack1/info/flash/1/color": {
+      "Old": "ffffff",
+      "New": null
+    },
+    "attack1/info/flash/2/delay": {
+      "Old": "90",
+      "New": null
+    },
+    "attack1/info/flash/2/alpha": {
+      "Old": "100",
+      "New": null
+    },
+    "attack1/info/flash/2/color": {
+      "Old": "ffffff",
+      "New": null
+    },
+    "info/skill/0/onlyOtherSkill": {
+      "Old": null,
+      "New": "1"
+    },
+    "info/skill/0/afterDelay": {
+      "Old": null,
+      "New": "7500"
+    },
+    "info/skill/1/weatherMsg/type": {
+      "Old": null,
+      "New": "249"
+    },
+    "info/skill/1/weatherMsg/time": {
+      "Old": null,
+      "New": "2"
+    },
+    "info/skill/1/weatherMsg/msg": {
+      "Old": null,
+      "New": "The energy around the Dusk is being sucked in at high speed."
+    },
+    "info/skill/1/onlyOtherSkill": {
+      "Old": null,
+      "New": "1"
+    },
+    "info/mobZone/1/customZ/type": {
+      "Old": null,
+      "New": "1"
+    },
+    "info/mobZone/1/customZ/page": {
+      "Old": null,
+      "New": "3"
+    },
+    "die1/speak/prob": {
+      "Old": null,
+      "New": "100"
+    },
+    "die1/speak/0": {
+      "Old": null,
+      "New": "Destruction... "
+    },
+    "die1/speak/1": {
+      "Old": null,
+      "New": "Abyss..."
+    },
+    "die1/speak/2": {
+      "Old": null,
+      "New": "Creation..."
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": "Animations/Old/v241_8644611_old_stand.webp",
+      "New": "Animations/New/v241_8644611_stand.webp"
+    },
+    "skill1": {
+      "Old": "Animations/Old/v241_8644611_old_skill1.webp",
+      "New": "Animations/New/v241_8644611_skill1.webp"
+    },
+    "skill2": {
+      "Old": null,
+      "New": "Animations/New/v241_8644611_skill2.webp"
+    },
+    "skill3": {
+      "Old": null,
+      "New": "Animations/New/v241_8644611_skill3.webp"
+    },
+    "skill4": {
+      "Old": null,
+      "New": "Animations/New/v241_8644611_skill4.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_8644611_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8644611_die1.webp"
+    },
+    "attack1": {
+      "Old": "Animations/Old/v241_8644611_old_attack1.webp",
+      "New": null
+    }
+  }
+}

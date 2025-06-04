@@ -1,0 +1,51 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.4626175-03:00",
+  "ChangeType": "Changed",
+  "Id": "8641011",
+  "Name": "Arma",
+  "Level": 209,
+  "Hp": 504472800,
+  "Mp": 187500,
+  "Exp": 1036020,
+  "Fields": {
+    "info/thumbnail": {
+      "Old": null,
+      "New": "WzComparerR2.WzLib.Wz_Png"
+    },
+    "info/default": {
+      "Old": null,
+      "New": "WzComparerR2.WzLib.Wz_Png"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": "Animations/Old/v241_8641011_old_stand.webp",
+      "New": "Animations/New/v241_8641011_stand.webp"
+    },
+    "hit1": {
+      "Old": "Animations/Old/v241_8641011_old_hit1.webp",
+      "New": "Animations/New/v241_8641011_hit1.webp"
+    },
+    "skill1": {
+      "Old": "Animations/Old/v241_8641011_old_skill1.webp",
+      "New": "Animations/New/v241_8641011_skill1.webp"
+    },
+    "attack1": {
+      "Old": null,
+      "New": "Animations/New/v241_8641011_attack1.webp"
+    },
+    "attack2": {
+      "Old": null,
+      "New": "Animations/New/v241_8641011_attack2.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8641011_die1.webp"
+    }
+  }
+}

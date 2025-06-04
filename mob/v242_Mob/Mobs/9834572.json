@@ -1,0 +1,54 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.2951252-03:00",
+  "ChangeType": "Added",
+  "Id": "9834572",
+  "Name": "Henchman of the Void",
+  "Level": 254,
+  "Hp": 570438000,
+  "Mp": 60000,
+  "Exp": 622041,
+  "Fields": {
+    "info/level": "254",
+    "info/bodyAttack": "1",
+    "info/firstAttack": "1",
+    "info/maxHP": "570438000",
+    "info/maxMP": "60000",
+    "info/PADamage": "18900",
+    "info/PDDamage": "170",
+    "info/PDRate": "10",
+    "info/MADamage": "18788",
+    "info/MDDamage": "210",
+    "info/MDRate": "10",
+    "info/acc": "1027",
+    "info/eva": "330",
+    "info/speed": "-30",
+    "info/pushed": "25000",
+    "info/fs": "10",
+    "info/exp": "622041",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/attack/0/action": "1",
+    "info/attack/0/type": "0",
+    "info/attack/0/attackRatio": "100",
+    "attack1/info/attackAfter": "640",
+    "attack1/info/range/lt/x": -348,
+    "attack1/info/range/lt/y": -202,
+    "attack1/info/range/rb/x": 137,
+    "attack1/info/range/rb/y": 28
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": null
+    },
+    "move": {
+      "Old": null,
+      "New": null
+    }
+  }
+}

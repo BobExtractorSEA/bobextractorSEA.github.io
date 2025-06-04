@@ -1,0 +1,69 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.088206-03:00",
+  "ChangeType": "Added",
+  "Id": "9420645",
+  "Name": "Epsilon",
+  "Level": 101,
+  "Hp": 6000000000,
+  "Mp": 100000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "101",
+    "info/maxHP": "6000000000",
+    "info/bodyAttack": "1",
+    "info/PDRate": "50",
+    "info/MDRate": "50",
+    "info/maxMP": "100000",
+    "info/PADamage": "10",
+    "info/PDDamage": "0",
+    "info/MADamage": "10",
+    "info/MDDamage": "10",
+    "info/acc": "10",
+    "info/eva": "10",
+    "info/exp": "0",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/summonEffect": "-2",
+    "info/ignoreFieldOut": "1",
+    "info/mobType": "1N",
+    "info/firstAttack": "1",
+    "info/hpTagColor": "21",
+    "info/hpTagBgcolor": "18",
+    "info/miniGameMobPointOffsetX": "0",
+    "info/miniGameMobPointOffsetY": "0",
+    "info/miniGameMobPointMoveTime": "3500",
+    "info/miniGameMobPointMoveY": "-150",
+    "info/speed": "-40",
+    "info/ignoreMoveImpact": "1",
+    "info/hideHP": "1",
+    "info/showNotRemoteDam": "1",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/notSeperateSoul": "1",
+    "info/firstAttackRange/lt/x": -3500,
+    "info/firstAttackRange/lt/y": -2500,
+    "info/firstAttackRange/rb/x": 3500,
+    "info/firstAttackRange/rb/y": 2500,
+    "info/noFlip": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_9420645_stand.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_9420645_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_9420645_die1.webp"
+    }
+  }
+}

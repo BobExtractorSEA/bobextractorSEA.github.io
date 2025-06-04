@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.4287908-03:00",
+  "ChangeType": "Changed",
+  "Id": "4230122",
+  "Name": "Nependeath",
+  "Level": 75,
+  "Hp": 30000,
+  "Mp": 1800,
+  "Exp": 484,
+  "Fields": {
+    "info/link": {
+      "Old": "4230105",
+      "New": null
+    },
+    "attack1/info/range/sp/x": {
+      "Old": null,
+      "New": "-40"
+    },
+    "attack1/info/range/sp/y": {
+      "Old": null,
+      "New": "-54"
+    },
+    "attack1/info/range/r": {
+      "Old": null,
+      "New": "200"
+    },
+    "attack1/info/hit/attach": {
+      "Old": null,
+      "New": "1"
+    },
+    "attack1/info/attackAfter": {
+      "Old": null,
+      "New": "850"
+    },
+    "attack1/info/effectAfter": {
+      "Old": null,
+      "New": "850"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_4230122_stand.webp"
+    },
+    "regen": {
+      "Old": null,
+      "New": "Animations/New/v241_4230122_regen.webp"
+    },
+    "attack1": {
+      "Old": null,
+      "New": "Animations/New/v241_4230122_attack1.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_4230122_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_4230122_die1.webp"
+    }
+  }
+}

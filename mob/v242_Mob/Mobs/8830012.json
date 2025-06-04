@@ -1,0 +1,35 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.5361582-03:00",
+  "ChangeType": "Changed",
+  "Id": "8830012",
+  "Name": "Balrog",
+  "Level": 1,
+  "Hp": 600000000,
+  "Mp": 0,
+  "Exp": 0,
+  "Fields": {
+    "info/ignoreDamage": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": "Animations/Old/v241_8830012_old_stand.webp",
+      "New": "Animations/New/v241_8830012_stand.webp"
+    },
+    "hit1": {
+      "Old": "Animations/Old/v241_8830012_old_hit1.webp",
+      "New": "Animations/New/v241_8830012_hit1.webp"
+    },
+    "die1": {
+      "Old": "Animations/Old/v241_8830012_old_die1.webp",
+      "New": "Animations/New/v241_8830012_die1.webp"
+    }
+  }
+}

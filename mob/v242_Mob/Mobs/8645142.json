@@ -1,0 +1,22 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.4886847-03:00",
+  "ChangeType": "Changed",
+  "Id": "8645142",
+  "Name": "Floras Monk",
+  "Level": 260,
+  "Hp": 3743688000,
+  "Mp": 60000,
+  "Exp": 0,
+  "Fields": {
+    "Name": {
+      "Old": "Floras Mage",
+      "New": "Floras Monk"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {}
+}

@@ -1,0 +1,63 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.759775-03:00",
+  "ChangeType": "Added",
+  "Id": "8881624",
+  "Name": "Pure Mana Cluster",
+  "Level": 290,
+  "Hp": 100000,
+  "Mp": 10000000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "290",
+    "info/maxHP": "100000",
+    "info/maxMP": "10000000",
+    "info/PDRate": "380",
+    "info/MDRate": "380",
+    "info/PADamage": "22000",
+    "info/MADamage": "24000",
+    "info/speed": "0",
+    "info/acc": "0",
+    "info/eva": "750",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/mobType": "1N",
+    "info/isRemoteRange": "1",
+    "info/ignoreFieldOut": "1",
+    "info/ignoreMoveImpact": "1",
+    "info/ignoreMovable": "1",
+    "info/explosiveReward": "1",
+    "info/fixedDamage": "1000",
+    "info/hideHP": "1",
+    "info/notLevelPenalty": "1",
+    "info/charismaEXP": "388",
+    "info/wp": "300",
+    "info/hideName": "1",
+    "info/noFlip": "1",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/exp": "0",
+    "info/onDieScreenVideo/path": "Mob/BossPattern/BossBaldrix.img/common/rewardEffect/0",
+    "info/onDieScreenVideo/startDelay": "780"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_8881624_stand.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881624_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8881624_die1.webp"
+    }
+  }
+}

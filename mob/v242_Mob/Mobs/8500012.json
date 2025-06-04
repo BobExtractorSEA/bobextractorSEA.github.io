@@ -1,0 +1,67 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.4536055-03:00",
+  "ChangeType": "Changed",
+  "Id": "8500012",
+  "Name": "Papulatus",
+  "Level": 155,
+  "Hp": 2100000000,
+  "Mp": 2000000,
+  "Exp": 1234200,
+  "Fields": {
+    "info/skill/0/level": {
+      "Old": "233",
+      "New": "330"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "fly": {
+      "Old": "Animations/Old/v241_8500012_old_fly.webp",
+      "New": "Animations/New/v241_8500012_fly.webp"
+    },
+    "stand": {
+      "Old": "Animations/Old/v241_8500012_old_stand.webp",
+      "New": "Animations/New/v241_8500012_stand.webp"
+    },
+    "hit1": {
+      "Old": "Animations/Old/v241_8500012_old_hit1.webp",
+      "New": "Animations/New/v241_8500012_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_die1.webp"
+    },
+    "attack1": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_attack1.webp"
+    },
+    "skill1": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill1.webp"
+    },
+    "skill2": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill2.webp"
+    },
+    "skill3": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill3.webp"
+    },
+    "skill4": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill4.webp"
+    },
+    "skill5": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill5.webp"
+    },
+    "skill6": {
+      "Old": null,
+      "New": "Animations/New/v241_8500012_skill6.webp"
+    }
+  }
+}

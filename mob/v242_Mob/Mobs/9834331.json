@@ -1,0 +1,22 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.559188-03:00",
+  "ChangeType": "Changed",
+  "Id": "9834331",
+  "Name": "Booster Flame",
+  "Level": 200,
+  "Hp": 51973800,
+  "Mp": 35000,
+  "Exp": 112662,
+  "Fields": {
+    "info/changeableMob_Type": {
+      "Old": "hasteBooster3",
+      "New": "hasteBooster"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {}
+}

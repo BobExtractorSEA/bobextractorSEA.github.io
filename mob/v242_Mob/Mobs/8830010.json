@@ -1,0 +1,22 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.5216069-03:00",
+  "ChangeType": "Changed",
+  "Id": "8830010",
+  "Name": "Balrog",
+  "Level": 50,
+  "Hp": 4787520,
+  "Mp": 0,
+  "Exp": 0,
+  "Fields": {
+    "info/ignoreDamage": {
+      "Old": null,
+      "New": "1"
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {}
+}

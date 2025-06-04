@@ -1,0 +1,63 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.1639658-03:00",
+  "ChangeType": "Added",
+  "Id": "9834541",
+  "Name": "Azure Warrior",
+  "Level": 265,
+  "Hp": 9000000000,
+  "Mp": 65000,
+  "Exp": 0,
+  "Fields": {
+    "info/level": "265",
+    "info/firstAttack": "1",
+    "info/bodyAttack": "1",
+    "info/maxHP": "9000000000",
+    "info/maxMP": "65000",
+    "info/speed": "-30",
+    "info/PADamage": "16470",
+    "info/PDDamage": "170",
+    "info/PDRate": "10",
+    "info/MADamage": "16380",
+    "info/MDDamage": "210",
+    "info/MDRate": "10",
+    "info/acc": "1124",
+    "info/eva": "360",
+    "info/pushed": "40000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/mobType": "1N",
+    "info/ignoreLevelOptimum": "1",
+    "info/ignoreMoveableMsg": "He is too engulfed in malice to be affected by bind effects.",
+    "info/liteMob": "1",
+    "info/minimap": "1",
+    "info/hideName": "1",
+    "info/noChase": "1",
+    "info/ignoreMovable": "1",
+    "info/ignoreMoveImpact": "1",
+    "info/ignoreSlow": "1",
+    "info/ex": "1",
+    "attack1/info/range/lt/x": -290,
+    "attack1/info/range/lt/y": -144,
+    "attack1/info/range/rb/x": 57,
+    "attack1/info/range/rb/y": 0,
+    "attack1/info/hit/pos": "2",
+    "attack1/info/hit/attach": "1",
+    "attack1/info/attackAfter": "640"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": null
+    },
+    "move": {
+      "Old": null,
+      "New": null
+    }
+  }
+}

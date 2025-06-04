@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.2552613-03:00",
+  "ChangeType": "Added",
+  "Id": "9834554",
+  "Name": "Scarlet Bulwark",
+  "Level": 285,
+  "Hp": 1481760000000,
+  "Mp": 60000,
+  "Exp": 0,
+  "Fields": {
+    "info/level": "285",
+    "info/maxHP": "1481760000000",
+    "info/maxMP": "60000",
+    "info/speed": "-15",
+    "info/PADamage": "15660",
+    "info/PDDamage": "170",
+    "info/PDRate": "300",
+    "info/MADamage": "15570",
+    "info/MDDamage": "210",
+    "info/MDRate": "300",
+    "info/acc": "1027",
+    "info/eva": "330",
+    "info/noDebuff": "2",
+    "info/ignoreMoveImpact": "1",
+    "info/ignoreSlow": "1",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/mobType": "1N",
+    "info/hideName": "1",
+    "info/exp": "0",
+    "info/minimap": "4",
+    "info/bodyAttack": "1",
+    "info/ignoreLevelOptimum": "1",
+    "info/ignoreMoveableMsg": "He is too engulfed in malice to be affected by bind effects.",
+    "info/ignoreMovable": "1",
+    "info/liteMob": "1",
+    "info/noChase": "1",
+    "info/ex": "1",
+    "attack1/info/attackAfter": "540",
+    "attack1/info/range/sp/x": -55,
+    "attack1/info/range/sp/y": -84,
+    "attack1/info/range/r": "400",
+    "attack1/info/hit/pos": "2",
+    "attack1/info/hit/attach": "1",
+    "attack1/info/bulletCount": "1",
+    "attack2/info/attackAfter": "540",
+    "attack2/info/range/sp/x": -55,
+    "attack2/info/range/sp/y": -84,
+    "attack2/info/range/r": "400",
+    "attack2/info/hit/pos": "2",
+    "attack2/info/hit/attach": "1",
+    "attack2/info/bulletCount": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": null
+    },
+    "move": {
+      "Old": null,
+      "New": null
+    }
+  }
+}

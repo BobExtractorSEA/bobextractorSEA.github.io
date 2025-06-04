@@ -1,0 +1,49 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.5828235-03:00",
+  "ChangeType": "Added",
+  "Id": "8645399",
+  "Name": "Scattered Sol Erda",
+  "Level": 200,
+  "Hp": 51973800,
+  "Mp": 35000,
+  "Exp": 112662,
+  "Fields": {
+    "info/level": "200",
+    "info/bodyAttack": "1",
+    "info/firstAttack": "1",
+    "info/maxHP": "51973800",
+    "info/maxMP": "35000",
+    "info/PADamage": "13388",
+    "info/PDDamage": "170",
+    "info/PDRate": "10",
+    "info/MADamage": "13275",
+    "info/MDDamage": "210",
+    "info/MDRate": "10",
+    "info/acc": "832",
+    "info/eva": "240",
+    "info/speed": "-20",
+    "info/pushed": "12000",
+    "info/fs": "10",
+    "info/exp": "112662",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/changeableMob": "1",
+    "info/changeableMob_Type": "hexaBooster",
+    "info/exceptCapacityMob": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": null
+    },
+    "move": {
+      "Old": null,
+      "New": null
+    }
+  }
+}

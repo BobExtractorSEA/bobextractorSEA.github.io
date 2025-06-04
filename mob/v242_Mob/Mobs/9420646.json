@@ -1,0 +1,73 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.0962158-03:00",
+  "ChangeType": "Added",
+  "Id": "9420646",
+  "Name": "Reina",
+  "Level": 101,
+  "Hp": 15000000000,
+  "Mp": 100000,
+  "Exp": 0,
+  "Fields": {
+    "info/boss": "1",
+    "info/level": "101",
+    "info/maxHP": "15000000000",
+    "info/PDRate": "100",
+    "info/MDRate": "100",
+    "info/maxMP": "100000",
+    "info/PADamage": "10",
+    "info/PDDamage": "0",
+    "info/MADamage": "10",
+    "info/MDDamage": "10",
+    "info/acc": "10",
+    "info/eva": "10",
+    "info/exp": "0",
+    "info/pushed": "1000000000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/summonEffect": "-2",
+    "info/ignoreFieldOut": "1",
+    "info/mobType": "1N",
+    "info/firstAttack": "1",
+    "info/hpTagColor": "21",
+    "info/hpTagBgcolor": "18",
+    "info/miniGameMobPointOffsetX": "0",
+    "info/miniGameMobPointOffsetY": "0",
+    "info/miniGameMobPointMoveTime": "3500",
+    "info/miniGameMobPointMoveY": "-150",
+    "info/speed": "-40",
+    "info/ignoreMoveImpact": "1",
+    "info/hideHP": "1",
+    "info/showNotRemoteDam": "1",
+    "info/elemAttr": "P2H2F2I2S2L2D2",
+    "info/notSeperateSoul": "1",
+    "info/bodyAttack": "1",
+    "info/firstAttackRange/lt/x": -3500,
+    "info/firstAttackRange/lt/y": -2500,
+    "info/firstAttackRange/rb/x": 3500,
+    "info/firstAttackRange/rb/y": 2500,
+    "info/noFlip": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": null,
+      "New": "Animations/New/v241_9420646_stand.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_9420646_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_9420646_die1.webp"
+    },
+    "regen": {
+      "Old": null,
+      "New": "Animations/New/v241_9420646_regen.webp"
+    }
+  }
+}

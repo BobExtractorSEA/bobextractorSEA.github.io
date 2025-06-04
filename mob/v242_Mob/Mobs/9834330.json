@@ -1,0 +1,71 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:15.5516496-03:00",
+  "ChangeType": "Changed",
+  "Id": "9834330",
+  "Name": "Spiegelmann's Black Knight Mokadin",
+  "Level": 100,
+  "Hp": 1000000,
+  "Mp": 100000,
+  "Exp": 10,
+  "Fields": {
+    "skill1/speak/0": {
+      "Old": "I can't believe I had to use this kind of trick…",
+      "New": "I can't believe I had to use this kind of trick..."
+    },
+    "die1/speak/0": {
+      "Old": "Impressive….",
+      "New": "Impressive...."
+    }
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {
+    "stand": {
+      "Old": "Animations/Old/v241_9834330_old_stand.webp",
+      "New": "Animations/New/v241_9834330_stand.webp"
+    },
+    "move": {
+      "Old": "Animations/Old/v241_9834330_old_move.webp",
+      "New": "Animations/New/v241_9834330_move.webp"
+    },
+    "attack1": {
+      "Old": "Animations/Old/v241_9834330_old_attack1.webp",
+      "New": "Animations/New/v241_9834330_attack1.webp"
+    },
+    "skill1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_skill1.webp"
+    },
+    "hit1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_hit1.webp"
+    },
+    "die1": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_die1.webp"
+    },
+    "regen": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_regen.webp"
+    },
+    "skillAfter2": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_skillAfter2.webp"
+    },
+    "skill2": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_skill2.webp"
+    },
+    "skill3": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_skill3.webp"
+    },
+    "remove": {
+      "Old": null,
+      "New": "Animations/New/v241_9834330_remove.webp"
+    }
+  }
+}

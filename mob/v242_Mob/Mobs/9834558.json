@@ -1,0 +1,41 @@
+{
+  "Version": 241,
+  "ExportDate": "2025-06-04T18:47:16.2818434-03:00",
+  "ChangeType": "Added",
+  "Id": "9834558",
+  "Name": "Dragon Breath",
+  "Level": 260,
+  "Hp": 5710185000,
+  "Mp": 65000,
+  "Exp": 0,
+  "Fields": {
+    "info/level": "260",
+    "info/firstAttack": "1",
+    "info/bodyAttack": "1",
+    "info/maxHP": "5710185000",
+    "info/maxMP": "65000",
+    "info/speed": "-30",
+    "info/PADamage": "16470",
+    "info/PDDamage": "170",
+    "info/PDRate": "10",
+    "info/MADamage": "16380",
+    "info/MDDamage": "210",
+    "info/MDRate": "10",
+    "info/acc": "1124",
+    "info/eva": "360",
+    "info/pushed": "40000",
+    "info/fs": "10",
+    "info/summonType": "1",
+    "info/category": "Enchanted",
+    "info/mobType": "1N",
+    "info/skill/0/skill": "292",
+    "info/skill/0/level": "3",
+    "info/skill/0/action": "1",
+    "info/skill/0/onlyFsm": "1"
+  },
+  "Icons": {
+    "IconPath": null,
+    "IconPathOld": null
+  },
+  "Animations": {}
+}
